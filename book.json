@@ -12,14 +12,14 @@
       "han": "一",
       "source": "bab-01.md",
       "cover": {
-        "file": "assets/images/bab-01-pembuka.webp",
+        "file": "bab-01-pembuka.webp",
         "width": 1024,
         "height": 1536
       },
       "plates": [
         {
           "image": {
-            "file": "assets/images/bab-01-ilustrasi-01.webp",
+            "file": "bab-01-ilustrasi-01.webp",
             "width": 1536,
             "height": 1024
           },
@@ -29,7 +29,7 @@
         },
         {
           "image": {
-            "file": "assets/images/bab-01-ilustrasi-02.webp",
+            "file": "bab-01-ilustrasi-02.webp",
             "width": 1536,
             "height": 1024
           },
@@ -39,7 +39,7 @@
         },
         {
           "image": {
-            "file": "assets/images/bab-01-ilustrasi-03.webp",
+            "file": "bab-01-ilustrasi-03.webp",
             "width": 1122,
             "height": 1402
           },
@@ -49,7 +49,7 @@
         },
         {
           "image": {
-            "file": "assets/images/bab-01-ilustrasi-04.webp",
+            "file": "bab-01-ilustrasi-04.webp",
             "width": 1536,
             "height": 1024
           },
@@ -64,7 +64,7 @@
           "age": "14 tahun; 5 tahun dalam kenangan.",
           "description": "Cerdik dan cepat membela diri; menyembunyikan luka lewat gurauan.",
           "image": {
-            "file": "assets/images/bab-01-pembuka.webp",
+            "file": "bab-01-pembuka.webp",
             "width": 1024,
             "height": 1536
           },
@@ -80,7 +80,7 @@
           "age": "Dewasa dalam kenangan.",
           "description": "Ibu Dani; tegas dan singkat, menyayangi melalui tindakan kecil.",
           "image": {
-            "file": "assets/images/bab-01-ilustrasi-01.webp",
+            "file": "bab-01-ilustrasi-01.webp",
             "width": 1536,
             "height": 1024
           },
@@ -96,7 +96,7 @@
           "age": "Dewasa dalam kenangan.",
           "description": "Ayah Dani; hangat dan mudah tertawa bersama keluarganya.",
           "image": {
-            "file": "assets/images/bab-01-ilustrasi-01.webp",
+            "file": "bab-01-ilustrasi-01.webp",
             "width": 1536,
             "height": 1024
           },
@@ -119,14 +119,14 @@
       "han": "二",
       "source": "bab-02.md",
       "cover": {
-        "file": "assets/images/bab-02-pembuka.webp",
+        "file": "bab-02-pembuka.webp",
         "width": 1024,
         "height": 1536
       },
       "plates": [
         {
           "image": {
-            "file": "assets/images/bab-02-ilustrasi-01.webp",
+            "file": "bab-02-ilustrasi-01.webp",
             "width": 1536,
             "height": 1024
           },
@@ -136,7 +136,7 @@
         },
         {
           "image": {
-            "file": "assets/images/bab-02-ilustrasi-02.webp",
+            "file": "bab-02-ilustrasi-02.webp",
             "width": 1024,
             "height": 1536
           },
@@ -146,7 +146,7 @@
         },
         {
           "image": {
-            "file": "assets/images/bab-02-ilustrasi-03.webp",
+            "file": "bab-02-ilustrasi-03.webp",
             "width": 1536,
             "height": 1024
           },
@@ -161,7 +161,7 @@
           "age": "13 tahun.",
           "description": "Galak dan keras kepala; ketakutan membuat ucapannya semakin tajam.",
           "image": {
-            "file": "assets/images/bab-02-ilustrasi-01.webp",
+            "file": "bab-02-ilustrasi-01.webp",
             "width": 1536,
             "height": 1024
           },
@@ -177,7 +177,7 @@
           "age": "13–14 tahun.",
           "description": "Halus, tenang, dan jeli terhadap hal yang tidak diucapkan.",
           "image": {
-            "file": "assets/images/bab-02-ilustrasi-01.webp",
+            "file": "bab-02-ilustrasi-01.webp",
             "width": 1536,
             "height": 1024
           },
@@ -193,7 +193,7 @@
           "age": "Sekitar 30 tahun.",
           "description": "Ancaman diucapkan selembut nasihat.",
           "image": {
-            "file": "assets/images/bab-02-ilustrasi-03.webp",
+            "file": "bab-02-ilustrasi-03.webp",
             "width": 1536,
             "height": 1024
           },
@@ -216,14 +216,14 @@
       "han": "三",
       "source": "bab-03.md",
       "cover": {
-        "file": "assets/images/bab-03-pembuka.webp",
+        "file": "bab-03-pembuka.webp",
         "width": 1024,
         "height": 1536
       },
       "plates": [
         {
           "image": {
-            "file": "assets/images/bab-03-ilustrasi-01.webp",
+            "file": "bab-03-ilustrasi-01.webp",
             "width": 1536,
             "height": 1024
           },
@@ -233,7 +233,7 @@
         },
         {
           "image": {
-            "file": "assets/images/bab-03-ilustrasi-02.webp",
+            "file": "bab-03-ilustrasi-02.webp",
             "width": 1536,
             "height": 1024
           },
@@ -243,7 +243,7 @@
         },
         {
           "image": {
-            "file": "assets/images/bab-03-ilustrasi-03.webp",
+            "file": "bab-03-ilustrasi-03.webp",
             "width": 1536,
             "height": 1024
           },
@@ -253,7 +253,7 @@
         },
         {
           "image": {
-            "file": "assets/images/bab-03-ilustrasi-04.webp",
+            "file": "bab-03-ilustrasi-04.webp",
             "width": 1024,
             "height": 1536
           },
@@ -268,7 +268,7 @@
           "age": "Usia lanjut.",
           "description": "Eksentrik dan tajam; menolak basa-basi. Guru baru Cheng Ying.",
           "image": {
-            "file": "assets/images/bab-03-ilustrasi-03.webp",
+            "file": "bab-03-ilustrasi-03.webp",
             "width": 1536,
             "height": 1024
           },
@@ -291,14 +291,14 @@
       "han": "四",
       "source": "bab-04.md",
       "cover": {
-        "file": "assets/images/bab-04-pembuka.webp",
+        "file": "bab-04-pembuka.webp",
         "width": 1024,
         "height": 1536
       },
       "plates": [
         {
           "image": {
-            "file": "assets/images/bab-04-ilustrasi-01.webp",
+            "file": "bab-04-ilustrasi-01.webp",
             "width": 1536,
             "height": 1024
           },
@@ -308,7 +308,7 @@
         },
         {
           "image": {
-            "file": "assets/images/bab-04-ilustrasi-02.webp",
+            "file": "bab-04-ilustrasi-02.webp",
             "width": 1254,
             "height": 1254
           },
@@ -318,7 +318,7 @@
         },
         {
           "image": {
-            "file": "assets/images/bab-04-ilustrasi-03.webp",
+            "file": "bab-04-ilustrasi-03.webp",
             "width": 1536,
             "height": 1024
           },
@@ -333,7 +333,7 @@
           "age": "Usia lanjut.",
           "description": "Pikirannya patah dan berbahaya; kasih ayahnya sungguh-sungguh.",
           "image": {
-            "file": "assets/images/bab-04-ilustrasi-01.webp",
+            "file": "bab-04-ilustrasi-01.webp",
             "width": 1536,
             "height": 1024
           },
@@ -349,7 +349,7 @@
           "age": "Sekitar 33–35 tahun.",
           "description": "Sederhana dan teguh dalam memikul tanggung jawab.",
           "image": {
-            "file": "assets/images/bab-04-ilustrasi-03.webp",
+            "file": "bab-04-ilustrasi-03.webp",
             "width": 1536,
             "height": 1024
           },
@@ -365,7 +365,7 @@
           "age": "Usia lanjut.",
           "description": "Keras kepala, lekas curiga, dan bicara tanpa berputar.",
           "image": {
-            "file": "assets/images/bab-04-ilustrasi-03.webp",
+            "file": "bab-04-ilustrasi-03.webp",
             "width": 1536,
             "height": 1024
           },
@@ -388,14 +388,14 @@
       "han": "五",
       "source": "bab-05.md",
       "cover": {
-        "file": "assets/images/bab-05-pembuka.webp",
+        "file": "bab-05-pembuka.webp",
         "width": 1024,
         "height": 1536
       },
       "plates": [
         {
           "image": {
-            "file": "assets/images/bab-05-ilustrasi-01.webp",
+            "file": "bab-05-ilustrasi-01.webp",
             "width": 1536,
             "height": 1024
           },
@@ -405,7 +405,7 @@
         },
         {
           "image": {
-            "file": "assets/images/bab-05-ilustrasi-02.webp",
+            "file": "bab-05-ilustrasi-02.webp",
             "width": 1536,
             "height": 1024
           },
@@ -420,7 +420,7 @@
           "age": "Sekitar 30–32 tahun.",
           "description": "Cerdas dan waspada; menguji orang lewat pertanyaan tajam.",
           "image": {
-            "file": "assets/images/bab-05-pembuka.webp",
+            "file": "bab-05-pembuka.webp",
             "width": 1024,
             "height": 1536
           },
@@ -436,7 +436,7 @@
           "age": "12 tahun.",
           "description": "Manja dan angkuh; gengsi mengakui kesalahan.",
           "image": {
-            "file": "assets/images/bab-05-pembuka.webp",
+            "file": "bab-05-pembuka.webp",
             "width": 1024,
             "height": 1536
           },
@@ -452,7 +452,7 @@
           "age": "5 tahun.",
           "description": "Periang dan ingin tahu; kedekatannya masih polos seperti anak kecil.",
           "image": {
-            "file": "assets/images/bab-05-pembuka.webp",
+            "file": "bab-05-pembuka.webp",
             "width": 1024,
             "height": 1536
           },
@@ -468,7 +468,7 @@
           "age": "12 tahun.",
           "description": "Mencari perhatian Guo Fu dan sigap membela adiknya.",
           "image": {
-            "file": "assets/images/bab-05-ilustrasi-01.webp",
+            "file": "bab-05-ilustrasi-01.webp",
             "width": 1536,
             "height": 1024
           },
@@ -484,7 +484,7 @@
           "age": "11 tahun.",
           "description": "Mudah terpancing; mencari keberanian di dekat kakaknya.",
           "image": {
-            "file": "assets/images/bab-05-ilustrasi-01.webp",
+            "file": "bab-05-ilustrasi-01.webp",
             "width": 1536,
             "height": 1024
           },
@@ -507,14 +507,14 @@
       "han": "六",
       "source": "bab-06.md",
       "cover": {
-        "file": "assets/images/bab-06-pembuka.webp",
+        "file": "bab-06-pembuka.webp",
         "width": 1024,
         "height": 1536
       },
       "plates": [
         {
           "image": {
-            "file": "assets/images/bab-06-ilustrasi-01.webp",
+            "file": "bab-06-ilustrasi-01.webp",
             "width": 1536,
             "height": 1024
           },
@@ -524,7 +524,7 @@
         },
         {
           "image": {
-            "file": "assets/images/bab-06-ilustrasi-02.webp",
+            "file": "bab-06-ilustrasi-02.webp",
             "width": 1536,
             "height": 1024
           },
@@ -539,7 +539,7 @@
           "age": "Dewasa; usia tepat belum ditetapkan.",
           "description": "Guru Dani di Quanzhen; menuntut kepatuhan sambil menahan pengajaran.",
           "image": {
-            "file": "assets/images/bab-06-pembuka.webp",
+            "file": "bab-06-pembuka.webp",
             "width": 1024,
             "height": 1536
           },
@@ -562,7 +562,7 @@
           "age": "Lanjut usia.",
           "description": "Pengasuh Xiaolongnü; tegas dan penyayang, melindungi Dani.",
           "image": {
-            "file": "assets/images/bab-06-ilustrasi-01.webp",
+            "file": "bab-06-ilustrasi-01.webp",
             "width": 1536,
             "height": 1024
           },
@@ -578,7 +578,7 @@
           "age": "Tetua Quanzhen.",
           "description": "Keras menjaga nama perguruan; tangkisan yang keliru menimbulkan penyesalan.",
           "image": {
-            "file": "assets/images/bab-06-ilustrasi-01.webp",
+            "file": "bab-06-ilustrasi-01.webp",
             "width": 1536,
             "height": 1024
           },
@@ -594,7 +594,7 @@
           "age": "16 tahun.",
           "description": "Pewaris Makam Kuno; bicara singkat dan harfiah.",
           "image": {
-            "file": "assets/images/bab-06-ilustrasi-02.webp",
+            "file": "bab-06-ilustrasi-02.webp",
             "width": 1536,
             "height": 1024
           },

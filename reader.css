@@ -1,8 +1,8 @@
 /* Tipografi lokal, tanpa CDN. Tema dan ukuran huruf berlaku untuk semua bab. */
-@font-face{font-family:Novel;src:url('fonts/serif-regular.woff') format('woff');font-display:swap}
-@font-face{font-family:Novel;src:url('fonts/serif-bold.woff') format('woff');font-weight:700;font-display:swap}
-@font-face{font-family:Novel;src:url('fonts/serif-italic.woff') format('woff');font-style:italic;font-display:swap}
-@font-face{font-family:Brush;src:url('fonts/brush.woff') format('woff');font-display:swap}
+@font-face{font-family:Novel;src:url('serif-regular.woff') format('woff');font-display:swap}
+@font-face{font-family:Novel;src:url('serif-bold.woff') format('woff');font-weight:700;font-display:swap}
+@font-face{font-family:Novel;src:url('serif-italic.woff') format('woff');font-style:italic;font-display:swap}
+@font-face{font-family:Brush;src:url('brush.woff') format('woff');font-display:swap}
 :root{color-scheme:light;--bg:#f7f3eb;--panel:#eee8dc;--ink:#292b26;--muted:#6b6b60;--accent:#425b50;--copper:#8a5d3d;--line:#d9d1c1;--size:20px;--leading:1.8;--header:72px;--chapter:#536c76}
 :root[data-theme=dark]{color-scheme:dark;--bg:#191f1d;--panel:#242d28;--ink:#e9e5da;--muted:#b8bcb1;--accent:#b1c8b9;--copper:#dcb18d;--line:#404c43;--chapter:#b1c8b9}
 *{box-sizing:border-box}html{scroll-padding-top:calc(var(--header) + 22px)}body{margin:0;background:var(--bg);color:var(--ink);font-family:Novel,Georgia,serif;-webkit-font-smoothing:antialiased}button,input,select{font:inherit}button,a,summary{-webkit-tap-highlight-color:transparent;touch-action:manipulation}button{cursor:pointer}button:disabled{cursor:default;opacity:.35}a{color:var(--accent);text-underline-offset:4px}a,button,summary{outline-offset:5px}a:focus-visible,button:focus-visible,summary:focus-visible{outline:3px solid var(--accent)}img{display:block;max-width:100%;height:auto}h1,h2,h3,p,figure{margin:0}button{color:inherit}svg{width:20px;height:20px;flex:none}button svg{vertical-align:middle}.skip{position:fixed;top:-100px;left:18px;z-index:30;padding:14px;background:var(--bg)}.skip:focus{top:8px}.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}[hidden]{display:none!important}.js [data-view]{display:none}.js [data-view].is-active{display:block}

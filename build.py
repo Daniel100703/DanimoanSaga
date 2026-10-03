@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Bangun webnovel statis dari content/book.json dan naskah Markdown.
+"""Bangun webnovel statis dari book.json dan naskah Markdown.
 
 Jalankan: python build.py
 Edisi satu file: python build.py --standalone Nama_File.html
@@ -9,7 +9,7 @@ from pathlib import Path
 import argparse, base64, html, json, math, re
 
 BASE=Path(__file__).resolve().parent
-BOOK=json.loads((BASE/'content/book.json').read_text(encoding='utf-8'))
+BOOK=json.loads((BASE/'book.json').read_text(encoding='utf-8'))
 CHAPTERS=BOOK['chapters']
 META=[{k:c[k] for k in ('id','slug','title')} for c in CHAPTERS]
 ICONS={
@@ -27,7 +27,7 @@ def link(slug,anchor='',single=False):
     if single:return '#'+slug+('/'+anchor if anchor else '')
     return ('index' if slug=='beranda' else slug)+'.html'+('#'+anchor if anchor else '')
 def load_chapter(c):
-    source=(BASE/'content/chapters'/c['source']).read_text(encoding='utf-8')
+    source=(BASE/c['source']).read_text(encoding='utf-8')
     body,tail=source.split('\n---\n',1)
     paragraphs=body.split('\n\n')[1:]
     notes=[line[2:] for line in tail.splitlines() if line.startswith('- ')][:6]
@@ -86,22 +86,22 @@ def document(current='beranda',single=False):
     title=f'Bab {c["id"]} · {c["title"]} — Saga Dani Moan' if c else 'Saga Dani Moan · Novel berilustrasi'
     content=(home(single)+''.join(chapter(c,single) for c in CHAPTERS)) if single else (chapter(c,False) if c else home(False))
     return f'''<!doctype html>
-<html lang="id"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="color-scheme" content="light dark"><meta name="description" content="{esc(c['description'] if c else BOOK['description'])}"><meta name="author" content="Daniel Halomoan Siregar"><title>{esc(title)}</title><link rel="icon" type="image/svg+xml" href="assets/favicon.svg"><link rel="stylesheet" href="assets/reader.css"></head><body data-mode="{'single' if single else 'pages'}" data-page="{current}" data-current="{current}">{header(current,single)}<main>{content}</main><footer class="footer"><p>SAGA DANI MOAN · NOVEL BERILUSTRASI</p><p>Daniel Halomoan Siregar</p><a href="{link('beranda',single=single)}">Kembali ke beranda</a></footer><script type="application/json" id="book-meta">{json.dumps(META,ensure_ascii=False).replace('<','&lt;')}</script><script src="assets/reader.js"></script></body></html>'''
+<html lang="id"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="color-scheme" content="light dark"><meta name="description" content="{esc(c['description'] if c else BOOK['description'])}"><meta name="author" content="Daniel Halomoan Siregar"><title>{esc(title)}</title><link rel="icon" type="image/svg+xml" href="favicon.svg"><link rel="stylesheet" href="reader.css"></head><body data-mode="{'single' if single else 'pages'}" data-page="{current}" data-current="{current}">{header(current,single)}<main>{content}</main><footer class="footer"><p>SAGA DANI MOAN · NOVEL BERILUSTRASI</p><p>Daniel Halomoan Siregar</p><a href="{link('beranda',single=single)}">Kembali ke beranda</a></footer><script type="application/json" id="book-meta">{json.dumps(META,ensure_ascii=False).replace('<','&lt;')}</script><script src="reader.js"></script></body></html>'''
 def uri(path):
     mime={'.woff':'font/woff','.webp':'image/webp','.svg':'image/svg+xml'}[path.suffix]
     return 'data:'+mime+';base64,'+base64.b64encode(path.read_bytes()).decode()
 def standalone(path):
     doc=document(single=True)
-    css=(BASE/'assets/reader.css').read_text(encoding='utf-8')
-    css=re.sub(r"url\('([^']+)'\)",lambda m:"url('"+uri(BASE/'assets'/m[1])+"')",css)
-    doc=doc.replace('<link rel="stylesheet" href="assets/reader.css">','<style>'+css+'</style>')
-    doc=doc.replace('<script src="assets/reader.js"></script>','<script>'+(BASE/'assets/reader.js').read_text(encoding='utf-8')+'</script>')
+    css=(BASE/'reader.css').read_text(encoding='utf-8')
+    css=re.sub(r"url\('([^']+)'\)",lambda m:"url('"+uri(BASE/m[1])+"')",css)
+    doc=doc.replace('<link rel="stylesheet" href="reader.css">','<style>'+css+'</style>')
+    doc=doc.replace('<script src="reader.js"></script>','<script>'+(BASE/'reader.js').read_text(encoding='utf-8')+'</script>')
     cache={}
     def embed(m):
         name=m[2]
         if name not in cache:cache[name]=uri(BASE/name)
         return m[1]+'="'+cache[name]+'"'
-    doc=re.sub(r'(src|href)="(assets/(?:images/[^" ]+\.webp|favicon\.svg))"',embed,doc)
+    doc=re.sub(r'(src|href)="((?:[^" /]+\.webp|favicon\.svg))"',embed,doc)
     path.write_text(doc,encoding='utf-8')
     print('Edisi satu file:',path.name)
 def main():
