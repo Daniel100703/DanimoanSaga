@@ -1,6 +1,6 @@
 {
   "title": "Saga Dani Moan",
-  "description": "Novel wuxia berilustrasi karya Daniel Halomoan Siregar. Baca Bab 1–6 dengan tampilan nyaman untuk HP dan desktop.",
+  "description": "Novel wuxia berilustrasi karya Daniel Halomoan Siregar. Baca Bab 1–7 dengan tampilan nyaman untuk HP dan desktop.",
   "chapters": [
     {
       "id": 1,
@@ -603,6 +603,61 @@
             0.072,
             0.563,
             0.264
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "slug": "bab-07",
+      "han": "七",
+      "source": "bab-07.md",
+      "title": "Janji di Bawah Tanah",
+      "accent": "#586F69",
+      "description": "Empat tahun latihan diuji oleh kedatangan Li Mochou. Di dalam makam yang tertutup, Dani dan Gugu harus memilih siapa yang akan mereka percayai.",
+      "quote": "Aku bisa marah sambil menjagamu.",
+      "cover": {
+        "file": "bab-07-pembuka.webp",
+        "width": 1024,
+        "height": 1536
+      },
+      "plates": [
+        {
+          "image": {
+            "file": "bab-07-ilustrasi-01.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "anchor": "Dani berdiri di depan Xiaolongnü dengan pedang gemetar di tangannya.",
+          "alt": "Dani melindungi Xiaolongnü yang terluka dari Li Mochou, sementara Hong Lingbo menunggu di belakang gurunya.",
+          "caption": "Empat tahun pelajaran berhadapan dengan lawan yang masih terlalu kuat."
+        },
+        {
+          "image": {
+            "file": "bab-07-ilustrasi-02.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "anchor": "Aku bisa marah sambil menjagamu.",
+          "alt": "Di balik batu penutup makam, Dani membawa lampu dan menopang Xiaolongnü setelah memilih tetap menjaganya.",
+          "caption": "Ia masih marah. Tangannya tetap terulur."
+        }
+      ],
+      "cast": [
+        {
+          "name": "Hong Lingbo",
+          "age": "Perempuan muda; usia tepat belum ditetapkan.",
+          "description": "Murid Li Mochou. Patuh dan takut kepada gurunya; keraguan tampak pada gerak dan ucapannya.",
+          "image": {
+            "file": "bab-07-ilustrasi-01.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "roi": [
+            0.243,
+            0.18,
+            0.322,
+            0.36
           ]
         }
       ]
