@@ -45,7 +45,7 @@
     const at=locationInStory();if(!at)return;
     const id=active.dataset.view;
     state.positions[id]={anchor:at.p.id,offset:Math.max(0,top()-at.p.getBoundingClientRect().top),percent:percentage()};
-    state.last=id;persist();
+    state.last=id;persist();document.dispatchEvent(new CustomEvent('novel:progress',{detail:{anchor:at.p.id}}));
   }
   function applySize(keepPosition=false){
     const at=keepPosition?locationInStory():null;
@@ -99,12 +99,12 @@
     active=document.querySelector('[data-view="'+CSS.escape(id)+'"]');
     body.dataset.current=id;
     const ch=book.find(c=>c.slug===id);
-    document.querySelector('.skip').href=href(id,ch?'cerita-'+id:'daftar-bab');
-    document.title=ch?'Bab '+ch.id+' · '+ch.title+' — Saga Dani Moan':'Saga Dani Moan · Novel berilustrasi';
-    document.querySelector('.bar-title').textContent=ch?'Bab '+ch.id+' · '+ch.title:'Novel berilustrasi';
+    document.querySelector('.skip').href=href(id,ch?'cerita-'+id:id==='wiki'?'wiki-list':'daftar-bab');
+    document.title=ch?'Bab '+ch.id+' · '+ch.title+' — Saga Dani Moan':id==='wiki'?'Wiki Persilatan — Saga Dani Moan':'Saga Dani Moan · Novel berilustrasi';
+    document.querySelector('.bar-title').textContent=ch?'Bab '+ch.id+' · '+ch.title:id==='wiki'?'Wiki Persilatan':'Novel berilustrasi';
     document.querySelectorAll('.toc a').forEach(a=>{if(a.dataset.chapter===id)a.setAttribute('aria-current','page');else a.removeAttribute('aria-current');});
     refreshLinks();updateHeader();
-    document.fonts.ready.then(()=>requestAnimationFrame(()=>{goToAnchor(anchor,true);ready=true;updateProgress();}));
+    document.fonts.ready.then(()=>requestAnimationFrame(()=>{goToAnchor(anchor,true);ready=true;updateProgress();document.dispatchEvent(new CustomEvent('novel:route'));}));
   }
   document.querySelector('#smaller').addEventListener('click',()=>{size=Math.max(16,size-2);applySize(true);});
   document.querySelector('#larger').addEventListener('click',()=>{size=Math.min(26,size+2);applySize(true);});
@@ -115,7 +115,7 @@
   document.addEventListener('click',e=>{
     const a=e.target.closest('a');if(!a||e.ctrlKey||e.metaKey||e.shiftKey||e.altKey)return;
     const destination=a.getAttribute('href');
-    if(!destination || !/^(#|bab-\d+\.html|index\.html)/.test(destination))return;
+    if(!destination || !/^(#|bab-\d+\.html|index\.html|wiki\.html)/.test(destination))return;
     // Simpan sebelum rute diganti; jangan tertimpa posisi awal bab berikutnya.
     savePosition();clearTimeout(timer);
     if(dialog.open)dialog.close();

@@ -1,6 +1,6 @@
 {
   "title": "Saga Dani Moan",
-  "description": "Novel wuxia berilustrasi karya Daniel Halomoan Siregar. Baca Bab 1–7 dengan tampilan nyaman untuk HP dan desktop.",
+  "description": "Novel wuxia berilustrasi karya Daniel Halomoan Siregar. Bab 1–8 dengan kartu lore dan Wiki Persilatan yang mengikuti cerita.",
   "chapters": [
     {
       "id": 1,
@@ -658,6 +658,61 @@
             0.18,
             0.322,
             0.36
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "slug": "bab-08",
+      "han": "八",
+      "source": "bab-08.md",
+      "title": "Yang Tak Sempat Dikatakan",
+      "accent": "#986263",
+      "description": "Di gubuk lereng gunung, sebuah jubah yang diperbaiki menjadi bagian dari kedekatan Dani dan Gugu. Kedatangan ayah angkatnya mengusik ketenteraman itu.",
+      "quote": "Kalau Gugu memerlukannya, ambil saja.",
+      "cover": {
+        "file": "bab-08-pembuka.webp",
+        "width": 1024,
+        "height": 1536
+      },
+      "plates": [
+        {
+          "image": {
+            "file": "bab-08-ilustrasi-01.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "anchor": "Zhen Zhibing mengalihkan mata.",
+          "alt": "Dani menahan Zhen Zhibing di depan gubuk; Xiaolongnü duduk di ambang dan pedang lawan terlepas di tanah.",
+          "caption": "Nama yang harus diingat, batas yang tidak boleh dilanggar."
+        },
+        {
+          "image": {
+            "file": "bab-08-ilustrasi-02.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "anchor": "Ia mencintai perempuan yang menjahitnya.",
+          "alt": "Dani berdiri di ambang gubuk yang kosong, menyentuh jubah yang diperbaiki Xiaolongnü sebelum berangkat mencarinya.",
+          "caption": "Sambungan kain itu masih ada. Orang yang menjahitnya telah pergi."
+        }
+      ],
+      "cast": [
+        {
+          "name": "Zhen Zhibing",
+          "age": "Dewasa; usia tepat belum ditetapkan.",
+          "description": "Pendeta Quanzhen yang dihadapi Dani di gubuk.",
+          "image": {
+            "file": "bab-08-ilustrasi-01.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "roi": [
+            0.714,
+            0.28,
+            0.824,
+            0.476
           ]
         }
       ]
