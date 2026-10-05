@@ -4,11 +4,11 @@ Jahitan di bawah lengan Dani putus ketika ia mengangkat kayu terakhir ke atap.
 
 Ia menahan kayu dengan bahu, mencoba menurunkan tangan tanpa memperlebar sobekan. Dari bawah terdengar suara Xiaolongnü.
 
-“Turun.”
+“Dani, turunlah dahulu. Aku melihat jahitan di bawah lenganmu sudah terlepas,” kata Xiaolongnü.
 
-“Sebentar. Tinggal yang ini.”
+“Izinkan aku memasang kayu terakhir ini, Gugu. Sesudah itu aku turun agar atapnya tidak kembali terbuka,” jawab Dani.
 
-“Bajumu yang tinggal sedikit.”
+“Kayunya dapat kautahan, tetapi bajumu akan semakin robek jika lenganmu terus diangkat begitu,” kata Xiaolongnü.
 
 Dani menoleh. Gadis itu berdiri di ambang gubuk dengan satu tangan menahan kusen. Wajahnya belum sepenuhnya pulih dari pucat yang dibawa keluar Makam Kuno. Ia hendak mendekat; Dani segera memasang kayu, lalu turun sebelum Xiaolongnü perlu mengangkat kedua lengannya.
 
@@ -20,101 +20,101 @@ Jubah biru pengganti yang dipakainya sejak tinggal di makam mempunyai potongan s
 
 Xiaolongnü memeriksa sobekan itu.
 
-“Kau menjahit ini sambil memakainya?”
+“Apakah jahitan di rusuk ini kaubuat ketika jubahnya masih melekat di tubuhmu?” tanya Xiaolongnü.
 
-“Aku ingin tahu apakah sudah cukup longgar.”
+“Aku hendak memastikan kelonggarannya, Gugu. Kupikir hasilnya akan lebih tepat kalau langsung kucoba,” jawab Dani.
 
 Ia menatap Dani sampai pemuda itu menghela napas.
 
-“Ya. Sebelah sini.”
+“Memang kujahit sambil kupakai, Gugu. Terutama bagian kiri yang sekarang berkerut itu,” aku Dani.
 
-“Lepaskan jubah luarnya.”
+“Lepaskan jubah luarnya, Dani. Aku perlu membentangkan kainnya agar dapat memperbaiki potongannya,” kata Xiaolongnü.
 
 ***
 
 Di meja, Xiaolongnü membuka lipatan kain kecil yang dikeluarkan Dani dari buntalannya. Gulungan benang sudah ditambah beberapa kali, tetapi jarum dan bidal di dalamnya masih benda yang sama.
 
-“Punya ibuku,” kata Dani.
+“Jarum dan bidal ini peninggalan ibuku, Gugu,” kata Dani.
 
 Tangannya tetap berada dekat meja. Xiaolongnü berhenti sebelum mengambil jarum.
 
-“Boleh kupakai?”
+“Bolehkah aku memakainya untuk menjahit jubahmu? Kalau engkau hendak menyimpannya saja, aku dapat menggunakan jarum lain,” tanya Xiaolongnü.
 
 Dani mengangguk. Ia mengenakan baju dalam berlengan panjang dan duduk di sebelahnya. Angin dari jendela menyentuh tengkuk yang biasanya tertutup jubah; ia menggeser bangku lebih dekat, lalu membantu membentangkan kain agar tidak jatuh ke lantai.
 
 Xiaolongnü membuka jahitan yang buruk itu. Ia menambahkan sepotong kain biru lebih tua pada sisi jubah, mengukur kelonggarannya sebelum menusukkan jarum. Dani memperhatikan bidal di jarinya.
 
-“Nenek Sun yang mengajarimu?”
+“Apakah Nenek Sun yang dahulu mengajari Gugu menjahit?” tanya Dani.
 
-“Ia tidak suka memperbaiki jahitan yang sama dua kali.”
+“Sun Popo mengajariku memperbaiki pakaian sendiri. Beliau tidak senang kalau jahitan yang sama harus dibongkar dua kali,” jawab Xiaolongnü.
 
-Sudut mulut Dani bergerak. “Ibu juga begitu.”
+Sudut mulut Dani bergerak. “Ibuku juga demikian, Gugu. Kalau jahitanku buruk, beliau tidak membiarkanku berpura-pura bahwa kainnya yang salah.”
 
 Jarum berhenti. Xiaolongnü tidak menyuruhnya meneruskan, tetapi ia tidak kembali menjahit sampai Dani berbicara lagi.
 
-“Dulu aku pernah menjahit bagian dalam sepatuku sampai tidak bisa dilepas. Kukira kalau semua ikut terjahit, tentu lebih kuat.”
+“Pernah kujahit lapisan dalam sepatuku sampai semuanya melekat menjadi satu. Kupikir, semakin banyak kain yang tertembus, semakin kuat pula sepatunya,” cerita Dani.
 
-“Lalu?”
+“Lalu apa yang dilakukan ibumu ketika melihat hasilnya?” tanya Xiaolongnü.
 
-“Dibongkar. Aku marah karena merasa sudah bekerja keras.”
+“Beliau membongkarnya. Waktu itu aku marah karena merasa sudah bekerja keras, padahal kakiku sendiri kesulitan masuk,” jawab Dani.
 
 Ia mengusap lipatan kain di lututnya. Kali ini ia bisa mengingat ibunya membungkuk di dekat tungku tanpa segera mencari sesuatu untuk mengalihkan perhatian.
 
-“Waktu pulang terakhir kali, aku bahkan tidak ingat untuk apa bidal itu. Baru ingat sesudah jariku tertusuk.”
+“Ketika terakhir kembali ke rumah, aku bahkan lupa kegunaan bidal itu, Gugu. Baru sesudah jariku tertusuk aku teringat cara Ibu mendorong jarum,” lanjut Dani.
 
 Xiaolongnü memandang ujung jarinya, lalu melanjutkan jahitan.
 
-“Sekarang kau ingat.”
+“Sekarang engkau sudah mengingatnya kembali. Benda-benda ini masih dapat menemanimu sebagaimana dahulu menemani ibumu,” kata Xiaolongnü.
 
-Dani menunduk. “Ya.”
+Dani menunduk. “Benar, Gugu. Setidaknya kali ini jarumnya tidak hanya kusimpan karena takut kehilangan.”
 
 Ia membantu menarik benang yang kusut. Gadis itu membiarkannya. Di makam, tangan mereka biasa bertemu untuk memperbaiki pegangan pedang atau memeriksa aliran tenaga. Di meja kecil itu tidak ada gerakan yang harus dibetulkan. Ketika punggung tangannya menyentuh tangan Xiaolongnü, Dani tidak segera menjauh.
 
-“Kalau aku merobeknya lagi?” tanyanya.
+“Kalau aku kembali merobeknya saat bekerja, apakah Gugu masih bersedia memperbaikinya?” tanya Dani.
 
-“Kuperbaiki.”
+“Selama kainnya masih dapat disambung, aku akan menjahitnya. Tetapi engkau harus memberitahu sebelum sobekannya terlalu lebar,” jawab Xiaolongnü.
 
-“Gugu belum melihat cara kerjaku di atap.”
+“Gugu belum melihat betapa buruk caraku bekerja di atas atap. Barangkali jarum itu akan lebih sibuk daripada pedangmu,” kata Dani.
 
-“Sudah.”
+“Aku tadi melihatnya sendiri, Dani. Karena itulah aku menyuruhmu turun,” jawab Xiaolongnü.
 
 Ia tertawa pelan. Xiaolongnü menahan kain agar jarumnya tidak bergeser, tetapi kali ini sudut bibirnya ikut terangkat.
 
 Sesudah jubah selesai, ia meminta Dani berdiri dan mengangkat tangan. Sambungan biru tua di kedua sisi memberi ruang bagi bahu dan rusuknya. Gadis itu merapikan kerah yang terlipat, lalu menarik ujung lengan sampai pergelangan Dani tidak lagi terbuka.
 
-Dani hendak mengucapkan terima kasih. Xiaolongnü lebih dahulu bertanya, “Masih sesak?”
+Dani hendak mengucapkan terima kasih. Xiaolongnü lebih dahulu bertanya, “Sekarang coba angkat kedua tanganmu. Apakah bahu dan rusukmu masih terasa sesak?”
 
-“Tidak.”
+“Sekarang aku dapat bergerak leluasa, Gugu. Sambungannya tidak menarik rusukku lagi,” jawab Dani.
 
 Tangannya menutup tangan gadis itu yang masih berada pada kerah. Xiaolongnü mengangkat wajah. Dani baru menyadari betapa dekat mereka berdiri; ucapan ringan yang biasa menyelamatkannya tidak datang.
 
-“Aku suka,” katanya akhirnya.
+“Aku menyukainya, Gugu. Terima kasih sudah memperbaikinya untukku,” kata Dani akhirnya.
 
-Xiaolongnü menatap jubah, kemudian matanya. “Bagus.”
+Xiaolongnü menatap jubah, kemudian matanya. “Aku senang engkau menyukainya. Sejak tadi aku ingin memastikan engkau nyaman memakainya.”
 
 Namun tangannya baru ditarik setelah Dani melepaskan pegangan.
 
 Xiaolongnü mengumpulkan potongan kain. Ketika ia hendak mengembalikan alat jahit, Dani menunjuk tempat kering di sisi meja.
 
-“Taruh di sana saja.”
+“Letakkan saja di sisi meja yang kering itu, Gugu. Tidak perlu dikembalikan ke buntalan,” kata Dani.
 
 Gadis itu memandang buntalan yang masih terbuka. Selama bertahun-tahun, Dani selalu menyimpan benda-benda tersebut sendiri setelah memakainya. Bahkan ketika mereka berpindah kamar di makam, ia akan memeriksa lipatannya sebelum tidur.
 
-“Tidak kausimpan?”
+“Biasanya alat jahit ini segera kausimpan sendiri. Apakah kali ini engkau ingin membiarkannya di sini?” tanya Xiaolongnü.
 
-“Besok barangkali diperlukan lagi.”
+“Barangkali besok kita memerlukannya lagi. Aku tidak keberatan kalau benda-benda itu berada di dekat Gugu,” jawab Dani.
 
-Xiaolongnü meletakkannya di tempat yang ditunjuk. Dani mengusap sisa benang pada lengan, lalu berkata lebih pelan, “Kalau Gugu memerlukannya, ambil saja.”
+Xiaolongnü meletakkannya di tempat yang ditunjuk. Dani mengusap sisa benang pada lengan, lalu berkata lebih pelan, “Kalau Gugu memerlukannya, ambil saja. Aku percaya Gugu akan menjaganya seperti aku menjaganya.”
 
-“Aku akan memberitahumu.”
+“Aku akan menjaganya baik-baik dan memberitahumu setelah memakainya. Aku tahu benda-benda ini berarti bagimu, Dani,” jawab Xiaolongnü.
 
 Ia tidak menganggap izin itu remeh. Dani dapat mendengarnya dari cara gadis itu menjawab. Sesuatu yang selama ini selalu dibawanya karena takut kehilangan kini dibiarkan berada di tempat yang dapat dijangkau tangan lain.
 
 Menjelang malam, Xiaolongnü menemukan Dani masih duduk di depan pintu. Ia berhenti di sisinya.
 
-“Kau memikirkan ibumu?”
+“Apakah engkau masih memikirkan ibumu, Dani? Sejak tadi engkau duduk sendirian di sini,” tanya Xiaolongnü.
 
-Dani mengangguk. “Aku mulai lupa suaranya kalau sedang bicara biasa. Kalau sedang menegurku, masih ingat.”
+Dani mengangguk. “Aku mulai lupa suaranya ketika berbicara biasa, Gugu. Aneh sekali, justru cara beliau menegurku masih dapat kuingat dengan jelas.”
 
 Ia mencoba tersenyum, tetapi kali ini tidak berhasil. Xiaolongnü duduk tanpa meminta Dani meneruskan. Bahu mereka bersentuhan. Setelah beberapa saat, Dani menyandarkan kepalanya sebentar pada rambut gadis itu.
 
@@ -126,37 +126,37 @@ Bulan berikutnya mereka dapat berlatih bersama lebih lama. Xiaolongnü kembali m
 
 Ia kadang turun untuk membeli beras dan kain. Pada suatu sore ia terlambat pulang karena jalan berlumpur. Xiaolongnü menunggunya di batas pepohonan, bukan di dalam gubuk.
 
-“Mengapa keluar?” tanya Dani.
+“Gugu, mengapa menungguku sampai keluar ke jalan? Udaranya mulai dingin,” tanya Dani.
 
-“Sudah gelap.”
+“Hari sudah gelap dan engkau belum pulang. Aku ingin melihat apakah engkau sudah muncul di tikungan,” jawab Xiaolongnü.
 
-Ia mengangkat bungkusan beras. “Jalannya jelek. Besok kuberitahu kalau harus memutar.”
+Ia mengangkat bungkusan beras. “Jalan di bawah berlumpur, Gugu, sehingga aku harus memutar. Lain kali akan kukatakan lebih dahulu kalau ada kemungkinan pulang terlambat.”
 
-“Hari ini kau tidak memberitahu.”
+“Hari ini aku tidak mengetahuinya. Aku terus bertanya-tanya apakah engkau kesulitan atau tidak hendak kembali,” kata Xiaolongnü.
 
 Tidak ada teguran keras dalam suaranya. Justru itu yang membuat Dani menurunkan bungkusan. Ia melihat ujung sepatu putihnya basah, seolah gadis itu telah beberapa kali berjalan ke arah jalan lalu kembali.
 
-“Aku pulang, Gugu.”
+“Aku sudah pulang, Gugu. Aku tidak akan sengaja membiarkanmu menunggu tanpa kabar,” kata Dani.
 
 Xiaolongnü memegang lengan jubahnya, tepat pada sambungan yang baru dijahit. Jemarinya menekan kain sekali, kemudian mengendur.
 
-“Aku tahu. Sekarang.”
+“Sekarang aku dapat melihatmu dan merasa tenang. Tadi yang dapat kulihat hanya jalan yang kosong,” jawab Xiaolongnü.
 
 Dani menutup tangan itu dengan telapaknya. Mereka kembali ke gubuk sambil berjalan lebih dekat daripada yang diperlukan oleh jalan sempit tersebut.
 
 Malamnya, Xiaolongnü bertanya apakah ia masih ingin pergi melihat tempat-tempat yang pernah diceritakan Guo Jing.
 
-“Ingin,” jawab Dani. Ia melihat tangan gadis itu berhenti melipat kain. “Denganmu.”
+“Aku masih ingin melihat dunia di luar gunung ini, Gugu,” jawab Dani. Ia melihat tangan gadis itu berhenti melipat kain. “Tetapi aku ingin pergi bersama Gugu. Aku tidak sedang mencari alasan untuk meninggalkanmu seorang diri.”
 
 Xiaolongnü tidak langsung menjawab.
 
-“Aku tidak mengenal tempat-tempat itu.”
+“Aku tidak mengenal tempat-tempat yang hendak kaudatangi. Barangkali nanti aku tidak dapat menunjukkan jalan kepadamu,” kata Xiaolongnü.
 
-“Aku juga belum.”
+“Aku pun belum pernah melihatnya, Gugu. Kita dapat mencari jalan bersama; aku hanya ingin engkau berada di sisiku,” jawab Dani.
 
 Ia duduk di sisi meja tempat jarum ibunya biasa disimpan. Xiaolongnü memperhatikan tempat yang dipilihnya, lalu mendorong cawan hangat ke arahnya.
 
-“Kalau begitu, kita harus bertanya.”
+“Kalau begitu, kita akan bertanya kepada orang yang mengenalnya. Aku bersedia pergi bersamamu, Dani,” kata Xiaolongnü.
 
 Dani tersenyum. Ia mulai membicarakan jalan turun gunung, tetapi yang sebenarnya membuatnya lega adalah kata *kita*.
 
@@ -166,23 +166,23 @@ Ouyang Feng datang ketika Dani sedang membetulkan pijakan latihan di depan gubuk
 
 Pemuda itu mula-mula mendengar tawa pendek dari balik pohon. Sesosok tubuh melintas rendah, terlalu cepat untuk diikuti utuh; tahu-tahu pergelangan tangannya dicengkeram.
 
-“Salah! Siapa mengajarimu berdiri begitu?”
+“Salah! Siapa mengajarimu berdiri begitu? Siapa yang berani merusak pelajaran anakku?” bentak Ouyang Feng.
 
-“Ayah?”
+“Ayah!” seru Dani.
 
 Lelaki tua itu memutar wajahnya ke kiri dan kanan. Rambutnya kusut, matanya mencari sesuatu yang tidak ada di belakang bahu Dani.
 
-“Anakku pendek.”
+“Anakku tidak setinggi ini. Apa yang kaulakukan terhadapnya?” kata Ouyang Feng.
 
-“Sudah bertahun-tahun.”
+“Sudah bertahun-tahun sejak kita berpisah, Ayah. Tubuhku tumbuh, tetapi aku tetap anak angkatmu,” jawab Dani.
 
-“Tidak! Baru kemarin. Kau meninggalkanku kemarin!”
+“Tidak! Baru kemarin. Kau meninggalkanku kemarin!” bentak Ouyang Feng.
 
-Pegangannya menyakitkan. Dani tidak menarik diri. “Aku tetap Dani.”
+Pegangannya menyakitkan. Dani tidak menarik diri. “Aku Dani, Ayah. Pandanglah wajahku; tidak ada yang menggantikan aku.”
 
 Ouyang Feng menatapnya lama, lalu menepuk pipinya dengan tangan gemetar. Sesaat kegaduhan di wajahnya mereda.
 
-“Dani. Ya. Mereka tidak membawamu.”
+“Dani… anakku. Mereka tidak membawamu. Tidak boleh ada yang membawamu lagi!” gumam Ouyang Feng.
 
 Dani menggenggam pergelangan tua itu. Ia pernah membayangkan akan mempunyai banyak pertanyaan ketika bertemu kembali. Yang keluar justru, “Ayah sudah makan?”
 
@@ -190,11 +190,11 @@ Pintu gubuk terbuka.
 
 Xiaolongnü berdiri di ambang, memperhatikan tangan yang mencengkeram Dani. Ouyang Feng langsung memutar tubuh.
 
-“Siapa dia?”
+“Siapa perempuan itu? Mengapa dia berada bersama anakku?” tanya Ouyang Feng.
 
-“Guguku. Dia mengajariku selama—”
+“Beliau Guguku, Ayah. Selama kita terpisah, beliau yang menjaga dan mengajariku—” jawab Dani.
 
-“Anakku sudah punya guru!”
+“Anakku sudah mempunyai guru! Tidak boleh direbut! Aku belum mati!” bentak Ouyang Feng.
 
 Ia menyentak Dani ke belakang. Xiaolongnü maju untuk melepaskan pegangan itu. Gerak mereka beradu di depan pintu: lengan putih membelokkan pergelangan, tubuh tua berputar lebih dekat daripada yang diduga, lalu dua jari menyentuh titik pada bahu dan sisi tubuhnya.
 
@@ -202,17 +202,17 @@ Xiaolongnü mendadak kaku.
 
 Dani menangkapnya sebelum ia jatuh. Matanya tetap terbuka, tetapi tangan yang hendak terangkat tidak bergerak.
 
-“Ayah, lepaskan totokannya.”
+“Ayah, lepaskan totokan itu. Gugu tidak hendak mencelakai kita,” pinta Dani.
 
-“Diam! Dia mendengar. Dia mencuri!”
+“Diam! Dia mendengar. Dia mencuri!” bentak Ouyang Feng.
 
-“Dia tidak mencuri apa pun.”
+“Gugu tidak mencuri pelajaran Ayah. Beliau hanya mengkhawatirkan aku,” jawab Dani.
 
 Ouyang Feng menatap mulut Xiaolongnü, seolah menunggu bantahan. Ketika tidak ada suara keluar, ia tampak puas. Dani merasakan amarah naik, tetapi ingatan tentang telapak yang mengamblaskan tanah menahannya dari tindakan bodoh.
 
-Ia membawa Xiaolongnü ke bangku di dalam. “Aku segera kembali,” bisiknya. Matanya bertahan pada mata gadis itu sampai ia yakin Xiaolongnü mendengar.
+Ia membawa Xiaolongnü ke bangku di dalam. “Gugu, aku akan segera kembali. Aku harus menjauhkan Ayah dari sini dahulu.” bisiknya. Matanya bertahan pada mata gadis itu sampai ia yakin Xiaolongnü mendengar.
 
-Kemudian Dani menoleh kepada ayah angkatnya. “Kalau hendak mengajariku, di luar. Di sini dia masih bisa melihat.”
+Kemudian Dani menoleh kepada ayah angkatnya. “Kalau Ayah hendak mengajariku, mari ke luar. Dari tempat ini Gugu masih dapat melihat gerakan kita.”
 
 Ouyang Feng langsung menariknya menuju pepohonan.
 
@@ -220,31 +220,31 @@ Ouyang Feng langsung menariknya menuju pepohonan.
 
 Di sebuah tanah lapang kecil, lelaki tua itu menyuruh Dani merendahkan tubuh. Telapaknya menghantam lengan Dani sebelum kuda-kudanya selesai.
 
-“Bukan tangan! Di sini!”
+“Bukan tangan! Di sini!” bentak Ouyang Feng.
 
 Ia menunjuk pinggang, lalu dada, lalu mendadak berbalik dan meneriakkan nama yang tidak Dani kenal. Pemuda itu menunggu celah, menghitung arah kembali ke gubuk.
 
 Ouyang Feng mengeluarkan pil gelap dari lipatan bajunya.
 
-“Telan. Terlalu banyak yang menahanmu.”
+“Telan ini! Terlalu banyak yang menahanmu. Harus dilepaskan semuanya!” perintah Ouyang Feng.
 
-“Obat apa?”
+“Obat apa yang Ayah berikan kepadaku?” tanya Dani.
 
-“Obatku! Mau diracun orang lain?”
+“Obatku! Mau diracun orang lain?” bentak Ouyang Feng.
 
 Dani mengenali kecurigaan yang kembali menajam di mata ayah angkatnya. Ia menerima pil itu untuk menenangkannya, mengira obat tersebut bagian dari pelajaran. Rasa pahit tertinggal ketika ia menelan. Tidak ada penjelasan tentang akibatnya; Ouyang Feng sudah memerintahkannya mengangkat tangan.
 
 Dani bergerak setengah jalan, lalu berhenti dan memandang ke belakang lelaki tua itu.
 
-“Ayah, tadi ada yang menjawab.”
+“Ayah, tadi seperti ada orang yang menjawab dari arah hutan,” kata Dani.
 
 Ouyang Feng berputar.
 
-“Apa katanya?”
+“Apa yang dikatakannya? Mengapa dia menjawabku?” tanya Ouyang Feng.
 
-“Ia menyebut nama Ayah. Aku tidak melihat orangnya.”
+“Ia menyebut nama Ayah, tetapi aku tidak sempat melihat orangnya,” jawab Dani.
 
-“Namaku? Siapa tahu namaku?”
+“Namaku? Siapa tahu namaku?” seru Ouyang Feng.
 
 Lelaki itu menerobos semak sambil berteriak. Dani menunggu sampai bunyi langkah menjauh, kemudian berlari ke gubuk. Rasa bersalah mengikuti beberapa langkah pertama; bayangan mata Xiaolongnü yang tidak dapat berkedip bebas membuatnya menambah kecepatan.
 
@@ -260,11 +260,11 @@ Dani tidak memanggil.
 
 Ia masuk dari sisi kusen dan menghantam lengan yang terulur itu dengan pangkal telapak. Lelaki tersebut tersentak, memutar bahu, lalu menangkis pukulan kedua. Gerakannya terlatih. Dani mengambil langkah menyamping yang dipelajarinya di makam, memaksanya berbalik menjauhi bangku.
 
-“Keluar.”
+“Keluar dari rumah ini,” perintah Dani.
 
-“Dengarkan dahulu—”
+“Dengarkan penjelasanku dahulu—” kata lelaki itu.
 
-“Keluar!”
+“Keluar!” bentak Dani.
 
 Lelaki itu mundur melewati ambang. Tangannya bergerak ke gagang pedang. Dani memotong jarak sebelum bilah ditarik utuh, menekan pergelangan ke kusen, lalu menyapu kaki yang menahan berat tubuhnya. Mereka terjatuh bersama di tanah.
 
@@ -274,19 +274,19 @@ Ia menahan pukulan tersebut.
 
 Pedang diseretnya keluar dari jangkauan. Dani menekan lengan lawan ke tanah, cukup keras untuk menghentikan perlawanan, lalu membungkuk.
 
-“Siapa namamu?”
+“Siapa namamu?” tanya Dani.
 
 Lelaki itu menelan ludah. Rambut di dekat pelipisnya lepas dari ikatan.
 
-“Zhen Zhibing.”
+“Namaku Zhen Zhibing,” jawab lelaki itu.
 
-“Kau melihat dia tidak bisa bergerak.”
+“Kau melihat sendiri bahwa dia tidak dapat bergerak. Apa yang hendak kaulakukan?” kata Dani.
 
-“Aku hendak menolong.”
+“Aku hanya hendak menolongnya,” jawab Zhen Zhibing.
 
 Dani menekan pergelangannya lebih dalam. Rahangnya mengeras sampai kata berikut keluar melalui gigi yang rapat.
 
-“Dia menatapmu seperti itu, dan kau masih berani menyebutnya pertolongan?”
+“Dia menatapmu seperti itu, dan kau masih berani menyebutnya pertolongan?” desis Dani.
 
 Zhen Zhibing mengalihkan mata. Keheningan yang menyusul lebih jelas daripada pembelaannya.
 
@@ -300,29 +300,29 @@ Saat berbalik, panas telah menjalar dari perut ke dada.
 
 Xiaolongnü akhirnya dapat menggerakkan ujung jarinya. Totokan itu perlahan mengendur, meninggalkan kaku dan nyeri. Dani berlutut di depannya, meminta maaf karena telah membiarkannya sendirian.
 
-“Kau kembali,” katanya dengan suara serak.
+“Engkau kembali kepadaku, Dani,” kata Xiaolongnü dengan suara serak.
 
-“Terlambat.”
+“Seharusnya aku kembali lebih cepat, Gugu. Aku telah membiarkanmu menghadapi orang itu sendirian,” jawab Dani.
 
-“Kau kembali.”
+“Tetapi engkau datang sebelum ia sempat melanjutkan perbuatannya. Aku melihatmu di pintu; sejak saat itu aku tahu aku tidak sendirian lagi,” kata Xiaolongnü.
 
 Gadis itu mengulangnya sambil mencengkeram lengan jubah Dani. Ia tidak melepaskan kain tersebut ketika pemuda itu bangkit mengambil air.
 
-Dani duduk kembali. “Aku di sini.”
+Dani duduk kembali. “Aku akan duduk di sini, Gugu. Engkau tidak perlu melepaskan tanganku.”
 
 Xiaolongnü menempelkan kening ke bahunya. Tubuhnya masih gemetar; Dani menahan punggungnya, menunggu sampai napas mereka lebih teratur. Ia ingin pergi memeriksa hutan sekali lagi, memastikan Zhen Zhibing tidak bersembunyi, tetapi gadis itu merapat ketika tangannya bergerak.
 
-“Jangan sekarang.”
+“Jangan tinggalkan aku dahulu, Dani. Aku belum sanggup berada seorang diri di rumah ini,” pinta Xiaolongnü.
 
-“Tidak.”
+“Aku akan tetap menemanimu, Gugu,” jawab Dani.
 
 Dani tidak pergi.
 
 Panas dalam tubuhnya justru bertambah. Ia mengira benturan dan kemarahan yang menyebabkannya; kemudian suara Xiaolongnü mulai terdengar jauh meskipun wajah gadis itu berada di dekatnya. Ia berusaha mengatakan bahwa ada yang tidak beres, tetapi pikirannya kehilangan urutan.
 
-“Ayah memberiku…”
+“Ayah tadi memberiku sesuatu untuk ditelan…” kata Dani.
 
-“Apa?”
+“Apa yang diberikannya, Dani? Apakah tubuhmu terasa sakit?” tanya Xiaolongnü.
 
 Dani mengusap dahi. Ia tidak berhasil menyelesaikan kalimat.
 
@@ -334,59 +334,59 @@ Pagi datang bersama sakit kepala yang membuat Dani sulit membuka mata.
 
 Xiaolongnü duduk di dekat pembaringannya, sudah berpakaian rapi. Rambutnya disisir, tetapi beberapa helai di pelipis tetap lepas. Ia memegang jubah biru Dani yang telah dilipat.
 
-“Kita tetap bersama?” tanyanya.
+“Dani, apakah sesudah malam tadi engkau tetap ingin hidup bersamaku?” tanya Xiaolongnü.
 
-Dani menekan pangkal hidung. “Tentu, Gugu.”
+Dani menekan pangkal hidung. “Tentu aku ingin tetap bersama Gugu. Mengapa Gugu menanyakannya seperti itu?”
 
 Ia menerima jubah itu. Xiaolongnü belum melepaskan ujungnya.
 
-“Sebagai istrimu?”
+“Apakah engkau akan menerimaku sebagai istrimu?” tanya Xiaolongnü.
 
 Dani mengangkat wajah. Kata tersebut seperti datang dari percakapan yang tidak diikutinya. Ada pintu terbuka dalam ingatan, tangan pada lengannya, lalu bagian-bagian gelap yang tidak dapat ditembus.
 
-“Istri?”
+“Gugu mengatakan ingin menjadi istriku?” ulang Dani.
 
 Xiaolongnü mengangguk kecil.
 
-“Semalam…” Dani berhenti. Ia benar-benar tidak tahu bagaimana menyusun pertanyaan berikutnya. “Apa yang kukatakan semalam?”
+“Tentang malam tadi, Gugu…” Dani berhenti. Ia benar-benar tidak tahu bagaimana menyusun pertanyaan berikutnya. “Apa yang telah kukatakan kepadamu? Ada bagian yang tidak dapat kuingat, dan aku takut menjawab sesuatu yang belum kupahami.”
 
 Jari gadis itu mengendur pada kain.
 
-“Kau tidak ingat?”
+“Apakah engkau tidak mengingat apa yang terjadi di antara kita?” tanya Xiaolongnü.
 
-“Ada yang kuingat. Tapi kepalaku—”
+“Sebagiannya kuingat, Gugu, tetapi kepalaku terasa berat. Setiap kali hendak kuurutkan, ingatannya terputus—” jawab Dani.
 
 Ia membungkuk ketika rasa mual naik. Xiaolongnü mengulurkan cawan. Dani menerimanya dengan kedua tangan dan minum perlahan, berharap air dapat mengembalikan bagian waktu yang hilang.
 
-“Aku masih Gugu bagimu,” katanya.
+“Jadi engkau masih memandangku hanya sebagai Gugu yang mengajarimu selama ini?” tanya Xiaolongnü.
 
-“Ya. Kau…”
+“Sejak pertama masuk ke makam, aku memanggilmu Gugu. Engkaulah yang menjaga dan mengajariku ketika tidak ada lagi tempat bagiku,” jawab Dani.
 
-Dani menatapnya. Jawaban yang paling mudah adalah yang telah mereka pakai bertahun-tahun. “Guruku.”
+Dani menatapnya. Jawaban yang paling mudah adalah yang telah mereka pakai bertahun-tahun. “Engkau guruku, Gugu. Pagi ini engkau meminta aku menyebutmu sebagai istri, sedangkan aku belum memahami apa yang terjadi semalam. Tolong katakan, bagaimana seharusnya aku memandang hubungan kita sekarang?”
 
 Xiaolongnü menurunkan mata. Ia telah membayangkan begitu banyak hal dari satu malam, sementara Dani kembali pada sebutan yang lama tanpa tampak memahami apa yang dihancurkannya.
 
-“Dan itu saja?”
+“Bagiku engkau sudah menjadi orang yang ingin kujadikan suami. Apakah dalam hatimu aku tetap hanya seorang guru?” tanya Xiaolongnü.
 
 Dani membuka mulut. Ia ingin mengatakan bahwa ia tidak pernah menunggu seorang guru pulang seperti ia menunggu langkah gadis itu. Bahwa gubuk ini tidak berarti apa-apa jika Xiaolongnü tidak berada di dalamnya. Namun ia masih berusaha mengejar percakapan yang terasa bergerak terlalu cepat.
 
-“Beri aku waktu sebentar.”
+“Beri aku sedikit waktu, Gugu. Aku ingin menjawabmu dengan benar, tetapi sekarang pikiranku masih kacau,” pinta Dani.
 
 Xiaolongnü mengangguk. Terlalu tenang.
 
 Ia membantu Dani mengenakan jubah, seperti pada sore ketika jahitannya selesai. Kali ini tangannya berhenti sebelum menyentuh kerah.
 
-“Air di tempayan tinggal sedikit,” katanya.
+“Air di tempayan tinggal sedikit, Dani. Barangkali membasuh wajah akan membuat kepalamu lebih ringan,” kata Xiaolongnü.
 
 Dani berpegangan pada meja ketika berdiri. Ia akan mengambil air, membasuh muka, lalu kembali dan meminta Xiaolongnü menceritakan semuanya dari awal. Itu tampak seperti urutan yang masih sanggup dikerjakannya.
 
 Ketika ia mencapai pintu, gadis itu memanggil.
 
-“Dani.”
+“Dani, sebelum engkau pergi…” panggil Xiaolongnü.
 
 Ia menoleh.
 
-Xiaolongnü memandangnya dengan bibir terbuka sedikit, lalu menggeleng. “Hati-hati di batu yang licin.”
+Xiaolongnü memandangnya dengan bibir terbuka sedikit, lalu menggeleng. “Berhati-hatilah ketika menuruni batu di dekat air. Permukaannya masih licin.”
 
 ***
 
@@ -404,7 +404,7 @@ Ia teringat pertanyaan Xiaolongnü tentang seorang istri.
 
 Dani menutup mata. Gadis itu telah berbicara tentang masa depan, dan ia menyambutnya seolah sedang mendengar kekeliruan.
 
-“Bukan itu maksudku.”
+“Gugu, bukan penolakan yang hendak kusampaikan kepadamu,” gumam Dani.
 
 Gubuk tidak memberikan kesempatan kedua.
 
@@ -416,7 +416,7 @@ Ia mencintai perempuan yang menjahitnya.
 
 Perasaan itu tidak muncul pagi ini. Ia telah ada ketika Dani bergegas pulang membawa beras, ketika sebuah tangan memegang lengannya di batas hutan, ketika ia menjawab bahwa ia ingin melihat dunia bersamanya. Ia hanya terlambat mengakuinya dengan nama yang diminta Xiaolongnü.
 
-“Aku mencintaimu,” ucapnya, tanpa orang yang semestinya mendengar.
+“Aku mencintaimu, Gugu. Seharusnya itulah yang kukatakan ketika engkau masih di sini,” ucapnya, tanpa orang yang semestinya mendengar.
 
 Kemudian Dani turun menuju jalan. Kali ini ia pergi untuk membawa pulang sebuah jawaban, bukan menundanya lagi.
 

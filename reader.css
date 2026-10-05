@@ -30,3 +30,5 @@ body[data-current=wiki] .type-controls,body[data-current=wiki] .progress-track{d
 @media(max-width:760px){.wiki-view{margin-top:30px;padding:0 22px}.wiki-controls{grid-template-columns:1fr}.wiki-grid{grid-template-columns:1fr}.wiki-card{padding:20px}.lore-dialog{width:100%;max-height:88dvh;max-width:100%;margin:auto 0 0;border-radius:16px 16px 0 0;border-bottom:0}.lore-dialog #lore-content{padding:22px 23px 30px}.lore-dialog-bar{padding:12px 18px}.lore-dialog h2{font-size:27px}.lore-dialog .lore-summary{font-size:17px}.wiki-heading>p:last-child{font-size:17px}.lore-card-head{gap:14px}}
 @media(max-width:460px){.brand>span:last-child{display:none}.brand .brand-seal{display:grid}.brand{max-width:none;flex:0 0 30px}.bar-inner{gap:6px}.bar-actions{gap:4px}.topbar{padding-inline:12px}.wiki-card .lore-card-head .portrait{width:66px;flex-basis:66px}.wiki-card h3{font-size:21px}}
 @media print{.lore-dialog,.wiki-nav,.lore-open{display:none!important}.lore-term{border:0;text-decoration:none}.wiki-view{transform:none;max-width:100%}}
+
+.edition-note{font:600 .78rem/1.5 system-ui,sans-serif;letter-spacing:.04em;color:var(--muted);margin:1rem 0;}

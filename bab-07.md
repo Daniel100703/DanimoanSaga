@@ -4,35 +4,35 @@ Tanah masih melekat di kuku Dani ketika Xiaolongnü menyerahkan pedang kayu kepa
 
 Mereka baru kembali dari memakamkan Nenek Sun. Dani meletakkan buntalan di dekat dinding, tetapi tidak mengambil pedang itu. Di ruangan tempat perempuan tua tersebut dibaringkan semalam, kain penutupnya sudah dilipat. Lampu yang dinyalakan Xiaolongnü membuat ruangan itu tampak seperti biasa.
 
-“Sekarang?” tanyanya.
+“Apakah kita harus mulai berlatih sekarang, Gugu?” tanya Dani.
 
-“Besok lukamu belum tentu lebih ringan.”
+“Menunggu esok belum tentu membuat lukamu lebih ringan. Kita dapat memulainya dengan gerakan yang tidak memberatkanmu,” jawab Xiaolongnü.
 
-“Aku bukan bicara soal lukaku.”
+“Bukan luka di tubuh yang kumaksud, Gugu. Kita baru saja memakamkan Nenek Sun,” kata Dani.
 
 Xiaolongnü menurunkan pedang. Untuk sesaat Dani menyangka ia akan dimarahi. Gadis itu justru memandang kain terlipat di sebelah lampu.
 
-“Aku juga belum terbiasa,” katanya.
+“Aku pun belum terbiasa mendapati tempat Sun Popo kosong. Tetapi aku sudah berjanji akan menjagamu, dan aku hendak mulai menepatinya,” kata Xiaolongnü.
 
-Hanya itu. Namun Dani akhirnya mengambil pedang, menggenggam gagangnya terlalu keras. Xiaolongnü tidak menyuruhnya berhenti bersedih. Ia menunjukkan tempat berdiri, lalu meminta Dani mengangkat tangan.
+Mendengar pengakuan itu, Dani akhirnya mengambil pedang, menggenggam gagangnya terlalu keras. Xiaolongnü tidak menyuruhnya berhenti bersedih. Ia menunjukkan tempat berdiri, lalu meminta Dani mengangkat tangan.
 
 Pukulan pertama Dani meleset. Yang kedua ditahan begitu mudah hingga rasa malu naik ke tengkuknya. Ia maju lebih cepat; ujung pedang Xiaolongnü sudah menyentuh dadanya sebelum tangannya sempat turun.
 
-“Kau mengejar tanganku,” kata gadis itu. “Lihat kakiku.”
+“Engkau terlalu sibuk mengejar tanganku,” kata gadis itu. “Perhatikan perpindahan kakiku. Dari sanalah engkau dapat mengetahui ke mana tubuhku akan bergerak.”
 
 Dani merendahkan bahu, mengambil ancang-ancang yang masih diingat tubuhnya. Xiaolongnü mengetuk pergelangan tangannya sebelum tenaga sempat terkumpul.
 
-“Bukan itu.”
+“Jangan gunakan gerakan itu dahulu, Dani,” kata Xiaolongnü.
 
-“Ini yang bisa kupakai.”
+“Tetapi hanya gerakan inilah yang dapat kupakai ketika terdesak, Gugu,” jawab Dani.
 
-“Kau belum bisa menghentikannya.”
+“Justru karena engkau belum dapat menghentikan tenaganya, engkau belum boleh bergantung kepadanya. Pelajari dulu cara menguasai tubuhmu sendiri,” kata Xiaolongnü.
 
 Ia hendak membantah, tetapi teringat rusuk Lu Qingdu dan Wu Xiuwen. Dani meluruskan tubuh dengan muka panas. Selama ini ilmu ayah angkatnya adalah satu-satunya jawaban ketika ia terpojok. Melepaskannya terasa seperti menyerahkan tangan agar diikat.
 
 Xiaolongnü mengulangi gerakannya, kali ini perlahan. Dani melihat tumitnya bergeser lebih dahulu, baru pinggang dan tangan. Ia mencoba meniru. Pedang kayunya tetap terlepas.
 
-“Lagi,” katanya, sebelum disuruh.
+“Izinkan murid mencobanya sekali lagi, Gugu,” kata Dani, sebelum disuruh.
 
 Pada percobaan berikutnya ia berhasil menjaga gagang itu. Xiaolongnü mengangguk kecil. Tidak ada orang di belakangnya yang tertawa, dan tidak ada hukuman karena ia memerlukan penjelasan dua kali.
 
@@ -46,25 +46,25 @@ Namun ada hal yang tidak menjadi lebih mudah hanya karena ia cepat belajar.
 
 Pada tahun pertama, Xiaolongnü mendapati Dani menyembunyikan pergelangan yang bengkak di balik lengan bajunya. Ia telah mengulang satu gerakan sendirian sampai malam karena kesal terus dikalahkan.
 
-“Ulurkan tangan.”
+“Ulurkan tanganmu, Dani. Aku hendak melihat pergelangan yang kausembunyikan itu,” kata Xiaolongnü.
 
-“Sudah tidak sakit.”
+“Pergelangan ini sudah tidak terlalu sakit, Gugu. Aku masih dapat menggerakkannya,” jawab Dani.
 
 Xiaolongnü menyentuhnya. Dani meringis.
 
-“Tanganmu tidak sependapat.”
+“Engkau meringis ketika kusentuh. Mengatakan bahwa lukamu sembuh tidak membuatnya sungguh-sungguh sembuh,” kata Xiaolongnü.
 
-Ia menunduk saat gadis itu membebat pergelangannya. “Kalau berhenti, kapan aku bisa menyusul?”
+Ia menunduk saat gadis itu membebat pergelangannya. “Kalau setiap kali sakit aku harus berhenti, kapan aku dapat menyusul kepandaian Gugu?”
 
-“Sesudah sembuh.”
+“Engkau baru dapat maju setelah tanganmu pulih. Luka yang dipaksakan hanya akan menahanmu lebih lama,” jawab Xiaolongnü.
 
-“Gugu tahu maksudku.”
+“Aku mengerti, Gugu. Tetapi rasanya aku selalu tertinggal meskipun sudah berlatih lebih lama,” kata Dani.
 
-Xiaolongnü mengencangkan simpul, lalu menaruh pedang Dani di luar jangkauannya. “Besok latihan kaki.”
+Xiaolongnü mengencangkan simpul, lalu menaruh pedang Dani di luar jangkauannya. “Besok kita melatih langkah kaki. Biarkan pergelangan ini beristirahat dahulu.”
 
-Dani menatap pedang itu. “Tidak disuruh berhenti belajar?”
+Dani menatap pedang itu. “Jadi Gugu tidak menyuruhku berhenti belajar sama sekali?”
 
-“Kakimu tidak terluka.”
+“Kakimu tidak terluka. Masih banyak yang dapat kaulatih bersamaku tanpa memakai tangan itu,” jawab Xiaolongnü.
 
 Sesudah kejadian itu ia masih beberapa kali berlatih terlalu keras. Akan tetapi, ia mulai datang sendiri ketika memerlukan obat. Xiaolongnü pun belajar membedakan diam Dani yang sedang memperhatikan dari diamnya ketika menyembunyikan sesuatu.
 
@@ -74,31 +74,31 @@ Dalam latihan pedang, Dani kini dapat memaksa Xiaolongnü berpindah dari tempatn
 
 Sore itu mereka berlatih di ruang batu dekat celah udara. Dani mengubah arah tebasan pada saat terakhir, mencoba mengambil sisi yang baru ditinggalkan Xiaolongnü. Gadis itu berputar, lengan putihnya menyapu pandangan. Pedang Dani berhenti sejari dari dinding, sedangkan pedang Xiaolongnü menyentuh bahunya.
 
-“Terlalu cepat,” katanya.
+“Engkau mengubah arah terlalu cepat, Dani,” kata Xiaolongnü.
 
-“Kalau lambat, Gugu juga menang.”
+“Jika aku menunggu lebih lama pun pedang Gugu tetap tiba lebih dahulu. Bagian mana yang belum kulihat?” jawab Dani.
 
-“Kau bergerak sebelum melihat.”
+“Engkau bergerak sebelum memastikan pijakanku. Kecepatanmu sendiri membuatmu melewatkan celah yang sesungguhnya,” kata Xiaolongnü.
 
 Dani menurunkan pedang. Dahulu ia akan segera meminta ulang. Sekarang ia memperhatikan bekas kakinya pada debu, lalu bergeser ke posisi yang tadi seharusnya dipilih.
 
-“Di sini?”
+“Seharusnya kakiku bergeser ke tempat ini, Gugu?” tanya Dani.
 
 Xiaolongnü mengangguk.
 
 Ia tersenyum, pendek, lebih senang karena menemukan kesalahan daripada karena pujian. Saat mengangkat wajah, ia mendapati Xiaolongnü masih memandangnya.
 
-“Ada apa, Gugu?”
+“Mengapa Gugu memandangku begitu? Apakah masih ada yang keliru?” tanya Dani.
 
-“Dulu kau lebih pendek.”
+“Aku sedang mengingat tinggi badanmu ketika pertama datang. Dulu engkau harus mendongak untuk menatapku,” jawab Xiaolongnü.
 
 Dani melirik puncak kepalanya, lalu menahan komentar yang hampir keluar. Xiaolongnü mengangkat alis tipis.
 
-“Katakan.”
+“Katakan saja apa yang sedang kaupikirkan, Dani,” kata Xiaolongnü.
 
-“Nanti latihan ditambah.”
+“Aku khawatir Gugu akan menambah latihan kalau kukatakan bahwa sekarang aku yang harus menunduk,” jawab Dani.
 
-“Kalau kau masih kuat, bisa.”
+“Kalau tenagamu masih cukup, latihan memang dapat ditambah. Tetapi bertambah tinggi bukan kesalahan yang perlu kuhukum,” kata Xiaolongnü.
 
 Dani tertawa kecil. Kali ini Xiaolongnü tahu ia sedang bercanda, meskipun tidak tahu bagian mana yang seharusnya lucu.
 
@@ -112,25 +112,25 @@ Pada putaran terakhir Dani merasakan panas menjalar terlalu cepat. Ia mencoba me
 
 Ia hampir meraih bahunya.
 
-“Jangan sentuh. Tunggu.”
+“Jangan sentuh tubuhku dahulu. Tunggu sampai aliran tenaganya tenang,” perintah Xiaolongnü.
 
 Dani membeku. Xiaolongnü memejamkan mata kembali, kedua tangannya gemetar di atas lutut. Dani menghitung bunyi tetesan air di ruangan itu agar tidak terus memanggil. Baru setelah bahunya mengendur ia berani bergerak.
 
-“Aku seharusnya bilang.”
+“Seharusnya aku segera memberitahu Gugu ketika dadaku mulai panas,” kata Dani.
 
-Xiaolongnü membuka mata. “Ya.”
+Xiaolongnü membuka mata. “Benar, Dani. Aku sudah memintamu mengatakannya sebelum rasa sesak bertambah.”
 
 Jawaban itu lebih menyakitkan daripada teguran panjang. Dani mengambil kain dan air, lalu berlutut di dekatnya.
 
-“Kupikir bisa kutahan.”
+“Kupikir tenagaku masih cukup untuk menahannya, Gugu. Aku tidak ingin menghentikan latihan kita,” jawab Dani.
 
-“Tadi tidak bisa.”
+“Tadi tubuhmu telah menunjukkan bahwa engkau belum sanggup. Lain kali dengarkan keadaanmu sendiri, bukan keinginanmu untuk cepat selesai,” kata Xiaolongnü.
 
 Ia mengangguk, rahangnya mengeras. Xiaolongnü menerima kain yang disodorkannya. Ketika hendak berdiri, lututnya kehilangan tenaga; Dani menahan lengannya tanpa menunggu perintah lagi.
 
-“Aku bisa jalan,” katanya.
+“Aku masih dapat berjalan ke ruang sebelah,” kata Xiaolongnü.
 
-“Bersandarlah dulu.”
+“Bersandarlah kepadaku dahulu, Gugu. Kali ini biarkan aku yang menopangmu,” jawab Dani.
 
 Kali ini Xiaolongnü menurut. Untuk pertama kali sejak tinggal di makam, Dani merasakan berat tubuh gurunya benar-benar bertumpu kepadanya. Ia mengantarnya ke ruang istirahat dan menaruh pedang dalam jangkauan tangan Xiaolongnü.
 
@@ -146,19 +146,19 @@ Dani mengenali suara itu sebelum melihat wajahnya. Bau kayu terbakar dari kediam
 
 Li Mochou masuk dengan kebut putih tersampir pada lengan. Di belakangnya berjalan seorang perempuan muda berjubah hijau kelabu, membawa pedang bersarung. Pandangan murid itu cepat berpindah dari lorong ke tangan gurunya.
 
-“Hong Lingbo,” kata Li Mochou, tanpa menoleh. “Jangan tertinggal.”
+“Hong Lingbo, tetaplah dekat denganku,” kata Li Mochou, tanpa menoleh. “Jangan tertinggal di lorong yang belum kaukenal.”
 
-“Baik, Shifu.”
+“Murid akan mengikuti Shifu,” jawab Hong Lingbo.
 
 Dani berdiri di muka ruang istirahat. Li Mochou memandang wajahnya lebih lama daripada pintu yang dihalanginya, kemudian tersenyum.
 
-“Anak yang kembali ke rumah keluarga Lu. Rupanya kau masih suka berdiri di jalan orang.”
+“Rupanya anak yang dahulu kembali ke kediaman Lu. Bertahun-tahun berlalu, engkau masih juga berdiri menghalangi jalanku,” ujar Li Mochou.
 
-“Wushuang di mana?”
+“Di mana Lu Wushuang sekarang?” tanya Dani.
 
-“Kau bahkan belum menanyakan kabarku.”
+“Bertemu seorang tetua, bahkan kabarnya pun tidak kautanyakan. Begitukah adik seperguruanku mengajarkan tata krama?” jawab Li Mochou.
 
-“Aku bertanya tentang Wushuang.”
+“Saya menanyakan gadis yang dahulu Bibi bawa dalam keadaan patah kaki. Di mana dia?” kata Dani.
 
 Senyum itu tidak berubah. “Ia hidup. Adapun tempatnya, anak muda, bukan urusanmu malam ini.”
 
@@ -166,23 +166,23 @@ Dani maju setengah langkah. Dari belakang, Xiaolongnü memanggil namanya. Ia ber
 
 Li Mochou melihat kain bernoda di tangan adik seperguruannya.
 
-“Ah. Aku datang pada waktu yang kurang baik.”
+“Wajahmu pucat sekali, Shimei. Rupanya aku datang ketika engkau sedang membutuhkan bantuan,” ujar Li Mochou.
 
-“Kalau begitu, pergi,” ujar Xiaolongnü.
+“Kalau Shijie hendak membantuku, tinggalkan makam ini dahulu. Aku perlu beristirahat,” ujar Xiaolongnü.
 
-“Sesudah kau menyerahkan pelajaran yang ditinggalkan Guru.”
+“Tentu, setelah engkau memperlihatkan pelajaran yang ditinggalkan Guru. Kakakmu tidak akan merepotkanmu lebih lama,” jawab Li Mochou.
 
-“Tidak.”
+“Pelajaran itu tidak akan kuserahkan kepadamu, Shijie,” kata Xiaolongnü.
 
 Li Mochou menghela napas, seolah menghadapi anak keras kepala. “Kau memilih mengajarkannya kepada orang luar. Kakak seperguruanmu sendiri bahkan tidak boleh melihat?”
 
-“Dia muridku.”
+“Dani adalah muridku. Aku bertanggung jawab mengajarinya, sebagaimana Guru dahulu mengajari kita,” jawab Xiaolongnü.
 
-“Tentu.” Matanya singgah pada Dani, kemudian kembali kepada Xiaolongnü. “Murid yang sangat kauperhatikan.”
+“Sungguh besar rasa tanggung jawabmu.” Matanya singgah pada Dani, kemudian kembali kepada Xiaolongnü. “Sampai terluka pun engkau masih melindungi murid yang satu ini.”
 
 Dani merasakan ujung telinganya panas, tetapi kali ini ia tidak terpancing menjawab. Li Mochou telah menggeser kaki; kebut di lengannya mulai terurai.
 
-“Lingbo, ambil pedang anak itu. Hati-hati. Ia suka menyembunyikan keberanian di belakang perempuan.”
+“Lingbo, ambillah pedang anak muda itu. Jangan terburu-buru; tampaknya ia sudah terbiasa berlindung di belakang gurunya,” perintah Li Mochou.
 
 Hong Lingbo mencabut pedang. Dani menangkis serangan pertamanya ke samping dan memotong jarak, memaksanya mundur sebelum sempat menyerang lagi. Gerak gadis itu terlatih, tetapi setiap kali Li Mochou bergeser, matanya ikut mencari gurunya.
 
@@ -190,7 +190,7 @@ Dani menggunakan keraguan itu. Ia menekan pedang Hong Lingbo ke dinding, lalu me
 
 Ia menarik tangan tepat waktu. Serat-serat kebut menghantam batu di sebelah pipinya. Li Mochou sudah berada di antara mereka.
 
-“Empat tahun,” katanya pelan. “Dan kau mengira itu cukup?”
+“Empat tahun memang cukup untuk membuat seorang bocah berani mengangkat pedang,” kata Li Mochou pelan. “Tetapi siapa yang memberitahumu bahwa itu cukup untuk menandingiku?”
 
 Dani belum sempat menjawab ketika gagang kebut menghantam lengannya. Pedang nyaris terlepas. Ia mundur, menelan suara sakit, sementara Xiaolongnü bangkit di belakangnya.
 
@@ -200,7 +200,7 @@ Dani menyabet ke arah tangan Li Mochou. Perempuan itu terpaksa mengendurkan beli
 
 Dani berdiri di depan Xiaolongnü dengan pedang gemetar di tangannya.
 
-“Minggir,” bisik gurunya.
+“Beri aku ruang, Dani,” bisik gurunya.
 
 Ia mundur hanya cukup untuk meraih lengannya. Ketika Hong Lingbo maju dari samping, Dani menendang pintu kayu ruang penyimpanan hingga daun pintunya membentur ujung pedang lawan. Mereka memperoleh waktu beberapa tarikan napas.
 
@@ -212,7 +212,7 @@ Di simpang lorong, Xiaolongnü melepaskan pegangan Dani dan menekan sebuah bagia
 
 Li Mochou berhenti tersenyum.
 
-“Kau sungguh akan menurunkannya?”
+“Shimei, apakah engkau sungguh hendak menurunkan batu penutup itu?” tanya Li Mochou.
 
 Batu penutup mulai bergeser di belakang mereka. Hong Lingbo menoleh ke arah jalan keluar; cahaya dari lorong depan semakin tipis.
 
@@ -230,61 +230,61 @@ Keempatnya terkurung.
 
 Debu masih berjatuhan ketika Li Mochou meletakkan telapak pada batu penutup. Ia meraba sambungannya, lalu mencoba mendorong. Batu itu tidak bergerak.
 
-“Bukalah, Shimei.”
+“Bukalah kembali pintu itu, Shimei. Jangan paksa aku mencari kesabaran yang sudah kaubuang,” kata Li Mochou.
 
-“Tidak bisa dari sini.”
+“Batu ini tidak dapat diangkat kembali dari sisi dalam,” jawab Xiaolongnü.
 
 Li Mochou menoleh perlahan. “Jangan memainkan nyawamu hanya untuk menyimpan beberapa halaman pelajaran.”
 
-“Kau tidak memberiku jalan lain.”
+“Shijie tidak memberiku jalan untuk melindungi muridku dan warisan Guru,” kata Xiaolongnü.
 
 Hong Lingbo merapat ke dinding. Pedangnya turun; ia menatap debu di sela lantai seolah ada celah yang cukup lebar untuk tubuh manusia.
 
 Dani memandang Xiaolongnü. Gadis itu tidak menatapnya.
 
-“Kau tahu ini akan terjadi?” tanyanya.
+“Gugu sudah mengetahui bahwa kita akan terkurung?” tanya Dani.
 
-“Ya.”
+“Aku mengetahuinya sebelum menekan dinding itu,” jawab Xiaolongnü.
 
-“Kenapa tidak bilang?”
+“Mengapa Gugu tidak memberitahuku lebih dahulu?” tanya Dani.
 
-“Kau akan menghentikanku.”
+“Karena engkau akan berusaha menghentikanku, Dani,” jawab Xiaolongnü.
 
-“Tentu saja!”
+“Tentu aku akan menghentikan Gugu! Kita belum mencoba setiap jalan!” seru Dani.
 
 Xiaolongnü akhirnya menoleh. Dani tidak sedang tersenyum atau berusaha tampak berani. Giginya terkatup, dan kemarahan di wajahnya membuat gadis itu terdiam.
 
-“Aku tahu aku belum bisa mengalahkannya,” kata Dani. “Tapi jangan putuskan aku harus mati sebelum aku tahu.”
+“Aku tahu kepandaianku belum sanggup menandingi Li Mochou, Gugu,” kata Dani. “Tetapi hidupku terikat pada keputusan ini juga. Jangan putuskan bahwa kita harus mati tanpa memberi murid kesempatan mengetahuinya.”
 
 Li Mochou tertawa lirih.
 
-“Dengarkan muridmu. Pada akhirnya semua orang ingin hidup sendiri-sendiri.”
+“Dengarkan baik-baik, Shimei. Ketika ajal mendekat, kasih sayangmu ternyata tidak membuat muridmu rela ikut mati,” ujar Li Mochou.
 
-Dani berbalik. “Diam.”
+Dani berbalik. “Jangan putar balik perkataanku, perempuan iblis.”
 
 Hong Lingbo mengangkat pedang lagi, takut akan tanggapan gurunya. Li Mochou hanya memiringkan kepala; kebutnya bergerak sedikit di atas lengan.
 
 Xiaolongnü menyentuh siku Dani. “Ada ruang di belakang. Kita bisa menunggu di sana.”
 
-“Menunggu apa?”
+“Apa yang akan kita tunggu di sana, Gugu, kalau pintunya tidak dapat dibuka?” tanya Dani.
 
 Ia tidak menjawab.
 
 Dani memandang wajah pucat itu, lalu menunduk. Ketika berbicara lagi, suaranya lebih rendah.
 
-“Kalau ada jalan keluar, kita cari. Gugu jangan pergi sendiri ke tempat yang tidak bisa kususul.”
+“Selama masih ada jalan keluar, kita akan mencarinya bersama. Gugu boleh menegurku karena keras kepala, tetapi jangan tinggalkan aku dengan keputusan yang tidak dapat kuubah,” kata Dani.
 
 Jari-jari Xiaolongnü masih melekat di sikunya.
 
-“Kau tidak marah lagi?”
+“Engkau masih bersedia menjagaku meskipun marah kepadaku?” tanya Xiaolongnü.
 
-“Masih.” Dani mengambil lampu dari ceruk. “Aku bisa marah sambil menjagamu.”
+“Aku memang masih marah, Gugu.” Dani mengambil lampu dari ceruk. “Tetapi kemarahanku tidak membuatku ingin meninggalkanmu. Biarkan aku marah sambil tetap menjagamu.”
 
 Untuk sesaat Xiaolongnü tidak mampu menjawab. Sejak kecil ia diajari menenangkan hati dengan menjauhkan segala yang dapat mengguncangnya. Kini orang yang paling marah kepadanya justru sedang memeriksa apakah ia cukup kuat untuk berjalan.
 
 Li Mochou memandang tangan Dani yang menopang adik seperguruannya. Sudut bibirnya terangkat, tetapi tidak sampai menjadi senyum.
 
-“Bagus sekali kata-katamu,” katanya. “Mudah mengucapkannya sebelum kelaparan.”
+“Manis sekali janji anak muda,” kata Li Mochou. “Kita lihat berapa banyak yang masih diingatnya setelah perut kosong dan lampu terakhir padam.”
 
 Dani tidak menoleh. Xiaolongnü memperhatikan kakaknya sebentar. Untuk pertama kali malam itu, kebencian di wajah Li Mochou tampak mempunyai sesuatu yang hendak disembunyikan.
 
@@ -296,47 +296,47 @@ Hong Lingbo muncul di pintu, disusul Li Mochou.
 
 “Kalau kalian menemukan jalan,” kata perempuan itu, “jangan berharap aku menunggu sampai kalian selesai berbisik.”
 
-“Bantu mencari,” balas Dani. “Kau juga perlu bernapas.”
+“Kalau Bibi hendak keluar hidup-hidup, bantulah mencari jalannya,” balas Dani. “Udara di makam ini juga harus Bibi hirup.”
 
 Mata Li Mochou menyipit. Xiaolongnü mengangkat pedangnya sedikit dari pangkuan, dan untuk sementara tidak ada yang menyerang.
 
 Dani berjongkok di sisi peti batu. Di sana ujung nyala lampu condong tipis, selalu ke arah yang sama. Ia menutupinya dengan telapak, lalu menyingkirkan tangan. Api kembali miring.
 
-“Gugu. Di bawah sini.”
+“Gugu, ada aliran udara dari bawah peti batu ini,” panggil Dani.
 
 Xiaolongnü menunjuk sambungan di kaki peti. Dani menyapu debu sampai terlihat batas lempeng yang berbeda dari lantai sekitarnya. Ketika ia menariknya, lempeng itu hanya terangkat sedikit sebelum tersangkut.
 
-Li Mochou mendekat. “Minggir.”
+Li Mochou mendekat. “Geser tubuhmu, anak muda. Aku akan mengangkat sisi yang berat.”
 
-“Jangan patahkan pinggirnya. Kalau jatuh ke bawah, lubangnya bisa tertutup.”
+“Jangan patahkan tepian lempeng itu, Bibi. Jika runtuh ke bawah, jalan yang baru kita temukan dapat tertutup lagi,” kata Dani.
 
 Perempuan itu menatapnya, lalu memegang sisi yang lain. Mereka mengangkat bersamaan. Di bawahnya terbuka tangga sempit menuju kegelapan, disertai udara lembap dan bunyi air.
 
 Harapan membuat Hong Lingbo maju tanpa sadar. Li Mochou menahan bahunya.
 
-“Muridmu lebih mengenal makam ini,” katanya kepada Xiaolongnü.
+“Shimei, muridmulah yang paling mengenal bagian makam ini. Sudah selayaknya ia menunjukkan jalan,” kata Li Mochou kepada Xiaolongnü.
 
 Dani memahami maksudnya. Ia mengambil lampu dan turun lebih dahulu, pedang di tangan kiri. Tangga berakhir di sebuah lorong rendah. Beberapa langkah kemudian air dingin menyentuh pergelangan kakinya.
 
-Ia kembali ke kaki tangga. “Ada aliran. Kita bisa mengikutinya.”
+Ia kembali ke kaki tangga. “Gugu, ada aliran air di bawah. Kita dapat mencoba mengikuti arahnya.”
 
-“Ke mana?” tanya Hong Lingbo.
+“Apakah aliran itu sungguh menuju ke luar?” tanya Hong Lingbo.
 
-“Belum tahu.”
+“Aku belum menemukan ujungnya. Tetapi selama airnya mengalir, masih ada jalan yang dapat kita periksa,” jawab Dani.
 
 Jawaban itu membuatnya pucat lagi, tetapi Dani tidak berniat berbohong agar ia merasa lebih baik. Ia menunggu Xiaolongnü turun, kemudian menyerahkan lampu kepada Hong Lingbo supaya kedua tangannya dapat membantu gurunya.
 
 Li Mochou membiarkan mereka lewat. Tatapannya berpindah antara punggung Xiaolongnü dan jalan di depan; Dani melihatnya dan menempatkan diri di sisi yang paling mudah dijangkau kebut.
 
-“Kau akan lelah begitu terus,” kata perempuan itu.
+“Menjaga punggung gurumu terus-menerus akan menghabiskan tenagamu, anak muda,” kata perempuan itu.
 
-“Maka berjalanlah lebih cepat.”
+“Kalau Bibi mengkhawatirkan tenagaku, mari lekas berjalan supaya kekhawatiran itu selesai,” jawab Dani.
 
 Lorong itu makin rendah. Air naik hingga pinggang, lalu dada. Di depan, langit-langit turun sampai menyentuh permukaan; mereka harus menyelam untuk melanjutkan.
 
-Xiaolongnü memeriksa arus dengan ujung tangan. “Aku tidak tahu panjangnya.”
+Xiaolongnü memeriksa arus dengan ujung tangan. “Aku belum tahu sejauh mana kita harus menyelam, Dani. Jangan menganggap arusnya pasti membawa kita ke tempat aman.”
 
-Dani menyerahkan pedang kepadanya. “Tunggu di sini.”
+Dani menyerahkan pedang kepadanya. “Tunggulah di sini, Gugu. Aku akan memeriksa ujung lorong, lalu kembali menjemputmu.”
 
 Ia menyelam sebelum ketakutannya menemukan alasan kedua. Dingin menekan telinga. Satu tangan menyusuri batu di atas kepala, tangan lain meraba jalan. Ketika dadanya mulai sesak, lorong berbelok; ia hampir berbalik sebelum melihat air menjadi kelabu, bukan hitam.
 
@@ -348,27 +348,27 @@ Di belakangnya terdengar air tersibak lagi. Li Mochou muncul, diikuti Hong Lingb
 
 Dani melihat ke lorong di bawah air. Xiaolongnü belum muncul.
 
-“Gugu di mana?”
+“Di mana Guguku? Mengapa dia belum keluar bersama kalian?” tanya Dani.
 
-“Masih di tempat kau meninggalkannya. Ia menyuruhku lewat.”
+“Ia masih di tempat kautinggalkan. Adik seperguruanku begitu murah hati sampai menyuruhku lewat dahulu,” jawab Li Mochou.
 
 Dani meraih kembali udara sebanyak yang mampu ditampung dadanya.
 
-“Pikirkan dahulu,” kata Li Mochou. “Kau sudah sampai.”
+“Pikirkan baik-baik, anak muda,” kata Li Mochou. “Engkau sudah mencapai udara terbuka. Sayang sekali jika harus kehilangan nyawa karena kembali menyelam.”
 
-Ia menatapnya sekali. “Dia belum.”
+Ia menatapnya sekali. “Tetapi Gugu masih berada di dalam. Aku sudah berjanji akan kembali.”
 
 Lalu Dani menyelam.
 
 Xiaolongnü masih bersandar di sisi lorong, tangan menekan dada. Lampu telah padam. Dani memanggil sebelum mendekat supaya ia mengenali suaranya.
 
-“Ada udara. Tidak jauh setelah belokan.”
+“Gugu, aku menemukan udara terbuka setelah belokan. Jaraknya dapat kita tempuh bersama,” kata Dani.
 
 Dalam gelap ia merasakan tangan Xiaolongnü mencari lengannya.
 
-“Kupikir kau tidak kembali.”
+“Aku mengira engkau tidak akan kembali. Tubuhmu sendiri sudah kelelahan, Dani,” kata Xiaolongnü.
 
-“Pegang aku, Gugu.”
+“Bagaimana aku dapat pergi sedangkan Gugu tertinggal? Pegang lenganku erat-erat; aku akan menunjukkan arah belokannya,” jawab Dani.
 
 Ia tidak menjanjikan bahwa semuanya akan mudah. Dani menjelaskan letak belokan, kemudian menunggu sampai napas Xiaolongnü cukup teratur. Mereka menyelam bersama. Di bagian tersempit, pegangan gadis itu melemah; Dani memutar tubuh, menghantamkan bahu ke batu, dan mendorong mereka melewati tikungan dengan kaki.
 
@@ -376,19 +376,19 @@ Ketika akhirnya muncul, ia hanya sempat meraih akar sebelum kekuatannya habis. X
 
 Li Mochou sudah berdiri di dekat celah keluar. Ia bergerak mendekat, tetapi Xiaolongnü lebih dahulu bangkit bertumpu pada satu lutut. Pedang yang masih dibawanya terangkat lurus. Ujungnya tidak goyah, meskipun napas gadis itu belum teratur.
 
-“Kau tidak akan kuat lama,” ujar Li Mochou.
+“Shimei, tangguh sekali engkau menjaga ujung pedang itu. Tetapi berapa lama napasmu akan bertahan?” ujar Li Mochou.
 
-“Mendekatlah.”
+“Jika Shijie hendak mengujinya, mendekatlah,” jawab Xiaolongnü.
 
 Dani menahan akar dan memaksa dirinya berdiri di samping Xiaolongnü. Hong Lingbo masih terbatuk di belakang gurunya. Li Mochou menimbang jarak antara kebut dan ujung pedang, kemudian menurunkan tangannya. Malam ini ia tidak ingin menguji berapa banyak tenaga yang masih disimpan adik seperguruannya.
 
 Hong Lingbo menunduk saat gurunya memanggil.
 
-“Kita pergi.”
+“Lingbo, ikut denganku. Kita meninggalkan tempat ini,” kata Li Mochou.
 
-“Shifu, kitabnya...”
+“Shifu, tetapi kitab yang kita cari masih belum…” kata Hong Lingbo.
 
-“Aku belum lupa.”
+“Aku belum melupakan tujuan kita. Engkau cukup mengikuti perintahku,” jawab Li Mochou.
 
 Kebut putih menghilang di balik akar. Ancaman itu ikut pergi bersamanya, belum selesai, tetapi malam ini mereka tidak dikejar.
 
@@ -396,33 +396,33 @@ Kebut putih menghilang di balik akar. Ancaman itu ikut pergi bersamanya, belum s
 
 Dani duduk setelah batuknya reda. Bahunya nyeri, tangannya lecet, dan pedangnya entah jatuh di bagian lorong yang mana. Xiaolongnü masih memegang lengan bajunya.
 
-“Aku di sini,” katanya.
+“Aku sudah berada di sisimu, Gugu. Kita berdua telah keluar,” kata Dani.
 
 Gadis itu memandang jari-jarinya sendiri, lalu melepaskannya perlahan.
 
-“Tadi aku memutuskan tanpa bertanya.”
+“Tadi aku menentukan nasib kita tanpa meminta pendapatmu. Aku mengira melindungimu berarti aku harus memutuskan semuanya sendiri,” kata Xiaolongnü.
 
 Dani menunggu.
 
-“Aku tidak akan melakukannya lagi.”
+“Aku tidak akan mengulanginya, Dani. Bila hidup kita berdua dipertaruhkan, aku akan mendengarkanmu dahulu,” lanjut Xiaolongnü.
 
 Ia mengangguk. Janji itu tidak menghapus rasa takut di bawah batu penutup, tetapi kini Xiaolongnü tahu mengapa ia marah. Dani meraih buntalan kecil yang masih terikat di pinggangnya dan memeriksa simpulnya; kain di dalam basah seluruhnya. Setidaknya benda-benda yang dibawanya masih ada.
 
-Xiaolongnü menyentuh bahunya yang terbentur. “Sakit?”
+Xiaolongnü menyentuh bahunya yang terbentur. “Apakah bahumu masih sakit setelah membentur batu?”
 
-“Ya.”
+“Masih sakit ketika kugerakkan, Gugu,” jawab Dani.
 
-“Kenapa tidak bilang?”
+“Mengapa engkau tidak memberitahuku sejak kita keluar dari air?” tanya Xiaolongnü.
 
-Dani menoleh kepadanya. Kali ini ia tidak mencari jawaban cerdik. “Sekarang kubilang.”
+Dani menoleh kepadanya. Kali ini ia tidak mencari jawaban cerdik. “Aku tadi lebih mengkhawatirkan keadaan Gugu. Tetapi sekarang aku akan menurut; tolong periksa bahuku.”
 
 Xiaolongnü memeriksa lengannya dengan hati-hati. Sesudah itu mereka bangkit, saling menopang melewati celah akar menuju udara terbuka. Dari lereng hanya tampak hutan; pintu Makam Kuno tersembunyi di tempat lain, tertutup bersama kehidupan yang mereka tinggalkan di dalamnya.
 
-“Di mana kita tidur?” tanya Dani.
+“Gugu, di mana kita akan bermalam?” tanya Dani.
 
-“Kita cari tempat.”
+“Kita akan mencari tempat berlindung di lereng. Malam ini engkau perlu beristirahat,” jawab Xiaolongnü.
 
-“Di luar?”
+“Jadi mulai sekarang kita akan tinggal di luar makam, Gugu?” tanya Dani.
 
 Xiaolongnü memandang hutan yang terbentang di depan mereka, lalu mengangguk. Tangannya masih bertumpu pada lengan Dani ketika mereka mulai menuruni lereng.
 

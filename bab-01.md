@@ -6,11 +6,11 @@ Dani lupa melakukannya. Bahunya membentur papan, dan rumah yang kosong itu menya
 
 Ia mundur setapak, mengusap bahu, lalu memandang pintu dengan mata menyipit.
 
-“Oh, sekarang kau juga tidak mengenalku?”
+“Bahkan pintu rumah sendiri sudah enggan menerimaku rupanya,” gerutu Dani.
 
 Papan bawahnya mengganjal tanah. Hujan sejak pagi telah membuat kayunya mengembang; di tepi ambang, air masih menggenang dalam cekungan bekas tumit. Dani menyelipkan ujung sepatu, mengangkat daun pintu dengan kedua tangan, lalu mendorongnya. Engselnya menjerit.
 
-“Nah. Begini saja dari tadi.”
+“Sejak tadi seharusnya kuangkat seperti ini,” kata Dani.
 
 Ia melangkah masuk sambil menundukkan kepala, kendati palang di atas pintu masih cukup tinggi untuk dilewatinya.
 
@@ -24,7 +24,7 @@ Di dekat tungku, seutas tali tergantung dari paku bambu. Tidak ada ikatan sayura
 
 Ia menarik kaki yang satunya masuk.
 
-“Aku tahu,” gumamnya.
+“Aku tahu Ibu sudah tidak di sini,” gumamnya.
 
 Entah kepada siapa.
 
@@ -32,7 +32,7 @@ Udara di dalam lebih dingin daripada di luar. Ada bau abu basah, kayu lembap, da
 
 Ujung lengan kirinya tersangkut pada serpihan pintu ketika ia berbalik. Terdengar bunyi sobekan kecil.
 
-Dani menatap kain itu. “Bagus.”
+Dani menatap kain itu. “Belum cukup rupanya kemalanganku hari ini.”
 
 Ia menariknya dengan kasar.
 
@@ -64,25 +64,25 @@ Ia baru menyadarinya setelah meletakkan mangkuk itu di seberang tempat duduknya.
 
 Ada retakan halus di bibirnya. Mu Nianci selalu memutar bagian yang retak itu menjauhi mulut ketika minum. Dahulu Dani pernah bertanya mengapa mangkuk itu tidak dibuang saja.
 
-“Karena masih bisa dipakai.” Ibunya memutar mangkuk itu di telapak, menjauhkan retakannya dari mulut. Dani mengikuti gerakan tersebut dengan mata.
+“Selama masih bisa dipakai, untuk apa kita membuangnya, Dani?” Ibunya memutar mangkuk itu di telapak, menjauhkan retakannya dari mulut. Dani mengikuti gerakan tersebut dengan mata.
 
-“Kalau pecah di tangan Ibu?” tanya Dani.
+“Tetapi bagaimana kalau mangkuk itu pecah ketika Ibu memegangnya?” tanya Dani.
 
-“Kalau tidak dijatuhkan lagi, barangkali tidak.”
+“Asalkan tidak ada yang menjatuhkannya lagi, tangan Ibu masih aman,” jawab Mu Nianci.
 
-Dani menarik siku dari tepi meja. “Aku cuma bertanya. Belum menyentuhnya pun sudah salah.”
+Dani menarik siku dari tepi meja. “Aku hanya bertanya, Bu. Kali ini belum kusentuh mangkuknya.”
 
 “Siapa yang memakainya untuk menangkap katak?” tanya Mu Nianci.
 
-“Itu lain. Kataknya bersih.”
+“Katak yang itu bersih, Bu. Aku tidak mengambilnya dari lumpur,” bantah Dani.
 
 Mu Nianci berhenti mengusap mangkuk. “Kau menanyakannya kepada kataknya?”
 
-“Kutangkap di air. Tentu saja—” bantah Dani.
+“Aku menangkapnya di air, Bu. Bukankah itu berarti ia sudah mandi?” bantah Dani.
 
 Ia melihat alis ibunya terangkat dan buru-buru memeriksa kolong meja, seolah ada urusan mendesak di sana.
 
-“Pokoknya waktu kutaruh, dia diam.”
+“Ketika kutaruh di dalam, ia diam saja. Aku tidak tahu ia akan melompat sejauh itu,” kata Dani.
 
 Mu Nianci menahan sudut bibirnya. Dani masih berusaha menjelaskan bahwa tak seorang pun pernah memperingatkannya tentang jauhnya lompatan katak.
 
@@ -92,7 +92,7 @@ Dani memandangi mangkuk retak tersebut. Roti dalam genggamannya menyerap air ter
 
 Ia buru-buru menyendoknya dengan jari.
 
-“Nyaris saja,” katanya dengan mulut penuh.
+“Hampir saja makananku ikut terbuang,” katanya dengan mulut penuh.
 
 Mangkuk di seberang tetap kosong.
 
@@ -120,7 +120,7 @@ Jarum paling besar miring sendirian.
 
 Ia mendengus. Sebelah sudut bibirnya terangkat, tetapi senyum kecil itu lenyap sebelum ia sempat menunduk lagi.
 
-“Masih di situ rupanya.”
+“Jarum besar itu masih miring seperti waktu kukembalikan,” gumam Dani.
 
 Ia pernah mencoba mengembalikan jarum itu tanpa ketahuan. Mu Nianci menemukannya pada hari yang sama.
 
@@ -128,13 +128,13 @@ Ia pernah mencoba mengembalikan jarum itu tanpa ketahuan. Mu Nianci menemukannya
 
 Jarum besar itu terjepit di antara dua jari ibunya. Dani mengangkat dagu sedikit.
 
-“Tidak kuambil. Kupinjam. Sudah kukembalikan, kan?”
+“Aku meminjamnya, Bu, bukan mengambil untuk kusimpan sendiri. Lihatlah, sudah kukembalikan,” bantah Dani.
 
-“Untuk apa?” tanya Mu Nianci.
+“Apa yang kaujahit sampai perlu jarum sebesar ini?” tanya Mu Nianci.
 
 Ia menggeser kaki ke bawah bangku.
 
-“Memperbaiki sesuatu.”
+“Aku hendak memperbaiki sepatuku sendiri supaya Ibu tidak perlu mengerjakannya,” jawab Dani.
 
 Pandangan Mu Nianci mengikuti gerakan kakinya. Ia mengulurkan tangan, menunggu.
 
@@ -142,21 +142,21 @@ Dani menyerahkan sepatunya dengan enggan, lalu menunjuk tumitnya seakan sedang m
 
 Ibunya mengangkat sepatu tersebut. Jahitan Dani menembus lapisan luar, lapisan dalam, dan sehelai kain alas yang seharusnya bisa dilepas. Semuanya menyatu menjadi benjolan keras. “Kau bisa berjalan dengan ini?”
 
-“Bisa,” jawab Dani.
+“Tentu masih bisa kupakai berjalan, Bu,” jawab Dani.
 
 Ibunya mengangkat sebelah alis. Dani merapatkan jari-jari kakinya ke lantai.
 
-“Sedikit miring.”
+“Hanya saja kakiku harus dimiringkan sedikit,” aku Dani.
 
 Mu Nianci mencoba menarik kain alas itu. Sepatunya ikut terangkat. “Sekarang kakimu yang harus menyesuaikan.”
 
-“Kalau sudah besar, tentu pas,” balas Dani.
+“Kalau kakiku sudah besar, barangkali jahitannya ikut melonggar, Bu,” balas Dani.
 
-“Kakimu akan tumbuh atau mengecil?”
+“Kakimu akan tumbuh, Dani. Apa kau mengira ruang di dalam sepatu ini akan bertambah sendiri?” tanya Mu Nianci.
 
 Mulut Dani sudah terbuka. Ia menutupnya lagi, meraih ujung sepatu, lalu melepaskannya ketika ibunya belum mau memberikan.
 
-“Jangan dibongkar semua. Yang sebelah sana sudah bagus.”
+“Jangan Ibu bongkar semuanya. Aku sudah susah payah menjahit bagian tumitnya,” pinta Dani.
 
 Mu Nianci memandangnya beberapa saat sebelum sudut mulutnya bergerak. Dani paling menyukai saat-saat seperti itu: ketika ibunya berusaha tetap marah dan gagal sedikit demi sedikit.
 
@@ -170,7 +170,7 @@ Ia mendekatkannya ke mata.
 
 Masih terlalu kecil.
 
-“Ibu sengaja memilih yang begini?” tanya Dani.
+“Mengapa dahulu Ibu memilih jarum sekecil ini?” tanya Dani.
 
 Benangnya melengkung setiap kali hendak masuk. Dani membasahi ujungnya, memilinnya, lalu mencoba lagi. Setelah percobaan berikutnya gagal, kedua alisnya bertaut. Ia menekan bibir begitu rapat sampai warnanya memucat, lalu menurunkan kedua tangan dan memandang ke luar dengan rahang mengeras.
 
@@ -180,7 +180,7 @@ Ia mengambil jarum yang lebih besar.
 
 Benang masuk pada percobaan kedua.
 
-“Nah. Ternyata yang tadi memang rusak,” gumam Dani.
+“Dengan jarum ini benangnya bisa masuk. Barangkali yang kecil tadi memang sudah rusak,” gumam Dani.
 
 Ia mulai menjahit.
 
@@ -232,11 +232,11 @@ Masih bertahan.
 
 Ia menatap lengan bajunya.
 
-“Kalau Ibu melihat ini...”
+“Kalau Ibu melihat jahitan ini, tentu aku disuruh membongkarnya lagi,” gumam Dani.
 
 Ia berhenti. Ibu jarinya mengusap jahitan yang menonjol, sekali, lalu tangannya diturunkan.
 
-“Ah. Yang penting tidak berlubang.”
+“Biarlah miring, asal angin tidak masuk melalui sikuku,” kata Dani.
 
 Ia mengenakan baju luar tersebut dan menggosok kedua tangan agar hangat. Kemudian ia mengembalikan benang, melipat potongan kain, dan menancapkan jarum pada bantalan.
 
@@ -258,19 +258,19 @@ Ayahnya sedang mengikat rambutnya. Terlalu kencang.
 
 “Kepalaku mau Ayah bawa ke mana?” tanya Dani.
 
-“Diam sebentar,” jawab Kang Moan.
+“Duduklah sebentar, Nak. Ayah hampir selesai mengikatnya,” jawab Kang Moan.
 
-“Kalau ditarik lagi, mataku pindah ke belakang.”
+“Ayah menariknya terlalu keras! Nanti mataku ikut tertarik ke belakang,” protes Dani.
 
-Kang Moan tertawa, sudut matanya berkerut. Tarikan itu mengendur, kemudian sepasang tangan besar memutar bahunya agar menghadap. “Coba lihat.”
+Kang Moan tertawa, sudut matanya berkerut. Tarikan itu mengendur, kemudian sepasang tangan besar memutar bahunya agar menghadap. “Sekarang coba pandang Ayah. Masih sakit?”
 
-Dani sengaja memicingkan mata sampai hampir tertutup. “Sudah pindah.”
+Dani sengaja memicingkan mata sampai hampir tertutup. “Mataku sudah tidak bisa terbuka, Ayah.”
 
 Ayahnya tertawa lebih keras.
 
 Mu Nianci mendekat dari samping, memeriksa simpul itu, lalu membukanya tanpa mengatakan sepatah kata pun. Sebelah alisnya terangkat ketika ia melirik Kang Moan.
 
-“Seburuk itukah?” tanya Kang Moan.
+“Seburuk itukah hasil ikatanku?” tanya Kang Moan.
 
 “Kau mengikat anak atau mengikat kayu bakar?” balas Mu Nianci.
 
@@ -314,7 +314,7 @@ Ia tetap membukanya.
 
 Bagian dalamnya bersih.
 
-“Sudah tahu kosong. Masih juga dibuka,” gumam Dani.
+“Aku sudah tahu tidak ada berasnya, tetapi tanganku masih saja membuka penutupnya,” gumam Dani.
 
 Ia memasang penutupnya dengan gerakan lebih keras daripada yang diperlukan.
 
@@ -334,7 +334,7 @@ Perkataannya terdengar terlalu keras di ruangan kecil tersebut.
 
 Ia merendahkan suara ketika menambahkan:
 
-“Kayunya masih basah.”
+“Lagipula kayunya masih basah; hanya akan memenuhi rumah dengan asap,” tambah Dani.
 
 ***
 
@@ -350,11 +350,11 @@ Bunyinya ringan.
 
 Mu Nianci biasa mendorong jarum dengan benda tersebut ketika menjahit lapisan kain yang tebal. Dani baru ingat setelah seluruh tambalan selesai dan jarinya telanjur berlubang.
 
-“Jadi ini gunanya. Bisa-bisanya aku...”
+“Rupanya ini untuk mendorong jarum. Mengapa baru sekarang aku teringat?” gumam Dani.
 
 Ia menatap ujung jarinya yang tertusuk, kemudian menggeleng.
 
-“Sudahlah.”
+“Akan kubawa juga supaya lain kali jariku tidak tertusuk lagi,” kata Dani.
 
 Ia meletakkan bidal itu bersama benang.
 
@@ -386,7 +386,7 @@ Kain kelabu itu mengeluarkan bunyi kecil.
 
 Ia langsung melepaskan tarikan. Rahangnya menegang, tetapi tangannya justru gemetar di atas simpul yang belum selesai.
 
-“Bodoh.”
+“Bodoh sekali aku memaksakan semuanya masuk,” desis Dani.
 
 Kata itu keluar begitu tajam hingga ia sendiri terdiam.
 
@@ -402,7 +402,7 @@ Ia tidak menangis ketika melakukannya. Setidaknya belum. Tetapi napasnya tiba-ti
 
 Ia menunggu sampai tenggorokannya bisa dipakai lagi.
 
-“Mangkuk saja menyusahkan.”
+“Hanya sebuah mangkuk, tetapi aku bahkan tidak sanggup membawanya,” keluh Dani.
 
 Suaranya serak. Ia menelan ludah, memalingkan wajah dari meja, dan menekan lidah ke langit-langit mulut sampai bibirnya berhenti bergetar.
 
@@ -434,7 +434,7 @@ Jalan itu tidak peduli.
 
 Ia mengembuskan napas melalui hidung. Dagunya masih terangkat, tetapi jemarinya mencengkeram kusen lebih kuat sebelum perlahan terlepas.
 
-“Aku pergi, Bu.”
+“Aku pergi dahulu, Bu. Jarum dan bidalnya kubawa bersamaku,” ucap Dani.
 
 Kali ini ia mengucapkannya dengan sengaja.
 

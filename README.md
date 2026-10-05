@@ -1,63 +1,54 @@
-# Saga Dani Moan — Bab 1–8 + Wiki Persilatan
+# Saga Dani Moan — Bab 1–9
 
-Edisi 4 Oktober 2026. Novel berilustrasi karya Daniel Halomoan Siregar.
+Novel wuxia berilustrasi karya Daniel Halomoan Siregar.
 
-## Isi pembaruan
+**Baca langsung:** https://daniel100703.github.io/DanimoanSaga/
 
-- Bab 8, **Yang Tak Sempat Dikatakan**, dengan tiga ilustrasi baru. Xiaolongnü memperbaiki jubah biru Dani memakai alat jahit Mu Nianci sebagai bagian perkembangan hubungan mereka.
-- Kartu lore di seluruh Bab 1–8: tokoh, ilmu, senjata, kondisi, perguruan, dan benda bermakna. Ketuk istilah bergaris bawah untuk membukanya.
-- Wiki Persilatan dengan pencarian, jenis, dan batas informasi. Kemampuan yang belum muncul tetap belum diketahui. Kartu di tengah cerita mengikuti paragraf tempat dibuka.
-- Ringkasan ilmu dan bahaya di akhir bab. Kartu tokoh berisi kemampuan, tingkat bila sudah layak diungkapkan, kondisi, dan bukti adegan.
-- Tema krem/gelap, ukuran huruf, serta posisi baca. Teks dan ID paragraf Bab 1–7 dipertahankan. Catatan penulis yang memuat informasi masa depan tetap tersimpan dalam Markdown, tidak ditampilkan dalam bacaan.
+## Edisi dialog v4
 
-## Memperbarui situs yang sudah berisi Bab 1–7
+- Percakapan Bab 1–8 disunting sesuai suara tokoh, usia, kedudukan, dan hubungan. Sapaan seperti Gugu, Shifu, Paman Guo, Bibi Guo, Qianbei, Dani-gege, dan Kak Ying mengikuti lawan bicara.
+- Dialog tanpa label nama; atribusi ucapan diperjelas. Peristiwa, urutan adegan, ilustrasi lama, dan penanda paragraf lama dipertahankan. Pengantar singkat di sekitar beberapa dialog disesuaikan agar selaras dengan ucapan.
+- Bab 9: **Di Hadapan Iblis Merah**, dengan satu pembuka dan dua ilustrasi peristiwa. Arc pertemuan sekutu dan penyelamatan Wushuang selesai dalam satu bab.
+- Wiki Persilatan mengikuti paragraf bacaan. Tokoh baru tidak langsung memperoleh statistik kemampuan yang belum diperlihatkan. Kutipan bukti memakai naskah hasil revisi.
+- Pembaruan diterapkan langsung melalui konektor GitHub. Pembaca cukup membuka situs; tidak perlu mengunggah berkas sendiri.
 
-1. Unduh dan ekstrak **Saga_Dani_Moan_Update_Bab_08_dan_Wiki.zip**.
-2. Buka repository **Daniel100703/DanimoanSaga**, di folder yang memuat `index.html`, pada branch yang dipakai GitHub Pages.
-3. Gunakan **Add file → Upload files**. Unggah **seluruh file hasil ekstraksi**, termasuk halaman Bab 1–7 yang diperbarui, CSS, JavaScript, dan wiki. Jangan hanya mengunggah `bab-08.html`, dan jangan mengunggah ZIP-nya.
-4. Simpan melalui **Commit changes**. Tunggu penerbitan Pages untuk commit itu selesai pada tab **Actions**.
-5. Muat ulang situs. Jika masih menampilkan versi lama, gunakan **Ctrl+F5** pada desktop atau muat ulang/buka tab baru pada ponsel.
+## Membaca
 
-Paket menimpa berkas bernama sama dan menambahkan berkas baru. Jangan menghapus ilustrasi, font, atau bab lama yang tidak terdapat dalam ZIP update. Semua berkas tetap sejajar dengan `index.html`, tanpa folder `assets` atau `content`.
+Gunakan daftar bab untuk berpindah, tombol A−/A+ untuk ukuran huruf, dan tombol tema untuk beralih antara tampilan krem dan gelap. Posisi baca tersimpan pada peramban yang dipakai.
 
-Jika situs masih Bab 1–6, susunan filenya berbeda, atau ada aset hilang, gunakan **Saga_Dani_Moan_GitHub_Pages.zip** versi terbaru. Paket lengkap mencakup seluruh Bab 1–8 dan asetnya. Ekstrak dan unggah semua berkas ke lokasi yang sama dengan `index.html`.
+Ketuk istilah bergaris bawah untuk membuka kartu lore. Kartu mengikuti pengetahuan pada paragraf itu, termasuk ketika membaca kembali bab lama. Wiki menyediakan pencarian, filter jenis, dan pilihan batas informasi. Memilih akhir bab yang lebih jauh akan membuka informasi sampai bab tersebut.
 
-## Membaca langsung tanpa GitHub
+Potret tokoh diambil dari ilustrasi adegan yang sudah ada. Gambar, font, CSS, dan JavaScript berada sejajar dengan `index.html`; struktur ini aman untuk alamat proyek `/DanimoanSaga/`.
 
-- **Saga_Dani_Moan_Bab_01-08_Webnovel.html** memuat seluruh bab, gambar, font, dan wiki dalam satu berkas. Unduh lalu buka di browser seperti Chrome; pratinjau dokumen yang tidak menjalankan JavaScript tidak dapat mengoperasikan kartunya.
-- Paket lengkap juga dapat dibaca dengan membuka `index.html` setelah diekstrak. Pertahankan semua berkas dalam satu folder.
-- Tidak diperlukan akun pembaca, internet untuk aset, npm, atau database. Posisi baca tersimpan pada browser/perangkat yang sama. Bookmark situs daring tidak otomatis dipindahkan ke file lokal karena alamat penyimpanannya berbeda.
+## Membangun halaman dari naskah
 
-## Batas informasi
-
-- Kartu dari kalimat hanya memuat informasi sampai adegan tersebut, sekalipun pembaca telah menamatkan bab berikutnya.
-- Wiki memakai posisi baca tersimpan. Pilihan **Akhir Bab…** membuka rangkuman bab tertentu; memilih bab yang belum dibaca dapat membuka informasi bab itu.
-- **Belum diketahui/belum terukur** bukan berarti lemah. Tingkat kekuatan, penguasaan ilmu, cedera, dan bahaya pada suatu pertarungan dibedakan.
-- Bukti dapat dibuka melalui **Lihat dasar dalam cerita → Baca adegan**.
-- Batas informasi melindungi pengalaman membaca, bukan menyembunyikan isi berkas dari pemeriksaan kode sumber.
-
-## Menambah bab berikutnya
-
-| Berkas | Fungsi |
-| --- | --- |
-| `bab-01.md` sampai `bab-08.md` | Naskah dan catatan kontinuitas pengarang. |
-| `book.json` | Judul, urutan bab, ilustrasi, dan tokoh baru. |
-| `lore-data.json` | Isi kartu dan tahap pembukaan menurut bab/paragraf. |
-| `build.py`, `lore.py` | Pembuat halaman statis; hanya memerlukan Python 3. |
-| `reader.js`, `lore.js`, `reader.css` | Antarmuka membaca dan wiki. |
-
-Untuk membangun ulang setelah menyunting, jalankan dari folder ini:
+Repositori ini adalah situs statis; Python dipakai hanya saat menyusun halaman. Tidak memerlukan npm, database, API key, atau server aplikasi.
 
 ```bash
-python build.py
+python3 build.py
 ```
 
-Untuk membuat edisi satu HTML:
+Perintah itu membangun `index.html`, `wiki.html`, dan semua `bab-XX.html` dari `book.json`, `bab-XX.md`, serta `lore-data.json`. Catatan kontinuitas penulis tetap di Markdown dan tidak masuk ke halaman bacaan.
+
+Untuk satu berkas HTML yang dapat dibaca tanpa internet:
 
 ```bash
-python build.py --standalone Saga_Dani_Moan_Webnovel.html
+python3 build.py --standalone Saga_Dani_Moan_Offline.html
 ```
 
-Untuk Bab 9: tambahkan `bab-09.md`, metadata pada `book.json`, dan ilustrasi dalam folder ini. Tambahkan panjang bab serta entri/tahap baru pada `lore-data.json` sesuai bukti naskah. Jangan mengisi kekuatan otomatis untuk tokoh yang belum memperlihatkannya. Pertahankan urutan paragraf lama agar bookmark dan rujukan bukti tetap benar. Bangun ulang, lalu unggah berkas baru/berubah; halaman HTML lama ikut diperbarui untuk navigasi.
+Untuk memeriksa tampilan secara lokal:
 
-Paket siap diunggah pemilik repository. Pembuatan paket ini tidak mengubah situs GitHub secara otomatis.
+```bash
+python3 -m http.server 8000
+```
+
+Buka `http://localhost:8000` setelah server berjalan. Tekan Ctrl+C untuk menghentikannya.
+
+## Menambahkan bab berikutnya
+
+1. Tulis `bab-XX.md`, lalu tambahkan metadata bab, gambar, posisi ilustrasi, dan tokoh baru pada `book.json`.
+2. Perbarui panjang bab dan tahap informasi di `lore-data.json`. Setiap tahap harus menunjuk paragraf yang benar; jangan memuat rahasia masa depan pada kartu awal.
+3. Jalankan `python3 build.py`; periksa gambar, navigasi, wiki, serta tampilan ponsel dan desktop.
+4. Commit seluruh berkas yang berubah beserta aset baru ke `main`. GitHub Pages menerbitkan situs dari cabang yang sudah dikonfigurasi.
+
+Jangan menghapus aset lama yang masih dipakai bab atau potret tokoh. Penanda paragraf bab terdahulu dijaga agar bookmark dan tautan bukti tetap bekerja. Jangan memasukkan hasil HTML luring yang besar ke repositori; halaman situs sudah memakai aset bersama.

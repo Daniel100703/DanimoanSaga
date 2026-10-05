@@ -1,12 +1,12 @@
 {
   "title": "Saga Dani Moan",
-  "description": "Novel wuxia berilustrasi karya Daniel Halomoan Siregar. Bab 1–8 dengan kartu lore dan Wiki Persilatan yang mengikuti cerita.",
+  "description": "Novel wuxia berilustrasi karya Daniel Halomoan Siregar. Edisi dialog v4, Bab 1–9, dengan Wiki Persilatan yang mengikuti cerita.",
   "chapters": [
     {
       "id": 1,
       "title": "Rumah yang Kehilangan Suara",
       "description": "Sebuah rumah kosong, kenangan keluarga, dan langkah pertama meninggalkan yang tersisa.",
-      "quote": "Aku pergi, Bu.",
+      "quote": "Aku pergi dahulu, Bu. Jarum dan bidalnya kubawa bersamaku.",
       "accent": "#5B6B7A",
       "slug": "bab-01",
       "han": "一",
@@ -113,7 +113,7 @@
       "id": 2,
       "title": "Bayang-Bayang di Kediaman Lu",
       "description": "Permintaan air membawa Dani ke sebuah halaman yang sedang menunggu kedatangan tamu.",
-      "quote": "Kau kembali.",
+      "quote": "Adik kecil, rupanya nasihatku tadi tidak sampai ke telingamu.",
       "accent": "#8E2F2A",
       "slug": "bab-02",
       "han": "二",
@@ -210,7 +210,7 @@
       "id": 3,
       "title": "Pintu yang Terlambat Terbuka",
       "description": "Jalan keluar terbuka, tetapi Dani harus menghadapi batas pertolongan yang sanggup diberikannya.",
-      "quote": "Rumah itu tetap diam.",
+      "quote": "Aku tidak akan melupakan pertolonganmu hanya karena engkau tidak sanggup mengalahkan Li Mochou.",
       "accent": "#8E2F2A",
       "slug": "bab-03",
       "han": "三",
@@ -382,7 +382,7 @@
       "id": 5,
       "title": "Di Bawah Atap Keluarga Guo",
       "description": "Sebuah keluarga menerima Dani; rasa curiga dan harga diri segera menguji tempat barunya.",
-      "quote": "Ia belum berani menganggapnya tempat untuk pulang.",
+      "quote": "Engkau tidak kehilangan keluarga karena berbuat salah.",
       "accent": "#74464F",
       "slug": "bab-05",
       "han": "五",
@@ -501,7 +501,7 @@
       "id": 6,
       "title": "Di Balik Pintu Batu",
       "description": "Harapan belajar membawa Dani ke Quanzhen, lalu menuju sebuah pintu batu di lereng Zhongnan.",
-      "quote": "Pintu itu menutup setelah Dani berada di dalam.",
+      "quote": "Aku sendiri yang akan mengajarimu, Dani.",
       "accent": "#536C76",
       "slug": "bab-06",
       "han": "六",
@@ -592,7 +592,7 @@
         {
           "name": "Xiaolongnü",
           "age": "16 tahun.",
-          "description": "Pewaris Makam Kuno; bicara singkat dan harfiah.",
+          "description": "Pewaris Makam Kuno; tutur halus, tenang, dan terus terang. Memegang janji kepada Nenek Sun.",
           "image": {
             "file": "bab-06-ilustrasi-02.webp",
             "width": 1536,
@@ -615,7 +615,7 @@
       "title": "Janji di Bawah Tanah",
       "accent": "#586F69",
       "description": "Empat tahun latihan diuji oleh kedatangan Li Mochou. Di dalam makam yang tertutup, Dani dan Gugu harus memilih siapa yang akan mereka percayai.",
-      "quote": "Aku bisa marah sambil menjagamu.",
+      "quote": "Kemarahanku tidak membuatku ingin meninggalkanmu.",
       "cover": {
         "file": "bab-07-pembuka.webp",
         "width": 1024,
@@ -638,7 +638,7 @@
             "width": 1536,
             "height": 1024
           },
-          "anchor": "Aku bisa marah sambil menjagamu.",
+          "anchor": "Biarkan aku marah sambil tetap menjagamu.",
           "alt": "Di balik batu penutup makam, Dani membawa lampu dan menopang Xiaolongnü setelah memilih tetap menjaganya.",
           "caption": "Ia masih marah. Tangannya tetap terulur."
         }
@@ -670,7 +670,7 @@
       "title": "Yang Tak Sempat Dikatakan",
       "accent": "#986263",
       "description": "Di gubuk lereng gunung, sebuah jubah yang diperbaiki menjadi bagian dari kedekatan Dani dan Gugu. Kedatangan ayah angkatnya mengusik ketenteraman itu.",
-      "quote": "Kalau Gugu memerlukannya, ambil saja.",
+      "quote": "Aku percaya Gugu akan menjaganya seperti aku menjaganya.",
       "cover": {
         "file": "bab-08-pembuka.webp",
         "width": 1024,
@@ -716,6 +716,94 @@
           ]
         }
       ]
+    },
+    {
+      "id": 9,
+      "slug": "bab-09",
+      "han": "九",
+      "source": "bab-09.md",
+      "title": "Di Hadapan Iblis Merah",
+      "accent": "#95563E",
+      "description": "Di tengah pencarian Gugu, Dani bertemu kembali dengan Wushuang. Penyamaran dan pertolongan mempertemukan enam anak muda dengan ancaman Li Mochou.",
+      "quote": "Kali ini satu orang telah berhasil ia bawa keluar.",
+      "cover": {
+        "file": "bab-09-pembuka.webp",
+        "width": 1024,
+        "height": 1536
+      },
+      "plates": [
+        {
+          "image": {
+            "file": "bab-09-ilustrasi-01.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "anchor": "Yelü Qi mengembalikan hormat Dani dan memberi jalan.",
+          "alt": "Dani memberi hormat kepada Yelü Qi, disaksikan Yelü Yan dan Wanyan Ping di halaman tempat singgah.",
+          "caption": "Seseorang harus memberi jalan untuk berhenti tanpa kehilangan harga diri."
+        },
+        {
+          "image": {
+            "file": "bab-09-ilustrasi-02.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "anchor": "Dani menarik topeng itu.",
+          "alt": "Dani membuka topeng di hadapan Li Mochou. Wushuang mengenalinya dari bangku kedai, dengan Hong Lingbo berdiri di sisinya.",
+          "caption": "Nama yang disembunyikan akhirnya mempertemukan kembali ingatan mereka."
+        }
+      ],
+      "cast": [
+        {
+          "name": "Yelü Qi",
+          "age": "Sekitar 20 tahun.",
+          "description": "Tegas, mampu menahan diri; membedakan dendam pribadi dari tanggung jawab kepada orang yang terancam.",
+          "image": {
+            "file": "bab-09-ilustrasi-01.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "roi": [
+            0.125,
+            0.035,
+            0.263,
+            0.306
+          ]
+        },
+        {
+          "name": "Yelü Yan",
+          "age": "Sekitar 19 tahun.",
+          "description": "Lincah dan terus terang; sigap melindungi kakaknya serta membantu orang yang terdesak.",
+          "image": {
+            "file": "bab-09-ilustrasi-01.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "roi": [
+            0.31,
+            0.176,
+            0.405,
+            0.383
+          ]
+        },
+        {
+          "name": "Wanyan Ping",
+          "age": "Sekitar 18–19 tahun.",
+          "description": "Keras kepala dan dibebani kehilangan; harga diri membuatnya sulit menerima belas kasihan.",
+          "image": {
+            "file": "bab-09-ilustrasi-01.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "roi": [
+            0.541,
+            0.233,
+            0.633,
+            0.441
+          ]
+        }
+      ]
     }
-  ]
+  ],
+  "edition": "dialog-v4-bab09"
 }
