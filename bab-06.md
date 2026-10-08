@@ -1,316 +1,286 @@
-# BAB 6 — DI BALIK PINTU BATU
+# BAB 6 — JANJI DI BAWAH TANAH
 
-Kabut masih menggantung di antara pinus ketika Guo Jing membawa Dani melewati gerbang Quanzhen. Anak tangga yang basah berakhir pada halaman batu; dari balik bangunan terdengar suara murid mengulang bacaan serempak. Dani merapatkan buntalan ke pinggang. Di tempat sebesar ini, pikirnya, tentu ada seseorang yang bersedia mengajarinya dengan sungguh-sungguh.
+Tanah masih melekat di kuku Dani ketika Xiaolongnü menyerahkan pedang kayu kepadanya.
 
-Zhao Zhijing menerima mereka di depan serambi. Ia bertubuh tegak, berkumis tipis, dengan mata yang menilai Dani lebih lama daripada senyumnya bertahan. Kepada Guo Jing ia memberi hormat yang dalam.
+Mereka baru kembali dari memakamkan Nenek Sun. Dani meletakkan buntalan di dekat dinding, tetapi tidak mengambil pedang itu. Di ruangan tempat perempuan tua tersebut dibaringkan semalam, kain penutupnya sudah dilipat. Lampu yang dinyalakan Xiaolongnü membuat ruangan itu tampak seperti biasa.
 
-“Dasar anak ini belum utuh,” kata Guo Jing. “Ia cepat belajar, tetapi kemarahannya sering mendahului pertimbangannya. Aku menitipkannya untuk dibimbing, bukan sekadar dijaga.”
+“Apakah kita harus mulai berlatih sekarang, Bibi?” tanya Dani.
 
-“Quanzhen memiliki aturan untuk itu, Pendekar Guo.” Zhao Zhijing menoleh kepada Dani. “Selama ia bersedia patuh, tidak ada alasan ia tidak berkembang.”
+“Menunggu esok belum tentu membuat lukamu lebih ringan. Kita dapat memulainya dengan gerakan yang tidak memberatkanmu,” jawab Xiaolongnü.
 
-Dani berlutut ketika diminta memberi hormat kepada calon gurunya. Batu dingin menekan kedua lututnya. Ia menundukkan kepala dan menyebut Zhao Zhijing sebagai Shifu, cukup keras agar Guo Jing mendengar.
+“Bukan luka di tubuh yang kumaksud, Bibi. Kita baru saja memakamkan Nenek Sun,” kata Dani.
 
-“Bangunlah, Dani,” ujar Zhao. “Di perguruan ini engkau harus menaati aturan, bukan hanya mengikuti kemauan sendiri.”
+Xiaolongnü menurunkan pedang. Untuk sesaat Dani menyangka ia akan dimarahi. Gadis itu justru memandang kain terlipat di sebelah lampu.
 
-Guo Jing memastikan tempat tinggal dan pelajaran Dani sebelum berpamitan. Di dekat tangga, ia berhenti dan membetulkan letak buntalan yang hampir melorot dari lengan anak itu.
+“Aku pun belum terbiasa mendapati tempat Nenek Sun kosong. Tetapi aku sudah berjanji akan menjagamu, dan aku hendak mulai menepatinya,” kata Xiaolongnü.
 
-“Belajarlah dengan tekun. Jika belum mengerti, tanyakan kepada gurumu dengan hormat. Jangan pendam kesulitan sampai hatimu hanya menyisakan kemarahan,” pesan Guo Jing.
+Mendengar pengakuan itu, Dani akhirnya mengambil pedang, menggenggam gagangnya terlalu keras. Xiaolongnü tidak menyuruhnya berhenti bersedih. Ia menunjukkan tempat berdiri, lalu meminta Dani mengangkat tangan.
 
-“Apakah Paman Guo akan datang menengok saya lagi?” tanya Dani.
+Pukulan pertama Dani meleset. Yang kedua ditahan begitu mudah hingga rasa malu naik ke tengkuknya. Ia maju lebih cepat; ujung pedang Xiaolongnü sudah menyentuh dadanya sebelum tangannya sempat turun.
 
-“Paman akan mencari kabarmu.” Guo Jing menatapnya langsung. “Jaga dirimu, Dani.”
+“Engkau terlalu sibuk mengejar tanganku,” kata gadis itu. “Perhatikan perpindahan kakiku. Dari sanalah engkau dapat mengetahui ke mana tubuhku akan bergerak.”
 
-Dani mengangguk. Ia tetap di tangga sampai jubah cokelat keemasan itu menghilang di balik gerbang. Baru ketika Zhao memanggilnya untuk kedua kali ia berbalik, bergegas mengejar langkah gurunya.
+Dani merendahkan bahu, mengambil ancang-ancang yang masih diingat tubuhnya. Xiaolongnü mengetuk pergelangan tangannya sebelum tenaga sempat terkumpul.
 
-***
+“Jangan gunakan gerakan itu dahulu, Dani,” kata Xiaolongnü.
 
-Beberapa pekan berlalu dalam hafalan yang bertambah panjang, sementara pelajaran gerak tidak kunjung dimulai. Zhao menyuruh Dani mengulang bait-bait dasar; bila ia bertanya tentang penerapannya, jawabannya selalu sama: hafalkan dahulu, baru engkau boleh bertanya. Murid lain berlatih di halaman saat Dani masih disuruh duduk menghadap kitab.
+“Tetapi hanya gerakan inilah yang dapat kupakai ketika terdesak, Bibi,” jawab Dani.
 
-Pada suatu pagi, Dani menyelesaikan seluruh bagian yang ditugaskan tanpa satu kesalahan. Ia sengaja melafalkan kata terakhir dengan jelas, lalu menunggu. Zhao membalik halaman.
+“Justru karena engkau belum dapat menghentikan tenaganya, engkau belum boleh bergantung kepadanya. Pelajari dulu cara menguasai tubuhmu sendiri,” kata Xiaolongnü.
 
-“Sekarang hafalkan bagian yang kutunjukkan ini,” kata Zhao Zhijing.
+Ia hendak membantah, tetapi teringat rusuk Lu Qingdu dan Wu Xiuwen. Dani meluruskan tubuh dengan muka panas. Selama ini ilmu ayah angkatnya adalah satu-satunya jawaban ketika ia terpojok. Melepaskannya terasa seperti menyerahkan tangan agar diikat.
 
-“Shifu, bagian yang kemarin sudah murid hafal seluruhnya,” jawab Dani.
+Xiaolongnü mengulangi gerakannya, kali ini perlahan. Dani melihat tumitnya bergeser lebih dahulu, baru pinggang dan tangan. Ia mencoba meniru. Pedang kayunya tetap terlepas.
 
-“Aku sudah mendengar bacaanmu. Tidak perlu kauingatkan lagi,” kata Zhao Zhijing.
+“Izinkan murid mencobanya sekali lagi, Bibi,” kata Dani, sebelum disuruh.
 
-“Kapan Shifu akan mengajarkan gerakan yang disebut dalam bait-bait itu?” tanya Dani.
+Pada percobaan berikutnya ia berhasil menjaga gagang itu. Xiaolongnü mengangguk kecil. Tidak ada orang di belakangnya yang tertawa, dan tidak ada hukuman karena ia memerlukan penjelasan dua kali.
 
-Zhao mengangkat mata. “Engkau hendak mengatur pelajaranmu sendiri?”
-
-Dani menelan jawaban pertama yang muncul. Ia teringat pesan Guo Jing tentang bertanya, lalu mencoba sekali lagi dengan suara lebih rendah. “Murid hanya belum memahami cara memakai pelajaran yang dihafal. Mohon Shifu memberi petunjuk.”
-
-“Itu menunjukkan bahwa belajarmu belum cukup.” Kitab diletakkan di hadapannya. “Mulutmu sudah lebih cepat daripada pemahamanmu. Sekarang duduk dan lanjutkan bacaanmu.”
-
-Di ambang pintu, Lu Qingdu mendengar percakapan itu. Murid bertubuh lebih besar tersebut menunggu Zhao keluar sebelum mendekat. Jarinya menekan kitab hingga tertutup.
-
-“Shifu sudah memberimu jawaban. Apakah kau masih hendak membantah beliau?” kata Lu Qingdu.
-
-“Tolong angkat tanganmu dari kitab. Aku hendak melaksanakan perintah Shifu,” jawab Dani.
-
-Lu tidak mengangkatnya. Ia membungkuk sampai bayangannya menutupi halaman. “Saat bicara kepadaku, panggil Shixiong. Kau mengerti kedudukanmu di sini?”
-
-Dani memandang tangan yang menekan kitab, kemudian wajah pemiliknya. “Aku memahami kedudukan Shixiong. Kalau demikian, bolehkah kitabnya dikembalikan supaya aku dapat belajar?”
-
-Suara itu patuh, tetapi pandangannya tidak. Lu menampar belakang kepalanya. Dani menahan sisi bangku agar tidak tersungkur; ketika ia berdiri, Zhao sudah kembali ke pintu.
-
-“Apa yang terjadi?” tanya gurunya.
-
-Lu lebih dahulu menjawab. “Murid sedang mengingatkannya tentang tata krama, Shifu. Tetapi ia justru hendak melawan.”
-
-“Shifu, dia memukul kepala saya ketika saya meminta kitab itu dilepaskan,” kata Dani.
-
-Zhao melihat kitab yang tertutup dan bangku yang bergeser. “Duduk kembali, Dani. Seorang murid yang menghormati saudara seperguruannya tidak akan membuat perkara sekecil ini menjadi pertengkaran.”
-
-Dani tidak segera bergerak. Kulit kepalanya berdenyut, tetapi yang paling sulit ditahannya adalah cara Zhao kembali berjalan tanpa sekali pun bertanya kepada Lu mengapa ia memukul. Setelah gurunya menghilang, Dani duduk. Ia membuka kitab pada halaman yang salah dan lama tidak menyadarinya.
-
-Sejak itu Lu tidak perlu menunggu Dani membantah untuk mencari persoalan. Ia memotong giliran Dani mengambil air, menyenggol bahunya ketika berpapasan, atau memaksanya memberi hormat berulang-ulang. Dani mula-mula mengadu, lalu berhenti setelah setiap pengaduan berakhir dengan teguran kepada dirinya sendiri.
-
-Ia belajar mengenali waktu Lu berada di halaman. Ia juga belajar menyimpan buntalan di dekat pintu kamarnya, siap diambil apabila suatu hari ia benar-benar tidak tahan. Yang tidak bertambah adalah kemampuannya menangkis pukulan.
-
-Hari itu Zhao memanggilnya ke tempat latihan. Dani mendekat dengan harapan yang hampir membuatnya lupa pada perlakuan sebelumnya. Gurunya berdiri di tepi halaman bersama Lu Qingdu.
-
-“Engkau terus meminta mempelajari gerakan,” kata Zhao. “Perlihatkan hasil belajarmu.”
-
-Dani menatap Lu yang sudah mengambil posisi. “Shifu belum pernah menunjukkan caranya.”
-
-“Bukankah kau sendiri mengatakan semua baitnya sudah kauhafal?” tanya Zhao Zhijing.
-
-“Murid hafal bunyinya, Shifu, tetapi belum pernah diajari cara menggerakkan tubuh,” jawab Dani.
-
-“Kalau begitu, gunakan pikiranmu.” Zhao memberi isyarat kepada Lu. “Jangan sampai ia mengatakan tidak diberi kesempatan.”
-
-Lu maju sebelum Dani selesai bersiap. Pukulan pertamanya ditepis asal-asalan; yang kedua mengenai lengan dan membuat telapak Dani kesemutan. Dani mundur, mencoba meniru posisi kaki yang pernah dilihatnya, tetapi Lu menyapu pijakannya. Punggungnya membentur batu.
-
-“Bangun,” perintah Zhao.
-
-Dani bangkit dengan napas tertahan. “Mohon Shifu menunjukkan cara menahan pukulannya.”
-
-“Jangan jadikan ketidaktahuanmu alasan untuk menghindari latihan,” kata Zhao Zhijing.
-
-Lu kembali mendekat. Kali ini Dani melihat pundak lawannya bergerak sebelum pukulan datang, tetapi tubuhnya terlambat mengikuti. Sisi mulutnya pecah terkena buku jari. Rasa asin memenuhi lidahnya. Ia mundur sampai tumitnya menyentuh undakan.
-
-Zhao tetap berdiri di tempatnya.
-
-Dani menyeka bibir. Ia mengenali ketakutan yang mendorong tubuhnya merendah, dan sejenak wajah Wu Xiuwen muncul di benaknya. Jangan memukul tanpa tahu akibatnya, begitu pesan Paman Guo. Namun orang yang seharusnya mengajarinya mengendalikan tangan justru membiarkannya dipukul.
-
-“Cukup,” kata Dani.
-
-Lu meraih kerahnya. “Siapa yang menyuruhmu berhenti?”
-
-Dani menepis tangan itu, menjejakkan kaki, lalu mendorongkan telapak dari posisi rendah. Gerak Kungfu Hama itu masih kasar. Tenaganya terlepas sekaligus dan membuat bahunya nyeri, tetapi cukup untuk memutus sergapan Lu. Murid itu terhuyung, jatuh menyamping, dan mengerang sambil memegang rusuknya.
-
-Dani tidak mengejar. Ia membuka kedua tangannya dan mundur dari tubuh yang jatuh itu. Untuk sesaat ia berharap Zhao akan melihat bahwa ia sudah berhenti.
-
-“Dari mana engkau memperoleh ilmu sesat itu?” bentak gurunya.
-
-Harapan itu habis. Dani menatap wajah Zhao, lalu kitab yang terletak di bangku serambi. Semua kalimat yang dihafalnya tidak akan menjawab pertanyaan tersebut.
-
-“Yang jelas, bukan Shifu yang mengajarkan cara menyelamatkan diri ini,” jawab Dani.
-
-Zhao melangkah turun. Lu menunjuk Dani dengan tangan gemetar, mendesak agar ia dihukum. Dani tidak menunggu mereka mencapai dirinya. Ia berlari melewati serambi, menyambar buntalan dari kamarnya, dan keluar melalui jalan belakang sebelum Zhao selesai meneriakkan perintah untuk menghentikannya.
-
-Ia memilih jalan yang biasa dilaluinya saat mengambil air, bukan gerbang tempat murid-murid berkumpul. Di belakangnya, Lu kembali mengerang; Zhao berhenti untuk memeriksa rusuk murid itu sambil menyuruh yang lain mengejar. Dani menyelinap di antara bangunan, menahan bunyi napasnya sampai mencapai pepohonan. Baru setelah atap terakhir hilang dari pandangan ia berani memperpanjang langkah. Ia tahu cara meninggalkan halaman itu. Yang belum dipikirkannya adalah ke mana ia harus pergi sesudahnya.
+Malam itu Dani kembali mengambil buntalannya dari dekat pintu. Ia membawanya lebih jauh ke dalam, ke kamar yang ditunjukkan Xiaolongnü.
 
 ***
 
-Akar-akar pinus memaksanya memperlambat langkah. Sesudah suara pengejar menjauh, Dani baru menyadari bahwa ia tidak tahu jalan menuruni gunung. Ia mengikuti celah di antara pepohonan sampai menemukan batu-batu tua yang hampir tertutup lumut, lalu terhenti dengan napas patah-patah.
+Musim berganti di luar Makam Kuno. Di dalam, pelajaran bergerak dari langkah dan napas menuju rangkaian pedang, lalu dasar tenaga dalam Gadis Giok. Latihan yang semula menghabiskan seluruh pagi akhirnya dapat diselesaikan Dani sebelum minyak lampu berkurang separuh.
 
-“Jangan bergerak dahulu, Nak. Kakimu hampir kehilangan pijakan,” seru perempuan tua itu.
+Namun ada hal yang tidak menjadi lebih mudah hanya karena ia cepat belajar.
 
-Suara perempuan tua datang dari samping. Dani berbalik terlalu cepat dan hampir kehilangan keseimbangan. Seorang nenek berambut kelabu muncul dari balik batang pohon, mengenakan jubah cokelat tua yang sederhana. Matanya lebih dahulu tertuju pada bibir Dani, kemudian tangan yang menekan bahunya.
+Pada tahun pertama, Xiaolongnü mendapati Dani menyembunyikan pergelangan yang bengkak di balik lengan bajunya. Ia telah mengulang satu gerakan sendirian sampai malam karena kesal terus dikalahkan.
 
-“Siapa yang memukulmu sampai bibirmu pecah begitu?” tanya perempuan tua itu.
+“Ulurkan tanganmu, Dani. Aku hendak melihat pergelangan yang kausembunyikan itu,” kata Xiaolongnü.
 
-“Nenek tidak perlu mencampuri urusan saya. Saya hanya hendak lewat,” jawab Dani.
+“Pergelangan ini sudah tidak terlalu sakit, Bibi. Aku masih dapat menggerakkannya,” jawab Dani.
 
-Perempuan itu tidak tersinggung. Ia mengamati jalan di belakang Dani, lalu menyuruhnya duduk di batu rendah. Dani tidak menurut sampai kedua kakinya mulai gemetar.
+Xiaolongnü menyentuhnya. Dani meringis.
 
-“Namaku Sun,” kata Nenek Sun sambil membasahi kain untuk membersihkan luka di bibirnya. “Sekarang katakan namamu.”
+“Engkau meringis ketika kusentuh. Mengatakan bahwa lukamu sembuh tidak membuatnya sungguh-sungguh sembuh,” kata Xiaolongnü.
 
-“Nama saya Dani Moan, Nek,” jawab Dani.
+Ia menunduk saat gadis itu membebat pergelangannya. “Kalau setiap kali sakit aku harus berhenti, kapan aku dapat menyusul kepandaian Bibi?”
 
-“Apakah engkau murid perguruan Quanzhen?” tanya Nenek Sun.
+“Engkau baru dapat maju setelah tanganmu pulih. Luka yang dipaksakan hanya akan menahanmu lebih lama,” jawab Xiaolongnü.
 
-Ia mengangguk sekali, kemudian menggeleng. Nenek Sun menghentikan tangannya dan menunggu. Sikap itu membuat Dani semakin kesulitan menahan kata-kata yang sejak tadi menumpuk di dadanya.
+“Aku mengerti, Bibi. Tetapi rasanya aku selalu tertinggal meskipun sudah berlatih lebih lama,” kata Dani.
 
-Ia menceritakan hafalan, pukulan, dan pelajaran yang selalu ditunda. Ketika sampai pada Lu yang jatuh, Dani menatap ujung sepatunya. “Saya memang memukulnya kembali, Nek. Sekarang mereka hanya akan mengatakan bahwa sayalah yang bersalah.”
+Xiaolongnü mengencangkan simpul, lalu menaruh pedang Dani di luar jangkauannya. “Besok kita melatih langkah kaki. Biarkan pergelangan ini beristirahat dahulu.”
 
-“Nenek hendak mendengar seluruh kejadiannya. Tidak perlu kausisakan hanya bagian yang membuatmu tampak benar,” kata Nenek Sun.
+Dani menatap pedang itu. “Jadi Bibi tidak menyuruhku berhenti belajar sama sekali?”
 
-Dani terdiam sebentar, lalu mengaku bahwa ia menggunakan ilmu yang belum dapat dikendalikannya. Ia sudah pernah melukai seseorang dengan gerakan itu. Nenek Sun mendengarkan sampai selesai tanpa melepaskan kain dari tangannya.
+“Kakimu tidak terluka. Masih banyak yang dapat kaulatih bersamaku tanpa memakai tangan itu,” jawab Xiaolongnü.
 
-“Kau perlu diajar,” kata Nenek Sun akhirnya. “Itu tidak memberi mereka hak untuk menyiksamu.”
+Sesudah kejadian itu ia masih beberapa kali berlatih terlalu keras. Akan tetapi, ia mulai datang sendiri ketika memerlukan obat. Xiaolongnü pun belajar membedakan diam Dani yang sedang memperhatikan dari diamnya ketika menyembunyikan sesuatu.
 
-Dani mengangkat muka. Perempuan tua itu sudah berdiri, memeriksa kembali jalan yang tadi dilewatinya. Ia lalu mengulurkan tangan. Kali ini Dani menerimanya.
+Empat tahun berlalu. Dani berusia delapan belas, Xiaolongnü dua puluh. Pundaknya telah melebar; jubah biru kelabu dari keluarga Guo sudah beberapa kali dipanjangkan dan ditambal. Kini bagian bahunya kembali terasa sempit. Buntalan tua tetap disimpannya, bersama alat jahit Mu Nianci.
 
-Nenek Sun membawanya ke pintu batu di lereng yang dinaungi pepohonan. Di ambangnya berdiri seorang gadis berbaju putih, rambut hitamnya jatuh lurus di belakang bahu. Wajahnya muda, hanya terpaut dua tahun dari Dani, tetapi ia berdiri tanpa gerak seolah sudah lama menunggu di tempat yang sama.
+Dalam latihan pedang, Dani kini dapat memaksa Xiaolongnü berpindah dari tempatnya. Ia belum mampu mengalahkannya. Setiap kali mengira sudah menemukan celah, ujung pedang gurunya tiba di sana lebih dahulu.
 
-“Nona, anak ini terluka,” kata Nenek Sun. “Biarkan ia beristirahat di dalam.”
+Pada musim semi keempat, mereka mulai menelaah bagian Sutra Hati Gadis Giok yang harus dilatih berdua. Xiaolongnü membentangkan catatan perguruan, lalu menunjukkan kaitan antara gerakan Makam Kuno dan dasar Quanzhen. Bait-bait yang dahulu dipaksa Zhao masuk ke kepala Dani akhirnya memperoleh bentuk.
 
-Tatapan gadis itu singgah pada luka Dani. “Sun Popo, anak ini bukan anggota perguruan kita. Orang luar tidak diperkenankan tinggal di makam.”
+“Jadi selama ini aku menyimpan kunci, tetapi tidak diberi tahu pintunya,” kata Dani.
 
-“Ia terluka dan tidak mempunyai tempat berlindung, Nona. Biarkan ia memulihkan diri dahulu,” jawab Nenek Sun.
+“Sekarang engkau harus mempelajari keduanya. Mengetahui kelemahan suatu ilmu tidak berguna bila tanganmu belum sanggup mencapai kelemahan itu.”
 
-“Kita juga tidak biasa menerima murid dari luar. Apa yang akan kaulakukan sesudah lukanya pulih?” kata gadis berbaju putih itu.
+Dani mengulangi gerakan lawan dengan pedang kayu. Xiaolongnü masuk di antara pertahanannya, mengetuk pergelangan dan berhenti dekat sekali. Dahulu ia akan segera mundur untuk mengulang. Kali ini ia memandang wajah gurunya sampai Xiaolongnü bertanya mengapa pedangnya turun.
 
-Dani melepaskan tangan Nenek Sun. Ia belum meminta menjadi murid, tetapi penolakan itu sudah diucapkan sebelum ia sempat menyebut namanya. Ia memungut buntalan yang diletakkan di kaki batu.
+“Bibi sudah menang. Murid sedang memikirkan alasan yang tidak terlalu memalukan.”
 
-“Saya dapat pergi mencari tempat lain. Nona tidak perlu merasa terbebani,” kata Dani.
+“Kalau engkau terus memandang wajahku, alasanmu akan selalu sama.”
 
-Nenek Sun menahan lengannya. “Tunggulah sebentar, Dani.” Kepada gadis itu ia berkata lebih pelan, “Ia masih anak-anak, Nona. Setidaknya dengarkan dahulu bagaimana wajahnya sampai terluka.”
+Ia mengatakannya tanpa tersenyum, tetapi ketika Dani tergagap, sudut bibirnya bergerak. Dani baru mengetahui bahwa gurunya dapat sengaja membuatnya kehilangan jawaban.
 
-Gadis berbaju putih itu memandang Dani lagi, sungguh-sungguh kali ini. Tidak ada ejekan dalam matanya, juga tidak ada sambutan. “Siapa yang melukainya?”
+Untuk latihan tenaga dalam, mereka memilih tempat tersembunyi di antara bunga dan semak tinggi. Hawa panas harus dilepaskan tanpa terhalang pakaian yang ketat. Xiaolongnü menjelaskan kebutuhan itu dengan tenang; Dani menyiapkan pemisah kain dan menjaga jarak, kemudian mengikuti petunjuknya. Baginya yang menakutkan adalah kemungkinan salah mengalirkan tenaga ketika keselamatan gurunya bergantung kepadanya.
 
-“Orang yang seharusnya membimbingnya justru membiarkan ia dipukuli.” Nenek Sun mengatupkan rahang. “Aku akan meminta penjelasan kepada mereka. Anak ini tidak akan kukembalikan untuk mengalami hal yang sama.”
+“Bila ada gangguan, jangan tiba-tiba memutus napas,” pesan Xiaolongnü. “Bagianmu dapat dihentikan lebih cepat. Bagian yang kulatih memerlukan waktu untuk ditutup.”
 
-Gadis itu tidak melarang ketika Nenek Sun mengajak Dani menjauh dari ambang. Dani menoleh sekali. Pintu batu itu tetap terbuka, tetapi tidak ada suara yang menyuruhnya tinggal.
+Pada malam terakhir, langkah dua orang terdengar di luar semak. Dani mengenali suara Zhao bahkan sebelum namanya disebut.
+
+“Saudara Zhen, apakah kebetulan pula engkau datang ke belakang gunung setiap malam?”
+
+“Aku hendak berlatih sendiri. Jangan terus mengikuti langkahku.”
+
+“Berlatih atau menunggu seseorang keluar dari makam? Hadiah yang kautinggalkan di dekat pintunya belum tentu pernah disentuh.”
+
+Suara pedang terlepas dari sarung. Dani membuka mata. Perkelahian itu mendekat; ketika ia berdiri untuk menghalau mereka, bilah Zhao membelah dahan dan menyingkap tempat latihan.
+
+“Kalian!” bentak Dani. Ia meraih jubah Xiaolongnü dan melemparkannya ke balik pemisah.
+
+Xiaolongnü tersentak. Tenaga yang belum selesai disalurkan berbalik menghantam tubuhnya. Ia menutup pakaian, mencoba duduk tegak, lalu jatuh dengan darah di sudut bibir.
+
+Zhen bergerak hendak mendekat. Dani menyambutnya dengan ranting yang ditegakkan seperti pedang.
+
+“Tetua Zhen, jangan melangkah lagi. Bibi sedang terluka.”
+
+Zhao menatap mereka dengan mulut melengkung. “Rupanya murid yang melarikan diri memperoleh pelajaran istimewa. Pantaskah seorang guru berlatih begini dengan murid lelakinya?”
+
+“Kautahu latihan tenaga dalam tidak boleh diganggu,” jawab Dani. “Atau empat tahun mengajari orang menghafal telah membuatmu lupa isi pelajaranmu sendiri?”
+
+Zhao menusuk. Ranting Dani menyimpang melalui sudut yang justru terbuka oleh gerakan Quanzhen itu. Ia menyentuh pergelangan Zhao dan merebut pedangnya. Kejutan hanya bertahan sesaat: ketika pendeta itu berhenti menyerang serampangan, benturan berikutnya membuat lengan Dani kesemutan. Ia unggul membaca jurus, belum mempunyai tenaga untuk meremehkan lawannya.
+
+“Cukup, Saudara Zhao!” Zhen menghalangi pedang berikutnya. “Nona Long membutuhkan pertolongan.”
+
+“Kalau begitu, bersumpahlah,” kata Dani. “Apa yang kaulihat adalah latihan. Jangan kaubiarkan lidahmu mengubahnya menjadi aib untuk menutupi kesalahan kalian.”
+
+Zhen menatap darah di bibir Xiaolongnü. Wajahnya memucat. Ia bersumpah tidak menyebarkan kejadian tersebut dan memaksa Zhao ikut mengucapkannya. Dani tidak mempercayai keramahan mendadak mereka. Ia mundur sambil menopang Xiaolongnü, pedang tetap mengarah ke kedua pendeta sampai pepohonan menutup pandangan.
 
 ***
 
-Mereka bertemu Hao Datong di jalan menuju halaman Quanzhen. Pendekar tua itu datang setelah mendengar keributan; Zhao Zhijing berada tidak jauh di belakangnya. Melihat Dani, Zhao langsung menunjuk.
+Obat madu menenangkan batuknya, tetapi luka di dalam belum pulih. Xiaolongnü meminta Dani duduk di sisi ranjang batu.
 
-“Paman Guru, itulah anak yang melukai saudara seperguruannya dan kemudian melarikan diri,” kata Zhao Zhijing.
+“Jika aku mati, siapa yang akan menjagamu?”
 
-Nenek Sun menempatkan tubuhnya di depan Dani. “Sebelum menanyakan perbuatannya, tanyakan siapa yang membuat wajahnya begini.”
+Dani menahan cawan terlalu keras. “Bibi sedang terluka, bukan sedang memilih orang yang akan menggantikanmu. Katakan obat yang diperlukan. Aku dapat turun mencarinya.”
 
-Hao Datong memandang Dani, kemudian Zhao. “Apa yang diajarkan kepadanya?”
+“Aku berjanji kepada Nenek Sun akan menjagamu seumur hidup.” Jemarinya menyentuh gagang pedang di samping ranjang. “Kalau hidupmu berakhir bersamaku, janji itu tidak akan kuingkari.”
 
-“Murid mengajarkan dasar perguruan, Paman Guru,” jawab Zhao. “Namun anak ini tidak sabar mengikuti pelajaran. Ia membawa ilmu dari luar lalu memakainya untuk menyerang.”
+Dani mundur, mula-mula tidak percaya. Ujung pedang terangkat beberapa jari. Xiaolongnü memandangnya dengan ketenangan yang lebih mengerikan daripada kemarahan.
 
-“Tunjukkan dasar itu,” kata Nenek Sun. “Suruh ia memperagakan satu gerakan yang benar-benar pernah kauajarkan.”
+“Bibi ingin membunuhku karena takut meninggalkan aku?”
 
-Zhao mengeraskan wajah. “Urusan murid Quanzhen akan diselesaikan di Quanzhen.”
+Pertanyaan itu membuat tangannya berhenti. Dani merasakan seluruh tubuhnya dingin.
 
-Dani merasakan tangan Nenek Sun bergerak ke belakang, memastikan ia masih berada di sana. Ia menggenggam ujung jubah perempuan itu. Hao Datong melihat gerakan tersebut dan mengangkat tangan agar Zhao diam.
+“Aku ingin hidup bersamamu,” katanya. “Bila Bibi ingin menepati janji, biarkan aku berusaha merawatmu dahulu.”
 
-“Anak muda, masuklah bersama kami. Aku akan memeriksa perkara ini dan mendengarkan keteranganmu,” kata Hao Datong.
+Ia keluar sebelum gadis itu menjawab. Di lorong ia duduk menempel pada dinding, marah dan ketakutan; namun beberapa saat kemudian ia bangkit mencari persediaan obat. Ia tidak sanggup meninggalkan perempuan yang bahkan tidak tahu betapa salah cara menjaga yang baru dipikirkannya.
 
-“Qianbei, saya sudah mengadu kepada Shifu,” jawab Dani. “Berkali-kali saya meminta pertolongan, tetapi saya tetap dipukul.”
+Ketika kembali, ia mendengar suara perempuan lain menuntut Sutra Hati Gadis Giok.
 
-“Sekarang aku sendiri yang akan mendengarkan. Jangan mengira pengaduanmu tidak akan diperiksa,” jawab Hao Datong.
+Hong Lingbo berdiri di depan ruang istirahat dengan pedang terhunus. Ia mengaku membawa perintah gurunya. Dani baru hendak menjawab ketika kebut putih bergerak dari belakang gadis itu.
 
-Dani menatap Zhao di belakang tetua itu. Ia membayangkan pintu ditutup, Nenek Sun disuruh pergi, dan dirinya kembali berdiri sendirian di halaman latihan. Pegangannya pada jubah semakin erat.
+“Rupanya anak dari kediaman Lu,” ujar Li Mochou. “Setiap berjumpa, engkau memilih pintu yang hendak kulewati untuk berdiri.”
 
-“Maafkan saya, Qianbei. Saya tidak bersedia masuk ke halaman itu lagi,” kata Dani.
+“Di mana Wushuang?”
 
-Hao Datong menghela napas. Ia bermaksud menyelesaikan persoalan dengan tertib, tetapi di hadapannya penolakan seorang anak dan tuntutan seorang perempuan asing mulai terasa seperti tantangan terhadap perguruan. “Ia tidak dapat dibawa pergi sebelum kami mengetahui seluruh kejadiannya.”
+“Masih hidup. Sayangnya, rasa terima kasihnya tidak bertambah bersama usianya.” Li Mochou memandang ke dalam. “Adik seperguruan, wajahmu pucat sekali. Kakak datang pada saat yang tepat.”
 
-Nenek Sun menoleh kepada Dani. “Berjalanlah di belakang Nenek.”
+“Kalau Kakak hendak menolong, bawalah muridmu pergi,” jawab Xiaolongnü. “Aku tidak mempunyai tenaga untuk melayani perebutan kitab.”
 
-Ketika mereka berbalik, Hao Datong maju untuk menahan bahu Dani. Nenek Sun menyapu tangan itu dan mendorong anak tersebut ke belakangnya. Dua gerakan berikut berlangsung terlalu cepat untuk diikuti Dani: lengan jubah beradu, langkah Hao berputar, lalu telapaknya terlepas dalam tangkisan balasan.
+“Tenaga untuk mengajar pemuda itu ada, tetapi untuk berbagi warisan dengan kakak sendiri tidak?”
 
-Pukulan itu mengenai tubuh Nenek Sun.
+“Dani muridku. Kakak mengetahui syarat yang dahulu Kakak tolak.”
 
-Perempuan tua itu mundur satu langkah. Mulutnya terbuka, tetapi tidak ada suara. Dani baru sempat menangkapnya ketika kedua lututnya sudah kehilangan tenaga; berat tubuhnya menarik mereka jatuh bersama ke tepi jalan.
+Senyum Li Mochou menipis. Ia memerintahkan Hong Lingbo menyingkirkan Dani. Pedang mereka beradu; Dani menekan lawannya ke sisi dinding dengan gerak Makam Kuno. Ketika ia hendak memutar bilah Hong Lingbo, kebut gurunya menyambar pergelangan.
 
-“Nenek Sun!” panggil Dani.
+Hantaman itu membuat ujung pedang Dani jatuh. Xiaolongnü bangkit membantu, tetapi luka dalam memutus napasnya di tengah serangan. Li Mochou menggeser tubuh, lalu menghantam bahunya. Dani menangkap gurunya sebelum kepala Xiaolongnü membentur batu.
 
-Hao Datong menurunkan tangan. Wajahnya berubah sebelum ia mendekat, dan perubahan itulah yang pertama kali membuat Dani takut. Bukan geram, bukan kemenangan. Tetua itu tampak seperti orang yang baru menyadari sesuatu telah melampaui kehendaknya.
+Dani berdiri di depan Xiaolongnü dengan pedang gemetar di tangannya.
 
-“Baringkan tubuhnya perlahan, Nak. Izinkan aku memeriksa lukanya,” kata Hao Datong.
+“Lingbo,” kata Li Mochou lembut, “lihat baik-baik. Menjadi berani tidak sama dengan menjadi cukup pandai untuk melindungi orang lain.”
 
-“Jangan sentuh!” Dani memeluk bahu Nenek Sun. “Nenek, dengar aku?”
+Dani menahan pedang Hong Lingbo, sementara Xiaolongnü menariknya masuk ke lorong samping. Ia mengetahui bagian makam yang belum dikenal kedua penyerang. Melalui pintu tersembunyi mereka mencapai sisi luar gerbang batu. Udara malam menyentuh wajah Dani; untuk sesaat ia mengira mereka selamat.
 
-Jari-jari keriput bergerak di lengan bajunya. Dani menunduk begitu dekat hingga rambutnya menutupi wajah perempuan itu. Ia segera menyingkirkannya, seolah hal sekecil itu dapat mempermudah Nenek Sun bernapas.
+Xiaolongnü menunjukkan letak mekanisme penutup. “Turunkan Batu Pemutus Naga sesudah aku masuk. Kakak tidak akan memperoleh warisan perguruan ini.”
 
-Langkah ringan terdengar dari arah hutan. Gadis berbaju putih tadi telah menyusul mereka. Ia berlutut di sisi Nenek Sun, memegang pergelangan tangannya, lalu menatap Hao Datong.
+“Mengapa Bibi harus kembali?”
 
-“Apakah Qianbei yang memukul Sun Popo?” tanya gadis berbaju putih itu.
+“Aku bersumpah menjaga makam. Engkau masih dapat hidup di luar. Carilah Paman Guo.”
 
-Hao Datong tidak menghindari pandangannya. “Tangkisanku terlalu keras. Aku tidak bermaksud—”
+Dani memandang jalan menuruni gunung. Ia sudah pernah meninggalkan sebuah rumah setelah ibunya meninggal. Kini ia diminta memilih jalan itu sementara orang yang disayanginya masih bernapas di hadapannya.
 
-Gadis itu sudah kembali menghadap perempuan tua di pangkuan Dani. Nenek Sun membuka mata. Ketegangan di sekitar mulutnya sedikit mengendur saat mengenali siapa yang datang.
+“Bibi sungguh mengira aku akan menghabiskan hidup dengan bersyukur karena berhasil meninggalkanmu di sini?”
 
-“Nona, dengarkan aku…” bisik Nenek Sun.
+Xiaolongnü berbalik. Bahunya bergetar, tetapi ia tidak mengulurkan tangan. Dani menarik mekanisme. Ketika batu mulai turun, ia merunduk dan meluncur melewati celah terakhir, kembali ke sisinya.
 
-“Aku sudah di sini, Sun Popo. Jangan paksakan suaramu,” jawab gadis itu.
+Dentuman penutup mengguncang lantai.
 
-“Jangan tinggalkan anak ini seorang diri, Nona,” pinta Nenek Sun.
+“Dani!” Xiaolongnü meraih wajahnya. “Sekarang engkau tidak dapat keluar lagi!”
 
-Gadis itu diam. Dani tidak memandangnya; seluruh perhatiannya tertuju pada dada Nenek Sun yang bergerak semakin dangkal. Ia menunggu tarikan napas berikut seolah dapat membantunya hanya dengan ikut menahan napas.
+“Kalau Bibi hendak memarahiku, kita mempunyai waktu sampai lampunya padam.” Napasnya belum teratur. “Aku datang untuk menemanimu hidup. Kalau tidak ada lagi jalan, aku tetap menemanimu.”
 
-“Aku akan menjaganya, Sun Popo. Aku berjanji kepadamu,” kata gadis itu.
-
-Nenek Sun menatap Dani. Ia mencoba mengangkat tangan ke wajah anak tersebut, tetapi hanya mampu menyentuh dagunya. Dani segera menahan tangan itu dengan kedua telapak.
-
-“Aku akan menurut,” kata Dani tergesa. “Aku tidak akan memukul lagi. Nenek jangan bicara dulu.”
-
-Perempuan tua itu seperti hendak menjawab. Bibirnya bergerak, kemudian berhenti. Dani masih menunggu sampai gadis berbaju putih meletakkan tangan di atas tangannya.
-
-“Dani, jangan guncangkan tubuh Sun Popo lagi,” kata gadis berbaju putih itu.
-
-“Tetapi Nenek belum menjawabku. Aku tadi sudah berjanji akan menurut,” bantah Dani.
-
-Gadis itu tidak mengulang perintah. Ia menutup mata Nenek Sun dengan jemarinya, pelan dan cermat. Barulah Dani mengerti. Tangisnya pecah tanpa sempat disembunyikan; ia menunduk pada bahu orang yang belum lama dikenalnya dan tidak dapat melepaskan genggamannya.
-
-Hao Datong berlutut beberapa langkah dari mereka. “Kesalahan ini menjadi tanggung jawabku.”
-
-Tidak seorang pun menjawab. Gadis berbaju putih itu mengangkat tubuh Nenek Sun, memberi Dani waktu untuk bangkit, lalu membawanya ke arah hutan. Zhao tidak menghalangi. Dani mengambil buntalannya dari tanah dan mengikuti, sementara Hao Datong tetap berlutut di jalan yang mereka tinggalkan.
+Ia memeluk pemuda itu begitu kuat hingga luka bahunya terasa. Dani baru mengetahui bahwa Xiaolongnü dapat menangis tanpa mengeluarkan suara.
 
 ***
 
-Sesudah Nenek Sun dibaringkan di dalam makam, Dani duduk dekat pintu. Gadis itu membereskan rambut kelabu yang terlepas dari ikatannya, lalu menutupi tubuh perempuan tua tersebut. Tangannya berhenti sebentar pada tepian kain sebelum ia menariknya sampai rapi.
+Li Mochou mengetahui keadaan mereka setelah memeriksa batu yang tak dapat diangkat. Ia memalingkan wajah kepada adik seperguruannya; keramahan yang dibuat-buat hilang dari matanya.
 
-Dani mengusap pipi yang sudah kering. Di dalam ruangan itu tidak terdengar murid berlatih, orang memanggil, atau langkah yang mengejarnya. Keheningan yang tadi dicari sekarang membuat setiap tarikan napasnya terdengar terlalu keras.
+“Kau hendak mengubur kita semua demi beberapa halaman ilmu?”
 
-“Jadi engkaulah Dani,” kata gadis itu. Bukan pertanyaan. “Sun Popo telah menyebutkan namamu kepadaku.”
+“Kakak yang memilih masuk dengan senjata,” jawab Xiaolongnü. “Sekarang kita sama-sama harus menerima akibatnya.”
 
-Ia mengangguk.
+Li Mochou menangkap Dani ketika ia maju melindungi gurunya. Pedang yang terlepas direbutnya; ujungnya berhenti di leher pemuda itu.
 
-“Namaku Xiaolongnü. Mulai sekarang engkau berada dalam tanggunganku,” kata gadis itu.
+“Aku hanya memerlukan salah seorang dari kalian hidup. Anak muda, masihkah engkau bersedia melindunginya jika yang harus mati adalah dirimu?”
 
-Nama itu tidak dikenalnya. Dani hanya tahu gadis tersebut memegang janji yang diucapkan kepada orang sekarat, dan janji semacam itu kadang lebih berat daripada keinginan orang yang mengucapkannya.
+“Lepaskan Bibi,” kata Dani. “Kalau nyawa seseorang dapat memuaskanmu, ambil nyawaku.”
 
-“Izinkan saya menunggu sampai Nenek Sun dimakamkan,” kata Dani. “Sesudah itu saya akan pergi, supaya Nona tidak perlu menanggung keberadaan saya.”
+Li Mochou menekan bilah sampai Dani merasakan dinginnya. “Engkau bahkan tidak meminta waktu untuk berpikir.”
 
-Xiaolongnü menoleh. “Dani, aku tidak menyuruhmu pergi. Aku telah berjanji akan menjagamu.”
+“Aku sudah memilih ketika kembali melewati pintu.”
 
-“Tetapi tadi Nona mengatakan bahwa orang luar tidak boleh tinggal di sini,” kata Dani.
+Wajah Li Mochou berubah. Ia menatap Xiaolongnü dengan kebencian yang bercampur iri.
 
-“Tadi Sun Popo masih dapat menjagamu. Sekarang beliau telah menyerahkan tanggung jawab itu kepadaku, dan aku tidak akan mengingkarinya,” jawab Xiaolongnü.
+“Adik seperguruan, rupanya sumpahmu telah terpatahkan. Seandainya pintu itu masih terbuka, sekarang engkau boleh turun gunung.”
 
-Dani tidak mempunyai jawaban. Xiaolongnü mengambil kain bersih dan meletakkannya di dekat tangannya, kemudian menunjuk bibirnya. Dani menyeka luka itu sendiri. Ketika ia menyentuh bagian yang pecah, napasnya tertahan, tetapi kali ini ia tidak mengeluh.
+Dani tidak memahami maksudnya. Xiaolongnü memanfaatkan kelengahan kakaknya untuk melontarkan jarum dan menariknya lepas. Mereka mundur ke ruang peti batu, memisahkan diri dengan pintu dalam sebelum Li Mochou dapat menerjang kembali.
 
-“Kalau engkau tinggal, aku akan mengajarimu ilmu perguruanku,” kata Xiaolongnü. “Engkau harus mendengarkan petunjukku dan menaati aturan di sini.”
+Di sana Xiaolongnü menjelaskan aturan warisan Lin Chaoying: penerus yang menerima ajaran sepenuhnya harus tetap tinggal di makam, kecuali seorang lelaki rela mati untuknya tanpa mengetahui syarat tersebut terlebih dahulu. Li Mochou menolak sumpah itu; karena itulah warisan utama jatuh kepada adiknya.
 
-Dani menatapnya. “Apakah Nona bersedia mengajari saya ilmu silat?”
+“Mengapa Bibi tidak pernah memberitahuku?” tanya Dani.
 
-“Aku akan mengajarkan ilmu perguruan Makam Kuno yang kupelajari sendiri,” jawab Xiaolongnü.
+“Kalau engkau mengetahuinya, bagaimana aku dapat membedakan pengorbananmu dari keinginan membawaku keluar?”
 
-“Nona sungguh akan memperlihatkan gerakannya kepada saya, bukan hanya menyuruh saya menghafal?” tanya Dani.
+Dani memandang gurunya lama. “Aku tidak perlu sebuah aturan untuk mengetahui bahwa aku tidak ingin kehilanganmu.”
 
-Xiaolongnü memandangnya beberapa saat, seakan pertanyaan itu mempunyai arti yang belum dipahaminya. “Tentu akan kutunjukkan. Bagaimana engkau dapat belajar kalau gurumu tidak menjelaskan dan memberi contoh?”
+Xiaolongnü meraih tangannya dan menempelkannya pada pipi. “Kalau ada perempuan lain yang memperlakukanmu dengan baik, apakah engkau juga akan kembali untuk mati bersamanya?”
 
-Dani menunduk. Ia takut penjelasannya akan terdengar seperti keluhan yang sama, tentang kitab, tentang Lu, tentang semua hal yang selalu diminta berhenti ia bicarakan. Namun gadis itu tidak mendesaknya menjawab. Ia menunggu di dekat lampu.
+“Aku akan menolongnya kalau mampu. Tetapi saat melihat pintu tadi turun, yang kupikirkan hanya bahwa Bibi akan sendirian di belakangnya.” Ia menelan napas. “Aku tidak sanggup membiarkan itu terjadi.”
 
-“Kepandaian saya masih sedikit, Nona,” kata Dani akhirnya. “Jika saya keliru, mohon tunjukkan kesalahan saya. Jangan suruh orang lain memukul saya karena sesuatu yang belum pernah diajarkan.”
+“Jadi aku berbeda bagimu?”
 
-“Aku sendiri yang akan mengajarimu, Dani. Kalau engkau salah, aku pula yang membetulkannya; tidak perlu ada orang lain di antara kita,” jawab Xiaolongnü.
+“Bibi masih perlu bertanya setelah aku menyia-nyiakan jalan keluar yang begitu bagus?”
 
-Xiaolongnü mengatakannya dengan tenang, seolah sedang menjelaskan sesuatu yang sudah pasti. Dani mengangkat wajah dan untuk pertama kalinya menatap Xiaolongnü tanpa bersiap mendengar penolakan. Gadis itu masih sangat muda; ketenangannya tidak menyerupai kewibawaan Paman Guo, melainkan seseorang yang belum terbiasa menjelaskan hal yang baginya sudah jelas.
+Xiaolongnü tersenyum di antara air mata. “Aku perlu mendengarnya darimu.”
 
-Dani berlutut. Kali ini tidak ada tangan yang menekan kepalanya atau suara yang menyuruhnya mengulang penghormatan. Ia membungkuk karena ingin menerima apa yang ditawarkan.
+Dani merapat dan memeluk bahunya. Ia tidak mencari gurauan lain. “Engkau berbeda. Sejak tinggal di sini, aku tidak lagi bertanya setiap malam ke mana harus pergi besok.”
 
-“Murid bersedia belajar dan menaati petunjuk guru,” ucap Dani.
+Gadis itu bersandar kepadanya. Untuk pertama kalinya ia membiarkan keinginan untuk tetap dekat mengalahkan ajaran yang menyuruhnya menekan perasaan. Di balik pintu terdengar Li Mochou memeriksa dinding; mereka masih terancam, tetapi Dani tidak ingin mati sebelum sempat membawa Xiaolongnü melihat dunia yang selama ini hanya diceritakannya.
 
-“Bangunlah, Dani. Untuk memanggilku, gunakan sebutan Gugu,” kata Xiaolongnü.
+***
 
-“Murid akan mengingatnya, Gugu,” jawab Dani.
+Peti batu menyediakan tempat untuk beristirahat tanpa menyentuh lantai yang lembap. Ketika Dani menggeser lampu, cahaya mengenai bekas goresan yang tersembunyi pada bagian dalam. Xiaolongnü meminta lampu didekatkan.
 
-Xiaolongnü mengangkat lampu dan berjalan menuju lorong. Dani memungut buntalan, lalu berhenti untuk memandang tubuh Nenek Sun sekali lagi. Ia memberi hormat dalam-dalam sebelum menyusul cahaya kecil itu.
+Tulisan itu menunjukkan jalan menuju ruang di bawah makam. Mereka membuka lempeng penutup dan turun bersama. Di dinding bawah terdapat peninggalan Wang Chongyang: sebagian ajaran Kitab Sembilan Yin serta petunjuk jalur air keluar.
 
-Di ambang lorong, Xiaolongnü menunggu sampai ia berada di sisinya. Baru kemudian ia menunjukkan jalan masuk. Dari luar masih terdengar angin menyentuh dedaunan; Dani menoleh pada celah terang yang perlahan menyempit di belakang mereka.
+“Pendiri Quanzhen meninggalkan ini di makam perguruan kita?” Dani mengangkat lampu. “Kalau Guru Zhao mengetahuinya, tentu beliau akan menyuruh dinding ini menghafalkan dirinya sendiri.”
 
-Pintu itu menutup setelah Dani berada di dalam.
+Xiaolongnü menyentuh huruf yang menyebut Lin Chaoying. Ia membaca cukup lama untuk memahami maksud peninggalan itu, kemudian menunjuk petunjuk saluran air.
+
+“Ilmunya dapat kita pelajari bila masih hidup. Sekarang bantu aku mengingat jalannya.”
+
+Dani menopangnya melalui lorong berukir. Hong Lingbo menemukan pintu terbuka di atas dan memanggil gurunya; beberapa saat kemudian Li Mochou menyusul. Mereka tidak memperoleh waktu untuk menyalin semua ajaran. Xiaolongnü menyembunyikan pentingnya tulisan dengan berdiri di depannya, lalu menunjukkan arah air.
+
+“Jangan ada yang menyerang,” kata Dani. “Kalau orang yang mengetahui jalannya mati, Bibi harus menanyakan arah kepada ikan.”
+
+Li Mochou memandangnya tanpa senyum. “Lidahmu masih dapat bekerja rupanya. Berjalanlah.”
+
+Air naik sampai dada. Di bagian yang harus dilalui dengan menyelam, Dani mengikat buntalan agar alat jahit tidak tercecer, lalu memeriksa napas Xiaolongnü. Gadis itu menggenggam tangannya dan mengangguk. Mereka menyelam bersama; di tikungan sempit pedang Dani tersangkut. Ia melepaskannya untuk meraih Xiaolongnü ketika arus menggeser tubuh gurunya.
+
+Udara akhirnya mengenai wajah mereka di luar lereng. Dani menarik Xiaolongnü ke batu yang kering, disusul Hong Lingbo dan Li Mochou. Semua basah dan kehabisan napas. Li Mochou masih hendak mendekat ketika Xiaolongnü mengangkat tangan dengan jarum di sela jari.
+
+“Kakak boleh mencoba mengambil kitab lagi setelah lukaku pulih.”
+
+Perempuan itu menghitung jarak. Ia melihat Dani berdiri di sisi Xiaolongnü, kemudian memanggil muridnya dan pergi tanpa berpamitan.
+
+Dani menunggu sampai langkah mereka hilang, baru duduk. Xiaolongnü menyandarkan kepala di bahunya. Cahaya fajar menembus pepohonan; mereka dapat melihat gunung yang sepanjang malam disangka tak akan ditemui lagi.
+
+“Tadi aku sungguh takut,” kata Dani.
+
+Xiaolongnü mengangkat wajah. “Tetapi engkau tetap kembali.”
+
+“Aku takut mati sebelum Bibi sempat mengetahui mengapa.”
+
+Ia menggenggam tangan pemuda itu. “Sekarang aku mengetahuinya. Bila engkau hendak pergi, bawalah aku bersamamu.”
+
+Dani menatap jalan di bawah, lalu pakaian mereka yang meneteskan air. Ia bangkit dan mengulurkan tangan.
+
+“Untuk pagi ini, kita mencari tempat yang atapnya tidak terbuat dari batu. Sesudah itu Bibi boleh memutuskan apakah dunia di luar sungguh seburuk yang diceritakan.”
+
+Xiaolongnü menerima tangannya. Kali ini ia meninggalkan makam dengan pilihannya sendiri.
 
 ---
 
 ## Catatan Kontinuitas — Bab 6
 
-- Jalur A; beberapa pekan di Quanzhen, lalu Dani lari ke Makam Kuno.
-- Dani 14 dan Xiaolongnü 16; hubungan baru sebatas guru dan murid.
-- Zhao menahan pengajaran; Lu terluka saat Dani membalas lalu kabur.
-- Hao Datong tak sengaja memukul Nenek Sun hingga meninggal.
-- Xiaolongnü menerima Dani sebagai murid; sapaan gurunya: Gugu.
-- Dasar Dani tetap lemah; ia membawa buntalan dan alat jahit ibu.
+- Empat tahun diringkas; Dani 18 dan Xiaolongnü 20 sebelum latihan lanjutan serta perubahan hubungan dewasa.
+- Zhao dan Zhen mengganggu latihan Sutra Hati Gadis Giok; luka Xiaolongnü menyebabkan ia rentan saat Li Mochou menyerbu.
+- Dani kembali secara sukarela sebelum mengetahui syarat sumpah; kerelaannya mati membebaskan Xiaolongnü dari larangan turun gunung.
+- Mereka menemukan sebagian ajaran Kitab Sembilan Yin peninggalan Wang Chongyang; mengetahui keberadaannya belum sama dengan menguasai seluruh kitab.
+- Keempat tokoh keluar melalui air; pedang Dani tertinggal di saluran, buntalan dan alat jahit selamat. Luka Xiaolongnü belum pulih.
+- Zhen sudah mengenal keduanya; Zhao mengetahui ketertarikan Zhen dan menyaksikan latihan, belum mengetahui peristiwa gubuk.

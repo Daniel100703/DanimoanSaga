@@ -1,16 +1,19 @@
-# Saga Dani Moan — Bab 1–9
+# Saga Dani Moan — Bab 1–10
 
 Novel wuxia berilustrasi karya Daniel Halomoan Siregar.
 
 **Baca langsung:** https://daniel100703.github.io/DanimoanSaga/
 
-## Edisi dialog v4
+## Edisi revisi Bab 1–10
 
-- Percakapan Bab 1–8 disunting sesuai suara tokoh, usia, kedudukan, dan hubungan. Sapaan seperti Gugu, Shifu, Paman Guo, Bibi Guo, Qianbei, Dani-gege, dan Kak Ying mengikuti lawan bicara.
-- Dialog tanpa label nama; atribusi ucapan diperjelas. Peristiwa, urutan adegan, ilustrasi lama, dan penanda paragraf lama dipertahankan. Pengantar singkat di sekitar beberapa dialog disesuaikan agar selaras dengan ucapan.
-- Bab 9: **Di Hadapan Iblis Merah**, dengan satu pembuka dan dua ilustrasi peristiwa. Arc pertemuan sekutu dan penyelamatan Wushuang selesai dalam satu bab.
-- Wiki Persilatan mengikuti paragraf bacaan. Tokoh baru tidak langsung memperoleh statistik kemampuan yang belum diperlihatkan. Kutipan bukti memakai naskah hasil revisi.
-- Pembaruan diterapkan langsung melalui konektor GitHub. Pembaca cukup membuka situs; tidak perlu mengunggah berkas sendiri.
+- Bab lama 2–3 digabung menjadi **Malapetaka di Kediaman Lu**. Kesembilan ilustrasi dari kedua bab tetap hadir, termasuk kedua pembuka lama.
+- Riwayat perkenalan Quanzhen diperbaiki: Zhen Zhibing muncul sejak Bab 5, kemudian hadir kembali dalam gangguan latihan, pertemuan di dekat gubuk, dan tragedi Bab 8.
+- Bab 6–8 memperjelas sumpah makam, kedekatan Dani dan Xiaolongnü setelah dewasa, jahitan jubah dengan jarum ibunya, pertengkaran, rekonsiliasi saat hujan, dan sebab perpisahan.
+- Sapaan memakai bahasa Indonesia. Dialog mengalir melalui atribusi naratif tanpa format `Nama: ucapan`.
+- Bab 10: **Dua Nama di Bawah Salju**, dengan satu pembuka dan dua ilustrasi peristiwa. Pertemuan serta warisan dua tetua selesai dalam satu arc.
+- Semua 33 ilustrasi lama dipertahankan. Empat ilustrasi baru ditambahkan: rekonsiliasi hujan dan tiga gambar Bab 10.
+- Wiki berisi 49 catatan dengan 174 tahap informasi. Kartu mengikuti paragraf bacaan; penguasaan ilmu Dani dibedakan dari kekuatan gurunya.
+- Penanda baca edisi lama dipetakan ke adegan terdekat dalam pembagian baru. Tema dan ukuran huruf tetap tersimpan. Salinan posisi sebelum revisi tetap disimpan di peramban.
 
 ## Membaca
 
@@ -51,4 +54,4 @@ Buka `http://localhost:8000` setelah server berjalan. Tekan Ctrl+C untuk menghen
 3. Jalankan `python3 build.py`; periksa gambar, navigasi, wiki, serta tampilan ponsel dan desktop.
 4. Commit seluruh berkas yang berubah beserta aset baru ke `main`. GitHub Pages menerbitkan situs dari cabang yang sudah dikonfigurasi.
 
-Jangan menghapus aset lama yang masih dipakai bab atau potret tokoh. Penanda paragraf bab terdahulu dijaga agar bookmark dan tautan bukti tetap bekerja. Jangan memasukkan hasil HTML luring yang besar ke repositori; halaman situs sudah memakai aset bersama.
+Jangan menghapus aset lama yang masih dipakai bab atau potret tokoh. Jika revisi mengubah nomor bab atau paragraf, perbarui pemetaan `edition-migration.json` dan kutipan bukti wiki. Jangan memasukkan hasil HTML luring yang besar ke repositori; halaman situs sudah memakai aset bersama.

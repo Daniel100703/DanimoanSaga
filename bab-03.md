@@ -1,526 +1,307 @@
-# Bab 3 — Pintu yang Terlambat Terbuka
+# BAB 3 — AYAH DI JALAN TERBALIK
 
-Gelang besi itu masih berputar di lantai ketika Dani mengangkat kepala.
+Sepasang kaki menjulur dari balik semak. Telapaknya menghadap langit.
 
-Satu putaran lebar, dua putaran pendek, kemudian benda itu rebah di dekat buntalannya. Bunyinya kecil. Terlalu kecil untuk besi yang baru saja direnggut dari kayu tebal.
+Dani berhenti. Setelah apa yang terjadi di rumah keluarga Lu, ia tidak ingin menemukan mayat lagi. Ia baru hendak memutar ketika kedua kaki itu bergoyang, lalu seorang lelaki tua muncul dengan berjalan di atas tangan.
 
-Telapak Dani terasa panas. Pasir menempel pada lecet di ruas jarinya. Ia hendak menarik tangan, tetapi Cheng Ying masih bertumpu pada lengannya; di sebelah gadis itu, Wushuang berusaha berdiri sebelum lututnya benar-benar mantap.
+Rambut kelabunya menyapu tanah. Jubah kusamnya melorot ke arah bahu, memperlihatkan celana yang terikat di pergelangan kaki. Kedua lengannya kokoh menopang tubuh. Ia berjalan lurus ke arah Dani.
 
-Li Mochou menunggu mereka bangkit.
+“Tetua, hati-hati! Saya berdiri di jalan ini,” seru Dani.
 
-Itulah yang paling membuat Dani takut. Perempuan itu tidak tergesa-gesa.
+Orang itu mendongak dari bawah. Dani mundur dua langkah; tumitnya tersangkut akar. Sebuah tangan tiba-tiba menyambar kerahnya sebelum ia jatuh. Dalam sekejap lelaki itu sudah berdiri tegak.
 
-“Apakah kalian sudah puas mencoba melarikan diri?” tanya Li Mochou.
+Tarikan tersebut menyentak dada Dani. Ia mendesis, menepis tangan itu, lalu menyesali gerakannya sendiri.
 
-Dani mengangkat muka. Sepatunya tergelincir sedikit ketika ia mencoba berdiri. Ia membenci bunyi solnya sendiri yang menggesek batu. “Kalau kami berhenti mencoba, apakah Bibi akan membiarkan kami lewat?”
+“Siapa yang memukulmu?” tanya lelaki tua itu.
 
-Li Mochou menatapnya sejenak, seolah menimbang apakah pertanyaan itu cukup menarik untuk dijawab. Rambut kebut yang tadi menegang seperti cambuk kini kembali terjuntai lembut. “Lidahmu lincah sekali, adik kecil. Sayang, pintu ini tidak dapat kaubuka hanya dengan kata-kata.”
+“Seorang perempuan membawa kebut, Tetua. Mohon jangan tarik kerah saya; dada saya masih sakit!” seru Dani.
 
-Wushuang tidak melihat kebut itu. Pandangannya tertuju ke lorong di belakang Li Mochou, ke bagian rumah yang sejak tadi tidak mengirimkan satu pun jawaban. “Ayah!”
+Mata lelaki itu membelalak. Rambut acak-acakan membingkai wajah keras dengan hidung tinggi dan alis lebat. Ia meraba bahu Dani, seolah mencari sesuatu yang telah lama hilang.
 
-Suaranya memantul pada tembok halaman.
+“Berani memukul anakku? Mana dia? Panggil ke sini!” bentak lelaki tua itu.
 
-“Ibu!” seru Wushuang.
+“Perempuan itu sudah pergi, Tetua. Tetapi saya bukan anak—” bantah Dani.
 
-Dani mengikuti arah pandangnya. Dari tempatnya berdiri, ia bisa melihat sepotong serambi depan melalui ambang lengkung. Ada kursi terbalik di sana. Satu tangan terjulur di dekat kakinya, tak bergerak.
+“Pergi? Takut! Semua takut kepadaku. Aku yang paling hebat. Paling hebat!”
 
-Wushuang melihatnya juga.
+Teriakannya membuat burung-burung terbang dari pepohonan. Dani menelan sisa bantahannya. Orang gila. Orang gila yang sanggup menegakkan tubuh dari satu tangan sambil mengangkatnya seperti karung kosong.
 
-Ia melangkah maju, begitu mendadak sehingga Cheng Ying gagal meraih ujung bajunya. Li Mochou memiringkan tubuh sedikit. Gadis itu melewatinya tanpa dihalangi.
+Ia melirik jalan di belakang lelaki itu.
 
-Dani hampir menyangka mereka diberi kesempatan.
+“Kalau Tetua tidak membutuhkan bantuan, izinkan saya meneruskan perjalanan,” kata Dani.
 
-Lalu ia melihat wajah perempuan itu.
+“Rumahmu di mana?” tanya lelaki tua itu.
 
-Li Mochou sedang memperhatikan Wushuang dengan saksama. Tidak ada senyum. Hanya perhatian tenang yang membuat Dani ingin menyeret gadis itu kembali, meskipun harus ditendang dan dimaki.
+Dani membuka mulut, lalu mengangkat bahu. Lelaki tua itu malah menangkap pergelangan tangannya.
 
-Wushuang berhenti di ambang lorong.
+“Ikut aku. Anakku tidak boleh tidur di jalan,” ujar lelaki tua itu.
 
-Dari sana, serambi depan terlihat seluruhnya.
+“Saya sanggup berjalan sendiri, Tetua! Pergelangan yang itu juga terluka,” balas Dani.
 
-Ayahnya berada di dekat kursi terbalik. Ibunya jatuh tidak jauh dari anak tangga, sebelah lengan terlipat di bawah tubuh. Pakaian yang tadi pagi masih bergerak ketika mereka berjalan kini terbentang dengan bentuk yang salah. Tidak ada yang menoleh ketika Wushuang memanggil lagi.
-
-Cheng Ying menutup mulut dengan tangan.
-
-Dani tidak bertanya apa yang telah terjadi. Ia mengenali rumah yang mendadak kehilangan suara penghuninya, tetapi pemandangan di depannya jauh lebih kejam daripada kesunyian yang dibawanya sejak pagi.
-
-Wushuang bergerak selangkah, lalu satu langkah lagi. “Ibu, bangun.”
-
-Ucapannya terdengar kesal. Seperti teguran karena seseorang tertidur pada waktu yang tidak semestinya.
-
-Li Mochou menyentuh bahunya dengan ujung gagang kebut. “Mereka tidak akan menjawab.”
-
-Wushuang berbalik.
-
-Gerakannya sama sekali tidak menyerupai jurus. Ia menyerbu dengan kedua tangan, mencoba mencakar wajah yang baru saja mengatakan itu. Matanya terbuka lebar; bibirnya bergetar di atas gigi yang terkatup keras.
-
-“Wushuang!” seru Cheng Ying.
-
-Li Mochou menangkap pergelangan tangan gadis itu.
-
-Dani hanya sempat melihat kaki Wushuang terangkat dari batu. Perempuan itu memutar lengannya, pendek, kemudian melepaskan. Tubuh Wushuang terlempar menyamping dan jatuh di tepi anak tangga.
-
-Bunyi kering terdengar di bawah teriakannya.
-
-Wushuang mencoba segera bangkit. Kaki kirinya tidak menuruti.
-
-Ia jatuh lagi.
+Pegangan itu langsung mengendur.
 
 ***
 
-Dani mencapai Wushuang hampir bersamaan dengan Cheng Ying. Gadis itu menepis tangan mereka, bukan karena tidak membutuhkan bantuan, melainkan karena setiap sentuhan terasa seperti gangguan yang tidak sanggup ditanggungnya.
+Tempat tinggal yang dimaksud hanyalah sebuah tempat pemujaan kosong di pinggir hutan. Atapnya bocor, tetapi salah satu sudutnya masih kering. Lelaki tua itu mengeluarkan dua ubi dari lipatan jubah dan memasukkannya ke bara api. Dani memandang ubi itu, lalu memandang jubahnya.
 
-“Jangan pegang!” seru Wushuang.
+“Apakah Tetua masih menyimpan makanan lain di dalam jubah itu?” tanya Dani.
 
-“Aku tidak akan menyentuh kakimu, Wushuang. Kak Ying tetap di sisimu.” Cheng Ying berjongkok di sampingnya tanpa menyentuh. Kedua tangannya terbuka di atas lutut, menunggu.
+“Apa lagi yang diminta anakku? Katakan kepadaku!” tanya lelaki tua itu.
 
-Wushuang menarik napas. Ia mencoba menekuk kaki kiri, lalu berhenti dengan suara tercekat. Wajahnya kehilangan warna. Jari-jarinya mencengkeram tepi anak tangga sampai kukunya memutih.
+“Barangkali ada ayam. Saya hanya bertanya, Tetua; dua ubi itu pun sudah banyak,” jawab Dani.
 
-Dani menahan diri untuk tidak melihat kakinya terlalu lama. “Lingkarkan tangan kananmu ke bahuku. Kau sendiri yang mengatur pegangannya.”
+Lelaki itu benar-benar merogoh lengan bajunya. Dani menahan tawa, kemudian terbatuk kesakitan. Tangannya buru-buru menekan dada.
 
-“Aku bilang jangan—” protes Wushuang.
+Senyum lelaki tua itu lenyap. Ia berjongkok, memeriksa bagian yang terkena pukulan melalui kain baju, lalu memerintahkan Dani diam. Kali ini jari-jarinya ringan. Dani tetap mengawasi wajahnya, siap menepis apabila orang itu mulai menarik-narik lagi.
 
-“Aku mendengarnya. Karena itu, kau yang berpegangan kepadaku; aku tidak akan menarik kakimu,” jawab Dani.
+“Memar! Mereka berani meninggalkan bekas pada anakku. Jangan bergerak! Kau hendak merusakkan dadamu sendiri?” kata lelaki tua itu.
 
-Wushuang menatapnya. Air mata menempel di bulu matanya, tetapi belum jatuh. Sejenak Dani mengira ia akan kembali menolak.
+“Saya tidak sengaja melukai diri, Tetua. Perempuan itulah yang melemparkan saya,” balas Dani.
 
-Lalu gadis itu meremas bahunya begitu keras sampai ia meringis.
+“Siapa berani—”
 
-“Peganglah sekuat yang kaubutuhkan,” kata Dani.
+“Perempuan berkebut yang tadi saya ceritakan, Tetua. Dia sudah pergi jauh dari sini,” jawab Dani.
 
-Ia tidak menambahkan apa-apa tentang sakitnya.
+Lelaki itu mengerutkan dahi, lalu mengangguk dengan kesal. Dani menyembunyikan senyum di balik lutut. Setidaknya, ia sudah menemukan cara menghentikan teriakannya.
 
-Cheng Ying berpindah ke sisi lain. Bersama-sama mereka membantu Wushuang bergeser menjauhi tepi tangga. Tidak jauh, hanya ke batu yang rata. Namun gadis itu harus berhenti dua kali, wajahnya terbenam di bahu Dani agar jeritnya tidak lepas.
+Ketika ubi matang, lelaki itu membelah yang paling besar dan menyodorkannya. Jari Dani kepanasan. Ia memindah-mindahkannya dari telapak ke telapak sambil meniup. Lelaki itu tertawa keras, kemudian mengambil separuh ubi tersebut untuk ditiupnya sendiri.
 
-Li Mochou membiarkan mereka.
+“Tetua, apakah saya boleh mempelajari ilmu silat yang tadi diperlihatkan?” tanya Dani.
 
-Dani tidak lagi mengira itu pertanda baik.
+“Ilmuku paling tinggi! Mereka semua hendak mencurinya. Biar mereka datang, akan kupatahkan tangannya!” jawab lelaki tua itu.
 
-“Aku masih bisa berjalan, Kak Ying. Jangan menatapku seperti itu,” ujar Wushuang.
+“Saya ingin belajar melindungi diri, Tetua. Untuk berjalan di atas tangan, saya belum berani mencobanya,” kata Dani.
 
-Cheng Ying mengusap rambut yang melekat di pipi sepupunya. “Jangan dipaksa sekarang, Wushuang. Bersandarlah dahulu kepadaku.”
+“Bodoh! Bukan itu! Sekali pukul, mereka terpelanting. Tanganku yang memukul, mengapa mereka masih berani tertawa?” seru lelaki tua itu.
 
-“Jangan bilang aku tidak bisa berjalan, Kak Ying,” balas Wushuang.
+Dani mengangguk terlalu cepat. Saat mengingat Wushuang dibawa melewati gerbang, ia meremas kulit ubi sampai dagingnya penyok. Kali berikutnya, ia ingin bisa melakukan lebih dari sekadar melempar buntalan. “Saya ingin belajar, Tetua. Tetapi saya tidak mempunyai uang untuk membalas kebaikan itu.”
 
-Suaranya mengecil pada kata terakhir. Cheng Ying memandangnya, kemudian mengangguk sekali.
+“Siapa minta uang? Panggil ayah!” bentak lelaki tua itu.
 
-“Kita akan bergerak bersama. Kau tidak perlu menanggungnya seorang diri,” ujar Cheng Ying.
+Dani menatapnya. “Bolehkah saya memanggil Tetua sebagai Guru?”
 
-Dani menoleh ke pintu belakang. Celahnya masih ada. Pegangannya telah hilang, tetapi sisi bawah yang mengganjal tadi sudah terangkat sedikit oleh bata. Mereka hanya perlu mencapai pintu itu.
+“Tidak! Murid banyak. Anak cuma satu. Kau anakku,” jawab lelaki tua itu.
 
-Wushuang mengikuti pandangannya dan langsung menegang. “Kak Ying, Ayah dan Ibu masih di sana. Aku belum boleh meninggalkan mereka.”
+“Tetapi saya sudah mempunyai seorang ayah, Tetua,” kata Dani.
 
-Dani memandang serambi depan. Ia ingin mengatakan sesuatu yang dapat membuat gadis itu bangkit, sesuatu yang cukup kuat untuk mengalahkan pemandangan di balik lorong.
+“Di mana dia? Mengapa anakku berada seorang diri di jalan?” desak lelaki tua itu.
 
-Tidak ada.
+“Ayah kandung saya sudah meninggal,” jawab Dani.
 
-“Aku tahu mengapa kau ingin kembali, Wushuang,” kata Cheng Ying.
+Lelaki tua itu berhenti mengunyah. Sesaat rahangnya bergerak tanpa suara. Kemudian ia mendekat, hampir berbisik.
 
-Wushuang menoleh tajam kepada sepupunya. Cheng Ying tidak menunduk. Air matanya jatuh diam-diam melewati dagu.
+“Tidak. Aku di sini. Lihat baik-baik. Aku masih di sini,” bisik lelaki tua itu.
 
-“Aku juga melihat Paman dan Bibi. Tetapi aku tidak sanggup kehilanganmu pula,” ujar Cheng Ying.
+Jari-jarinya mencengkeram lengan jubahnya sendiri. Dani tadinya hendak berkata bahwa mereka bahkan tidak mirip, tetapi kata-kata itu tertahan. Wajah di hadapannya tampak begitu ketakutan sehingga ia tidak sanggup menertawakannya.
 
-Untuk pertama kalinya sejak jatuh, Wushuang berhenti melawan tangan yang menopangnya.
+“Nama saya Dani Moan, Tetua. Barangkali anak yang sedang dicari bukan saya,” ujar Dani.
 
-Li Mochou berjalan mendekat. “Yang bermarga Lu, ikut denganku.”
+“Dani. Dani…” gumam lelaki tua itu.
 
-Dani merasakan bahu Wushuang bergetar di bawah lengannya.
+Ia mengulang nama itu, mengangguk, lalu tersenyum lebar seolah persoalannya telah selesai.
 
-“Lebih baik aku mati daripada ikut denganmu!” kata Wushuang.
+“Bagus. Anakku bernama Dani,” kata lelaki tua itu.
 
-Perempuan itu melihatnya dari atas. Tatapannya berhenti pada wajah yang basah, kemudian pada tangan Cheng Ying yang tidak melepaskan tangan sepupunya.
+Dani menunduk pada ubi di tangannya. Mengangguk saja, pikirnya semula; dapat makanan, dapat pelajaran. Namun lelaki itu sudah memberinya bagian yang lebih besar bahkan sebelum meminta apa pun. “Kalau Tetua bersedia menjadi ayah angkatku, aku akan menerimanya. Tetapi aku tidak hendak melupakan ayah yang telah meninggal.”
 
-“Masih ada tenaga untuk membenci rupanya. Simpanlah; perjalanan kita belum dimulai,” ujar Li Mochou.
+“Boleh, boleh! Panggil!” seru lelaki tua itu.
 
-Wushuang menarik tubuhnya maju. Dani menahan bahunya, dan kali ini gadis itu tidak punya cukup tenaga untuk menepis.
+“Aku menerima kebaikan Ayah,” ucap Dani.
 
-“Bibi, kakinya terluka. Dia bahkan tidak sanggup berdiri,” kata Dani.
+Suara itu keluar kecil. Lelaki tua tersebut tertawa sampai matanya basah, lalu mengusap kepala Dani dengan telapak yang masih berabu. Dani biasanya akan mengelak. Kali ini ia hanya memiringkan wajah supaya abu tidak masuk ke matanya.
 
-“Aku mempunyai mata, adik kecil. Tidak perlu kaujelaskan keadaan yang kulihat sendiri,” ujar Li Mochou.
+Sudah lama ia tidak makan bersama orang yang menyisakan bagian terbesar untuknya.
 
-“Kalau Bibi tetap hendak membawanya, setidaknya izinkan kami menahan kakinya dahulu—” desak Dani.
+“Ayah belum memberitahukan nama. Jika nanti orang bertanya, aku harus menyebut nama siapa?” tanya Dani.
 
-“Sejak kapan aku perlu menerima petunjuk darimu?” potong Li Mochou.
+“Namaku…” jawab lelaki tua itu.
 
-Dani terdiam.
+Senyumnya surut. Ia memandangi api, mengepalkan tangan, lalu memukul lututnya sendiri.
 
-Perempuan itu tidak memerlukan satu pun alasan yang sedang berdesakan di kepalanya. Tidak perlu diyakinkan bahwa Wushuang kesakitan. Tidak perlu diberi tahu bahwa ayah dan ibu gadis itu masih terbaring di depan. Ia sudah tahu semuanya.
+“Ouyang Feng! Ya. Ouyang Feng. Siapa lagi yang berani memakai namaku?” seru lelaki tua itu.
 
-Dani memindahkan tangan Wushuang ke bahu Cheng Ying. “Cheng Ying, tolong tahan tubuhnya sebentar.”
-
-Cheng Ying memandangnya. Ia menggeleng sangat kecil, seakan telah membaca niat yang bahkan belum Dani susun dengan benar.
-
-Buntalan kelabu masih tergeletak beberapa langkah dari pintu. Ujung simpulnya kotor oleh air. Dani mundur ke arahnya, perlahan, dengan telapak terbuka.
-
-“Saya hendak mengambil buntalan itu, Bibi. Bukankah tadi saya disuruh pergi?” ujar Dani.
-
-Li Mochou mengikuti gerakannya. Kali ini ia tidak membantah.
-
-Dani membungkuk dan meraih kain itu.
-
-Ia tahu sepotong bata tidak berguna. Ia telah mencobanya. Namun kain yang terbuka mungkin bisa menutup pandangan, walau hanya sesaat. Cukup untuk Cheng Ying menggeser Wushuang ke luar. Cukup untuk satu kesalahan kecil dari perempuan itu.
-
-Ia mengendurkan simpul dengan ibu jari.
-
-“Cheng Ying, bersiaplah!” panggil Dani.
-
-Ia melempar buntalan itu ke wajah Li Mochou.
-
-Kain kelabu mengembang. Selimut tipis berputar di udara, disusul baju dalam dan kilatan kecil sesuatu yang terlepas dari lipatannya.
-
-Dani menerjang ke arah kedua gadis.
-
-Gagang kebut menyentuh dadanya lebih dahulu.
-
-Udara seolah ditarik keluar dari seluruh tubuhnya. Ia terlempar mundur, menabrak daun pintu yang sudah retak, lalu jatuh melewati ambang.
-
-Pintu itu akhirnya terbuka.
+Dani mengulang nama itu dalam hati. Ketika Ouyang Feng bertanya apakah ia masih lapar, Dani mengangkat separuh ubi yang belum habis. “Aku akan menghabiskan yang ini dahulu. Ayah makanlah juga; sejak tadi hanya aku yang disuapi.”
 
 ***
 
-Di luar tembok ada saluran air dangkal yang dipenuhi rumput dan lumpur.
+Tiga hari berikutnya mereka tinggal di sekitar tempat pemujaan itu. Ouyang Feng kadang membangunkan Dani sebelum terang, lalu lupa hendak mengajarinya apa. Pernah ia menyuruh Dani berjongkok, pergi mencari kayu, dan baru kembali setelah kedua paha anak itu gemetar. Dani menyambutnya dengan muka masam.
 
-Dani jatuh ke dalamnya dengan bahu lebih dahulu. Air dingin masuk melalui kerah. Ia membuka mulut, tetapi napas yang dicarinya tidak datang. Hanya bunyi serak yang memalukan.
+“Ayah tadi menyuruhku menunggu sebentar. Kakiku sudah tidak kuat menahan tubuh,” seru Dani.
 
-Di dalam halaman, Cheng Ying berteriak.
+“Kau masih di sini?” tanya Ouyang Feng.
 
-“Dani-gege!” seru Cheng Ying.
+“Aku tetap menunggu perintah Ayah. Sekarang hendak berdiri pun kakiku gemetar,” keluh Dani.
 
-Ia ingin menjawab. Sebuah suku kata pun tidak keluar.
+Ia jatuh terduduk. Ouyang Feng tertawa, tetapi menariknya bangun dengan hati-hati. Nyeri di dada Dani belum hilang; gerakan mendadak masih membuat napasnya tersangkut. Pelajaran mereka berlangsung pendek-pendek, diselingi istirahat dan pertengkaran soal apakah Dani sudah boleh mencoba lagi.
 
-Di sela daun pintu yang terbuka, ia melihat Cheng Ying berpegangan pada lengan Wushuang. Li Mochou menarik gadis berbaju merah itu menjauh. Cheng Ying ikut terseret, sol sepatunya menggores batu.
+Ouyang Feng menyebut ilmunya Kungfu Hama. Saat memberi contoh, ia merendahkan tubuh, diam sesaat, lalu menghantamkan telapak ke tanah di sampingnya. Tanah liat lembap itu amblas. Getarannya terasa sampai ke kaki Dani.
 
-“Lepaskan Kak Ying! Dia tidak melakukan apa-apa kepadamu!” seru Wushuang.
+Mulut Dani terbuka. Ia segera mengambil posisi yang sama.
 
-Kali ini Wushuang yang berusaha melindungi sepupunya. Ia memukul lengan Li Mochou dengan tangan bebas, pukulan pendek yang semakin lemah setiap kali tubuhnya terguncang.
+“Kau mau apa?” tanya Ouyang Feng.
 
-Li Mochou mengibaskan lengan.
+“Aku hendak mencoba gerakan yang Ayah perlihatkan,” jawab Dani.
 
-Cheng Ying terlempar ke tiang kecil penyangga serambi. Dani mendengar sambungan kayunya patah. Kisi-kisi di samping tiang roboh, disusul sebagian tepi atap.
+“Belum kuajari!”
 
-Debu menutup pandangannya.
+“Aku sudah memperhatikan tangan Ayah. Izinkan aku mencoba sekali dahulu,” jawab Dani.
 
-Dani menancapkan kuku ke tanah. Ia harus keluar dari saluran itu. Bibirnya sudah cukup dekat untuk diraih; batu tepinya menekan perut ketika ia mencoba naik.
+Telapak Dani menghantam tanah. Lumpur memercik ke dagu; lengannya kesemutan. Bekas tangannya jauh lebih dangkal daripada milik Ouyang Feng. Ia lekas menaruh telapak sekali lagi di tempat yang sama.
 
-Dari dalam terdengar suara Li Mochou, tenang seperti sebelumnya.
+“Tanganmu! Siapa menyuruhmu memukul dua kali? Kau hendak menipuku?” seru Ouyang Feng.
 
-“Jangan menambah kesulitan, anak manis. Kakimu sudah cukup memberatkan perjalanan kita,” ujar Li Mochou.
+“Barangkali tanah di sebelahku lebih keras, Ayah,” balas Dani.
 
-Wushuang menjawab dengan makian yang pecah menjadi tangis.
+Ouyang Feng meraih tengkuknya dan menggesernya ke samping. Dani meringis, lalu tertawa malu ketika ayah angkatnya menunjuk dua cekungan di tanah itu: yang satu dalam dan utuh, yang lain dangkal dengan bekas jari berantakan. “Bukan tangannya! Di dalam! Di sini, bodoh! Jangan dengarkan mereka. Dengarkan ayahmu!”
 
-Dani akhirnya menarik satu napas. Rasa nyeri menusuk dadanya. Ia batuk, kehilangan pegangan, lalu mencengkeram rumput lagi.
+Dani menyeka dagunya dengan lengan baju. Kali ini ia diam. Ia mengikuti koreksi pada bahu, pinggang, dan cara mengumpulkan tenaga. Ada penjelasan yang terputus karena Ouyang Feng tiba-tiba memaki seseorang yang tidak berada di sana; Dani harus menunggu, lalu mengulang pertanyaannya dari awal.
 
-Li Mochou membawa Wushuang melintasi halaman menuju lorong depan. Gadis itu ditopang pada punggung dan lipatan lututnya, dengan kedua kaki menggantung tanpa menapak. Tubuhnya menjauh di sela debu dan kayu yang roboh.
+Ia cepat mengingat gerakan, tetapi tubuhnya tidak selalu sanggup mengikuti. Pada sore terakhir, ia berhasil merasakan sesaat tenaga terkumpul sebelum buyar karena terlalu ingin segera memukul. Ia mengeluh. Ouyang Feng justru bertepuk tangan.
 
-“Wushuang!” panggil Dani.
+“Itu! Tadi itu. Anak pintar. Besok lagi!” seru Ouyang Feng.
 
-Suaranya hanya berupa parau pendek.
+“Izinkan aku mencoba sekali lagi, Ayah. Tadi tenaganya hampir terkumpul,” pinta Dani.
 
-Gadis itu menoleh. Ia masih bisa mendengar.
+“Besok!”
 
-Tangannya terulur ke arah pintu, sebentar saja, sebelum Li Mochou membawanya melewati ambang lengkung. Lalu warna merah kesemek itu hilang.
+Biasanya Dani masih akan menawar. Kali ini ia berhenti: meskipun mulut Ouyang Feng tersenyum bangga, telapak tuanya tetap menutupi bagian dada Dani yang memar.
 
-Dani mengangkat satu lutut ke bibir saluran. Ia menarik tubuhnya, terguling di tanah, kemudian berusaha berdiri terlalu cepat.
+Pagi berikutnya, besok yang dijanjikan itu batal.
 
-Langit meredup pada tepi pandangannya.
+Ouyang Feng sedang membetulkan posisi kaki Dani ketika tubuhnya mendadak kaku. Ia menoleh ke hutan, lalu berputar, mencari sesuatu di balik bahunya sendiri. “Siapa memanggil? Jangan sembunyi!”
 
-Ia berlutut lagi, menunggu warna kembali ke tempatnya. Selama beberapa saat ia tidak bisa melakukan apa-apa selain mendengar betapa buruk bunyi napasnya.
+“Ayah mendengar suara dari arah mana? Aku tidak melihat seorang pun di sana,” tanya Dani.
 
-Ketika akhirnya ia masuk melalui pintu belakang, Li Mochou telah pergi.
+“Namaku siapa? Kau tahu? Bukan, bukan itu!”
 
-Cheng Ying belum.
+“Nama Ayah Ouyang Feng. Ayah sendiri yang memberitahukannya kepadaku,” jawab Dani.
 
-Gadis itu berada di bawah kisi-kisi kayu, dekat tiang yang patah. Satu bahunya terjepit. Ia mencoba menarik diri, tetapi setiap usaha membuat seluruh rangka di atasnya bergerak.
+Nama itu justru membuatnya berteriak. Ia mendorong Dani menjauh, bukan untuk menyakiti, melainkan seolah ada serangan yang harus dihindarkan. Kemudian ia berlari ke antara pepohonan.
 
-Dani meraih ujung kayu.
+“Ayah! Tunggu aku!” Dani menyambar buntalannya dan mengejar. Baru beberapa puluh langkah, dadanya terasa ditusuk. Ia terpaksa berhenti sambil memegangi batang pohon. Teriakan Ouyang Feng makin jauh, kemudian hilang. Tidak ada jejak yang bisa Dani ikuti di antara akar dan daun kering.
 
-“Jangan angkat dari sisi itu, Dani-gege!” ujar Cheng Ying.
+Ia menunggu sampai matahari melewati pucuk-pucuk bambu. Menjelang siang, ia kembali ke tempat pemujaan. Bara api telah dingin. Ubi terakhir masih terselip di tepinya.
 
-Ia berhenti.
+Dani mengambilnya, membersihkan abu, lalu memasukkannya ke buntalan. Ia meninggalkan jejak kaki yang sengaja dibuat jelas pada tanah lembap di depan pintu, menuju jalan besar. “Aku akan mencari Ayah di jalan besar. Jika Ayah kembali, ikutilah jejak kakiku ini.”
 
-“Balok di atas kepalaku akan ikut turun,” lanjut Cheng Ying.
-
-Dani mendongak. Balok pendek di bawah tepi atap telah miring, tertahan oleh sambungan yang tinggal separuh. Ia melepaskan kisi-kisi perlahan. “Aku pindah ke sisi lain. Jangan bergerak dahulu.”
-
-Suaranya bergetar. Ia berharap Cheng Ying mengira itu akibat batuk.
-
-Ia mencoba dari sisi lain. Kayu bergeser sedikit, lalu nyeri di dadanya memaksanya membungkuk. Cheng Ying melihatnya, melihat tangannya yang masih menekan dada.
-
-“Dani-gege, dadamu masih sakit. Aku melihat tanganmu gemetar,” ujar Cheng Ying.
-
-“Dan bahumu masih terjepit. Biar kucarikan jalan keluar dahulu, baru kita menghitung luka masing-masing,” balas Dani.
-
-Ia mengangkat lagi. Tidak cukup tinggi.
-
-“Dani-gege, dengarkan aku sebentar,” kata Cheng Ying.
-
-“Bagian mana yang harus kuangkat?” tanya Dani.
-
-“Jangan tambah tenaganya dahulu. Ada papan lain yang menahan rangka ini,” kata Cheng Ying.
-
-Tangannya berhenti. Gadis itu menunjuk ujung papan yang terjepit di bawah puing.
-
-“Papan yang di bawah itu, Dani-gege. Jika engkau bisa melepaskannya, barangkali bahuku dapat kugeser,” kata Cheng Ying.
-
-Ia tidak menyelesaikan kalimatnya. Bibirnya merapat, menahan tarikan napas yang terlalu pendek.
-
-Dani berlutut dan mulai menyingkirkan pecahan genting satu per satu. Gerakannya menjadi tergesa ketika kayu di atas mereka berderak.
-
-Sebuah bayangan jatuh melintasi tangannya.
+Tidak ada jawaban. Dani mengencangkan simpulnya dan berangkat.
 
 ***
 
-Lelaki tua itu tidak bertanya apa yang mereka lakukan.
+Di dekat jembatan batu, dua orang berjalan dari arah berlawanan. Yang muda berbadan tegap, berjubah warna tanah hangat; yang tua membawa tongkat besi hitam. Mata lelaki tua itu tidak mengikuti gerak Dani, tetapi kepalanya menoleh tepat ketika sepatu Dani menggesek kerikil.
 
-Ia meletakkan satu tangan pada ujung kisi-kisi, mengangkatnya, lalu menyelipkan bahu di bawah balok yang miring. Beban yang tadi tidak sanggup Dani geser kini tertahan cukup tinggi untuk memberi jalan.
+“Jing'er, ada langkah seorang anak di depan kita,” kata Ke Zhen'e.
 
-“Tarik gadis itu ke sisiku, bocah. Perlahan, kalau kau tidak ingin menambah lukanya,” ujar Huang Yaoshi.
+Lelaki berjubah cokelat keemasan itu berhenti. Pandangannya tertahan pada wajah Dani.
 
-Dani menatapnya sepersekian detik, kemudian meraih Cheng Ying di bawah lengan yang bebas. Gadis itu menggigit bibir ketika tubuhnya bergeser. Ia tidak menjerit.
+“Adik kecil, tunggu sebentar. Siapa namamu?” tanya Guo Jing.
 
-Begitu mereka keluar, lelaki itu menurunkan kayu ke tanah. Sambungan terakhir putus. Genting pecah di tempat kepala Cheng Ying berada tadi.
+“Untuk apa Paman menanyakan nama saya?” tanya Dani.
 
-Dani baru melihat wajah penolong mereka dengan jelas.
+“Wajahmu mengingatkan Paman kepada seorang saudara lama. Paman hendak memastikan sesuatu,” jawab Guo Jing.
 
-Tubuhnya jangkung dan kurus, terbungkus jubah hijau tua tanpa hiasan mencolok. Rambut kelabu diikat tinggi; janggut tipisnya telah memutih. Wajah panjang itu menyimpan garis usia yang dalam, tetapi matanya tajam dan sama sekali tidak tampak lelah. Sebuah suling giok terselip pada ikat pinggangnya.
+Dani memindahkan buntalan ke sisi yang menjauhi mereka. Tiga hari lalu ia bertemu orang yang langsung mengaku ayah; sekarang ada orang lain yang mengaku paman. “Saudara Paman itu juga pernah berjalan dengan wajah penuh lumpur seperti saya?”
 
-Ia memandang reruntuhan, lalu serambi di depan. Rahangnya mengeras sedikit.
+Guo Jing membiarkan sindiran itu lewat. Tatapannya tetap tenang pada wajah Dani. “Lumpur dapat dibasuh, tetapi sorot mata itu tetap dapat Paman kenali. Siapa namamu, Nak?”
 
-“Siapa yang membuat tempat ini menjadi seperti ini?” tanya Huang Yaoshi.
+Dani hampir tersenyum. “Nama saya Dani Moan, Paman.”
 
-“Perempuan yang menyebut dirinya Li Mochou, Qianbei,” jawab Dani.
+Wajah Guo Jing berubah. Ia maju setapak, tetapi berhenti ketika Dani menegangkan bahunya.
 
-Lelaki itu menoleh.
+“Apakah ayahmu bernama Kang Moan?” tanya Guo Jing.
 
-“Saya mendengar namanya dari mulutnya sendiri,” ujar Dani.
+Tongkat di sampingnya mengetuk batu dengan keras.
 
-“Aku tidak sedang menguji telingamu. Biarkan aku memeriksa gadis ini,” balas Huang Yaoshi.
+“Dari mana Paman mengenal nama ayah saya?” tanya Dani.
 
-Ia berjongkok di hadapan Cheng Ying dan menyentuh pergelangan tangannya. Dani menunggu. Penantian itu terasa tidak masuk akal ketika Wushuang sedang dibawa semakin jauh.
+“Kalau begitu, apakah Mu Nianci ibumu?” tanya Guo Jing.
 
-“Qianbei, masih ada seorang gadis lagi. Li Mochou membawanya pergi,” kata Dani.
+Kini Dani tidak tersenyum lagi. Ia mengangguk, matanya bergerak dari Guo Jing ke lelaki tua yang mengatupkan rahang.
 
-Lelaki itu tetap memperhatikan wajah Cheng Ying.
+“Aku Guo Jing. Ayahmu saudara angkatku. Kami sudah lama mencari kabar kalian. Ibumu sekarang di mana?” kata Guo Jing.
 
-“Ke arah mana perempuan itu pergi?” tanya Huang Yaoshi.
+“Ibu saya sudah meninggal, Paman,” jawab Dani.
 
-“Dia keluar melalui gerbang depan, Qianbei,” jawab Dani.
+Tangan Guo Jing yang terulur perlahan turun. Ia memandang baju Dani yang robek dan buntalan kecilnya, lalu menarik napas berat.
 
-“Sesudah melewati gerbang, jalan mana yang diambilnya?” tanya Huang Yaoshi.
+“Maafkan Paman. Seharusnya Paman lebih cepat menemukanmu,” kata Guo Jing.
 
-Dani membuka mulut. Ia tidak melihatnya. Ia berada di dalam saluran, berusaha mendapatkan kembali napasnya, sementara perempuan itu memilih jalan yang tidak bisa ia ketahui. “Saya tidak melihatnya, tetapi saya bisa mencari jejak mereka.”
+“Ibu memang tidak senang merepotkan orang lain, Paman,” balas Dani.
 
-Lelaki tua itu menatap telapak tangannya yang berlumpur, lalu wajahnya.
+“Paman mengenal pendiriannya itu. Dahulu pun ia menolak ketika kami menawarkan bantuan,” kata Guo Jing.
 
-“Kisi-kisi yang diam pun tak sanggup kauangkat. Apa yang akan kaulakukan jika berhasil menyusul Li Mochou?” kata Huang Yaoshi.
+Dani mengendurkan pegangannya sedikit. Orang ini tahu sesuatu yang tidak mungkin ditebak hanya dengan melihat wajahnya.
 
-Panas menjalar ke telinga Dani.
+“Jing'er. Jangan memutuskan hanya karena wajahnya mirip,” kata Ke Zhen'e.
 
-“Saya tidak meminta Qianbei menghitung kelemahan saya!” seru Dani.
+“Murid memahami peringatan Guru. Karena itulah murid menanyakan nama kedua orang tuanya,” balas Guo Jing.
 
-Cheng Ying menyentuh lengan bajunya. Dani menariknya, terlalu cepat. Ia langsung menyesal ketika melihat tangan gadis itu jatuh kembali ke pangkuan.
+“Nama dan wajah masih harus diperiksa, Jing'er. Jangan biarkan perasaan mendahului kewaspadaanmu,” jawab Ke Zhen'e.
 
-Lelaki tua itu tidak tersinggung. Itu membuat Dani semakin marah.
+Guo Jing terdiam. Dani menatap lelaki tua itu; panas mulai merayap ke telinganya.
 
-“Qianbei mampu mengangkat semuanya dengan satu tangan. Mohon kejar dia; saya sungguh tidak sanggup,” ujar Dani.
+“Tetua, saya tidak meminta diakui sebagai siapa pun. Saya sedang mencari seseorang,” kata Dani.
 
-“Lalu gadis yang bahunya remuk ini hendak kautinggalkan bersama siapa?” tanya Huang Yaoshi.
+“Guru Paman bernama Ke Zhen'e. Beliau khawatir Paman keliru. Duduklah dulu, Dani. Dadamu sakit?” ujar Guo Jing.
 
-Dani menoleh kepada Cheng Ying.
+Dani baru sadar tangannya kembali menekan baju. Ia ingin menyangkal, tetapi Guo Jing telah bergeser memberi tempat di sisi jembatan yang teduh. Tidak ada yang menariknya. Ia duduk dengan jarak satu lengan dari mereka.
 
-Ia duduk sangat tegak, seolah dengan menjaga punggungnya tetap lurus ia dapat menyembunyikan sakit. Tetapi setiap beberapa napas, bahunya bergetar. Ada debu di pelipisnya dan pecahan kayu tersangkut pada rambut.
+Cerita tentang rumah keluarga Lu keluar tersendat, lalu makin cepat ketika sampai pada kaki Wushuang dan gerbang yang hancur. Jarinya menunjuk arah jalan. Ia menyebut Li Mochou, lalu Huang Yaoshi yang membawa Cheng Ying.
 
-“Qianbei, sepupu saya bernama Lu Wushuang,” kata Cheng Ying.
+“Paman Guo, Wushuang dibawa Li Mochou dalam keadaan terluka. Mohon Paman mencari kabarnya,” tanya Dani.
 
-Lelaki tua itu mengangguk sedikit.
+“Paman akan mencari kabarnya,” jawab Guo Jing. “Kalau Cheng Ying bersama Huang Yaoshi, dia bersama ayah mertuaku. Beliau bisa menolongnya.”
 
-“Kaki kirinya terluka dan ia tidak dapat berjalan sendiri. Kalau kelak Qianbei mendengar kabar tentangnya, mohon ingat bahwa ia dibawa dengan paksa,” lanjut Cheng Ying.
+Dani mengembuskan napas. Setidaknya satu orang benar-benar berada di tempat aman. Guo Jing memeriksa memarnya setelah meminta izin; Dani mendesis ketika disentuh, lalu buru-buru berkata bahwa sakitnya sudah jauh berkurang.
 
-Suaranya tersendat. Ia menelan ludah sebelum melanjutkan.
+“Kau perlu istirahat. Ikut Paman. Di rumah ada makanan dan tempat tidur,” ujar Guo Jing.
 
-“Tolong jangan lupakan namanya, Qianbei,” pinta Cheng Ying.
+“Saya masih harus mencari ayah angkat saya, Paman. Pagi tadi kami terpisah,” balas Dani.
 
-Lelaki itu memperhatikannya lebih lama daripada sebelumnya.
+“Siapa yang telah mengangkatmu sebagai anak?” tanya Ke Zhen'e.
 
-“Lu Wushuang. Namanya sudah kudengar; tidak perlu kauhabiskan napasmu untuk mengulanginya,” kata Huang Yaoshi.
+Nada tajam itu membuat Dani kembali menutup diri. Ia mengangguk pendek. Jangan sampai lelaki tua ini menanyainya soal Ayah, pikirnya. Mendengar bahwa Ayah suka berjalan terbalik, pasti ia akan mencibir.
 
-Dani menggenggam tangannya sendiri. Tidak ada janji bahwa gadis itu akan ditemukan malam ini. Tidak ada kalimat yang sanggup membalikkan apa yang baru terjadi.
+“Di mana kalian tinggal?” tanya Guo Jing.
 
-Lelaki itu menyuruh Cheng Ying mengatur napas dan memeriksa bahunya. Kemudian ia menoleh kepada Dani, menarik dagu anak itu sedikit untuk melihat wajahnya, lalu melepaskan sebelum Dani sempat mengelak.
+Dani menunjuk tempat pemujaan yang atapnya tampak di sela pohon. Guo Jing mengajaknya memeriksa sekali lagi. Mereka menemukan sudut tidur yang kosong, bekas api, dan jejak kaki Dani sendiri. Panggilan mereka tidak mendapat jawaban.
 
-“Kau bisa berdiri?” tanya Huang Yaoshi.
+Saat Guo Jing bertanya ke mana ayah angkatnya biasa pergi, Dani hanya bisa menggeleng. Ia baru menyadari betapa sedikit yang diketahuinya tentang lelaki itu.
 
-Dani segera bangkit.
+“Kita tinggalkan pesan di sini. Kalau beliau kembali, beliau tahu kau bersama Paman,” kata Guo Jing.
 
-Ia berhasil. Nyeri di dadanya belum hilang, tetapi ia tidak jatuh.
+Dengan arang sisa api, Guo Jing menuliskan nama dan arah perjalanannya pada papan bersih di dekat tempat mereka tidur. Dani mengawasi sampai selesai. Setidaknya kini ada sesuatu yang bisa dibaca Ouyang Feng apabila jejak kakinya hilang.
 
-“Saya masih dapat berdiri, Qianbei,” kata Dani.
+“Jing'er, kau sungguh akan membawanya?” tanya Ke Zhen'e.
 
-“Sekarang coba berjalan beberapa langkah,” tanya Huang Yaoshi.
+“Murid akan membawanya, Guru. Anak saudaraku tidak patut dibiarkan sendirian dalam keadaan terluka. Jika ia keliru, menjadi tanggung jawabku untuk membimbingnya,” jawab Guo Jing.
 
-Dani melangkah dua kali, kaku. Lelaki itu mengamatinya tanpa berkomentar.
+“Tetapi saya belum mengatakan bersedia ikut, Paman,” balas Dani.
 
-“Kalau kakimu masih sanggup, ikutlah. Gadis ini perlu mendapat pertolongan sebelum malam,” ujar Huang Yaoshi.
+Guo Jing menoleh dan menunggu. Itu malah membuat Dani salah tingkah. Ia menggaruk noda abu di ujung hidungnya, memandang jalan, lalu kembali memandang papan tersebut.
 
-Dani memandang pintu belakang. Kain kelabunya tersangkut pada serpih kayu di dekat ambang. Selimut tergeletak jauh dari sana, sebagian masuk genangan.
+“Jika ayah angkat saya datang, mohon Paman jangan mengusirnya,” kata Dani.
 
-Ibunya telah mati. Ia sudah tahu itu ketika meninggalkan rumah. Namun memikirkan bidal dan jarumnya terinjak di halaman ini membuat tenggorokannya kembali mengeras.
+“Paman akan mendengarkan beliau,” balas Guo Jing.
 
-“Izinkan saya mengambil barang-barang dahulu, Qianbei,” kata Dani.
+“Saya juga tidak hendak hidup menumpang tanpa membantu. Saya bisa mencari kayu dan menjahit sedikit, meskipun jahitan saya belum rapi,” tambah Dani.
 
-Lelaki itu menoleh ke arah yang dipandangnya.
+“Kemauanmu membantu Paman hargai. Tetapi makanan dan tempat bernaung bukan upah yang harus kaubeli dengan tubuh terluka. Pulihkan dirimu dahulu,” jawab Guo Jing.
 
-“Ambillah segera. Kita tidak mempunyai sepanjang malam,” kata Huang Yaoshi.
+Perut Dani berbunyi sebelum ia sempat menjawab. Guo Jing tersenyum tanpa menertawakan. Bahkan Ke Zhen'e hanya berdeham dan berbalik ke arah jalan.
 
-Dani tidak bergerak. Ia bisa melihat kain, bisa melihat selimut, tetapi benda-benda kecil dari lipatan itu telah berhamburan entah ke mana. “Sebagian barangnya kecil sekali, Qianbei. Saya belum melihat tempat jatuhnya.”
+Dani meraba ubi terakhir di dalam buntalan. Ia membiarkannya di sana, kemudian menyusul kedua lelaki itu. “Paman Guo, mohon jangan berjalan terlalu cepat. Kaki saya masih pegal.”
 
-Lelaki tua itu menarik napas pendek melalui hidung. Cheng Ying hendak berdiri, tetapi bahunya langsung terkulai. Ia harus bertumpu pada tangan penolongnya.
+Guo Jing segera memperlambat langkah. Kali ini Dani tidak perlu berlari untuk mengejar.
 
-Dani melihatnya. Kemarahannya kehilangan tempat berpijak. “Mohon bawa Cheng Ying lebih dahulu, Qianbei. Jangan menunggu saya.”
-
-“Tetapi bagaimana denganmu, Dani-gege?” tanya Cheng Ying.
-
-“Kakiku masih dapat berjalan. Aku hanya perlu mengumpulkan barang yang tercecer,” jawab Dani.
-
-Ia berusaha tersenyum. Tidak berhasil benar. Cheng Ying tidak membalas dengan senyum yang dibuat-buat.
-
-“Dani-gege, jangan tinggal terlalu lama di tempat ini,” kata Cheng Ying.
-
-“Aku pun tidak berniat menjadikan rumah ini milikku,” balas Dani.
-
-Begitu mengucapkannya, ia ingin menggigit lidahnya sendiri.
-
-Cheng Ying memandang ke arah serambi depan. Dani menunduk.
-
-“Cheng Ying, bukan begitu maksudku. Maafkan ucapanku,” ucap Dani.
-
-“Aku mengerti, Dani-gege. Engkau tidak bermaksud menyakiti hati kami,” balas Cheng Ying.
-
-Ia mengatakannya pelan, tanpa menghapus akibat ucapan Dani, tetapi tanpa menambahkannya pula.
-
-***
-
-Huang Yaoshi membawa Cheng Ying ke bawah pohon di luar pintu belakang. Ia meninggalkannya sebentar di sana, lalu kembali memeriksa serambi depan.
-
-Dani sudah tahu jawabannya sebelum lelaki itu keluar.
-
-Huang Yaoshi menggeleng.
-
-Cheng Ying meremas kain di pangkuannya. Kepalanya tertunduk begitu dalam sehingga Dani tidak bisa melihat wajahnya. Ia ingin mendekat, tetapi tidak tahu apakah gadis itu menginginkannya.
-
-Akhirnya ia mengambil kain lebar yang terlepas dari meja di lorong dan membawanya kepada lelaki tua itu. Huang Yaoshi menerima tanpa bicara. Ketika kembali ke halaman, kain tersebut tidak lagi berada di tangannya.
-
-Rumah itu tetap diam.
-
-Di bawah pohon, Cheng Ying mengangkat muka.
-
-“Qianbei telah menyelamatkan nyawa saya. Saya bahkan belum sempat menyampaikan terima kasih,” kata Cheng Ying.
-
-“Napasmu masih tersengal. Urus itu dahulu; aku tidak akan menjadi miskin karena belum menerima ucapan terima kasih,” balas Huang Yaoshi.
-
-“Bolehkah saya mengetahui nama Qianbei?” tanya Cheng Ying.
-
-“Orang memanggilku Huang Yaoshi,” jawab Huang Yaoshi.
-
-Dani menyimpan nama itu bersama satu nama lain yang baru dipelajarinya hari ini. Yang seorang mematahkan kayu untuk mengambil orang. Yang seorang mengangkat kayu untuk mengeluarkannya.
-
-Cheng Ying mengulang nama tersebut pelan. “Seandainya saya memiliki kepandaian seperti Qianbei, mungkin tadi saya dapat berbuat lebih banyak.”
-
-Huang Yaoshi mengangkat sebelah alis.
-
-“Saya hanya sanggup memegang tangannya, Qianbei. Bahkan pegangan itu pun terlepas,” kata Cheng Ying.
-
-Jemarinya membuka, lalu menutup lagi di atas kain. Ia memandang telapak itu seolah belum mengerti bagaimana tangan Wushuang dapat terlepas darinya.
-
-“Apakah engkau hendak mempelajari ilmu silat dariku?” tanya Huang Yaoshi.
-
-Cheng Ying mengangguk. “Saya ingin belajar, Qianbei. Kelak saya ingin sanggup melindungi Wushuang.”
-
-Lelaki itu menatapnya beberapa saat. Angin menggerakkan ujung janggutnya. Ketika ia berbicara lagi, nadanya tetap kering.
-
-“Jangan mengira ilmu silat akan membuatmu sanggup menyelamatkan setiap orang yang kaukasihi,” kata Huang Yaoshi.
-
-“Saya akan mengingat peringatan Qianbei. Tetapi tanpa belajar, saya tetap tidak sanggup melakukan apa-apa,” balas Cheng Ying.
-
-“Sekarang kau belum memahami semuanya. Namun kemauanmu itu cukup; pelajaran yang lain akan menyusul,” jawab Huang Yaoshi.
-
-Cheng Ying hendak membungkuk. Huang Yaoshi menahan bahunya sebelum ia sempat melakukannya.
-
-“Punggungmu baru tertimpa kayu. Simpan upacaramu,” kata Huang Yaoshi.
-
-Dani hampir mendengus. Bunyi itu berubah menjadi batuk, dan ia memalingkan wajah.
-
-Cheng Ying menatap lelaki tua itu dengan mata yang masih basah. “Murid akan menurut, Shifu.”
-
-Panggilan itu terdengar asing di mulutnya. Huang Yaoshi tidak menolak.
-
-Ia membantu gadis itu bangkit, lalu mengangkatnya agar tidak perlu berjalan dengan tubuh yang masih gemetar. Sebelum berangkat, ia menatap Dani sekali lagi.
-
-“Setelah barangmu terkumpul, tinggalkan tempat ini. Jangan mencoba menyusul Li Mochou dengan tubuh begitu,” ujar Huang Yaoshi.
-
-Dani tidak menjawab.
-
-Huang Yaoshi menunggu sebentar. Ketika tidak mendapat jawaban, ia berbalik.
-
-Cheng Ying memandang Dani melewati bahu gurunya. “Dani-gege, terima kasih karena tadi engkau memilih kembali menolong kami.”
-
-Dani teringat sumur, cawan yang dingin, dan dua langkah yang sempat diambilnya menuju jalan besar. “Tetapi Wushuang tetap dibawa pergi. Aku tidak berhasil menyelamatkannya.”
-
-Cheng Ying tidak mengatakan bahwa semuanya baik-baik saja. “Aku tidak akan melupakan pertolonganmu hanya karena engkau tidak sanggup mengalahkan Li Mochou.”
-
-Dani mengangkat tangan sedikit. Ia menurunkannya sebelum mereka menghilang di balik rumpun bambu.
-
-***
-
-Ia menemukan bidal itu di dekat gelang pintu yang terlepas.
-
-Separuhnya tertanam di lumpur. Pada awalnya Dani mengira benda itu batu kecil, lalu cahaya senja menyentuh pinggir logamnya. Ia mengambilnya dengan dua jari dan membersihkan lubang-lubang halus di permukaannya memakai ujung kain.
-
-Tangannya masih gemetar. Bidal itu terjatuh lagi.
-
-Dani memungutnya tanpa memaki.
-
-Jarum ditemukan tersangkut pada lipatan selimut. Benangnya kusut, tetapi belum putus. Ia menggulung semuanya dengan gerakan lambat, memastikan kali ini tidak ada celah yang dapat membuat benda kecil itu lolos.
-
-Untuk saat ini, ia membereskan benda-benda kecil yang masih sanggup dipegangnya.
-
-Kain buntalan robek sedikit di dekat simpul. Dani menggunakan sisi yang utuh, mengikatnya dua kali, lalu duduk di ambang untuk menunggu nyeri di dadanya mereda.
-
-Di dalam halaman, jejak-jejak mereka masih terlihat pada batu yang basah. Bekas seretan sepatu Cheng Ying. Garis panjang dari kayu yang roboh. Satu jejak kecil Wushuang yang berhenti sebelum lorong.
-
-Dani menatap jejak terakhir itu sampai cahaya tidak lagi cukup untuk membedakannya dari air. “Lu Wushuang.”
-
-Ia mengucapkan nama itu seperti sedang memeriksa apakah ingatannya masih utuh.
-
-“Li Mochou,” kata Dani.
-
-Nama yang kedua terasa berbeda di mulutnya.
-
-Ia tidak bersumpah akan mengalahkan perempuan itu besok. Dadanya masih sakit karena satu gerakan yang bahkan tidak sempat dilihatnya. Tangannya sendiri telah gagal mengangkat kayu. Jika ia mengejar sekarang, mungkin tak seorang pun akan tahu di mana ia jatuh.
-
-Dani mengatupkan rahang. Ia benci mengetahui batas tubuhnya dengan begitu jelas.
-
-Dari depan rumah tercium lagi bau masakan yang tadi membuatnya berhenti di jalan. Sesuatu masih berada di dapur, terlupakan. Perutnya bergerak, tetapi kali ini ia merasa mual.
-
-Ia bangkit sebelum gelap sepenuhnya.
-
-Buntalan kelabu kembali di tangannya. Tambalan pucat pada lengan kiri tertutup debu, dan salah satu benangnya mencuat. Dani menekan ujung benang itu ke dalam, sebuah pekerjaan kecil yang tidak memperbaiki apa pun di sekelilingnya.
-
-Lalu ia melangkahi ambang.
-
-Pintu yang sejak tadi mereka tarik bersama kini terbuka lebar.
-
-Hanya Dani yang melewatinya dengan berjalan.
 
 ---
 
-## Catatan Kontinuitas
+## Catatan Kontinuitas — Bab 3
 
-- **Jalur dan waktu:** Jalur A, kelanjutan langsung akhir Bab 2 hingga menjelang malam pada hari yang sama. Dani 14 tahun; Lu Wushuang 13; Cheng Ying 13–14; Li Mochou sekitar 30. Huang Yaoshi berusia lanjut; usia tepatnya pada fase ini tidak ditetapkan.
-- **Hasil insiden:** pembantaian keluarga Lu dikonfirmasi. Kaki kiri Wushuang patah dalam serangan Li Mochou, menjadi asal cedera permanennya sesuai lore. Wushuang kemudian dibawa Li Mochou. Bab ini belum menetapkan perawatan atau kondisi akhir kakinya.
-- **Cheng Ying dan Huang Yaoshi:** Huang Yaoshi datang setelah Li Mochou meninggalkan halaman, menyelamatkan Cheng Ying dari rangka serambi yang roboh, lalu membawanya untuk ditolong. Cheng Ying diterima sebagai murid; belum mempelajari jurus apa pun.
-- **Keadaan Dani:** lecet pada tangan dan nyeri dada akibat benturan; masih dapat berjalan. Upayanya mengalihkan Li Mochou gagal. Ia belum memiliki qi terlatih atau jurus baru, dan tidak berhasil menyelamatkan Wushuang.
-- **Hubungan:** kepercayaan kedua gadis tumbuh melalui tindakan saling menolong. Perpisahan terjadi tanpa janji cinta atau devosi. Dani mengetahui nama Huang Yaoshi, tetapi belum mengetahui hubungan keluarganya dengan Guo Jing dan Huang Rong.
-- **Benda:** buntalan sempat terbuka saat dilempar sebagai pengalih perhatian. Dani mengumpulkan kembali selimut, pakaian, bidal, jarum, dan benangnya. Kain buntalan sedikit robek; mangkuk ibu tetap berada di rumah asal. Gelang pintu ditinggalkan di kediaman Lu.
-- **Batas alur:** Dani meninggalkan kediaman Lu sendirian. Pertemuan dengan Ouyang Feng dan keluarga Guo belum terjadi. Penyebab kematian Kang Moan belum dibuka. Tidak ada titik percabangan besar yang dipilih ulang.
-- **Register visual:** label Huang Yaoshi hijau pinus #36594C; tubuh jangkung kurus, wajah panjang, rambut kelabu disanggul, janggut tipis memutih, jubah hijau tua, suling giok. Warna dan ciri tokoh lama tetap. Aksen bab merah tua #8E2F2A dengan ilustrasi senja berwarna tembaga dan bayangan sejuk.
+- Jalur A; beberapa hari setelah insiden keluarga Lu. Dani tetap 14 tahun.
+- Ouyang Feng mengangkat Dani sebagai anak; Kang Moan tetap ayah kandungnya.
+- Dasar Kungfu Hama baru dipelajari dan belum terkendali; luka dada belum sepenuhnya pulih.
+- Guo Jing dan Ke Zhen’e menemukan Dani; ia mengikuti mereka setelah mengetahui hubungan Guo dengan ayahnya.
+- Identitas Ouyang belum disebut Dani kepada Guo dan Ke pada pertemuan ini.
+- Buntalan, alat jahit ibu, pakaian, serta ubi terakhir dibawa; Wushuang dan Cheng Ying masih terpisah darinya.

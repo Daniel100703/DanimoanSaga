@@ -28,7 +28,7 @@ Ketika Wushuang melangkah, ujung sarung pedangnya menyentuh batu. Ia kehilangan 
 
 “Kalau harus memilih sekarang, berpura-pura tampaknya lebih terhormat,” balas Dani.
 
-Wushuang mendengus. “Sha. Si Bodoh. Itu panggilan yang pantas untukmu.”
+Wushuang mendengus. “Si Bodoh. Itu panggilan yang pantas untukmu.”
 
 Dani mengangkat kedua tangan, menyerah. Ia tidak memberitahukan namanya. Ketika mereka berangkat searah, Wushuang beberapa kali menoleh ke belakang; setiap bunyi langkah membuat tangannya merapat pada buntalan. Dani memperoleh jawaban yang lebih jelas daripada yang mungkin diberikan mulutnya.
 
@@ -40,7 +40,7 @@ Seorang pemuda berjubah kelabu gelap menghindari tebasan tanpa membalas ke bagia
 
 “Kakak, ia menyerang lagi,” kata gadis yang ditahan itu.
 
-“Aku melihatnya, Yan-mei.” Pemuda tersebut tetap memandang lawannya. “Nona Wanyan, hentikan dahulu. Tanganmu mulai gemetar.”
+“Aku melihatnya, Adik Yan.” Pemuda tersebut tetap memandang lawannya. “Nona Wanyan, hentikan dahulu. Tanganmu mulai gemetar.”
 
 “Yelü Qi, jangan perlakukan aku seperti anak kecil. Selama dendam keluargaku belum terbalas, aku tidak akan berhenti!” seru lawannya.
 
@@ -94,7 +94,7 @@ Wanyan Ping mengamatinya lebih saksama. Wajah yang tadi ditutup kemarahan mulai 
 
 Wanyan Ping menyarungkan pedang, kemudian memberi hormat. “Aku berutang pertolongan dan petunjuk kepadamu. Namaku Wanyan Ping.”
 
-“Panggil saja dia Sha,” sela Wushuang. “Untuk orang yang menyembunyikan nama, nasihatnya banyak sekali.”
+“Panggil saja dia Si Bodoh,” sela Wushuang. “Untuk orang yang menyembunyikan nama, nasihatnya banyak sekali.”
 
 Wanyan Ping memandang Dani dengan kagum yang masih bercampur curiga. Dani membalas hormatnya. Ia menerima panggilan itu tanpa menerangkan lebih jauh.
 
@@ -120,7 +120,7 @@ Mereka bermalam di penginapan yang sama. Dani baru selesai membasuh arang pada w
 
 Seorang perempuan bertopeng berdiri di bawahnya, berjubah hijau pucat.
 
-“Dani-gege, bangunkan Wushuang. Li Mochou sudah berada di jalan depan,” kata perempuan itu.
+“Kakanda Dani, bangunkan Wushuang. Li Mochou sudah berada di jalan depan,” kata perempuan itu.
 
 Panggilan itu menahannya sejenak. Perempuan tersebut mengangkat tepi topeng, memperlihatkan wajah yang lebih dewasa daripada dalam ingatannya.
 
@@ -132,7 +132,7 @@ Dani meraih tudung dan buntalannya. Di lorong, Wushuang sudah berdiri dengan ped
 
 “Kak Ying? Mengapa Kakak—” seru Wushuang.
 
-“Lewat halaman belakang,” kata Cheng Ying. “Ping-mei sedang turun melalui tangga samping. Kita menyusulnya.”
+“Lewat halaman belakang,” kata Cheng Ying. “Nona Wanyan sedang turun melalui tangga samping. Tadi aku bertemu dengannya di bawah dan sudah memperingatkannya. Kita menyusul.”
 
 Mereka hampir mencapai pintu ketika kebut putih menyapu palangnya.
 
@@ -140,17 +140,17 @@ Wushuang berbalik terlalu cepat. Kaki kirinya tersangkut undakan; Hong Lingbo ma
 
 “Wushuang, jauh sekali engkau membawa barang milik gurumu,” ujar Li Mochou. “Sudah waktunya pulang.”
 
-“Barang yang mana, Shifu? Murid hanya membawa pakaian.” Suara Wushuang meninggi meskipun bibirnya berusaha tersenyum.
+“Barang yang mana, Guru? Murid hanya membawa pakaian.” Suara Wushuang meninggi meskipun bibirnya berusaha tersenyum.
 
 “Kelak engkau akan belajar berbohong tanpa memegang buntalan seerat itu,” ujar Li Mochou.
 
 Cheng Ying mendorong pintu samping, menarik Dani keluar sebelum kebut kembali menyambar. Di seberang halaman Wanyan Ping mengangkat pedang, tetapi Li Mochou sudah menempatkan Wushuang di depan tubuhnya.
 
-“Sha, jangan mendekat!” teriak Wushuang.
+“Si Bodoh, jangan mendekat!” teriak Wushuang.
 
 Hong Lingbo menahan siku gadis itu. Mereka mundur melalui jalan depan, sementara Cheng Ying harus mencengkeram lengan Dani agar ia tidak menerjang sendirian.
 
-“Dani-gege, ia sedang menunggu engkau maju tanpa pertimbangan. Kita harus menyelamatkan Wushuang, bukan menyerahkan seorang lagi kepadanya,” kata Cheng Ying.
+“Kakanda Dani, ia sedang menunggu engkau maju tanpa pertimbangan. Kita harus menyelamatkan Wushuang, bukan menyerahkan seorang lagi kepadanya,” kata Cheng Ying.
 
 Dani berhenti menarik lengannya. Ia telah melihat satu jalan keluar terbuka terlambat dahulu; kali ini ia harus tetap mampu bertindak ketika kesempatan berikut datang.
 
@@ -190,13 +190,13 @@ Dani menarik topeng itu.
 
 Wushuang membeku. Mulutnya terbuka sedikit, tetapi nama yang hampir keluar tertahan oleh telapak Hong Lingbo pada bahunya.
 
-“Dani Moan,” ujar Li Mochou. “Gugumu tidak ikut mengurusmu hari ini?”
+“Dani Moan,” ujar Li Mochou. “Di mana adik seperguruanku? Di makam engkau melekat padanya seolah tidak mempunyai kaki sendiri.”
 
-“Bibi dapat berbicara langsung kepadaku. Aku masih memanggilnya Gugu, dan aku tidak akan bersembunyi di belakang namanya,” jawab Dani.
+“Urusan Bibi sekarang denganku,” jawab Dani. “Lepaskan Wushuang. Ia tidak akan kubiarkan dibawa pergi untuk kedua kalinya di depan mataku.”
 
-“Masih memanggilnya Gugu rupanya. Manis sekali sebutan itu, setelah kalian hidup berdua di tempat sunyi.” Senyum Li Mochou melembut. “Seorang guru yang tidak menjaga batas dan seorang murid yang tidak mengenal malu. Apa yang hendak kalian ajarkan kepada dunia?”
+“Berani sekali setelah dibesarkan adik seperguruanku di tempat sunyi.” Senyum Li Mochou melembut. “Seorang guru yang tidak menjaga batas dan seorang murid yang tidak mengenal malu. Apa yang hendak kalian ajarkan kepada dunia?”
 
-Dani merasakan kuku menekan telapaknya. Sambungan kain biru tua bergesek pada rusuk ketika ia berdiri.
+Dani merasakan kuku menekan telapaknya. Sambungan kain biru tua bergesek pada rusuk. Ia teringat Xiaolongnü berdiri dalam hujan, kemudian pergi karena perkataan yang tak mampu dijelaskannya. Perempuan di hadapannya tidak mengetahui malam itu; ia hanya melihat kedekatan mereka di makam dan hendak menjadikannya senjata.
 
 “Jangan bawa namanya untuk menutupi dua nyawa yang baru kaurenggut,” kata Dani.
 
@@ -232,7 +232,7 @@ Li Mochou melihatnya. Kebutnya meninggalkan Dani dan menyambar ke arah mereka.
 
 Yelü Yan mendorong bangku melintasi jalur serangan. Serat putih membelit sandarannya, merobek kayu dan menarik bangku itu keluar dari tangannya. Gadis tersebut terpaksa berlindung di balik tiang.
 
-“Yan-mei, jangan menahan tarikannya!” seru Yelü Qi.
+“Adik Yan, jangan menahan tarikannya!” seru Yelü Qi.
 
 “Aku sudah melepaskannya, Kakak! Bawa mereka ke sini!” jawab Yelü Yan.
 
@@ -276,7 +276,7 @@ Li Mochou tidak menjawab. Dani melihat ujung kebutnya turun, kemudian segera ter
 
 “Lingbo, ikut aku,” perintah Li Mochou.
 
-“Shifu, Wushuang masih—” kata Hong Lingbo.
+“Guru, Wushuang masih—” kata Hong Lingbo.
 
 “Apakah engkau tidak mendengar perintahku?” tanya Li Mochou.
 
@@ -310,7 +310,7 @@ Wu Xiuwen tidak menyela. Matanya sempat berhenti pada telapak Dani sebelum mengi
 
 Wushuang menunggu sampai Guo Fu menjauh beberapa langkah, lalu memukul pelan lengan Dani yang tidak terluka.
 
-“Sha, sejak kapan kau tahu siapa aku?” tanya Wushuang.
+“Si Bodoh, sejak kapan kau tahu siapa aku?” tanya Wushuang.
 
 “Sejak melihatmu di jalan,” jawab Dani.
 
@@ -324,7 +324,7 @@ Wushuang mengangkat wajah untuk membalas. Kata-katanya tidak segera keluar.
 
 “Engkau benar. Aku meminta maaf,” jawab Dani.
 
-Cheng Ying merapikan kain pembebat pada tangan Dani. “Dani-gege, terima kasih telah membantu membawa sepupuku kembali.”
+Cheng Ying merapikan kain pembebat pada tangan Dani. “Kakanda Dani, terima kasih telah membantu membawa sepupuku kembali.”
 
 “Kak Ying juga tidak perlu berterima kasih seolah aku barang kiriman,” gerutu Wushuang. Namun ia tidak melepaskan tangan sepupunya.
 
@@ -332,7 +332,7 @@ Dani tersenyum kecil. Ketika Cheng Ying menanyakan perempuan yang dicarinya, sen
 
 “Namanya Xiaolongnü. Aku harus menemukannya dan menjelaskan sesuatu yang seharusnya sudah kukatakan ketika kami masih bersama,” kata Dani.
 
-Cheng Ying mengikat simpul terakhir. “Kami akan mengingat nama itu, Dani-gege. Kalau mendengar kabarnya, kami akan berusaha menyampaikannya.”
+Cheng Ying mengikat simpul terakhir. “Kami akan mengingat nama itu, Kakanda Dani. Kalau mendengar kabarnya, kami akan berusaha menyampaikannya.”
 
 Dani memberi hormat kepada mereka semua. Sebelum mengambil jalan menuju pegunungan, ia membetulkan jubahnya; sambungan biru tua pada rusuk masih bertahan di antara debu pertarungan.
 

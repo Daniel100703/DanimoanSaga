@@ -1,402 +1,278 @@
-# Bab 2 — Bayang-Bayang di Kediaman Lu
+# BAB 2 — MALAPETAKA DI KEDIAMAN LU
 
-Bayangan atap jatuh melintang di jalan ketika Dani mencium bau masakan dari balik tembok putih.
+Dani menemukan sumur itu ketika tenggorokannya sudah terasa seperti penuh pasir. Ia memperlambat langkah di gerbang, merapikan bajunya sebelum meminta pertolongan kepada penghuni rumah.
 
-Ia berhenti untuk mengencangkan ikatan sepatunya. Ikatan itu sebenarnya belum lepas. Perutnya berbunyi sebelum ia selesai berjongkok, cukup keras untuk membuatnya melirik ke kiri dan kanan.
+Seorang gadis berbaju merah kesemek sedang menarik ember. Talinya tersangkut pada bibir sumur; setiap kali ia menyentak, air di dalamnya tumpah. Dani berhenti di luar pagar rendah dan mengangkat tangan supaya kedatangannya tidak disangka hendak mencuri.
 
-Tak seorang pun memperhatikan. Itu agak melegakan, sekaligus mengecewakan.
+“Nona, bolehkah aku meminta air? Kalau ember itu terus kauajak bertengkar, kita berdua akan kehausan sampai petang.”
 
-Sisa roti dari rumah telah habis di perjalanan. Remah terakhir masih tersangkut pada lipatan kain pembungkus; tadi ia sudah mengaisnya dengan kuku. Kini kain itu terselip kembali di dalam baju, bersih dari segala sesuatu yang dapat dimakan.
+Gadis itu menoleh dengan kening berkerut. “Siapa yang bertengkar? Kalau ingin minum, katakan saja. Tidak perlu mengajariku mengambil air di rumahku sendiri.”
 
-Di balik pintu samping yang terbuka, ember beradu dengan bibir sumur.
+“Wushuang, kendurkan talinya dahulu,” kata gadis lain dari serambi. Pakaiannya hijau pucat, dan di tangannya ada sebuah cawan. “Embernya miring. Makin kautarik, makin sulit dilepaskan.”
 
-Dani bangkit. Rumah itu jauh lebih besar daripada rumahnya, tetapi bukan kemegahannya yang membuat ia mendekat. Ada air di sana. Ia bisa meminta air tanpa harus menjelaskan mengapa ia tidak punya tempat pulang.
+“Kak Ying selalu membelanya sebelum tahu siapa yang salah.”
 
-Ia baru meletakkan sebelah kaki di ambang ketika sebuah suara menghentikannya.
+“Aku sedang membicarakan ember, bukan membela tamu kita.”
 
-“Berhenti! Siapa yang mengizinkanmu masuk ke halaman kami?” tanya Wushuang.
+Dani menahan senyum. Ketika gadis berbaju merah mengendurkan tali, ia membantu mengangkat ember dari sisinya. Gadis berbaju hijau menuangkan air dan memberikannya kepadanya. Ia meminum setengah cawan sebelum ingat mengucapkan terima kasih.
 
-Gadis di dekat sumur itu kira-kira setahun lebih muda darinya. Wajahnya bulat telur, alisnya melengkung tajam ketika melihat sepatu Dani meninggalkan lumpur. Rambut hitam yang diikat dengan kain merah tua bergeser di bahu. Ia mengenakan baju merah kesemek yang lengannya digulung sedikit; satu tangannya masih memegang tali ember.
+“Namaku Cheng Ying,” ujar gadis itu. “Ini sepupuku, Lu Wushuang. Engkau datang seorang diri?”
 
-Dani melihat air mengilap pada batu sumur, lalu menatap gadis itu lagi. “Kalau ingin mencuri sumurnya, aku akan membawa gerobak.”
+“Dani Moan. Aku baru meninggalkan rumah.” Ia menaruh buntalan di antara kedua kakinya. “Di sini mudah sekali menemukan orang yang baik hati. Yang seorang memberi minum, yang seorang memastikan aku tidak terlalu senang menerimanya.”
 
-Tali ember berhenti bergerak.
+Wushuang mendengus. “Minum saja, lalu kembalikan cawannya.”
 
-“Kau masuk tanpa permisi, masih berani mempermainkan tuan rumah?” tanya Wushuang.
+Cheng Ying melirik tambalan yang terlepas pada lengannya. “Kalau engkau belum makan, aku dapat meminta sesuatu dari dapur.”
 
-Ia mendapat balasan terlalu cepat. Dani merapatkan mulut, kemudian mengangkat buntalannya.
+Dani hendak menerima tawaran itu ketika terdengar benturan dari arah gerbang depan. Bunyinya tidak keras, tetapi menyusulnya seekor burung terbang dari pucuk tembok. Wushuang menoleh, kesal karena percakapan mereka terputus.
 
-“Aku hanya hendak meminta secawan air. Kalau diizinkan, sesudah minum aku akan pergi,” kata Dani.
+“Barangkali tamu Ayah. Kak Ying, aku akan memberitahukan kepada Ibu.”
 
-“Sejak tadi katakan saja maksudmu. Tidak perlu berputar-putar,” balas Wushuang.
+“Biarlah aku melihat dahulu,” kata Dani. “Aku sudah memperoleh air. Setidaknya aku dapat membalas dengan membuka pintu.”
 
-Di bawah serambi, seorang gadis berbaju hijau pucat meletakkan kendi di pinggir bangku. Ia sedikit lebih tinggi daripada gadis pertama, dengan wajah lebih ramping dan rambut yang terikat rapi. Tatapannya bergerak dari bibir Dani yang kering ke buntalan kelabu, tanpa berhenti terlalu lama pada bajunya yang bertambal.
+Ia meninggalkan buntalan dekat sumur. Dari sisi serambi, gerbang depan terlihat melalui lorong pendek. Seorang perempuan berjubah kelabu keunguan berdiri di luarnya. Ia cantik, dengan sanggul tinggi dan kebut putih yang seolah tidak mempunyai berat. Perempuan itu sedang menempelkan dua jari pada kayu di dekat gelang besi.
 
-“Wushuang, pegang talinya baik-baik. Embernya hampir terlepas,” ujar Cheng Ying.
+Bukan seluruh daun pintu yang roboh. Kayunya retak sepanjang serat, sedangkan gelangnya turun perlahan bersama serpihan yang masih melekat. Dani berhenti sebelum bayangannya mencapai ambang.
 
-Lu Wushuang menoleh. Tali telah melorot satu jengkal di tangannya. Ia buru-buru menariknya, dan ember menghantam sisi sumur dengan bunyi tumpul.
+Perempuan itu mengangkat mata. “Adik kecil, apakah keluarga Lu menerima tamu hari ini?”
 
-Dani menyambut pegangan ember ketika benda itu sampai di bibir sumur. Wushuang menegang, mengira ia akan merampasnya, tetapi Dani hanya menahan sisi bawahnya agar air tidak tumpah. “Biar kutahan bagian bawahnya. Kalau tumpah, aku harus menunggu lebih lama untuk minum.”
+Suaranya ramah. Dani justru mundur setapak.
 
-“Letakkan di situ,” perintah Wushuang.
+“Saya hanya singgah meminta minum, Bibi. Kalau hendak menemui tuan rumah, izinkan saya memanggil beliau.”
 
-“Terima kasih sudah membantu. Silakan minum dahulu,” ucap Cheng Ying.
+“Sungguh anak yang tahu adat. Panggillah seluruh keluarganya. Aku tidak ingin seorang pun merasa dilupakan.”
 
-Dani menoleh ke arah suara yang kedua. Gadis berbaju hijau menyodorkan cawan. Ia mengambilnya dengan tangan kanan; tangan kirinya tidak melepaskan buntalan.
+Dani membungkuk, lalu kembali dengan langkah yang sengaja ditahannya. Ia baru berlari setelah melewati tikungan. Wushuang masih berada di dekat sumur; Cheng Ying sudah membawa sepotong makanan di atas piring.
 
-Air pertama terasa begitu dingin hingga giginya ngilu. Ia minum terlalu cepat, tersedak, lalu memalingkan muka sebelum Wushuang sempat berkomentar.
+“Ada perempuan di gerbang. Jangan ke sana,” bisik Dani.
 
-Tentu saja Wushuang tetap berkomentar.
+Wushuang mengerutkan hidung. “Rumah kami kedatangan tamu, mengapa engkau yang ketakutan?”
 
-“Minumlah perlahan. Tidak ada yang hendak merebut cawanmu,” kata Wushuang.
+“Ia mematahkan kayu dengan dua jari. Aku melihatnya sendiri. Beri tahu orang tuamu, lalu tunjukkan pintu yang lain.”
 
-“Sudah terlalu lama aku berjalan tanpa menemukan sumur. Tenggorokanku rupanya lebih tergesa daripada pemiliknya,” balas Dani.
+Cheng Ying meletakkan piring. Wajahnya berubah ketika melihat Dani sungguh-sungguh. Ia menarik sepupunya dari sumur.
 
-Cheng Ying mengangkat kendi untuk mengisi cawannya lagi. Ada gerakan kecil di sudut bibirnya, cepat sekali hilang.
+“Kak Ying, kalau kita lari setiap ada orang membawa senjata—”
 
-“Kalau ingin tertawa, tertawalah. Aku sendiri hampir menumpahkan air yang susah payah kuminta,” ujar Dani.
+“Aku akan memberitahukan Paman. Engkau ambil selendangmu dan tunggu di belakang,” potong Cheng Ying. “Kalau ternyata kami keliru, nanti aku yang menjelaskan.”
 
-“Aku hanya hendak menawarkan secawan lagi. Engkau tampaknya masih haus,” balas Cheng Ying.
+Dani menyambar buntalannya. Dari lorong depan terdengar suara lelaki menyebut sebuah nama dengan nada yang membuat bulu tengkuknya berdiri: Li Mochou.
 
-Kali ini Wushuang mendengus. Dani memandang mereka bergantian dan memutuskan minum adalah pekerjaan yang lebih aman.
-
-“Namaku Cheng Ying. Yang tadi menegurmu itu sepupuku, Lu Wushuang,” ujar Cheng Ying.
-
-“Kak Ying, aku bisa memperkenalkan diriku sendiri,” sela Wushuang.
-
-“Kalau begitu, izinkan aku memperkenalkan diri sebelum sumur ini mendapat penjaga tambahan,” sahut Dani.
-
-Wushuang menaruh kedua tangan di pinggang. Alisnya naik, seolah telah menemukan satu kesalahan baru yang perlu dibereskan. “Cepat sebutkan namamu, jangan terus mempermainkan kata.”
-
-“Namaku Dani Moan. Aku tidak membawa maksud buruk kemari,” jawab Dani.
-
-“Dari keluarga mana kau berasal?” tanya Wushuang.
-
-“Keluargaku tidak terkenal. Menyebut namanya pun belum tentu membuatmu mengenal mereka,” jawab Dani.
-
-Ia mengangkat cawan, tetapi Cheng Ying tidak menuang lagi. Gadis itu menunggu sampai ia menurunkannya.
-
-“Dani-gege, apakah engkau sudah berjalan jauh hari ini?” tanya Cheng Ying.
-
-Dani memutar cawan di antara jari. Di rumah, mangkuk ibunya masih di rak. Ia mendadak melihat retakannya dengan sangat jelas, lalu memaksa pandangannya kembali pada bibir cawan yang utuh. “Cukup jauh. Aku lebih suka beristirahat sejenak daripada mengingat kembali jalannya.”
-
-Cheng Ying mengangguk kecil. Tidak ada pertanyaan berikutnya. Ia mengisi sedikit lagi, seolah jawaban Dani telah lengkap.
-
-Dari bagian dalam rumah terdengar kayu diseret. Wushuang langsung memandang serambi. Senyumnya yang baru separuh terbentuk menghilang.
-
-“Kalian sedang pindah?” tanya Dani.
-
-“Kami tidak hendak pergi ke mana-mana,” jawab Wushuang.
-
-Jawabannya terlalu keras untuk pertanyaan sependek itu.
-
-Cheng Ying meletakkan kendi dengan hati-hati. Dani memperhatikan daun jendela di ujung serambi: tertutup, padahal cahaya siang masih cukup terang. Di bawahnya ada bangku yang bergeser miring, meninggalkan bekas panjang pada lantai berdebu.
-
-Ia menelan air terakhir. Urusan orang yang memberinya minum tidak perlu menjadi urusannya juga.
-
-“Pintu depan di sebelah mana? Aku tidak mau mengelilingi tembok sampai haus lagi,” kata Dani.
-
-“Keluarlah melalui pintu ini, lalu belok ke kanan, Dani-gege. Jalan besarnya ada di depan,” jawab Cheng Ying.
-
-Wushuang mengambil cawan darinya. “Dan jangan tinggalkan lumpur lagi.”
-
-Dani melihat jejak sepatunya, kemudian batu-batu sumur yang sejak tadi basah oleh ember mereka.
-
-Ia sudah membuka mulut. Cheng Ying lebih dahulu mengangkat alis, lembut, hampir seperti permintaan.
-
-Dani menutup mulut lagi. “Terima kasih sudah memberiku minum, Cheng Ying.”
-
-Ucapan itu keluar lebih pelan daripada yang ia rencanakan. Ia menarik buntalan lebih tinggi dan melangkah ke jalan.
+Perempuan itu menjawab sesuatu. Lalu terdengar kursi jatuh.
 
 ***
 
-Perempuan itu berdiri di depan gerbang utama.
+Pintu belakang mengembang karena lembap. Wushuang menarik gelangnya sementara Dani menekan bagian bawah dengan bahu. Di antara dua sentakan, ia mendengar suara langkah Cheng Ying berlari mendekat.
 
-Dani melihatnya ketika memutari sudut tembok. Mula-mula yang menarik perhatiannya hanyalah pakaian: jubah kelabu bersemu ungu yang ujungnya tetap bersih, sementara sepatunya sendiri membawa separuh lumpur jalan.
+“Paman menyuruh kita keluar,” kata gadis itu. “Dani, apakah pintunya dapat dibuka?”
 
-Perempuan itu tampak berusia sekitar tiga puluh tahun. Rambut hitamnya disanggul tinggi dengan tusuk sederhana. Wajahnya elok, tenang, dengan mata yang tidak bergerak-gerak mencari perhatian. Di lengannya tersampir sebuah kebut berambut putih panjang, bergagang kayu gelap.
+“Kalau pemilik rumah berjanji tidak menagih ganti rugi, akan kucoba merusaknya.”
 
-Dani melambat tanpa bermaksud berhenti.
+“Rusakkan saja!” Wushuang menyerahkan gelang besi itu. “Sesudahnya kau boleh merusak yang lain asal pintu ini terbuka!”
 
-“Adik kecil, berhentilah sebentar,” ujar perempuan itu.
+Dani menyelipkan pecahan bata di bawah daun pintu. Cheng Ying menekan dari samping; mereka berhasil mengangkat bagian yang tersangkut. Celah selebar jari terbuka, membawa bau tanah dari jalan belakang.
 
-Ia menoleh. Perempuan itu tidak mengangkat suara. Namun Dani tahu panggilan tersebut untuknya, sama pastinya dengan ia tahu gerbang di belakang perempuan itu sedang tertutup rapat.
+Kemudian bayangan seseorang menutupi lantai.
 
-“Apakah Bibi memanggil saya?” tanya Dani.
+“Adik kecil, rupanya nasihatku tadi tidak sampai ke telingamu.”
 
-“Kau baru keluar dari rumah ini?” tanya perempuan itu.
+Dani berbalik. Li Mochou telah berdiri di ujung lorong, kebutnya bersih seperti saat pertama dilihat. Ia tidak tampak terengah. Wushuang hendak melewatinya, tetapi Cheng Ying menahan lengan sepupunya.
 
-Dani melirik lumpur di sepatunya. Ada jejak yang menghubungkan dirinya dengan pintu samping. Berbohong tentang itu terasa percuma. “Saya tadi meminta air di sumur mereka, Bibi.”
+“Di mana Ayah?” tanya Wushuang. “Ayahku sedang berbicara denganmu!”
 
-“Baik sekali mereka,” ujar perempuan itu.
+“Pembicaraan kami sudah selesai.” Li Mochou memandang kedua gadis. “Yang mana putri keluarga Lu?”
 
-Ujung rambut kebut berayun sedikit di atas pergelangan tangannya. Dani menunggu pertanyaan berikutnya.
+Dani melempar pecahan bata sebelum Wushuang menjawab. Ia tidak berharap melukai perempuan itu; ia hanya memerlukan waktu untuk menarik pintu. Kebut putih berkelebat. Bata berubah menjadi pecahan kecil yang memukul tembok, lalu gagangnya mengetuk gelang besi di tangan Dani.
 
-“Masih berkumpul semuanya di dalam?” tanya perempuan itu.
+Gelang itu terenggut dari kayu. Dani jatuh bertumpu pada telapak tangan.
 
-Kata *semuanya* membuat ia teringat jendela yang ditutup pada siang hari. Ia tidak tahu mengapa perempuan ini ingin mengetahuinya, dan justru itulah yang membuat tengkuknya tidak nyaman.
+Li Mochou membiarkan mereka bangkit. Di belakangnya, melalui ambang lengkung, terlihat sebuah kursi terbalik dan tangan yang terjulur tanpa bergerak. Wushuang menatap tangan itu. Seketika ia menarik lengannya dari Cheng Ying dan berlari.
 
-“Saya hanya sampai di dekat sumur, Bibi. Saya tidak melihat siapa saja yang berada di dalam,” kata Dani.
+“Ayah! Ibu!”
 
-Perempuan itu memperhatikannya. Bukan bajunya, bukan buntalannya. Wajahnya.
+Perempuan berjubah kelabu itu memberi jalan. Dani mengikuti sampai serambi depan terlihat seluruhnya, lalu berhenti. Lelaki yang tadi memerintahkan anak-anak keluar terbaring dekat kursi. Seorang perempuan jatuh di sisi anak tangga. Tidak seorang pun menjawab panggilan Wushuang.
 
-Dani hampir menambahkan sesuatu, sekadar mengisi jeda. Ia menggigit lidahnya sendiri agar diam.
+Gadis itu berlutut dan mengguncang bahu ibunya. “Ibu, bangunlah. Aku sudah membuka pintu belakang. Kita dapat pergi sekarang.”
 
-“Kalau begitu, pergilah. Jalanmu masih panjang,” ujar perempuan itu.
+Cheng Ying menutup mulut. Dani pernah pulang kepada tubuh ibunya yang tak lagi hangat, tetapi di sini kematian datang ketika makanan masih tersedia di dapur dan air sumur belum selesai diangkat. Ia tidak tahu ke mana harus memandang.
 
-Ia mengatakannya seperti memberi nasihat yang baik.
+Li Mochou berhenti di samping Wushuang. “Mereka tidak akan ikut, anak manis.”
 
-Dani mundur selangkah, lalu berbalik ke arah jalan besar. Ia berjalan biasa. Tidak cepat. Belum.
+Wushuang mendongak. “Apa yang telah mereka lakukan kepadamu?”
 
-Di belakangnya terdengar ketukan kecil.
+“Kadang sebuah keluarga mewarisi sesuatu yang tidak pernah dimintanya.” Perempuan itu menggeser ujung kebut di atas lengannya. “Nama Lu sudah lama membuatku mengingat janji yang tidak ditepati.”
 
-Ujung gagang kebut menyentuh papan gerbang, tepat di samping gelang besi. Dani menoleh karena bunyinya demikian ringan. Perempuan itu bahkan tidak menarik lengan untuk memukul.
+“Kalau seseorang mengingkari janji, carilah orang itu!” Wushuang menjerit. “Ibuku bahkan menyuruhku menyiapkan minuman untuk tamu!”
 
-Lalu kayunya retak.
+Senyum Li Mochou lenyap. Untuk sesaat Dani mengira ucapan tersebut menyentuh sesuatu yang masih dapat diajak bicara. Ia maju setapak.
 
-Bukan seluruh daun pintu yang roboh. Hanya serpih tipis yang terangkat di dekat besi, diikuti bunyi palang bergeser paksa dari sebelah dalam. Retakan itu memanjang ketika pergelangan tangan perempuan tersebut bergerak sedikit lagi.
+“Bibi, mereka anak-anak. Kalau ada perkara dengan keluarga ini, kami tidak mengetahuinya.”
 
-Dani berhenti bernapas.
+Li Mochou menoleh. “Engkau mengira orang harus bersalah dahulu sebelum kehilangan sesuatu?”
 
-Ia pernah mendobrak papan lapuk dengan bahu. Ia tahu sakit yang tertinggal sesudahnya, tahu betapa memalukannya jika papan itu tidak patah. Kayu gerbang ini tebal dan terawat. Perempuan itu menyentuhnya seakan mengetuk meja untuk meminta teh.
+Dani berhenti. Perempuan itu tidak menjawab seperti orang yang sedang mempertimbangkan benar atau salah. Ia seperti mengulangi sebuah pertanyaan yang telah lama dibawanya sendiri, lalu memilih membuat orang lain menanggung jawabannya.
 
-Salah satu daun gerbang merenggang.
+Wushuang mengangkat kepala. Air matanya belum jatuh; wajahnya pucat sampai bibirnya terlihat merah sekali. Ia meraih pecahan kaki kursi dan menghantamkannya ke lutut Li Mochou.
 
-Dani sudah berada di balik sudut sebelum perempuan itu masuk. Ia tidak menunggu melihat apa yang akan dilakukan tamu yang membuka pintu dengan cara demikian.
+Kebut itu bergerak. Dani hanya melihat pakaian merah terputar, kemudian tubuh Wushuang jatuh di tepi anak tangga. Bunyi kecil terdengar dari kakinya. Gadis itu mencoba berdiri dan menjerit.
 
-Di hadapannya jalan bercabang. Yang satu menuju jalan besar. Yang lain kembali ke pintu samping dan sumur.
+“Wushuang, jangan digerakkan!” Cheng Ying berlari mendekat.
 
-Ia memilih jalan besar selama dua langkah.
+Dani berlutut di sisi yang lain. Kaki kiri Wushuang terletak dengan sudut yang membuatnya merasa mual. Ia melepas selendang dari bahu gadis itu dan melipatnya untuk menahan betis, tetapi tangannya gemetar.
 
-Lalu ia memaki, berbalik, dan berlari.
+“Kak Ying, suruh Ibu bangun,” kata Wushuang, mencengkeram pergelangan sepupunya. “Kalau Ibu melihat kakiku, beliau pasti datang.”
+
+Cheng Ying menggeleng. Tangisnya jatuh ke tangan mereka yang bertaut.
+
+“Dengarkan aku. Kita harus keluar dari sini dahulu.”
+
+“Aku tidak mau! Ayah dan Ibu masih di sana!”
+
+“Aku tahu.” Cheng Ying mendekatkan dahinya kepada kepala Wushuang. “Aku juga melihat mereka. Tetapi aku tidak sanggup kehilanganmu pula.”
+
+Untuk pertama kalinya sejak jatuh, Wushuang berhenti melawan tangan yang menopangnya. Dani menyelipkan lengannya di bawah bahu gadis itu. Di belakang mereka pintu masih menyisakan celah; ia memandangnya dan mencoba menghitung berapa langkah yang dibutuhkan.
+
+Li Mochou lebih dahulu berbicara. “Yang bermarga Lu, ikut denganku.”
+
+“Bunuh saja aku!” Wushuang meludah ke tanah di dekat sepatunya. “Aku tidak akan memanggilmu guru atau ibu atau apa pun yang kaukehendaki!”
+
+Li Mochou memperhatikan wajahnya beberapa saat. Sesuatu melintas di matanya, terlalu cepat untuk dipahami Dani.
+
+“Simpanlah kebencianmu. Kalau kelak engkau mempunyai kepandaian, barangkali ia lebih berguna daripada tangismu.”
+
+“Bibi,” sela Dani, menahan suara supaya tidak pecah, “kakinya patah. Izinkan kami mengikatnya dahulu. Kalau dibawa begitu saja, lukanya akan bertambah buruk.”
+
+“Engkau mempunyai banyak nasihat untuk orang yang belum sanggup membuka pintu.”
+
+Dani menggigit bagian dalam pipinya. Ia memindahkan beban Wushuang kepada Cheng Ying dan mundur ke buntalan yang terjatuh tadi. Perempuan itu mengikuti gerakannya tanpa menghalangi. Barangkali ia mengira bocah yang ketakutan akhirnya memilih menyelamatkan diri.
+
+“Saya akan mengambil barang saya,” kata Dani. “Sesudah itu Bibi tidak perlu mendengarkan nasihat saya lagi.”
+
+Ibu jarinya mengendurkan simpul. Ia menatap Cheng Ying; gadis itu membaca niatnya dan menggeleng, tetapi Dani sudah melemparkan buntalan terbuka ke wajah Li Mochou.
+
+Kain kelabu mengembang. Selimut, baju, dan alat jahit berhamburan. Dani menerjang ke arah kedua gadis.
+
+Gagang kebut mengenai dadanya lebih dahulu.
+
+Tubuhnya terlempar menabrak daun pintu yang retak. Kayu itu membuka, dan Dani jatuh ke saluran air di luar tembok. Ia mencoba menarik napas, tetapi hanya suara serak yang keluar.
+
+“Kakanda Dani!” teriak Cheng Ying.
+
+Melalui pintu yang akhirnya terbuka, ia melihat gadis itu mempertahankan tangan Wushuang. Li Mochou mengibaskan lengan. Cheng Ying terbentur tiang penyangga serambi; sambungannya patah, membawa kisi-kisi dan tepi atap runtuh bersama.
+
+“Jangan sentuh Kak Ying!” Wushuang memukul lengan pembunuh orang tuanya. Pukulannya makin lemah setiap kali kaki kirinya terguncang.
+
+Li Mochou mengangkat gadis itu, menopang punggung dan lipatan lututnya, lalu berjalan menuju gerbang depan. Dani mencengkeram rumput di tepi saluran. Wushuang masih sempat menoleh ketika ia memanggil.
+
+Tangannya terulur ke arah pintu, sebentar saja, sebelum Li Mochou membawanya melewati ambang lengkung.
 
 ***
 
-Wushuang masih di dekat sumur ketika Dani masuk lagi. Kali ini lumpur memercik sampai ke ujung bajunya. “Kau ini—”
+Dani kembali ke halaman dengan lutut dan telapak penuh lumpur. Ia tidak mencoba berdiri lagi setelah nyeri di dadanya membuat pandangannya menggelap. Ia merangkak sampai menemukan Cheng Ying di bawah kisi-kisi.
 
-“Ada perempuan membawa kebut putih di depan. Jangan dekati gerbang utama!” potong Dani.
+“Kakanda, jangan angkat sisi itu,” ucap gadis tersebut. “Balok di atas kepalaku akan ikut turun.”
 
-Kata-katanya saling mendahului. Ia menarik napas melalui mulut, kesal karena terdengar seperti anak kecil yang habis dikejar anjing.
+Ia berhenti, menelan rasa malu karena nyaris menambah celaka. “Tunjukkan yang harus kuangkat. Aku akan mengikuti perkataanmu.”
 
-Cheng Ying meletakkan kendi begitu cepat hingga alasnya berbunyi. “Perempuan seperti apa?”
+Cheng Ying menunjuk papan yang menahan bahunya. Dani menyingkirkan genting, menyelipkan tangan, lalu mengangkat dengan sisa tenaganya. Kayu itu bergerak sedikit. Dadanya seperti ditusuk dari dalam.
 
-“Jubahnya kelabu dan rambutnya disanggul tinggi. Dia menanyakan apakah seluruh keluarga masih berada di rumah,” jawab Dani.
+“Cukup dahulu. Engkau sendiri terluka,” kata Cheng Ying.
 
-Wushuang tidak menyela lagi. Kedua tangannya turun dari pinggang.
+“Kalau sudah keluar, barulah kau boleh memarahiku. Aku akan duduk dan mendengarkan sampai selesai.”
 
-“Apakah kalian mengenal perempuan itu?” tanya Dani.
+Sebuah tangan tua tiba-tiba memegang balok di atas mereka. Beban terangkat dengan begitu mudah hingga Dani nyaris kehilangan keseimbangan.
 
-Cheng Ying memandang gerbang kecil menuju halaman depan. Wajahnya tidak sepucat Wushuang, tetapi jari-jarinya menekan tepi bangku hingga buku jarinya memutih. “Aku harus memperingatkan Paman dan Bibi. Wushuang, tunggulah di sini bersama Dani-gege.”
+“Tarik gadis itu ke sisiku, bocah. Perlahan, kalau tidak ingin menambah lukanya.”
 
-Ia bergegas menaiki serambi.
+Dani menurut. Lelaki berjubah hijau tua tersebut menyangga reruntuhan dengan sebelah bahu, sementara tangannya memberi ruang bagi Cheng Ying. Begitu mereka keluar, lelaki itu menurunkan kayu ke tanah. Genting pecah tepat di tempat kepala gadis itu berada tadi.
 
-“Jangan sendirian—” seru Dani.
+“Perempuan pembawa kebut yang melakukannya?” tanya penolong mereka.
 
-Cheng Ying sudah berbelok. Dani bergerak hendak mengikuti, tetapi Wushuang melangkah ke depannya.
+“Namanya Li Mochou, Tetua. Ia membawa sepupu saya,” jawab Cheng Ying. “Mohon selamatkan Wushuang. Kakinya terluka.”
 
-“Kau melihat dia masuk?” tanya Wushuang.
+Lelaki itu memeriksa denyut nadinya sebelum menjawab. Dari dekat, Dani melihat suling giok di pinggangnya dan tatapan tajam di bawah alis yang mulai memutih.
 
-“Dia sudah merenggangkan daun gerbang ketika aku pergi,” jawab Dani.
+“Ke arah mana?”
 
-“Barangkali Ayah memang membukakan pintu untuknya. Kau belum tentu melihat semuanya,” kata Wushuang.
+“Gerbang depan,” kata Dani. Ia hendak menunjuk, lalu menurunkan tangannya. “Sesudah itu saya tidak melihatnya. Saya jatuh di luar tembok.”
 
-Ia mengucapkannya sambil menatap tempat Cheng Ying menghilang, seakan ingin ada orang lain yang membenarkan.
+“Dengan dada seperti itu, kau masih hendak mengejar?”
 
-Dani menelan ludah. Ia baru menyadari tenggorokannya kembali kering. “Tidak ada yang membukakan. Dia meretakkan kayunya dengan gagang kebut.”
+“Kalau saya sanggup, saya tidak akan meminta pertolongan Tetua.” Dani menunduk, menahan panas di mata. “Saya tahu kepandaian saya tidak ada. Karena itulah saya memohon.”
 
-Wushuang menatapnya.
+Lelaki tua itu menatapnya, kemudian memanggil Cheng Ying mendekat. Ia mengeluarkan obat dan menyuruhnya menelan sedikit, lalu memberi bagian lain kepada Dani.
 
-“Aku melihatnya sendiri, Wushuang. Karena itulah aku kembali,” ujar Dani.
+“Gadis ini tidak boleh dibiarkan di sini. Li Mochou sudah membawa seorang tawanan yang mungkin ingin dipertahankannya hidup-hidup; gadis yang di depanmu baru saja hampir mati tertimpa kayu. Jangan sampai orang yang masih dapat kautolong kauabaikan karena mengejar yang belum terjangkau.”
 
-Angin menggeser daun bambu di atas tembok. Dari arah depan terdengar bunyi besi menyentuh batu, pendek, lalu langkah yang terburu-buru di dalam rumah.
+Dani memandang Cheng Ying. Bahu bajunya robek dan ada darah pada pelipisnya. Ia merasa malu karena sejak tadi terus menoleh ke gerbang.
 
-Rahang Wushuang mengeras. Ia hendak berlari, tetapi Dani meraih lengannya.
+“Saya tidak bermaksud meninggalkanmu,” katanya.
 
-“Lepaskan!” seru Wushuang.
+“Aku mengetahuinya, Kakanda.” Cheng Ying menyeka wajah dengan punggung tangan. “Engkau sudah kembali meskipun pintunya terbuka untukmu.”
 
-“Tunggu sepupumu kembali! Jangan lari ke sana sendirian,” balas Dani.
+Lelaki berjubah hijau itu meminta nama mereka. Ketika Dani balas menanyakan namanya, ia menjawab sambil membetulkan posisi bahu Cheng Ying.
 
-“Itu rumahku! Ayah dan Ibuku masih di dalam!” seru Wushuang.
+“Huang Yaoshi. Mengingat nama tidak membuatmu berutang hormat setiap kali membuka mulut.”
 
-Dani melepaskan pegangannya. Kalimat itu membuat telapak tangannya terasa kosong, padahal buntalan masih tergantung pada pergelangan yang lain.
+“Kalau begitu, saya akan mengingat pertolongannya, Kakek Huang.”
 
-Ia tidak tahu apa yang patut dikatakan kepada seseorang yang masih memiliki rumah dan sedang ketakutan kehilangannya. Semua balasan cepat yang biasanya tersedia terasa bodoh.
+Sudut mulut lelaki itu bergerak sedikit. Cheng Ying berlutut untuk berterima kasih. Huang Yaoshi menyuruhnya bangun, memeriksa lagi lengannya, kemudian bertanya apakah ia mempunyai tempat berlindung yang aman. Gadis itu memandang tubuh paman dan bibinya di serambi.
 
-Cheng Ying muncul kembali sebelum Wushuang mencapai anak tangga. “Aku sudah menyampaikan peringatannya. Kita diminta keluar lewat belakang, Wushuang.”
+“Sepupu saya dibawa pergi. Saya tidak tahu harus meminta pertolongan kepada siapa lagi.”
 
-“Bagaimana dengan Ayah dan Ibu, Kak Ying? Mengapa mereka tidak ikut keluar?” tanya Wushuang.
+“Ikutlah denganku. Bila lukamu sudah pulih, akan kulihat apakah engkau cukup sabar mempelajari sesuatu.”
 
-Cheng Ying mengulurkan tangan. Wushuang tidak menyambutnya.
+Cheng Ying mengangkat wajah. “Apabila Tetua bersedia mengajar, saya akan bersungguh-sungguh. Saya ingin sanggup melindungi sepupu saya ketika kami bertemu lagi.”
 
-“Kita menunggu di luar dahulu. Kalau mereka juga harus mencari kita, mereka akan semakin kesulitan,” ujar Cheng Ying.
+“Jangan berjanji terlalu cepat. Bersungguh-sungguh ketika takut itu mudah. Kita lihat bagaimana ketekunanmu ketika tak seorang pun sedang mengejarmu.”
 
-“Kak Ying, apakah mereka berjanji akan menyusul?” tanya Wushuang.
+Namun ia tidak menarik kembali tawarannya. Cheng Ying memberi hormat sekali lagi, dan kali ini Huang Yaoshi menerimanya.
 
-Cheng Ying tidak segera menjawab. Dani melihat jeda itu; ia melihat Wushuang melihatnya juga.
+Dani mundur untuk mengumpulkan barang yang berhamburan. Jarum ibunya terselip di antara dua batu. Ia harus berlutut dan mencungkilnya dengan kuku, sementara rasa nyeri membuat napasnya terputus-putus. Benangnya putus; bidalnya menggelinding sampai ke dekat kaki kursi.
 
-“Pegang tanganku, Wushuang. Kita harus bergerak sekarang,” kata Cheng Ying.
+“Bocah, engkau juga dapat ikut sampai menemukan tempat yang layak,” kata Huang Yaoshi.
 
-Wushuang mengatupkan gigi. Matanya berkilat basah, tetapi ia menatap Dani dengan tajam, seolah Dani yang telah membawa perempuan itu ke rumah mereka.
+“Terima kasih, Kakek. Saya hendak mengambil barang Ibu dahulu.”
 
-Ia ingin berkata bahwa ia hanya meminta air. Ingin sekali.
+“Ambil. Aku tidak menyuruhmu meninggalkannya.”
 
-Sebaliknya, ia menunjuk ke belakang serambi.
+Dani memasukkan jarum dan bidal ke buntalan, kemudian mencari gulungan benang yang masih hilang. Ketika ia mengangkat kepala, Cheng Ying sedang memberi penghormatan terakhir kepada paman dan bibinya. Huang Yaoshi menunggunya, dengan jubah hijau bergerak pelan ditiup angin dari pintu yang rusak.
 
-“Cheng Ying, apakah pintu belakangnya di sana?” tanya Dani.
+Sebelum berangkat, Cheng Ying melepas selendang yang masih bersih dan menutupi wajah bibinya. Tangannya berhenti di sana; Dani berdiri di sampingnya tanpa tahu apakah ia boleh membantu.
 
-Cheng Ying mengangguk dan memegang tangan sepupunya. Kali ini Wushuang membiarkannya.
+“Tadi aku yang menyuruh Wushuang mengambil selendang,” kata Cheng Ying. “Kalau kami lebih cepat ke pintu belakang—”
 
-Mereka melewati sisi bangunan, menunduk di bawah jemuran kosong. Dani menoleh sekali. Dari tempat itu, pintu samping tempat ia masuk sudah tidak terlihat. Ia masih bisa kembali ke sana, keluar, lalu berlari sepanjang tembok. Perempuan tadi tidak mencarinya.
+“Perempuan itu sudah menunggu di sana,” jawab Dani. “Aku juga melihat celahnya dan mengira kita masih dapat keluar. Kita sama-sama tidak tahu.”
 
-Wushuang tersandung batu yang menonjol. Ia segera tegak lagi, marah pada batu itu, pada kakinya, pada semua orang yang menyuruhnya pergi.
+Cheng Ying menoleh kepadanya. “Aku akan mengingat wajahnya. Tetapi aku tidak ingin hanya mengingat bagaimana kami ketakutan hari ini.”
 
-Dani menyusul mereka.
+“Kalau begitu, ingatlah bagaimana engkau menunjukkan papan yang harus kuangkat. Kalau tidak mendengarkanmu, barangkali aku justru menjatuhkannya.”
 
-Ia bisa pergi tanpa mereka; itulah yang membuat langkah berikutnya terasa berat.
+Gadis itu mengusap pipinya. Huang Yaoshi menunggu tanpa memotong percakapan mereka.
 
-***
+“Kakanda Dani,” kata Cheng Ying sebelum berangkat, “kalau kelak engkau mendengar kabar Wushuang, ingatlah bahwa aku juga sedang mencarinya.”
 
-Pintu belakang lebih kecil daripada gerbang utama, dengan bagian bawah yang menghitam oleh lembap. Cheng Ying mengangkat pengaitnya. Besi itu lepas dari dudukan dengan bunyi berderit.
+“Aku akan mengingatnya. Kalau bertemu dengannya lebih dahulu, katakan bahwa aku belum lupa caranya memarahi orang yang meminta air.”
 
-Daun pintu tidak bergerak.
+Cheng Ying menunduk. Senyum yang dicobanya tidak selesai. “Ia pasti akan memarahimu lagi.”
 
-Wushuang langsung menarik gelangnya dengan kedua tangan. Bahunya terangkat. Pintu mengeluarkan bunyi serak, tetapi tetap menempel pada bingkai. “Biasanya tidak begini.”
+“Biarkan saja. Aku ingin mendengarnya.”
 
-“Kayu bagian bawahnya mengembang terkena hujan. Beri aku sedikit tempat,” balas Dani.
+Mereka berpisah setelah Dani menolak meninggalkan halaman sebelum semua alat jahit ditemukan. Huang Yaoshi menunjukkan arah jalan yang lebih aman dan berpesan agar ia tidak mengerahkan tenaga. Cheng Ying beberapa kali menoleh; Dani mengangkat tangan sampai jubah hijau mereka hilang dari pandangan.
 
-“Aku bisa—”
+Ia akhirnya duduk di anak tangga, meletakkan buntalan di pangkuan. Di dekat sumur masih ada cawan yang tadi dipakainya. Ia membawanya kembali ke bangku supaya tidak terinjak, lalu mengikat barangnya dengan simpul yang lebih kuat.
 
-“Pintu rumahku juga sering mengganjal seperti ini. Coba biarkan aku memeriksanya,” kata Dani.
+Sebelum berangkat ia menoleh sekali lagi ke serambi. Tidak ada sesuatu yang dapat diucapkannya untuk memperbaiki hari itu. Ia hanya membungkuk kepada orang-orang yang sempat menerimanya sebagai tamu, lalu memungut buntalan. Dadanya sakit ketika berdiri; kini rasa sakit itu mengingatkannya betapa sedikit yang sanggup dilakukan tanpa kepandaian.
 
-Kata *punya* tertahan di mulutnya sesaat. Ia membungkuk sebelum ada yang memperhatikan.
-
-Ia menaruh buntalan di lantai, di bagian yang tidak tergenang. Di dalam kain itu, bidal ibunya membentur sesuatu dengan bunyi kecil. Dani segera menekan buntalan agar tidak terguling, kemudian menyelipkan jari ke celah bawah pintu.
-
-Terlalu sempit.
-
-Ia mencoba menarik dari gelang seperti Wushuang. Kayunya bergetar, mengirim nyeri ke ujung jari. Tidak terbuka. Wushuang mengawasinya dengan tatapan yang hampir mengatakan sesuatu.
-
-“Tahan dahulu kata-katamu. Aku sedang mencari bagian yang tersangkut,” kata Dani.
-
-“Aku belum mengatakan apa-apa kepadamu,” balas Wushuang.
-
-“Tetapi tatapanmu sudah menagih agar pintunya terbuka,” balas Dani.
-
-Tak ada yang tertawa.
-
-Ia mengambil pecahan bata pipih di dekat saluran air. Dengan sudutnya ia mengeruk lumpur yang menyumbat celah. Cheng Ying berjongkok di sebelahnya, menarik serpih kayu dan daun yang terlepas.
-
-Di depan rumah sesuatu jatuh. Mereka bertiga berhenti bersamaan.
-
-Bunyi itu tidak disusul apa-apa selama dua tarikan napas. Dani berharap akan mendengar makian, teguran, benda lain digeser. Suara biasa apa pun.
-
-Ia menekan bata lebih keras. Kulit di ruas jarinya terserempet kayu. Perih itu membuat ia kembali bergerak.
-
-“Dani-gege, bagaimana kalau pintunya kita angkat sedikit sebelum ditarik?” tanya Cheng Ying.
-
-“Aku angkat dari bawah. Kalian berdua tarik ketika kuberi aba-aba,” jawab Dani.
-
-Wushuang menggenggam gelang pintu. Cheng Ying menahan sisinya. Dani mengganjal celah dengan bata, menekannya perlahan sebagai pengungkit.
-
-Pintu naik sedikit.
-
-“Sekarang,” seru Dani.
-
-Mereka menarik. Kayu menggesek batu, panjang dan keras. Terbukalah celah selebar dua jari. Cahaya dari jalan belakang menoreh lantai gelap.
-
-Wushuang hampir tersenyum. Dani sempat melihatnya sebelum suara itu datang.
-
-“Kasihan sekali. Pintu sekecil itu pun menahan kalian begitu lama,” ujar perempuan itu.
-
-Perempuan berjubah kelabu berdiri di ambang lengkung yang menghubungkan dua halaman.
-
-Dani tidak mendengar langkahnya. Ia tetap berjongkok dengan bata di tangan, terlalu sadar bahwa jika ia berdiri terburu-buru, lututnya mungkin tidak mau menuruti.
-
-Li Mochou menatap celah pintu, buntalan di lantai, lalu wajah Dani. Senyum tipisnya hampir sama dengan ketika ia menyuruhnya pergi. “Adik kecil, rupanya nasihatku tadi tidak sampai ke telingamu.”
-
-“Barang saya tertinggal di sini, Bibi,” balas Dani.
-
-Ia menganggukkan dagu ke arah buntalan.
-
-Mata perempuan itu turun sebentar.
-
-“Bukankah tadi kaubawa?” tanya perempuan itu.
-
-Hening.
-
-Dani merasakan telinganya memanas. Kebohongan yang baru keluar itu kini tergeletak begitu saja di antara mereka, tak bisa dipungut kembali.
-
-Wushuang melangkah maju. Cheng Ying mengencangkan pegangan pada pergelangan sepupunya, tetapi tidak berhasil menahannya sepenuhnya. “Apa yang kaulakukan kepada Ayah dan Ibuku? Mengapa mereka tidak menjawab?”
-
-Li Mochou memperhatikan gadis itu. Sudut bibirnya tidak berubah; matanya menjadi lebih diam. “Jadi engkaulah putri keluarga Lu. Pantas sekali sorot matamu mengingatkanku kepada mereka.”
-
-Wushuang mengangkat dagu. Urat kecil menegang di sisi lehernya. “Jawab pertanyaanku! Di mana mereka?”
-
-“Begitukah orang tuamu mengajarimu meminta keterangan kepada tamu?” tanya perempuan itu.
-
-Nada perempuan tersebut tetap lembut. Dani mulai membenci kelembutan itu. Ia tidak bisa menemukan tempat untuk menyela, tidak bisa menebak pada kata mana perempuan itu akan berhenti tersenyum.
-
-Cheng Ying bergerak setengah langkah ke sisi Wushuang. “Bibi, sepupu saya mengkhawatirkan keluarganya. Mohon jangan menyalahkan ucapannya.”
-
-Li Mochou mengamati tangan mereka yang bertaut. Sesuatu melintas di wajahnya, demikian cepat sehingga Dani tidak tahu apakah ia benar-benar melihatnya: bibir yang sedikit mengeras, atau sekadar bayangan daun di atas serambi. “Tentu ia khawatir. Orang-orang keluarga Lu memang pandai menunjukkan kasih sayang kepada orang yang mereka pilih.”
-
-Rambut putih kebut meluncur turun dari lengannya.
-
-Dani menyambar buntalan dengan tangan kiri, lalu berdiri. Bata masih berada di tangan kanan. Ia menyembunyikannya di belakang paha, kemudian menyadari betapa percumanya gerakan itu. “Bibi mencari orang-orang di depan, bukan? Kami hanya diminta keluar dari rumah.”
-
-Perempuan itu menoleh kepadanya. Kali ini seluruh perhatiannya tertuju pada Dani.
-
-“Aku telah memberimu kesempatan pergi, adik kecil. Tidak semua orang mendapat kemurahan itu dua kali,” ujar perempuan itu.
-
-Ia tidak membentak. Dani justru berharap ia membentak.
-
-“Saya hanya hendak mengambil barang dan keluar bersama mereka, Bibi,” kata Dani.
-
-Li Mochou memandang kakinya.
-
-Tanpa disadari, Dani telah bergeser ke depan pintu, di antara perempuan itu dan kedua gadis. Ia bisa mundur satu langkah ke samping. Cukup satu.
-
-Cheng Ying menyentuh lengan kirinya dari belakang, sangat ringan. Mungkin menyuruhnya menyingkir. Mungkin memintanya menunggu. Ia tidak berani menoleh untuk memastikan.
-
-“Siapa kau?” tanya Wushuang.
-
-Perempuan itu mengangkat wajah. Untuk pertama kalinya, senyumnya hilang.
-
-“Namaku Li Mochou. Barangkali keluargamu pernah menyebutnya,” ujar perempuan itu.
-
-Nama itu belum berarti apa-apa bagi Dani. Namun tangan Cheng Ying menegang pada lengannya, dan Wushuang berhenti bernapas sesaat. Ia mendapat jawabannya dari sana.
-
-Li Mochou maju.
-
-Dani melemparkan bata ke arah kakinya.
-
-Ia tidak membidik kepala, tidak mengira dapat melukai perempuan yang meretakkan gerbang dengan satu sentuhan. Ia hanya menginginkan sedikit ruang, satu gerakan menghindar, waktu untuk menarik pintu sekali lagi.
-
-Kebut putih itu bergerak.
-
-Bata menghantam tembok di samping mereka sebelum Dani melihat bagaimana arahnya dibelokkan. Serpih merah menyentuh pipinya. Ia refleks menutup mata.
-
-“Menunduk!” seru Dani.
-
-Ia melepaskan buntalan dan meraih lengan Wushuang. Cheng Ying menarik dari sisi lain. Ketiganya terhuyung ke bawah tepat ketika rambut kebut menyapu gelang pintu.
-
-Besi itu terenggut dari kayu.
-
-Dani jatuh bertumpu pada telapak tangan. Di dekat wajahnya, celah menuju jalan belakang masih mengirimkan sejalur cahaya. Ia dapat melihat tanah di luar, bahkan sehelai daun yang bergerak ditiup angin.
-
-Begitu dekat.
-
-Di belakangnya, ujung jubah kelabu berhenti bergerak.
+Pintu belakang sudah terbuka lebar. Dani melewatinya sendirian.
 
 ---
 
-## Catatan Kontinuitas
+## Catatan Kontinuitas — Bab 2
 
-- **Jalur dan waktu:** Jalur A, awal insiden kediaman keluarga Lu. Dani 14 tahun; Lu Wushuang 13 tahun; Cheng Ying 13–14 tahun; Li Mochou sekitar 30 tahun. Tidak ada lompatan waktu besar sejak Bab 1.
-- **Urutan peristiwa:** Dani bertemu kedua gadis, melihat Li Mochou merusak gerbang sebelum mengetahui namanya, lalu kembali memberi peringatan. Keluarga di dalam diberi tahu melalui Cheng Ying. Upaya keluar lewat belakang terhenti ketika Li Mochou menghadang.
-- **Batas akhir bab:** serangan pertama terhadap jalan keluar baru terjadi. Nasib penghuni di bagian depan belum diperlihatkan. Wushuang belum mengalami cedera kaki permanen atau penculikan; Cheng Ying belum bertemu Huang Yaoshi. Hasil besar insiden tetap mengikuti lore dan belum dituntaskan di bab ini.
-- **Ikatan:** Lu Wushuang 0 → 5%; Cheng Ying 0 → 5%. Dasarnya tindakan Dani kembali memperingatkan dan membantu membuka pintu. Ini kepercayaan awal, belum ketertarikan romantis atau devosi. Li Mochou mulai memandang Dani sebagai penghalang.
-- **Kemampuan dan kondisi:** Dani mengandalkan pengamatan, kebohongan spontan, dan usaha fisik biasa. Lemparan batanya gagal; tidak ada jurus atau peningkatan tenaga dalam. Ruas jarinya lecet ringan, tanpa luka berat. Kedua gadis belum diperkenalkan sebagai murid perguruan.
-- **Benda:** roti dari Bab 1 telah habis. Buntalan kelabu, jarum, benang, bidal, pakaian, dan selimut masih milik Dani; buntalan berada di lantai dekat pintu belakang pada akhir bab. Mangkuk Mu Nianci tetap ditinggalkan di rumah asal.
-- **Batas pengetahuan:** Dani baru mengetahui nama Li Mochou di akhir pertemuan. Label pembicara bagi pembaca tidak berarti Dani telah mengenal identitasnya sejak awal. Motif kematian Kang Moan tetap belum terungkap; Ouyang Feng dan keluarga Guo belum ditemui.
-- **Desain tetap tokoh baru:** Lu Wushuang — label merah bata #984533, baju merah kesemek, ikatan rambut merah tua; Cheng Ying — label hijau giok tua #3D685D, baju hijau pucat, ikatan rambut hijau; Li Mochou — label ungu kelabu #70516F, jubah kelabu bersemu ungu, sanggul tinggi, kebut putih bergagang kayu gelap. Aksen suasana Bab 2: merah tua #8E2F2A.
+- Jalur A; seluruh insiden keluarga Lu berlangsung dalam satu hari. Dani 14; Wushuang 13; Cheng Ying 13–14.
+- Wushuang kehilangan orang tua, kaki kiri patah, lalu dibawa Li Mochou; Cheng Ying diselamatkan dan diterima Huang Yaoshi.
+- Dani mengenal ketiga perempuan serta Huang Yaoshi melalui peristiwa ini; belum bertemu Ouyang Feng atau keluarga Guo.
+- Dani belum memiliki qi terlatih; dada memar dan telapak lecet. Pertolongannya gagal menghentikan Li Mochou.
+- Jarum, bidal, benang, pakaian, dan selimut berhasil dikumpulkan; buntalan robek. Mangkuk ibu tetap di rumah asal.
+- Bab ini menggabungkan Bab 2–3 edisi lama, termasuk seluruh ilustrasi kedua bab; kedekatan ketiga remaja masih berupa kepercayaan awal.

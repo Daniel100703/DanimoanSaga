@@ -10,6 +10,8 @@
   const book = JSON.parse(document.getElementById('book-meta').textContent);
   const single = document.body.dataset.mode === 'single';
   const storageKey = 'dani-moan-lore-v1';
+  const migration=JSON.parse(document.getElementById('edition-migration').textContent);
+  const edition=migration.edition;
   let progress = 0, opener = null, savedY = 0, observer;
   const esc = value => String(value).replace(/[&<>"']/g, ch => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[ch]));
   const href = (page, anchor = '') => single ? '#' + page + (anchor ? '/' + anchor : '') : (page === 'beranda' ? 'index' : page) + '.html' + (anchor ? '#' + anchor : '');
@@ -17,14 +19,20 @@
   const endKey = c => Number(c) * 10000 + Number(data.chapterLengths[c] || 0);
   const keyOf = id => { const m = /^p-(\d+)-(\d+)$/.exec(id || ''); return m ? Number(m[1])*10000 + Number(m[2]) : 0; };
   try {
-    progress = Number(JSON.parse(localStorage.getItem(storageKey) || '{}').progress) || 0;
+    const stored=JSON.parse(localStorage.getItem(storageKey) || '{}');
+    progress=Number(stored.progress)||0;
+    if(progress && stored.edition!==edition){
+      const anchor='p-'+String(Math.floor(progress/10000)).padStart(2,'0')+'-'+String(progress%10000).padStart(3,'0');
+      progress=keyOf(migration.map[anchor]);
+    }
     const old = JSON.parse(localStorage.getItem('dani-moan-webnovel-v1') || '{}');
     for (const p of Object.values(old.positions || {})) progress = Math.max(progress, keyOf(p.anchor));
+    localStorage.setItem(storageKey,JSON.stringify({progress,edition}));
   } catch (_) {}
   const remember = key => {
     if (key <= progress) return;
     progress = key;
-    try { localStorage.setItem(storageKey, JSON.stringify({progress})); } catch (_) {}
+    try { localStorage.setItem(storageKey, JSON.stringify({progress,edition})); } catch (_) {}
   };
   const context = key => {
     const c = Math.floor(key / 10000), p = key % 10000;

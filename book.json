@@ -1,6 +1,6 @@
 {
   "title": "Saga Dani Moan",
-  "description": "Novel wuxia berilustrasi karya Daniel Halomoan Siregar. Edisi dialog v4, Bab 1–9, dengan Wiki Persilatan yang mengikuti cerita.",
+  "description": "Novel wuxia berilustrasi karya Daniel Halomoan Siregar. Edisi revisi Bab 1–10, dengan Wiki Persilatan yang mengikuti cerita.",
   "chapters": [
     {
       "id": 1,
@@ -111,9 +111,9 @@
     },
     {
       "id": 2,
-      "title": "Bayang-Bayang di Kediaman Lu",
-      "description": "Permintaan air membawa Dani ke sebuah halaman yang sedang menunggu kedatangan tamu.",
-      "quote": "Adik kecil, rupanya nasihatku tadi tidak sampai ke telingamu.",
+      "title": "Malapetaka di Kediaman Lu",
+      "description": "Pertemuan singkat menjadi malapetaka ketika Li Mochou menagih dendam kepada keluarga Lu.",
+      "quote": "Aku juga melihat mereka. Tetapi aku tidak sanggup kehilanganmu pula.",
       "accent": "#8E2F2A",
       "slug": "bab-02",
       "han": "二",
@@ -130,9 +130,9 @@
             "width": 1536,
             "height": 1024
           },
-          "anchor": "Kali ini Wushuang mendengus.",
-          "alt": "Dani bertemu Lu Wushuang dan Cheng Ying di dekat sumur.",
-          "caption": "Segelas air dan pertemuan pertama."
+          "anchor": "Wushuang mendengus.",
+          "alt": "Dani bertemu Wushuang dan Cheng Ying di sumur.",
+          "caption": "Secawan air sebelum malapetaka."
         },
         {
           "image": {
@@ -141,8 +141,8 @@
             "height": 1536
           },
           "anchor": "Bukan seluruh daun pintu yang roboh.",
-          "alt": "Gerbang kayu retak di samping gelang besi.",
-          "caption": "Satu sentuhan di dekat gelang besi."
+          "alt": "Kayu gerbang retak di dekat gelang besi.",
+          "caption": "Tenaga yang belum sanggup ditandingi Dani."
         },
         {
           "image": {
@@ -150,9 +150,59 @@
             "width": 1536,
             "height": 1024
           },
-          "anchor": "Dani menyambar buntalan dengan tangan kiri, lalu berdiri.",
-          "alt": "Li Mochou menghadang Dani, Wushuang, dan Cheng Ying di pintu belakang.",
-          "caption": "Di depan pintu belakang, keramahan menjadi ancaman."
+          "anchor": "Li Mochou telah berdiri di ujung lorong",
+          "alt": "Li Mochou menghadang ketiga remaja.",
+          "caption": "Pintu belakang tidak memberi keselamatan."
+        },
+        {
+          "image": {
+            "file": "bab-03-pembuka.webp",
+            "width": 1024,
+            "height": 1536
+          },
+          "anchor": "Gadis itu mencoba berdiri dan menjerit.",
+          "alt": "Malapetaka menimpa anak-anak keluarga Lu.",
+          "caption": "Dendam orang dewasa sampai kepada anak-anak."
+        },
+        {
+          "image": {
+            "file": "bab-03-ilustrasi-01.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "anchor": "Untuk pertama kalinya sejak jatuh",
+          "alt": "Dani dan Cheng Ying menopang Wushuang.",
+          "caption": "Mereka masih berusaha saling menjaga."
+        },
+        {
+          "image": {
+            "file": "bab-03-ilustrasi-02.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "anchor": "Tangannya terulur ke arah pintu",
+          "alt": "Li Mochou membawa Wushuang pergi.",
+          "caption": "Wushuang dibawa melalui serambi."
+        },
+        {
+          "image": {
+            "file": "bab-03-ilustrasi-03.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "anchor": "Begitu mereka keluar, lelaki itu menurunkan kayu",
+          "alt": "Huang Yaoshi menolong Cheng Ying dari reruntuhan.",
+          "caption": "Pertolongan datang kepada yang masih dapat diselamatkan."
+        },
+        {
+          "image": {
+            "file": "bab-03-ilustrasi-04.webp",
+            "width": 1024,
+            "height": 1536
+          },
+          "anchor": "Jarum ibunya terselip di antara dua batu.",
+          "alt": "Dani mencari alat jahit ibunya di halaman.",
+          "caption": "Peninggalan yang kembali dikumpulkan."
         }
       ],
       "cast": [
@@ -203,66 +253,7 @@
             0.301,
             0.232
           ]
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "title": "Pintu yang Terlambat Terbuka",
-      "description": "Jalan keluar terbuka, tetapi Dani harus menghadapi batas pertolongan yang sanggup diberikannya.",
-      "quote": "Aku tidak akan melupakan pertolonganmu hanya karena engkau tidak sanggup mengalahkan Li Mochou.",
-      "accent": "#8E2F2A",
-      "slug": "bab-03",
-      "han": "三",
-      "source": "bab-03.md",
-      "cover": {
-        "file": "bab-03-pembuka.webp",
-        "width": 1024,
-        "height": 1536
-      },
-      "plates": [
-        {
-          "image": {
-            "file": "bab-03-ilustrasi-01.webp",
-            "width": 1536,
-            "height": 1024
-          },
-          "anchor": "Untuk pertama kalinya sejak jatuh, Wushuang berhenti melawan",
-          "alt": "Dani dan Cheng Ying menopang Wushuang yang terluka.",
-          "caption": "Tangan yang masih bersedia saling menopang."
         },
-        {
-          "image": {
-            "file": "bab-03-ilustrasi-02.webp",
-            "width": 1536,
-            "height": 1024
-          },
-          "anchor": "Tangannya terulur ke arah pintu, sebentar saja, sebelum Li Mochou",
-          "alt": "Li Mochou membawa Wushuang menjauhi Dani.",
-          "caption": "Sebuah tangan terulur; jarak yang semakin jauh."
-        },
-        {
-          "image": {
-            "file": "bab-03-ilustrasi-03.webp",
-            "width": 1536,
-            "height": 1024
-          },
-          "anchor": "Begitu mereka keluar, lelaki itu menurunkan kayu ke tanah.",
-          "alt": "Huang Yaoshi menyelamatkan Cheng Ying dari rangka kayu yang roboh.",
-          "caption": "Pertolongan datang melalui pintu yang telah terbuka."
-        },
-        {
-          "image": {
-            "file": "bab-03-ilustrasi-04.webp",
-            "width": 1024,
-            "height": 1536
-          },
-          "anchor": "Untuk saat ini, ia membereskan benda-benda kecil",
-          "alt": "Bidal Mu Nianci ditemukan di antara puing dekat gerbang.",
-          "caption": "Bidal Mu Nianci, di antara serpih gerbang."
-        }
-      ],
-      "cast": [
         {
           "name": "Huang Yaoshi",
           "age": "Usia lanjut.",
@@ -282,14 +273,14 @@
       ]
     },
     {
-      "id": 4,
+      "id": 3,
       "title": "Ayah di Jalan Terbalik",
       "description": "Di jalan, Dani bertemu seorang lelaki dengan pikiran kacau dan kasih sayang yang sulit dimengerti.",
       "quote": "Kali ini Dani tidak perlu berlari untuk mengejar.",
       "accent": "#55634B",
-      "slug": "bab-04",
-      "han": "四",
-      "source": "bab-04.md",
+      "slug": "bab-03",
+      "han": "三",
+      "source": "bab-03.md",
       "cover": {
         "file": "bab-04-pembuka.webp",
         "width": 1024,
@@ -379,14 +370,14 @@
       ]
     },
     {
-      "id": 5,
+      "id": 4,
       "title": "Di Bawah Atap Keluarga Guo",
       "description": "Sebuah keluarga menerima Dani; rasa curiga dan harga diri segera menguji tempat barunya.",
       "quote": "Engkau tidak kehilangan keluarga karena berbuat salah.",
       "accent": "#74464F",
-      "slug": "bab-05",
-      "han": "五",
-      "source": "bab-05.md",
+      "slug": "bab-04",
+      "han": "四",
+      "source": "bab-04.md",
       "cover": {
         "file": "bab-05-pembuka.webp",
         "width": 1024,
@@ -498,14 +489,14 @@
       ]
     },
     {
-      "id": 6,
-      "title": "Di Balik Pintu Batu",
-      "description": "Harapan belajar membawa Dani ke Quanzhen, lalu menuju sebuah pintu batu di lereng Zhongnan.",
-      "quote": "Aku sendiri yang akan mengajarimu, Dani.",
+      "id": 5,
+      "title": "Quanzhen dan Pintu Makam",
+      "description": "Janji sebuah perguruan gagal melindungi Dani; seorang pengasuh dan pewaris makam memberinya jalan lain.",
+      "quote": "Kalau perguruanmu pandai mengajar, mengapa anak ini lebih mengenal pukulan daripada pelajaran?",
       "accent": "#536C76",
-      "slug": "bab-06",
-      "han": "六",
-      "source": "bab-06.md",
+      "slug": "bab-05",
+      "han": "五",
+      "source": "bab-05.md",
       "cover": {
         "file": "bab-06-pembuka.webp",
         "width": 1024,
@@ -604,18 +595,38 @@
             0.563,
             0.264
           ]
+        },
+        {
+          "name": "Zhen Zhibing",
+          "age": "Dewasa; usia tepat belum disebut.",
+          "description": "Senior Quanzhen; mengenal Dani sejak penerimaannya."
+        },
+        {
+          "name": "Qiu Chuji",
+          "age": "Tetua; usia tepat belum disebut.",
+          "description": "Tetua Quanzhen yang pernah mengajar Kang Moan."
+        },
+        {
+          "name": "Huodu",
+          "age": "Dewasa; usia tepat belum disebut.",
+          "description": "Pemuda pembawa kipas besi yang menyerbu Zhongnan."
+        },
+        {
+          "name": "Daerba",
+          "age": "Dewasa; usia tepat belum disebut.",
+          "description": "Pendamping Huodu yang menggunakan gada berat."
         }
       ]
     },
     {
-      "id": 7,
-      "slug": "bab-07",
-      "han": "七",
-      "source": "bab-07.md",
+      "id": 6,
+      "slug": "bab-06",
+      "han": "六",
+      "source": "bab-06.md",
       "title": "Janji di Bawah Tanah",
       "accent": "#586F69",
-      "description": "Empat tahun latihan diuji oleh kedatangan Li Mochou. Di dalam makam yang tertutup, Dani dan Gugu harus memilih siapa yang akan mereka percayai.",
-      "quote": "Kemarahanku tidak membuatku ingin meninggalkanmu.",
+      "description": "Empat tahun pengajaran berujung pada luka, pengepungan makam, dan sebuah pilihan yang mengubah sumpah.",
+      "quote": "Aku sudah memilih ketika kembali melewati pintu.",
       "cover": {
         "file": "bab-07-pembuka.webp",
         "width": 1024,
@@ -638,9 +649,9 @@
             "width": 1536,
             "height": 1024
           },
-          "anchor": "Biarkan aku marah sambil tetap menjagamu.",
+          "anchor": "Dani menopangnya melalui lorong berukir.",
           "alt": "Di balik batu penutup makam, Dani membawa lampu dan menopang Xiaolongnü setelah memilih tetap menjaganya.",
-          "caption": "Ia masih marah. Tangannya tetap terulur."
+          "caption": "Peninggalan di bawah makam memberi jalan untuk hidup."
         }
       ],
       "cast": [
@@ -663,18 +674,46 @@
       ]
     },
     {
+      "id": 7,
+      "slug": "bab-07",
+      "han": "七",
+      "source": "bab-07.md",
+      "title": "Rumah yang Mereka Pilih",
+      "accent": "#4F7776",
+      "description": "Jubah yang dijahit bersama, dunia di luar gunung, dan kepulangan yang dipilih di tengah hujan.",
+      "quote": "Aku pulang kepada Bibi.",
+      "cover": {
+        "file": "bab-08-pembuka.webp",
+        "width": 1024,
+        "height": 1536
+      },
+      "plates": [
+        {
+          "image": {
+            "file": "bab-07-rekonsiliasi-hujan.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "anchor": "Ia memeluknya. Xiaolongnü membalas",
+          "alt": "Dani dan Xiaolongnü berpelukan saat berbaikan di tengah hujan.",
+          "caption": "Di bawah hujan, mereka menyelesaikan percakapan yang ditinggalkan."
+        }
+      ],
+      "cast": []
+    },
+    {
       "id": 8,
       "slug": "bab-08",
       "han": "八",
       "source": "bab-08.md",
       "title": "Yang Tak Sempat Dikatakan",
       "accent": "#986263",
-      "description": "Di gubuk lereng gunung, sebuah jubah yang diperbaiki menjadi bagian dari kedekatan Dani dan Gugu. Kedatangan ayah angkatnya mengusik ketenteraman itu.",
-      "quote": "Aku percaya Gugu akan menjaganya seperti aku menjaganya.",
+      "description": "Kedatangan ayah angkat, serangan seorang kenalan lama, dan dua ingatan yang tidak bertemu pada pagi hari.",
+      "quote": "Aku ingin engkau menjadi istriku.",
       "cover": {
-        "file": "bab-08-pembuka.webp",
-        "width": 1024,
-        "height": 1536
+        "file": "bab-08-ilustrasi-02.webp",
+        "width": 1536,
+        "height": 1024
       },
       "plates": [
         {
@@ -698,24 +737,7 @@
           "caption": "Sambungan kain itu masih ada. Orang yang menjahitnya telah pergi."
         }
       ],
-      "cast": [
-        {
-          "name": "Zhen Zhibing",
-          "age": "Dewasa; usia tepat belum ditetapkan.",
-          "description": "Pendeta Quanzhen yang dihadapi Dani di gubuk.",
-          "image": {
-            "file": "bab-08-ilustrasi-01.webp",
-            "width": 1536,
-            "height": 1024
-          },
-          "roi": [
-            0.714,
-            0.28,
-            0.824,
-            0.476
-          ]
-        }
-      ]
+      "cast": []
     },
     {
       "id": 9,
@@ -724,7 +746,7 @@
       "source": "bab-09.md",
       "title": "Di Hadapan Iblis Merah",
       "accent": "#95563E",
-      "description": "Di tengah pencarian Gugu, Dani bertemu kembali dengan Wushuang. Penyamaran dan pertolongan mempertemukan enam anak muda dengan ancaman Li Mochou.",
+      "description": "Di tengah pencarian Xiaolongnü, Dani bertemu kembali dengan Wushuang. Penyamaran dan pertolongan mempertemukan enam anak muda dengan ancaman Li Mochou.",
       "quote": "Kali ini satu orang telah berhasil ia bawa keluar.",
       "cover": {
         "file": "bab-09-pembuka.webp",
@@ -803,7 +825,51 @@
           ]
         }
       ]
+    },
+    {
+      "id": 10,
+      "slug": "bab-10",
+      "han": "十",
+      "source": "bab-10.md",
+      "title": "Dua Nama di Bawah Salju",
+      "accent": "#55728D",
+      "description": "Di pegunungan salju, pencarian Dani mempertemukannya dengan dua tetua, persaingan lama, dan warisan yang mahal.",
+      "quote": "Namamu sudah kutuliskan di sini, Ayah.",
+      "cover": {
+        "file": "bab-10-pembuka.webp",
+        "width": 1024,
+        "height": 1536
+      },
+      "plates": [
+        {
+          "image": {
+            "file": "bab-10-ilustrasi-01.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "anchor": "Benturan mengirim bunyi pendek ke dinding gunung.",
+          "alt": "Hong Qigong dan Ouyang Feng beradu telapak di lereng bersalju; Dani berlindung di balik batu.",
+          "caption": "Dua kepandaian besar, dua tubuh yang tetap dapat terluka."
+        },
+        {
+          "image": {
+            "file": "bab-10-ilustrasi-02.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "anchor": "Ia membungkuk tiga kali, lalu duduk sebentar di antara kedua makam.",
+          "alt": "Dani berlutut di hadapan dua makam sederhana di pegunungan salju.",
+          "caption": "Dua nama tinggal di gunung; pelajaran mereka dibawa turun."
+        }
+      ],
+      "cast": [
+        {
+          "name": "Hong Qigong",
+          "age": "Lanjut usia.",
+          "description": "Tetua Klan Pengemis; hangat, tajam dalam menilai keberanian, dan tegas tentang penggunaan ilmu."
+        }
+      ]
     }
   ],
-  "edition": "dialog-v4-bab09"
+  "edition": "2026-10-revision"
 }

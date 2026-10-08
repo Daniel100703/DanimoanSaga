@@ -17,6 +17,21 @@
     if(!state.positions || typeof state.positions!=='object')state.positions={};
     localStorage.setItem(storageKey+'-check','1');localStorage.removeItem(storageKey+'-check');
   } catch(_){root.classList.add('no-storage');}
+  const migration=JSON.parse(document.getElementById('edition-migration').textContent);
+  if(state.edition!==migration.edition){
+    const previous=state, positions={};
+    const mapped=anchor=>migration.map[anchor]||null;
+    for(const [slug,pos] of Object.entries(previous.positions)){
+      const anchor=mapped(pos.anchor);if(!anchor)continue;
+      const next='bab-'+anchor.split('-')[1], n=Number(anchor.split('-')[2]);
+      const percent=Math.min(97,Math.round(100*n/migration.lengths[next]));
+      if(!positions[next]||positions[next].anchor<anchor)positions[next]={anchor,offset:0,percent};
+    }
+    const lastAnchor=mapped(previous.positions[previous.last]?.anchor);
+    state={...previous,positions,edition:migration.edition,last:lastAnchor?'bab-'+lastAnchor.split('-')[1]:(migration.chapterFallback[previous.last]||previous.last)};
+    // Keep the pre-revision record recoverable; reader preferences stay unchanged.
+    try{if(Object.keys(previous.positions).length)localStorage.setItem(storageKey+'-before-2026-10',JSON.stringify(previous));localStorage.setItem(storageKey,JSON.stringify(state));}catch(_){}
+  }
   let size=Math.min(26,Math.max(16,Number(state.size)||(innerWidth<=760?18:20)));
   const persist=()=>{try{localStorage.setItem(storageKey,JSON.stringify(state));}catch(_){}};
   const href=(id,anchor='')=>single?'#'+id+(anchor?'/'+anchor:''):(id==='beranda'?'index':id)+'.html'+(anchor?'#'+anchor:'');

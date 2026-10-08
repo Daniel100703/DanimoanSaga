@@ -1,15 +1,17 @@
 {
-  "version": 1,
+  "version": 2,
+  "edition": "2026-10-revision",
   "chapterLengths": {
     "1": 227,
-    "2": 191,
-    "3": 251,
-    "4": 144,
-    "5": 160,
-    "6": 148,
-    "7": 207,
-    "8": 202,
-    "9": 162
+    "2": 131,
+    "3": 144,
+    "4": 160,
+    "5": 166,
+    "6": 133,
+    "7": 139,
+    "8": 133,
+    "9": 162,
+    "10": 143
   },
   "entries": [
     {
@@ -58,10 +60,10 @@
             "Bahaya teramati": "Belum mampu menandingi serangan Li Mochou.",
             "Kondisi": "Nyeri dada setelah terpukul gagang kebut Li Mochou."
           },
-          "key": 30086,
-          "chapter": 3,
-          "paragraph": "p-03-086",
-          "quote": "Udara seolah ditarik keluar dari seluruh tubuhnya. Ia terlempar mundur, menabrak daun pintu yang sudah retak, lalu jatuh melewati ambang."
+          "key": 20077,
+          "chapter": 2,
+          "paragraph": "p-02-077",
+          "quote": "Tubuhnya terlempar menabrak daun pintu yang retak. Kayu itu membuka, dan Dani jatuh ke saluran air di luar tembok. Ia mencoba menarik napas, tetapi hanya suara serak yang keluar."
         },
         {
           "title": "Dani Moan",
@@ -74,9 +76,9 @@
             "Kondisi": "Nyeri dada setelah terpukul gagang kebut Li Mochou.",
             "Kendali": "Belum mampu menyatukan gerak dan tenaga dengan mantap."
           },
-          "key": 40072,
-          "chapter": 4,
-          "paragraph": "p-04-072",
+          "key": 30072,
+          "chapter": 3,
+          "paragraph": "p-03-072",
           "quote": "Telapak Dani menghantam tanah. Lumpur memercik ke dagu; lengannya kesemutan. Bekas tangannya jauh lebih dangkal daripada milik Ouyang Feng. Ia lekas menaruh telapak sekali lagi di tempat yang sama."
         },
         {
@@ -90,9 +92,9 @@
             "Kondisi": "Lengan bergetar sesudah pukulan.",
             "Kendali": "Belum mampu menyatukan gerak dan tenaga dengan mantap."
           },
-          "key": 50074,
-          "chapter": 5,
-          "paragraph": "p-05-074",
+          "key": 40074,
+          "chapter": 4,
+          "paragraph": "p-04-074",
           "quote": "Xiuwen terlempar ke belakang dan jatuh di atas batu halaman. Bunyi benturannya memutus semua suara. Ia berusaha menarik napas, tetapi yang keluar hanya dengusan pendek. Dunru berlutut di sisinya, memanggil nama adiknya dengan suara yang mendadak pecah."
         },
         {
@@ -106,9 +108,9 @@
             "Kondisi": "Bahu nyeri setelah tenaga dilepaskan sekaligus.",
             "Kendali": "Belum mampu menyatukan gerak dan tenaga dengan mantap."
           },
-          "key": 60049,
-          "chapter": 6,
-          "paragraph": "p-06-049",
+          "key": 50056,
+          "chapter": 5,
+          "paragraph": "p-05-056",
           "quote": "Dani menepis tangan itu, menjejakkan kaki, lalu mendorongkan telapak dari posisi rendah. Gerak Kungfu Hama itu masih kasar. Tenaganya terlepas sekaligus dan membuat bahunya nyeri, tetapi cukup untuk memutus sergapan Lu. Murid itu terhuyung, jatuh menyamping, dan mengerang sambil memegang rusuknya."
         },
         {
@@ -119,14 +121,14 @@
             "Tingkat": "Belum terukur pada fase ini",
             "Ilmu yang terlihat": "Latihan pedang dan dasar tenaga dalam Gadis Giok berkembang selama empat tahun.",
             "Bahaya teramati": "Batas kemampuan tempur baru belum teruji.",
-            "Kondisi": "Tubuh tumbuh dewasa; mengenakan jubah biru pengganti.",
-            "Kendali": "Belum mampu menyatukan gerak dan tenaga dengan mantap.",
+            "Kondisi": "Dewasa; jubah dari keluarga Guo telah dipanjangkan, tetapi bahunya kembali sempit.",
+            "Kendali": "Terlatih dalam dasar Makam Kuno; kemampuan tetap dibatasi lawan, luka, dan keadaan.",
             "Usia sekarang": "18 tahun"
           },
-          "key": 70034,
-          "chapter": 7,
-          "paragraph": "p-07-034",
-          "quote": "Empat tahun berlalu. Dani berusia delapan belas, Xiaolongnü dua puluh. Pundaknya telah melebar; jubah biru kelabu yang dibawa dari keluarga Guo sudah lama tidak muat, diganti dengan pakaian sederhana berwarna serupa. Buntalan tua tetap disimpannya, bersama alat jahit Mu Nianci."
+          "key": 60034,
+          "chapter": 6,
+          "paragraph": "p-06-034",
+          "quote": "Empat tahun berlalu. Dani berusia delapan belas, Xiaolongnü dua puluh. Pundaknya telah melebar; jubah biru kelabu dari keluarga Guo sudah beberapa kali dipanjangkan dan ditambal. Kini bagian bahunya kembali terasa sempit. Buntalan tua tetap disimpannya, bersama alat jahit Mu Nianci."
         },
         {
           "title": "Dani Moan",
@@ -134,16 +136,16 @@
           "fields": {
             "Usia saat diperkenalkan": "14 tahun",
             "Tingkat": "Belum terukur pada fase ini",
-            "Ilmu yang terlihat": "Gerak pedang dapat menekan Hong Lingbo pada pertukaran ini; jeli membaca keraguan lawan.",
+            "Ilmu yang terlihat": "Gerak pedang Makam Kuno menekan Hong Lingbo; belum sanggup menghadapi Li Mochou secara langsung.",
             "Bahaya teramati": "Batas kemampuan tempur baru belum teruji.",
-            "Kondisi": "Tubuh tumbuh dewasa; mengenakan jubah biru pengganti.",
-            "Kendali": "Belum mampu menyatukan gerak dan tenaga dengan mantap.",
+            "Kondisi": "Menghadang serangan di makam; Xiaolongnü sedang terluka.",
+            "Kendali": "Terlatih dalam dasar Makam Kuno; kemampuan tetap dibatasi lawan, luka, dan keadaan.",
             "Usia sekarang": "18 tahun"
           },
-          "key": 70091,
-          "chapter": 7,
-          "paragraph": "p-07-091",
-          "quote": "Dani menggunakan keraguan itu. Ia menekan pedang Hong Lingbo ke dinding, lalu memutar gagang senjatanya. Gadis tersebut tersentak; sebelum pegangannya terlepas, kebut putih menyambar pergelangan Dani."
+          "key": 60077,
+          "chapter": 6,
+          "paragraph": "p-06-077",
+          "quote": "Senyum Li Mochou menipis. Ia memerintahkan Hong Lingbo menyingkirkan Dani. Pedang mereka beradu; Dani menekan lawannya ke sisi dinding dengan gerak Makam Kuno. Ketika ia hendak memutar bilah Hong Lingbo, kebut gurunya menyambar pergelangan."
         },
         {
           "title": "Dani Moan",
@@ -151,16 +153,16 @@
           "fields": {
             "Usia saat diperkenalkan": "14 tahun",
             "Tingkat": "Belum terukur pada fase ini",
-            "Ilmu yang terlihat": "Gerak pedang dapat menekan Hong Lingbo pada pertukaran ini; jeli membaca keraguan lawan.",
+            "Ilmu yang terlihat": "Gerak pedang Makam Kuno menekan Hong Lingbo; belum sanggup menghadapi Li Mochou secara langsung.",
             "Bahaya teramati": "Dapat membeli waktu, tetapi belum sanggup mengatasi Li Mochou dalam benturan langsung.",
-            "Kondisi": "Lengan mati rasa akibat tangkisan lawan; Xiaolongnü juga sedang terluka.",
-            "Kendali": "Belum mampu menyatukan gerak dan tenaga dengan mantap.",
+            "Kondisi": "Pedang goyah setelah hantaman kebut; melindungi Xiaolongnü yang terluka.",
+            "Kendali": "Terlatih dalam dasar Makam Kuno; kemampuan tetap dibatasi lawan, luka, dan keadaan.",
             "Usia sekarang": "18 tahun"
           },
-          "key": 70108,
-          "chapter": 7,
-          "paragraph": "p-07-108",
-          "quote": "Ia menerjang ke arah Xiaolongnü. Dani menyambut dengan pedang, bukan untuk menang, hanya untuk membuatnya mengambil satu langkah memutar. Li Mochou menepis bilah itu begitu keras hingga lengan Dani mati rasa. Namun detik yang dibelinya cukup."
+          "key": 60078,
+          "chapter": 6,
+          "paragraph": "p-06-078",
+          "quote": "Hantaman itu membuat ujung pedang Dani jatuh. Xiaolongnü bangkit membantu, tetapi luka dalam memutus napasnya di tengah serangan. Li Mochou menggeser tubuh, lalu menghantam bahunya. Dani menangkap gurunya sebelum kepala Xiaolongnü membentur batu."
         },
         {
           "title": "Dani Moan",
@@ -168,16 +170,16 @@
           "fields": {
             "Usia saat diperkenalkan": "14 tahun",
             "Tingkat": "Belum terukur pada fase ini",
-            "Ilmu yang terlihat": "Gerak pedang dapat menekan Hong Lingbo pada pertukaran ini; jeli membaca keraguan lawan.",
+            "Ilmu yang terlihat": "Gerak pedang Makam Kuno menekan Hong Lingbo; belum sanggup menghadapi Li Mochou secara langsung.",
             "Bahaya teramati": "Dapat membeli waktu, tetapi belum sanggup mengatasi Li Mochou dalam benturan langsung.",
-            "Kondisi": "Bahu nyeri, tangan lecet; pedang hilang di lorong air.",
-            "Kendali": "Belum mampu menyatukan gerak dan tenaga dengan mantap.",
+            "Kondisi": "Kehabisan napas setelah keluar melalui saluran air; pedang dilepas untuk menyelamatkan Xiaolongnü.",
+            "Kendali": "Terlatih dalam dasar Makam Kuno; kemampuan tetap dibatasi lawan, luka, dan keadaan.",
             "Usia sekarang": "18 tahun"
           },
-          "key": 70192,
-          "chapter": 7,
-          "paragraph": "p-07-192",
-          "quote": "Dani duduk setelah batuknya reda. Bahunya nyeri, tangannya lecet, dan pedangnya entah jatuh di bagian lorong yang mana. Xiaolongnü masih memegang lengan bajunya."
+          "key": 60122,
+          "chapter": 6,
+          "paragraph": "p-06-122",
+          "quote": "Air naik sampai dada. Di bagian yang harus dilalui dengan menyelam, Dani mengikat buntalan agar alat jahit tidak tercecer, lalu memeriksa napas Xiaolongnü. Gadis itu menggenggam tangannya dan mengangguk. Mereka menyelam bersama; di tikungan sempit pedang Dani tersangkut. Ia melepaskannya untuk meraih Xiaolongnü ketika arus menggeser tubuh gurunya."
         },
         {
           "title": "Dani Moan",
@@ -185,17 +187,17 @@
           "fields": {
             "Usia saat diperkenalkan": "14 tahun",
             "Tingkat": "Belum terukur pada fase ini",
-            "Ilmu yang terlihat": "Gerak pedang dapat menekan Hong Lingbo pada pertukaran ini; jeli membaca keraguan lawan.",
+            "Ilmu yang terlihat": "Dasar pedang Makam Kuno; menggunakan pedang kayu selama pemulihan di gubuk.",
             "Bahaya teramati": "Dapat membeli waktu, tetapi belum sanggup mengatasi Li Mochou dalam benturan langsung.",
             "Kondisi": "Masa pemulihan di gubuk. Jubah diperbaiki Xiaolongnü; pedang latihan dari kayu.",
-            "Kendali": "Belum mampu menyatukan gerak dan tenaga dengan mantap.",
+            "Kendali": "Terlatih dalam dasar Makam Kuno; kemampuan tetap dibatasi lawan, luka, dan keadaan.",
             "Usia sekarang": "18 tahun",
             "Ikatan yang terlihat": "Mempercayakan alat jahit ibunya kepada Xiaolongnü."
           },
-          "key": 80040,
-          "chapter": 8,
-          "paragraph": "p-08-040",
-          "quote": "Sesudah jubah selesai, ia meminta Dani berdiri dan mengangkat tangan. Sambungan biru tua di kedua sisi memberi ruang bagi bahu dan rusuknya. Gadis itu merapikan kerah yang terlipat, lalu menarik ujung lengan sampai pergelangan Dani tidak lagi terbuka."
+          "key": 70027,
+          "chapter": 7,
+          "paragraph": "p-07-027",
+          "quote": "Sesudah selesai, Xiaolongnü meminta Dani berdiri. Ia merapikan kerah dan menarik ujung lengan hingga menutup pergelangan. Dani mengangkat kedua tangan; kali ini kain tidak menahan bahunya."
         },
         {
           "title": "Dani Moan",
@@ -203,17 +205,17 @@
           "fields": {
             "Usia saat diperkenalkan": "14 tahun",
             "Tingkat": "Belum terukur pada fase ini",
-            "Ilmu yang terlihat": "Langkah yang dipelajari di makam, tekanan pergelangan, dan sapuan kaki; tanpa nama jurus baru.",
+            "Ilmu yang terlihat": "Mengenali gerak Quanzhen; menangkis, merusak tumpuan, dan melucuti Zhen.",
             "Bahaya teramati": "Berhasil menjatuhkan dan melucuti Zhen Zhibing dalam keadaan serangan mendadak; bukan ukuran kemenangan atas semua pendekar Quanzhen.",
-            "Kondisi": "Bahu nyeri akibat jatuh bersama lawan.",
-            "Kendali": "Menghentikan pukulan lanjutan ketika teringat Xiaolongnü.",
+            "Kondisi": "Sedang terpengaruh obat; tubuh panas dan konsentrasi mulai terganggu.",
+            "Kendali": "Melepaskan Zhen setelah ancaman dihentikan; kondisi obat bukan ukuran kemampuan normal.",
             "Usia sekarang": "18 tahun",
             "Ikatan yang terlihat": "Mempercayakan alat jahit ibunya kepada Xiaolongnü."
           },
-          "key": 80131,
+          "key": 80060,
           "chapter": 8,
-          "paragraph": "p-08-131",
-          "quote": "Ia menahan pukulan tersebut."
+          "paragraph": "p-08-060",
+          "quote": "Wajah Zhen memerah. Ia mengambil pedangnya dengan tangan sulit ditekuk, kemudian mundur. Ketika Dani bergerak selangkah, ia berbalik menuju pepohonan."
         },
         {
           "title": "Dani Moan",
@@ -224,14 +226,14 @@
             "Ilmu yang terlihat": "Langkah yang dipelajari di makam, tekanan pergelangan, dan sapuan kaki; tanpa nama jurus baru.",
             "Bahaya teramati": "Berhasil menjatuhkan dan melucuti Zhen Zhibing dalam keadaan serangan mendadak; bukan ukuran kemenangan atas semua pendekar Quanzhen.",
             "Kondisi": "Kesadaran terganggu oleh obat; ingatan tidak utuh.",
-            "Kendali": "Menghentikan pukulan lanjutan ketika teringat Xiaolongnü.",
+            "Kendali": "Terlatih dalam dasar Makam Kuno; kemampuan tetap dibatasi lawan, luka, dan keadaan.",
             "Usia sekarang": "18 tahun",
-            "Ikatan yang terlihat": "Mempercayakan alat jahit ibunya kepada Xiaolongnü."
+            "Ikatan yang terlihat": "Keintiman pertama terjadi saat kesadarannya terganggu; Xiaolongnü belum memahami keadaan itu."
           },
-          "key": 80158,
+          "key": 80083,
           "chapter": 8,
-          "paragraph": "p-08-158",
-          "quote": "Malam itu keintiman terjadi ketika kesadarannya telah terganggu oleh obat. Xiaolongnü tidak memahami keadaan tersebut; ia mengira Dani sedang menyatakan pilihan yang selama berbulan-bulan belum diberi nama. Mereka memasuki malam yang sama dengan pengertian berbeda. Sesudahnya, Dani tidak mampu menyusun ingatan yang utuh, sementara Xiaolongnü menunggu hari esok sebagai permulaan hidup mereka yang baru."
+          "paragraph": "p-08-083",
+          "quote": "Malam itu mereka berhubungan intim untuk pertama kali. Bagi Xiaolongnü, menyerahkan keperawanannya kepada Dani berarti menerima dirinya sebagai pendamping seumur hidup. Ia tidak mengetahui seberapa jauh obat Ouyang Feng telah merusak kesadaran Dani. Pemuda itu pun tidak berada dalam keadaan mampu memahami dan mengingat keputusannya secara utuh."
         },
         {
           "title": "Dani Moan",
@@ -242,14 +244,14 @@
             "Ilmu yang terlihat": "Langkah yang dipelajari di makam, tekanan pergelangan, dan sapuan kaki; tanpa nama jurus baru.",
             "Bahaya teramati": "Berhasil menjatuhkan dan melucuti Zhen Zhibing dalam keadaan serangan mendadak; bukan ukuran kemenangan atas semua pendekar Quanzhen.",
             "Kondisi": "Berangkat mencari Xiaolongnü; pedang yang hilang belum tergantikan.",
-            "Kendali": "Menghentikan pukulan lanjutan ketika teringat Xiaolongnü.",
+            "Kendali": "Terlatih dalam dasar Makam Kuno; kemampuan tetap dibatasi lawan, luka, dan keadaan.",
             "Usia sekarang": "18 tahun",
             "Ikatan yang terlihat": "Mengakui perasaan cintanya; salah paham belum diselesaikan bersama Xiaolongnü."
           },
-          "key": 80199,
+          "key": 80127,
           "chapter": 8,
-          "paragraph": "p-08-199",
-          "quote": "Ia mencintai perempuan yang menjahitnya."
+          "paragraph": "p-08-127",
+          "quote": "Dani duduk dan memegang jubah biru. Ia mencintai perempuan yang menjahitnya. Kini kata itu tidak lagi dapat digantikan dengan rasa terima kasih, kebiasaan, atau hormat kepada guru."
         },
         {
           "title": "Dani Moan",
@@ -260,7 +262,7 @@
             "Ilmu yang terlihat": "Langkah yang dipelajari di makam, tekanan pergelangan, dan sapuan kaki; tanpa nama jurus baru.",
             "Bahaya teramati": "Berhasil menjatuhkan dan melucuti Zhen Zhibing dalam keadaan serangan mendadak; bukan ukuran kemenangan atas semua pendekar Quanzhen.",
             "Kondisi": "Mencari Xiaolongnü; pedang yang hilang belum tergantikan. Menyamarkan wajah di perjalanan.",
-            "Kendali": "Menghentikan pukulan lanjutan ketika teringat Xiaolongnü.",
+            "Kendali": "Terlatih dalam dasar Makam Kuno; kemampuan tetap dibatasi lawan, luka, dan keadaan.",
             "Usia sekarang": "18 tahun",
             "Ikatan yang terlihat": "Mengakui perasaan cintanya; salah paham belum diselesaikan bersama Xiaolongnü."
           },
@@ -278,7 +280,7 @@
             "Ilmu yang terlihat": "Mengamati kesalahan tumpuan dan memperagakan koreksi dengan tangan kosong.",
             "Bahaya teramati": "Berhasil menjatuhkan dan melucuti Zhen Zhibing dalam keadaan serangan mendadak; bukan ukuran kemenangan atas semua pendekar Quanzhen.",
             "Kondisi": "Mencari Xiaolongnü; pedang yang hilang belum tergantikan. Menyamarkan wajah di perjalanan.",
-            "Kendali": "Menghentikan pukulan lanjutan ketika teringat Xiaolongnü.",
+            "Kendali": "Terlatih dalam dasar Makam Kuno; kemampuan tetap dibatasi lawan, luka, dan keadaan.",
             "Usia sekarang": "18 tahun",
             "Ikatan yang terlihat": "Mengakui perasaan cintanya; salah paham belum diselesaikan bersama Xiaolongnü.",
             "Batas yang terlihat": "Tidak mengajarkan jurus bernama atau menjanjikan kemenangan atas Yelü Qi."
@@ -297,7 +299,7 @@
             "Ilmu yang terlihat": "Mengamati kesalahan tumpuan dan memperagakan koreksi dengan tangan kosong.",
             "Bahaya teramati": "Dapat membantu membuka kesempatan, tetapi masih kalah dalam benturan langsung dengan Li Mochou.",
             "Kondisi": "Lengan kiri kebas akibat benturan; bertarung tanpa pedang bersama para sekutu.",
-            "Kendali": "Menghentikan pukulan lanjutan ketika teringat Xiaolongnü.",
+            "Kendali": "Terlatih dalam dasar Makam Kuno; kemampuan tetap dibatasi lawan, luka, dan keadaan.",
             "Usia sekarang": "18 tahun",
             "Ikatan yang terlihat": "Mengakui perasaan cintanya; salah paham belum diselesaikan bersama Xiaolongnü.",
             "Batas yang terlihat": "Tidak mengajarkan jurus bernama atau menjanjikan kemenangan atas Yelü Qi."
@@ -316,7 +318,7 @@
             "Ilmu yang terlihat": "Mengamati kesalahan tumpuan dan memperagakan koreksi dengan tangan kosong.",
             "Bahaya teramati": "Dapat membantu membuka kesempatan, tetapi masih kalah dalam benturan langsung dengan Li Mochou.",
             "Kondisi": "Luka tangan telah dibebat; bersiap meneruskan pencarian Xiaolongnü.",
-            "Kendali": "Menghentikan pukulan lanjutan ketika teringat Xiaolongnü.",
+            "Kendali": "Terlatih dalam dasar Makam Kuno; kemampuan tetap dibatasi lawan, luka, dan keadaan.",
             "Usia sekarang": "18 tahun",
             "Ikatan yang terlihat": "Mengakui perasaan cintanya; salah paham belum diselesaikan bersama Xiaolongnü.",
             "Batas yang terlihat": "Tidak mengajarkan jurus bernama atau menjanjikan kemenangan atas Yelü Qi.",
@@ -325,7 +327,68 @@
           "key": 90160,
           "chapter": 9,
           "paragraph": "p-09-160",
-          "quote": "Cheng Ying mengikat simpul terakhir. “Kami akan mengingat nama itu, Dani-gege. Kalau mendengar kabarnya, kami akan berusaha menyampaikannya.”"
+          "quote": "Cheng Ying mengikat simpul terakhir. “Kami akan mengingat nama itu, Kakanda Dani. Kalau mendengar kabarnya, kami akan berusaha menyampaikannya.”"
+        },
+        {
+          "title": "Dani Moan",
+          "summary": "Pemuda yang kembali ke rumah ibunya. Cerdik, mudah tersulut, dan menutupi kesedihan dengan gurauan.",
+          "fields": {
+            "Usia saat diperkenalkan": "14 tahun",
+            "Tingkat": "Belum terukur pada fase ini",
+            "Ilmu yang terlihat": "Mengamati kesalahan tumpuan dan memperagakan koreksi dengan tangan kosong.",
+            "Bahaya teramati": "Dapat membantu membuka kesempatan, tetapi masih kalah dalam benturan langsung dengan Li Mochou.",
+            "Kondisi": "Masih mencari Xiaolongnü; luka tangan dari kedai belum pulih seluruhnya.",
+            "Kendali": "Terlatih dalam dasar Makam Kuno; kemampuan tetap dibatasi lawan, luka, dan keadaan.",
+            "Usia sekarang": "18 tahun",
+            "Ikatan yang terlihat": "Mengakui cintanya kepada Xiaolongnü di hadapan Hong Qigong.",
+            "Batas yang terlihat": "Tidak mengajarkan jurus bernama atau menjanjikan kemenangan atas Yelü Qi.",
+            "Tujuan": "Menemukan Xiaolongnü dan menyelesaikan percakapan yang terputus."
+          },
+          "key": 100022,
+          "chapter": 10,
+          "paragraph": "p-10-022",
+          "quote": "“Saya mencintainya,” jawab Dani. Tenggorokannya terasa sempit, tetapi ia meneruskan. “Ketika ia meminta jawaban, saya tidak sanggup membuatnya mengerti. Sekarang saya bahkan tidak tahu ke mana harus menyampaikan jawaban itu.”"
+        },
+        {
+          "title": "Dani Moan",
+          "summary": "Pemuda yang kembali ke rumah ibunya. Cerdik, mudah tersulut, dan menutupi kesedihan dengan gurauan.",
+          "fields": {
+            "Usia saat diperkenalkan": "14 tahun",
+            "Tingkat": "Belum terukur · mempelajari ilmu lanjutan",
+            "Ilmu yang terlihat": "Memperagakan rangkaian Tongkat Pemukul Anjing beserta cara menanggapi geraknya.",
+            "Bahaya teramati": "Belum diuji dalam pertempuran nyata; ingatan cepat bukan penguasaan penuh.",
+            "Kondisi": "Pergelangan yang baru pulih kembali terasa nyeri saat latihan.",
+            "Kendali": "Belajar mengubah sudut, bukan memaksa tenaga ketika tongkat tertahan.",
+            "Usia sekarang": "18 tahun",
+            "Ikatan yang terlihat": "Mengakui cintanya kepada Xiaolongnü di hadapan Hong Qigong.",
+            "Batas yang terlihat": "Belum menandingi kedua tetua.",
+            "Tujuan": "Menemukan Xiaolongnü dan menyelesaikan percakapan yang terputus."
+          },
+          "key": 100093,
+          "chapter": 10,
+          "paragraph": "p-10-093",
+          "quote": "Dani memeriksa pegangan, mengubah sudut, lalu melepaskan ujung kayu tanpa menyentak. Hong mengangguk, sedangkan Ouyang Feng mendengus seolah keberhasilan itu sudah seharusnya terjadi sejak awal."
+        },
+        {
+          "title": "Dani Moan",
+          "summary": "Pemuda yang kembali ke rumah ibunya. Cerdik, mudah tersulut, dan menutupi kesedihan dengan gurauan.",
+          "fields": {
+            "Usia saat diperkenalkan": "14 tahun",
+            "Tingkat": "Belum terukur · mempelajari ilmu lanjutan",
+            "Ilmu yang terlihat": "Memperagakan rangkaian Tongkat Pemukul Anjing beserta cara menanggapi geraknya.",
+            "Bahaya teramati": "Belum diuji dalam pertempuran nyata; ingatan cepat bukan penguasaan penuh.",
+            "Kondisi": "Memakamkan dua tetua; membawa tongkat latihan, jubah bersambung, dan alat jahit ibunya.",
+            "Kendali": "Belajar mengubah sudut, bukan memaksa tenaga ketika tongkat tertahan.",
+            "Usia sekarang": "18 tahun",
+            "Ikatan yang terlihat": "Mengakui cintanya kepada Xiaolongnü di hadapan Hong Qigong.",
+            "Batas yang terlihat": "Belum menandingi kedua tetua.",
+            "Tujuan": "Meneruskan pencarian Xiaolongnü.",
+            "Warisan": "Ilmu tongkat, bukan jabatan pemimpin Klan Pengemis."
+          },
+          "key": 100141,
+          "chapter": 10,
+          "paragraph": "p-10-141",
+          "quote": "Ketika akhirnya berdiri, Dani mengambil tongkat kayu yang dipakainya belajar. Buntalan kecil di punggung masih menyimpan alat jahit ibunya; sambungan jubah di rusuknya menahan dingin setiap kali angin datang dari samping."
         }
       ],
       "portraits": [
@@ -344,7 +407,7 @@
           ]
         },
         {
-          "key": 70034,
+          "key": 60034,
           "image": {
             "file": "bab-07-pembuka.webp",
             "width": 1024,
@@ -454,10 +517,10 @@
             "Ilmu yang terlihat": "Belum diperlihatkan",
             "Bahaya teramati": "Belum dapat dinilai"
           },
-          "key": 20018,
+          "key": 20009,
           "chapter": 2,
-          "paragraph": "p-02-018",
-          "quote": "Lu Wushuang menoleh. Tali telah melorot satu jengkal di tangannya. Ia buru-buru menariknya, dan ember menghantam sisi sumur dengan bunyi tumpul."
+          "paragraph": "p-02-009",
+          "quote": "“Namaku Cheng Ying,” ujar gadis itu. “Ini sepupuku, Lu Wushuang. Engkau datang seorang diri?”"
         },
         {
           "title": "Lu Wushuang",
@@ -469,10 +532,10 @@
             "Bahaya teramati": "Belum dapat dinilai",
             "Kondisi": "Kaki kiri terluka setelah serangan Li Mochou; tidak dapat berdiri seperti biasa."
           },
-          "key": 30032,
-          "chapter": 3,
-          "paragraph": "p-03-032",
-          "quote": "Wushuang mencoba segera bangkit. Kaki kirinya tidak menuruti."
+          "key": 20057,
+          "chapter": 2,
+          "paragraph": "p-02-057",
+          "quote": "Kebut itu bergerak. Dani hanya melihat pakaian merah terputar, kemudian tubuh Wushuang jatuh di tepi anak tangga. Bunyi kecil terdengar dari kakinya. Gadis itu mencoba berdiri dan menjerit."
         },
         {
           "title": "Lu Wushuang",
@@ -484,10 +547,10 @@
             "Bahaya teramati": "Belum dapat dinilai",
             "Kondisi": "Dibawa Li Mochou dalam keadaan kaki terluka. Kemampuan silat belum diperlihatkan."
           },
-          "key": 30104,
-          "chapter": 3,
-          "paragraph": "p-03-104",
-          "quote": "Li Mochou membawa Wushuang melintasi halaman menuju lorong depan. Gadis itu ditopang pada punggung dan lipatan lututnya, dengan kedua kaki menggantung tanpa menapak. Tubuhnya menjauh di sela debu dan kayu yang roboh."
+          "key": 20081,
+          "chapter": 2,
+          "paragraph": "p-02-081",
+          "quote": "Li Mochou mengangkat gadis itu, menopang punggung dan lipatan lututnya, lalu berjalan menuju gerbang depan. Dani mencengkeram rumput di tepi saluran. Wushuang masih sempat menoleh ketika ia memanggil."
         },
         {
           "title": "Lu Wushuang",
@@ -575,7 +638,7 @@
       ],
       "portraits": [
         {
-          "key": 20018,
+          "key": 20009,
           "image": {
             "file": "bab-02-ilustrasi-01.webp",
             "width": 1536,
@@ -620,10 +683,10 @@
             "Ilmu yang terlihat": "Belum diperlihatkan",
             "Bahaya teramati": "Belum dapat dinilai"
           },
-          "key": 20017,
+          "key": 20009,
           "chapter": 2,
-          "paragraph": "p-02-017",
-          "quote": "“Wushuang, pegang talinya baik-baik. Embernya hampir terlepas,” ujar Cheng Ying."
+          "paragraph": "p-02-009",
+          "quote": "“Namaku Cheng Ying,” ujar gadis itu. “Ini sepupuku, Lu Wushuang. Engkau datang seorang diri?”"
         },
         {
           "title": "Cheng Ying",
@@ -635,10 +698,10 @@
             "Bahaya teramati": "Belum dapat dinilai",
             "Kondisi": "Terkena serangan Li Mochou; terjepit bagian serambi yang roboh."
           },
-          "key": 30097,
-          "chapter": 3,
-          "paragraph": "p-03-097",
-          "quote": "Cheng Ying terlempar ke tiang kecil penyangga serambi. Dani mendengar sambungan kayunya patah. Kisi-kisi di samping tiang roboh, disusul sebagian tepi atap."
+          "key": 20079,
+          "chapter": 2,
+          "paragraph": "p-02-079",
+          "quote": "Melalui pintu yang akhirnya terbuka, ia melihat gadis itu mempertahankan tangan Wushuang. Li Mochou mengibaskan lengan. Cheng Ying terbentur tiang penyangga serambi; sambungannya patah, membawa kisi-kisi dan tepi atap runtuh bersama."
         },
         {
           "title": "Cheng Ying",
@@ -650,10 +713,10 @@
             "Bahaya teramati": "Belum dapat dinilai",
             "Kondisi": "Diselamatkan dan dibawa Huang Yaoshi."
           },
-          "key": 30224,
-          "chapter": 3,
-          "paragraph": "p-03-224",
-          "quote": "Ia membantu gadis itu bangkit, lalu mengangkatnya agar tidak perlu berjalan dengan tubuh yang masih gemetar. Sebelum berangkat, ia menatap Dani sekali lagi."
+          "key": 20112,
+          "chapter": 2,
+          "paragraph": "p-02-112",
+          "quote": "Namun ia tidak menarik kembali tawarannya. Cheng Ying memberi hormat sekali lagi, dan kali ini Huang Yaoshi menerimanya."
         },
         {
           "title": "Cheng Ying",
@@ -690,7 +753,7 @@
       ],
       "portraits": [
         {
-          "key": 20017,
+          "key": 20009,
           "image": {
             "file": "bab-02-ilustrasi-01.webp",
             "width": 1536,
@@ -721,10 +784,10 @@
             "Ilmu yang terlihat": "Belum diperlihatkan",
             "Bahaya teramati": "Belum dapat dinilai"
           },
-          "key": 20154,
+          "key": 20029,
           "chapter": 2,
-          "paragraph": "p-02-154",
-          "quote": "Li Mochou menatap celah pintu, buntalan di lantai, lalu wajah Dani. Senyum tipisnya hampir sama dengan ketika ia menyuruhnya pergi. “Adik kecil, rupanya nasihatku tadi tidak sampai ke telingamu.”"
+          "paragraph": "p-02-029",
+          "quote": "Dani menyambar buntalannya. Dari lorong depan terdengar suara lelaki menyebut sebuah nama dengan nada yang membuat bulu tengkuknya berdiri: Li Mochou."
         },
         {
           "title": "Li Mochou",
@@ -732,14 +795,14 @@
           "fields": {
             "Usia saat diperkenalkan": "Sekitar 30 tahun",
             "Tingkat": "3 · Kelas Super",
-            "Ilmu yang terlihat": "Kendali kebut putih. Gagangnya meretakkan gerbang dengan gerakan kecil.",
+            "Ilmu yang terlihat": "Dua jari meretakkan kayu gerbang; kebut menepis pecahan bata dan mengendalikan jarak.",
             "Bahaya teramati": "Tinggi bagi Dani yang belum mempunyai qi terlatih.",
             "Dasar tingkat": "Rujukan tingkat Saga; puncak kemampuan belum diperlihatkan."
           },
-          "key": 20154,
+          "key": 20038,
           "chapter": 2,
-          "paragraph": "p-02-154",
-          "quote": "Li Mochou menatap celah pintu, buntalan di lantai, lalu wajah Dani. Senyum tipisnya hampir sama dengan ketika ia menyuruhnya pergi. “Adik kecil, rupanya nasihatku tadi tidak sampai ke telingamu.”"
+          "paragraph": "p-02-038",
+          "quote": "Dani berbalik. Li Mochou telah berdiri di ujung lorong, kebutnya bersih seperti saat pertama dilihat. Ia tidak tampak terengah. Wushuang hendak melewatinya, tetapi Cheng Ying menahan lengan sepupunya."
         },
         {
           "title": "Li Mochou",
@@ -747,14 +810,14 @@
           "fields": {
             "Usia saat diperkenalkan": "Sekitar 30 tahun",
             "Tingkat": "3 · Kelas Super",
-            "Ilmu yang terlihat": "Kendali kebut putih. Gagangnya meretakkan gerbang dengan gerakan kecil.",
+            "Ilmu yang terlihat": "Dua jari meretakkan kayu gerbang; kebut menepis pecahan bata dan mengendalikan jarak.",
             "Bahaya teramati": "Serangan menyebabkan cedera kaki Wushuang, melontarkan Dani, dan melempar Cheng Ying hingga merobohkan bagian serambi.",
             "Dasar tingkat": "Rujukan tingkat Saga; puncak kemampuan belum diperlihatkan."
           },
-          "key": 30097,
-          "chapter": 3,
-          "paragraph": "p-03-097",
-          "quote": "Cheng Ying terlempar ke tiang kecil penyangga serambi. Dani mendengar sambungan kayunya patah. Kisi-kisi di samping tiang roboh, disusul sebagian tepi atap."
+          "key": 20079,
+          "chapter": 2,
+          "paragraph": "p-02-079",
+          "quote": "Melalui pintu yang akhirnya terbuka, ia melihat gadis itu mempertahankan tangan Wushuang. Li Mochou mengibaskan lengan. Cheng Ying terbentur tiang penyangga serambi; sambungannya patah, membawa kisi-kisi dan tepi atap runtuh bersama."
         },
         {
           "title": "Li Mochou",
@@ -762,14 +825,14 @@
           "fields": {
             "Usia saat diperkenalkan": "Sekitar 30 tahun",
             "Tingkat": "3 · Kelas Super",
-            "Ilmu yang terlihat": "Kebut membelit pedang dan menepis bilah dengan tenaga yang membuat lengan Dani mati rasa.",
+            "Ilmu yang terlihat": "Kebut memukul pergelangan Dani; serangan berikutnya mengenai bahu Xiaolongnü yang sedang terluka.",
             "Bahaya teramati": "Masih lebih kuat daripada Dani dalam benturan langsung; memanfaatkan kondisi Xiaolongnü yang terluka.",
             "Dasar tingkat": "Rujukan tingkat Saga; puncak kemampuan belum diperlihatkan."
           },
-          "key": 70108,
-          "chapter": 7,
-          "paragraph": "p-07-108",
-          "quote": "Ia menerjang ke arah Xiaolongnü. Dani menyambut dengan pedang, bukan untuk menang, hanya untuk membuatnya mengambil satu langkah memutar. Li Mochou menepis bilah itu begitu keras hingga lengan Dani mati rasa. Namun detik yang dibelinya cukup."
+          "key": 60078,
+          "chapter": 6,
+          "paragraph": "p-06-078",
+          "quote": "Hantaman itu membuat ujung pedang Dani jatuh. Xiaolongnü bangkit membantu, tetapi luka dalam memutus napasnya di tengah serangan. Li Mochou menggeser tubuh, lalu menghantam bahunya. Dani menangkap gurunya sebelum kepala Xiaolongnü membentur batu."
         },
         {
           "title": "Li Mochou",
@@ -823,7 +886,7 @@
       ],
       "portraits": [
         {
-          "key": 20154,
+          "key": 20029,
           "image": {
             "file": "bab-02-ilustrasi-03.webp",
             "width": 1536,
@@ -855,10 +918,10 @@
             "Ilmu yang terlihat": "Belum diperlihatkan",
             "Bahaya teramati": "Belum dapat dinilai"
           },
-          "key": 30135,
-          "chapter": 3,
-          "paragraph": "p-03-135",
-          "quote": "“Tarik gadis itu ke sisiku, bocah. Perlahan, kalau kau tidak ingin menambah lukanya,” ujar Huang Yaoshi."
+          "key": 20105,
+          "chapter": 2,
+          "paragraph": "p-02-105",
+          "quote": "“Huang Yaoshi. Mengingat nama tidak membuatmu berutang hormat setiap kali membuka mulut.”"
         },
         {
           "title": "Huang Yaoshi",
@@ -869,15 +932,15 @@
             "Ilmu yang terlihat": "Mengangkat dan menahan reruntuhan yang tidak sanggup digeser Dani.",
             "Bahaya teramati": "Kekuatan fisik besar terlihat; kemampuan tempur dan nama jurus belum ditunjukkan."
           },
-          "key": 30135,
-          "chapter": 3,
-          "paragraph": "p-03-135",
-          "quote": "“Tarik gadis itu ke sisiku, bocah. Perlahan, kalau kau tidak ingin menambah lukanya,” ujar Huang Yaoshi."
+          "key": 20105,
+          "chapter": 2,
+          "paragraph": "p-02-105",
+          "quote": "“Huang Yaoshi. Mengingat nama tidak membuatmu berutang hormat setiap kali membuka mulut.”"
         }
       ],
       "portraits": [
         {
-          "key": 30135,
+          "key": 20105,
           "image": {
             "file": "bab-03-ilustrasi-03.webp",
             "width": 1536,
@@ -908,9 +971,9 @@
             "Ilmu yang terlihat": "Belum diperlihatkan",
             "Bahaya teramati": "Belum dapat dinilai"
           },
-          "key": 40059,
-          "chapter": 4,
-          "paragraph": "p-04-059",
+          "key": 30059,
+          "chapter": 3,
+          "paragraph": "p-03-059",
           "quote": "“Ouyang Feng! Ya. Ouyang Feng. Siapa lagi yang berani memakai namaku?” seru lelaki tua itu."
         },
         {
@@ -923,9 +986,9 @@
             "Bahaya teramati": "Sangat tinggi. Tenaga besar disertai tindakan yang sulit diperkirakan.",
             "Dasar tingkat": "Rentang rujukan Saga; bukan kepastian telah mengeluarkan tenaga tertinggi."
           },
-          "key": 40066,
-          "chapter": 4,
-          "paragraph": "p-04-066",
+          "key": 30066,
+          "chapter": 3,
+          "paragraph": "p-03-066",
           "quote": "Ouyang Feng menyebut ilmunya Kungfu Hama. Saat memberi contoh, ia merendahkan tubuh, diam sesaat, lalu menghantamkan telapak ke tanah di sampingnya. Tanah liat lembap itu amblas. Getarannya terasa sampai ke kaki Dani."
         },
         {
@@ -938,15 +1001,78 @@
             "Bahaya teramati": "Dapat melumpuhkan tanpa menghancurkan lingkungan. Kasih kepada Dani tidak membuat tindakannya selalu aman.",
             "Dasar tingkat": "Rentang rujukan Saga; bukan kepastian telah mengeluarkan tenaga tertinggi."
           },
-          "key": 80096,
+          "key": 80017,
           "chapter": 8,
-          "paragraph": "p-08-096",
-          "quote": "Ia menyentak Dani ke belakang. Xiaolongnü maju untuk melepaskan pegangan itu. Gerak mereka beradu di depan pintu: lengan putih membelokkan pergelangan, tubuh tua berputar lebih dekat daripada yang diduga, lalu dua jari menyentuh titik pada bahu dan sisi tubuhnya."
+          "paragraph": "p-08-017",
+          "quote": "Ouyang Feng menarik Dani ke belakangnya. Xiaolongnü menahan pergelangan itu ketika Dani meringis. Gerakan mereka beradu: lengan putih mengalihkan tarikan, tubuh tua berputar masuk, lalu dua jari mengenai bahu dan sisi tubuhnya."
+        },
+        {
+          "title": "Ouyang Feng",
+          "summary": "Ayah angkat Dani. Menyayanginya, tetapi ingatan dan perilakunya berubah mendadak.",
+          "fields": {
+            "Usia saat diperkenalkan": "Lanjut usia",
+            "Tingkat": "4–5 · Grandmaster hingga Tak Tertandingi",
+            "Ilmu yang terlihat": "Kungfu Hama menghadapi telapak Hong Qigong; tenaga melibatkan seluruh tubuh.",
+            "Bahaya teramati": "Pertukaran meretakkan batu; sangat berbahaya bagi Dani yang berusaha masuk di antaranya.",
+            "Dasar tingkat": "Rentang rujukan Saga; bukan kepastian telah mengeluarkan tenaga tertinggi."
+          },
+          "key": 100048,
+          "chapter": 10,
+          "paragraph": "p-10-048",
+          "quote": "Hong Qigong menyambut tenaga tersebut. Benturan mengirim bunyi pendek ke dinding gunung. Batu sebesar bangku yang tersentuh pukulan menyamping retak pada permukaannya; pecahannya meluncur melewati kaki Dani. Ia mundur ke balik tonjolan karang."
+        },
+        {
+          "title": "Ouyang Feng",
+          "summary": "Ayah angkat Dani. Menyayanginya, tetapi ingatan dan perilakunya berubah mendadak.",
+          "fields": {
+            "Usia saat diperkenalkan": "Lanjut usia",
+            "Tingkat": "4–5 · Grandmaster hingga Tak Tertandingi",
+            "Ilmu yang terlihat": "Kungfu Hama menghadapi telapak Hong Qigong; tenaga melibatkan seluruh tubuh.",
+            "Bahaya teramati": "Pertukaran meretakkan batu; sangat berbahaya bagi Dani yang berusaha masuk di antaranya.",
+            "Dasar tingkat": "Rentang rujukan Saga; bukan kepastian telah mengeluarkan tenaga tertinggi.",
+            "Kondisi": "Terluka dan kehabisan tenaga; tak sanggup bertarung dengan tubuh."
+          },
+          "key": 100066,
+          "chapter": 10,
+          "paragraph": "p-10-066",
+          "quote": "Pada benturan terakhir, Hong Qigong dan Ouyang Feng sama-sama terduduk. Hong menutup mulut dengan punggung tangan. Ouyang Feng mencoba berdiri, lalu memaki kakinya sendiri ketika tubuhnya kembali jatuh."
+        },
+        {
+          "title": "Ouyang Feng",
+          "summary": "Ayah angkat Dani. Menyayanginya, tetapi ingatan dan perilakunya berubah mendadak.",
+          "fields": {
+            "Usia saat diperkenalkan": "Lanjut usia",
+            "Tingkat": "4–5 · Grandmaster hingga Tak Tertandingi",
+            "Ilmu yang terlihat": "Kungfu Hama menghadapi telapak Hong Qigong; tenaga melibatkan seluruh tubuh.",
+            "Bahaya teramati": "Pertukaran meretakkan batu; sangat berbahaya bagi Dani yang berusaha masuk di antaranya.",
+            "Dasar tingkat": "Rentang rujukan Saga; bukan kepastian telah mengeluarkan tenaga tertinggi.",
+            "Kondisi": "Memperoleh kejernihan singkat dan kembali mengingat namanya."
+          },
+          "key": 100112,
+          "chapter": 10,
+          "paragraph": "p-10-112",
+          "quote": "Orang tua itu memandang kedua tangannya, lalu wajah Dani. “Aku Ouyang Feng.” Ia menarik napas yang berbunyi. “Aku Ouyang Feng. Mengapa… begitu lama?”"
+        },
+        {
+          "title": "Ouyang Feng",
+          "summary": "Ayah angkat Dani; berdamai dengan Hong Qigong sebelum keduanya wafat.",
+          "fields": {
+            "Usia saat diperkenalkan": "Lanjut usia",
+            "Tingkat": "4–5 · Grandmaster hingga Tak Tertandingi",
+            "Ilmu yang terlihat": "Kungfu Hama menghadapi telapak Hong Qigong; tenaga melibatkan seluruh tubuh.",
+            "Bahaya teramati": "Pertukaran meretakkan batu; sangat berbahaya bagi Dani yang berusaha masuk di antaranya.",
+            "Dasar tingkat": "Rentang rujukan Saga; bukan kepastian telah mengeluarkan tenaga tertinggi.",
+            "Kondisi": "Wafat bersama Hong Qigong di pegunungan salju."
+          },
+          "key": 100128,
+          "chapter": 10,
+          "paragraph": "p-10-128",
+          "quote": "Ia baru menyadari tidak ada lagi napas di dekat telinganya ketika Hong Qigong pun tak menjawab panggilannya."
         }
       ],
       "portraits": [
         {
-          "key": 40059,
+          "key": 30059,
           "image": {
             "file": "bab-04-ilustrasi-01.webp",
             "width": 1536,
@@ -978,9 +1104,9 @@
             "Ilmu yang terlihat": "Belum diperlihatkan",
             "Bahaya teramati": "Belum dapat dinilai"
           },
-          "key": 40095,
-          "chapter": 4,
-          "paragraph": "p-04-095",
+          "key": 30095,
+          "chapter": 3,
+          "paragraph": "p-03-095",
           "quote": "“Adik kecil, tunggu sebentar. Siapa namamu?” tanya Guo Jing."
         },
         {
@@ -992,15 +1118,29 @@
             "Ilmu yang terlihat": "Mengenali Kungfu Hama dari gerak dan akibat pukulan Dani; memeriksa keadaan Xiuwen.",
             "Bahaya teramati": "Batas serangan belum diperlihatkan. Pengetahuan dan kewibawaan bukan pengukuran tenaga tempur."
           },
-          "key": 50083,
-          "chapter": 5,
-          "paragraph": "p-05-083",
+          "key": 40083,
+          "chapter": 4,
+          "paragraph": "p-04-083",
           "quote": "“Dani. Dari siapa engkau belajar Kungfu Hama?” tanya Guo Jing."
+        },
+        {
+          "title": "Guo Jing",
+          "summary": "Pendekar yang berbicara sederhana dan berwibawa; meminta Dani berhenti di jalan.",
+          "fields": {
+            "Usia saat diperkenalkan": "Sekitar 33–35 tahun",
+            "Tingkat": "Belum diketahui",
+            "Ilmu yang terlihat": "Mengalihkan gada Daerba dan mengunci pergelangan Huodu.",
+            "Bahaya teramati": "Menghentikan penyerbuan dengan kendali gerak; tidak semua tindakan disebut sebagai jurus bernama."
+          },
+          "key": 50011,
+          "chapter": 5,
+          "paragraph": "p-05-011",
+          "quote": "Huodu mencoba menarik diri; urat di lehernya menegang. Guo Jing melepaskannya sesudah para pengikutnya mundur. Pemuda itu bangkit dengan mata menyala, tetapi memilih membawa rombongannya pergi. Dani baru keluar dari sisi tangga ketika Zhen memberi isyarat bahwa jalan sudah aman."
         }
       ],
       "portraits": [
         {
-          "key": 40095,
+          "key": 30095,
           "image": {
             "file": "bab-04-ilustrasi-03.webp",
             "width": 1536,
@@ -1032,9 +1172,9 @@
             "Ilmu yang terlihat": "Belum diperlihatkan",
             "Bahaya teramati": "Belum dapat dinilai"
           },
-          "key": 40093,
-          "chapter": 4,
-          "paragraph": "p-04-093",
+          "key": 30093,
+          "chapter": 3,
+          "paragraph": "p-03-093",
           "quote": "“Jing'er, ada langkah seorang anak di depan kita,” kata Ke Zhen'e."
         },
         {
@@ -1046,15 +1186,15 @@
             "Ilmu yang terlihat": "Mengenali nama dan reputasi Ouyang Feng. Belum memperlihatkan jurus tempur.",
             "Bahaya teramati": "Belum terukur; sebutan Racun Barat adalah julukan, bukan bukti penggunaan racun dalam adegan."
           },
-          "key": 50089,
-          "chapter": 5,
-          "paragraph": "p-05-089",
+          "key": 40089,
+          "chapter": 4,
+          "paragraph": "p-04-089",
           "quote": "“Racun Barat! Jing'er, anak ini membawa ilmunya ke rumahmu!” bentak Ke Zhen'e."
         }
       ],
       "portraits": [
         {
-          "key": 40093,
+          "key": 30093,
           "image": {
             "file": "bab-04-ilustrasi-03.webp",
             "width": 1536,
@@ -1086,9 +1226,9 @@
             "Ilmu yang terlihat": "Belum diperlihatkan",
             "Bahaya teramati": "Belum dapat dinilai"
           },
-          "key": 50004,
-          "chapter": 5,
-          "paragraph": "p-05-004",
+          "key": 40004,
+          "chapter": 4,
+          "paragraph": "p-04-004",
           "quote": "Huang Rong menerima kabar itu tanpa segera menjawab. Jarinya merapikan rambut anak kecil yang bersandar di pinggangnya. Ketika kembali menatap Dani, senyumnya sudah terpasang, tipis dan sopan. “Kau tentu lelah. Pamanmu sudah menceritakan sebagian perjalanan kalian. Panggil aku Bibi Guo.”"
         },
         {
@@ -1100,15 +1240,15 @@
             "Ilmu yang terlihat": "Membantu Guo Jing menangani Xiuwen yang terluka; jurus serangan belum ditunjukkan.",
             "Bahaya teramati": "Belum dapat dinilai"
           },
-          "key": 50077,
-          "chapter": 5,
-          "paragraph": "p-05-077",
+          "key": 40077,
+          "chapter": 4,
+          "paragraph": "p-04-077",
           "quote": "Huang Rong menyusul dari serambi. Ia menopang punggung Xiuwen setelah Guo Jing mengubah posisi tubuh anak itu. Beberapa saat kemudian terdengar tarikan napas yang kasar, disusul batuk. Dunru berpegangan pada bahu adiknya seolah takut tubuh itu akan kembali terlepas."
         }
       ],
       "portraits": [
         {
-          "key": 50004,
+          "key": 40004,
           "image": {
             "file": "bab-05-pembuka.webp",
             "width": 1024,
@@ -1139,9 +1279,9 @@
             "Ilmu yang terlihat": "Belum diperlihatkan",
             "Bahaya teramati": "Belum dapat dinilai"
           },
-          "key": 50013,
-          "chapter": 5,
-          "paragraph": "p-05-013",
+          "key": 40013,
+          "chapter": 4,
+          "paragraph": "p-04-013",
           "quote": "Guo Fu melangkah ke samping, tetapi Dani masih berdiri. Dari halaman belakang muncul dua anak lelaki dengan ikat pinggang latihan. Yang lebih tinggi lebih dahulu memberi hormat kepada Guo Jing; adiknya segera mengikuti. Wu Dunru berusia dua belas, Wu Xiuwen sebelas. Keduanya berhenti di dekat Guo Fu setelah diperkenalkan."
         },
         {
@@ -1163,7 +1303,7 @@
       ],
       "portraits": [
         {
-          "key": 50013,
+          "key": 40013,
           "image": {
             "file": "bab-05-pembuka.webp",
             "width": 1024,
@@ -1196,15 +1336,15 @@
             "Ilmu yang terlihat": "Belum diperlihatkan",
             "Bahaya teramati": "Belum dapat dinilai"
           },
-          "key": 50008,
-          "chapter": 5,
-          "paragraph": "p-05-008",
+          "key": 40008,
+          "chapter": 4,
+          "paragraph": "p-04-008",
           "quote": "Anak berbaju merah itu merapatkan bibir. Ia berusia dua belas tahun dan terbiasa menjadi yang paling didengarkan di antara anak-anak rumah itu. Guo Xiang, yang baru lima tahun, mendongak dari sisi ibunya."
         }
       ],
       "portraits": [
         {
-          "key": 50008,
+          "key": 40008,
           "image": {
             "file": "bab-05-pembuka.webp",
             "width": 1024,
@@ -1236,9 +1376,9 @@
             "Ilmu yang terlihat": "Belum diperlihatkan",
             "Bahaya teramati": "Belum dapat dinilai"
           },
-          "key": 50013,
-          "chapter": 5,
-          "paragraph": "p-05-013",
+          "key": 40013,
+          "chapter": 4,
+          "paragraph": "p-04-013",
           "quote": "Guo Fu melangkah ke samping, tetapi Dani masih berdiri. Dari halaman belakang muncul dua anak lelaki dengan ikat pinggang latihan. Yang lebih tinggi lebih dahulu memberi hormat kepada Guo Jing; adiknya segera mengikuti. Wu Dunru berusia dua belas, Wu Xiuwen sebelas. Keduanya berhenti di dekat Guo Fu setelah diperkenalkan."
         },
         {
@@ -1250,9 +1390,9 @@
             "Ilmu yang terlihat": "Tangkapan dan putaran pergelangan yang membuat Dani berlutut.",
             "Bahaya teramati": "Dapat menahan Dani dalam pergumulan ini; nama jurus dan tier belum diketahui."
           },
-          "key": 50067,
-          "chapter": 5,
-          "paragraph": "p-05-067",
+          "key": 40067,
+          "chapter": 4,
+          "paragraph": "p-04-067",
           "quote": "Ia mendorong Xiuwen menjauh. Dunru langsung menangkap pergelangan tangannya dan memutarnya ke bawah. Dani mengenali gerakan yang dilihatnya pagi tadi, tetapi mengetahui bentuknya tidak membuat ia sanggup melepaskan diri. Lututnya membentur tanah."
         },
         {
@@ -1274,7 +1414,7 @@
       ],
       "portraits": [
         {
-          "key": 50013,
+          "key": 40013,
           "image": {
             "file": "bab-05-ilustrasi-01.webp",
             "width": 1536,
@@ -1306,9 +1446,9 @@
             "Ilmu yang terlihat": "Belum diperlihatkan",
             "Bahaya teramati": "Belum dapat dinilai"
           },
-          "key": 50013,
-          "chapter": 5,
-          "paragraph": "p-05-013",
+          "key": 40013,
+          "chapter": 4,
+          "paragraph": "p-04-013",
           "quote": "Guo Fu melangkah ke samping, tetapi Dani masih berdiri. Dari halaman belakang muncul dua anak lelaki dengan ikat pinggang latihan. Yang lebih tinggi lebih dahulu memberi hormat kepada Guo Jing; adiknya segera mengikuti. Wu Dunru berusia dua belas, Wu Xiuwen sebelas. Keduanya berhenti di dekat Guo Fu setelah diperkenalkan."
         },
         {
@@ -1320,9 +1460,9 @@
             "Ilmu yang terlihat": "Pukulan lurus; salah satunya mengenai bahu Dani.",
             "Bahaya teramati": "Daya pukul dan tier belum terukur."
           },
-          "key": 50069,
-          "chapter": 5,
-          "paragraph": "p-05-069",
+          "key": 40069,
+          "chapter": 4,
+          "paragraph": "p-04-069",
           "quote": "Dani menyikut ke belakang. Pegangan Dunru longgar sesaat; ia menyentakkan tangannya bebas dan mundur. Xiuwen, yang merasa dipermalukan di depan Guo Fu, maju dengan pukulan lurus. Dani berhasil menghindari yang pertama. Yang kedua mengenai bahunya."
         },
         {
@@ -1335,9 +1475,9 @@
             "Bahaya teramati": "Daya pukul dan tier belum terukur.",
             "Kondisi": "Terkena telapak Dani; terlempar dan sulit bernapas."
           },
-          "key": 50074,
-          "chapter": 5,
-          "paragraph": "p-05-074",
+          "key": 40074,
+          "chapter": 4,
+          "paragraph": "p-04-074",
           "quote": "Xiuwen terlempar ke belakang dan jatuh di atas batu halaman. Bunyi benturannya memutus semua suara. Ia berusaha menarik napas, tetapi yang keluar hanya dengusan pendek. Dunru berlutut di sisinya, memanggil nama adiknya dengan suara yang mendadak pecah."
         },
         {
@@ -1359,7 +1499,7 @@
       ],
       "portraits": [
         {
-          "key": 50013,
+          "key": 40013,
           "image": {
             "file": "bab-05-ilustrasi-01.webp",
             "width": 1536,
@@ -1390,10 +1530,10 @@
             "Ilmu yang terlihat": "Belum diperlihatkan",
             "Bahaya teramati": "Belum dapat dinilai"
           },
-          "key": 60002,
-          "chapter": 6,
-          "paragraph": "p-06-002",
-          "quote": "Zhao Zhijing menerima mereka di depan serambi. Ia bertubuh tegak, berkumis tipis, dengan mata yang menilai Dani lebih lama daripada senyumnya bertahan. Kepada Guo Jing ia memberi hormat yang dalam."
+          "key": 50003,
+          "chapter": 5,
+          "paragraph": "p-05-003",
+          "quote": "Pendeta di depan mereka belum bersedia menyingkir. Namanya Zhao Zhijing; Dani mendengar para murid memanggilnya guru. Semula ia menuduh mereka bagian dari rombongan yang datang mengacaukan gunung. Kini, setelah beberapa pedang terpental tanpa Guo Jing menarik senjata, mukanya justru semakin gelap."
         },
         {
           "title": "Zhao Zhijing",
@@ -1405,15 +1545,15 @@
             "Bahaya teramati": "Belum dapat dinilai",
             "Peran yang terlihat": "Memberi hafalan, tetapi menahan pelajaran penerapan kepada Dani."
           },
-          "key": 60012,
-          "chapter": 6,
-          "paragraph": "p-06-012",
+          "key": 50024,
+          "chapter": 5,
+          "paragraph": "p-05-024",
           "quote": "Beberapa pekan berlalu dalam hafalan yang bertambah panjang, sementara pelajaran gerak tidak kunjung dimulai. Zhao menyuruh Dani mengulang bait-bait dasar; bila ia bertanya tentang penerapannya, jawabannya selalu sama: hafalkan dahulu, baru engkau boleh bertanya. Murid lain berlatih di halaman saat Dani masih disuruh duduk menghadap kitab."
         }
       ],
       "portraits": [
         {
-          "key": 60002,
+          "key": 50003,
           "image": {
             "file": "bab-06-pembuka.webp",
             "width": 1024,
@@ -1444,9 +1584,9 @@
             "Ilmu yang terlihat": "Belum diperlihatkan",
             "Bahaya teramati": "Belum dapat dinilai"
           },
-          "key": 60021,
-          "chapter": 6,
-          "paragraph": "p-06-021",
+          "key": 50028,
+          "chapter": 5,
+          "paragraph": "p-05-028",
           "quote": "Di ambang pintu, Lu Qingdu mendengar percakapan itu. Murid bertubuh lebih besar tersebut menunggu Zhao keluar sebelum mendekat. Jarinya menekan kitab hingga tertutup."
         },
         {
@@ -1459,9 +1599,9 @@
             "Bahaya teramati": "Menindas Dani; tier dan nama jurus belum ditetapkan.",
             "Kondisi": "Terhuyung dan jatuh sambil memegangi rusuk setelah serangan Dani."
           },
-          "key": 60049,
-          "chapter": 6,
-          "paragraph": "p-06-049",
+          "key": 50056,
+          "chapter": 5,
+          "paragraph": "p-05-056",
           "quote": "Dani menepis tangan itu, menjejakkan kaki, lalu mendorongkan telapak dari posisi rendah. Gerak Kungfu Hama itu masih kasar. Tenaganya terlepas sekaligus dan membuat bahunya nyeri, tetapi cukup untuk memutus sergapan Lu. Murid itu terhuyung, jatuh menyamping, dan mengerang sambil memegang rusuknya."
         }
       ]
@@ -1482,9 +1622,9 @@
             "Ilmu yang terlihat": "Belum diperlihatkan",
             "Bahaya teramati": "Belum dapat dinilai"
           },
-          "key": 60065,
-          "chapter": 6,
-          "paragraph": "p-06-065",
+          "key": 50072,
+          "chapter": 5,
+          "paragraph": "p-05-072",
           "quote": "Ia mengangguk sekali, kemudian menggeleng. Nenek Sun menghentikan tangannya dan menunggu. Sikap itu membuat Dani semakin kesulitan menahan kata-kata yang sejak tadi menumpuk di dadanya."
         },
         {
@@ -1496,9 +1636,9 @@
             "Ilmu yang terlihat": "Menyapu tangan Hao Datong dan melindungi Dani dalam pertukaran gerak singkat.",
             "Bahaya teramati": "Mampu bergerak dalam benturan pendekar; tier belum diketahui."
           },
-          "key": 60097,
-          "chapter": 6,
-          "paragraph": "p-06-097",
+          "key": 50109,
+          "chapter": 5,
+          "paragraph": "p-05-109",
           "quote": "Ketika mereka berbalik, Hao Datong maju untuk menahan bahu Dani. Nenek Sun menyapu tangan itu dan mendorong anak tersebut ke belakangnya. Dua gerakan berikut berlangsung terlalu cepat untuk diikuti Dani: lengan jubah beradu, langkah Hao berputar, lalu telapaknya terlepas dalam tangkisan balasan."
         },
         {
@@ -1511,15 +1651,15 @@
             "Bahaya teramati": "Mampu bergerak dalam benturan pendekar; tier belum diketahui.",
             "Kondisi": "Wafat setelah terkena tangkisan balasan Hao Datong."
           },
-          "key": 60119,
-          "chapter": 6,
-          "paragraph": "p-06-119",
+          "key": 50132,
+          "chapter": 5,
+          "paragraph": "p-05-132",
           "quote": "Gadis itu tidak mengulang perintah. Ia menutup mata Nenek Sun dengan jemarinya, pelan dan cermat. Barulah Dani mengerti. Tangisnya pecah tanpa sempat disembunyikan; ia menunduk pada bahu orang yang belum lama dikenalnya dan tidak dapat melepaskan genggamannya."
         }
       ],
       "portraits": [
         {
-          "key": 60065,
+          "key": 50072,
           "image": {
             "file": "bab-06-ilustrasi-01.webp",
             "width": 1536,
@@ -1550,10 +1690,10 @@
             "Ilmu yang terlihat": "Belum diperlihatkan",
             "Bahaya teramati": "Belum dapat dinilai"
           },
-          "key": 60082,
-          "chapter": 6,
-          "paragraph": "p-06-082",
-          "quote": "Mereka bertemu Hao Datong di jalan menuju halaman Quanzhen. Pendekar tua itu datang setelah mendengar keributan; Zhao Zhijing berada tidak jauh di belakangnya. Melihat Dani, Zhao langsung menunjuk."
+          "key": 50094,
+          "chapter": 5,
+          "paragraph": "p-05-094",
+          "quote": "Di sanalah mereka bertemu Hao Datong. Pendekar tua itu datang setelah mendengar keributan; Zhao Zhijing berada tidak jauh di belakangnya. Melihat Dani, Zhao langsung menunjuk."
         },
         {
           "title": "Hao Datong",
@@ -1564,9 +1704,9 @@
             "Ilmu yang terlihat": "Tangkisan balasan dengan telapak; nama teknik belum terungkap.",
             "Bahaya teramati": "Melukai Nenek Sun hingga kehilangan tenaga dan jatuh."
           },
-          "key": 60098,
-          "chapter": 6,
-          "paragraph": "p-06-098",
+          "key": 50110,
+          "chapter": 5,
+          "paragraph": "p-05-110",
           "quote": "Pukulan itu mengenai tubuh Nenek Sun."
         },
         {
@@ -1578,15 +1718,15 @@
             "Ilmu yang terlihat": "Tangkisan balasan dengan telapak; nama teknik belum terungkap.",
             "Bahaya teramati": "Fatal pada benturan ini: Nenek Sun wafat. Akibat tersebut tidak menetapkan tier Hao Datong secara otomatis."
           },
-          "key": 60119,
-          "chapter": 6,
-          "paragraph": "p-06-119",
+          "key": 50132,
+          "chapter": 5,
+          "paragraph": "p-05-132",
           "quote": "Gadis itu tidak mengulang perintah. Ia menutup mata Nenek Sun dengan jemarinya, pelan dan cermat. Barulah Dani mengerti. Tangisnya pecah tanpa sempat disembunyikan; ia menunduk pada bahu orang yang belum lama dikenalnya dan tidak dapat melepaskan genggamannya."
         }
       ],
       "portraits": [
         {
-          "key": 60082,
+          "key": 50094,
           "image": {
             "file": "bab-06-ilustrasi-01.webp",
             "width": 1536,
@@ -1606,7 +1746,7 @@
       "type": "tokoh",
       "aliases": [
         "Xiaolongnü",
-        "Gugu"
+        "Xiaolongnu"
       ],
       "stages": [
         {
@@ -1614,14 +1754,14 @@
           "summary": "Pewaris Makam Kuno; halus dan tenang, berbicara terus terang tentang apa yang dipikirkannya.",
           "fields": {
             "Usia saat diperkenalkan": "16 tahun",
-            "Tingkat": "Belum diketahui",
-            "Ilmu yang terlihat": "Belum diperlihatkan",
-            "Bahaya teramati": "Belum dapat dinilai"
+            "Tingkat": "Belum terukur",
+            "Ilmu yang terlihat": "Menyerang Hao Datong setelah kematian Nenek Sun; Qiu memisahkan pertarungan.",
+            "Bahaya teramati": "Bersenjata dan terlatih; kemampuan maksimum belum teruji."
           },
-          "key": 60126,
-          "chapter": 6,
-          "paragraph": "p-06-126",
-          "quote": "“Namaku Xiaolongnü. Mulai sekarang engkau berada dalam tanggunganku,” kata gadis itu."
+          "key": 50136,
+          "chapter": 5,
+          "paragraph": "p-05-136",
+          "quote": "Qiu Chuji tiba sebelum serangan berikutnya dilepaskan. Ia masuk di antara mereka, mengalihkan lengan Xiaolongnü dengan tenaga yang membuat gadis itu mundur setapak."
         },
         {
           "title": "Xiaolongnü",
@@ -1633,9 +1773,9 @@
             "Bahaya teramati": "Mampu menguasai jarak tanpa perlu merusak lingkungan.",
             "Dasar tingkat": "Rujukan Saga setelah ilmu mulai diperlihatkan; tenaga maksimum belum diuji."
           },
-          "key": 70009,
-          "chapter": 7,
-          "paragraph": "p-07-009",
+          "key": 60009,
+          "chapter": 6,
+          "paragraph": "p-06-009",
           "quote": "Pukulan pertama Dani meleset. Yang kedua ditahan begitu mudah hingga rasa malu naik ke tengkuknya. Ia maju lebih cepat; ujung pedang Xiaolongnü sudah menyentuh dadanya sebelum tangannya sempat turun."
         },
         {
@@ -1649,10 +1789,10 @@
             "Dasar tingkat": "Rujukan Saga setelah ilmu mulai diperlihatkan; tenaga maksimum belum diuji.",
             "Usia sekarang": "20 tahun"
           },
-          "key": 70034,
-          "chapter": 7,
-          "paragraph": "p-07-034",
-          "quote": "Empat tahun berlalu. Dani berusia delapan belas, Xiaolongnü dua puluh. Pundaknya telah melebar; jubah biru kelabu yang dibawa dari keluarga Guo sudah lama tidak muat, diganti dengan pakaian sederhana berwarna serupa. Buntalan tua tetap disimpannya, bersama alat jahit Mu Nianci."
+          "key": 60034,
+          "chapter": 6,
+          "paragraph": "p-06-034",
+          "quote": "Empat tahun berlalu. Dani berusia delapan belas, Xiaolongnü dua puluh. Pundaknya telah melebar; jubah biru kelabu dari keluarga Guo sudah beberapa kali dipanjangkan dan ditambal. Kini bagian bahunya kembali terasa sempit. Buntalan tua tetap disimpannya, bersama alat jahit Mu Nianci."
         },
         {
           "title": "Xiaolongnü",
@@ -1666,10 +1806,29 @@
             "Usia sekarang": "20 tahun",
             "Kondisi": "Luka dalam setelah irama latihan Sutra Hati Gadis Giok terganggu."
           },
-          "key": 70052,
-          "chapter": 7,
-          "paragraph": "p-07-052",
-          "quote": "Pada putaran terakhir Dani merasakan panas menjalar terlalu cepat. Ia mencoba menahannya sendiri, terlambat menyadari bahwa perubahan itu mengganggu irama mereka. Xiaolongnü menarik napas tajam. Ketika Dani membuka mata, darah sudah menyentuh sudut bibirnya."
+          "key": 60051,
+          "chapter": 6,
+          "paragraph": "p-06-051",
+          "quote": "Xiaolongnü tersentak. Tenaga yang belum selesai disalurkan berbalik menghantam tubuhnya. Ia menutup pakaian, mencoba duduk tegak, lalu jatuh dengan darah di sudut bibir."
+        },
+        {
+          "title": "Xiaolongnü",
+          "summary": "Di bawah ancaman maut, kedekatan Xiaolongnü dan Dani melampaui kewajiban guru terhadap murid.",
+          "fields": {
+            "Usia saat diperkenalkan": "16 tahun",
+            "Tingkat": "4 · Grandmaster",
+            "Ilmu yang terlihat": "Ilmu pedang dan tenaga dalam Gadis Giok; masih melampaui Dani dalam latihan.",
+            "Bahaya teramati": "Kondisi cedera membatasi performa; tier dasar bukan ukuran tenaga yang tersedia saat ini.",
+            "Dasar tingkat": "Rujukan Saga setelah ilmu mulai diperlihatkan; tenaga maksimum belum diuji.",
+            "Usia sekarang": "20 tahun",
+            "Kondisi": "Luka dalam setelah irama latihan Sutra Hati Gadis Giok terganggu.",
+            "Ikatan yang terlihat": "Dani rela mati demi dirinya; ia ingin mendengar bahwa dirinya berbeda bagi Dani.",
+            "Sumpah": "Syarat untuk meninggalkan makam telah terpenuhi."
+          },
+          "key": 60112,
+          "chapter": 6,
+          "paragraph": "p-06-112",
+          "quote": "Dani merapat dan memeluk bahunya. Ia tidak mencari gurauan lain. “Engkau berbeda. Sejak tinggal di sini, aku tidak lagi bertanya setiap malam ke mana harus pergi besok.”"
         },
         {
           "title": "Xiaolongnü",
@@ -1681,12 +1840,13 @@
             "Bahaya teramati": "Kondisi cedera membatasi performa; tier dasar bukan ukuran tenaga yang tersedia saat ini.",
             "Dasar tingkat": "Rujukan Saga setelah ilmu mulai diperlihatkan; tenaga maksimum belum diuji.",
             "Usia sekarang": "20 tahun",
-            "Kondisi": "Berangsur pulih selama beberapa pekan di gubuk."
+            "Kondisi": "Berangsur pulih selama beberapa pekan di gubuk.",
+            "Sumpah": "Boleh meninggalkan makam setelah pengorbanan sukarela Dani."
           },
-          "key": 80007,
-          "chapter": 8,
-          "paragraph": "p-08-007",
-          "quote": "Gubuk kosong di lereng itu mereka temukan sehari setelah keluar melalui lorong air. Atap ditambal, lantai dibersihkan, dan dua tempat tidur dipisahkan oleh tikar gantung. Dalam beberapa pekan, batuk Xiaolongnü berkurang; ia mulai berlatih kembali tanpa memaksakan bagian yang masih menimbulkan nyeri. Dani menggunakan pedang kayu. Pedang yang tenggelam di bawah makam tidak kembali hanya karena ia memerlukannya."
+          "key": 70006,
+          "chapter": 7,
+          "paragraph": "p-07-006",
+          "quote": "Gubuk kosong tersebut mereka temukan sehari setelah keluar dari makam. Pemilik ladang di bawah lereng membolehkan mereka menempatinya; Dani membantu memperbaiki pagar sebagai gantinya. Dalam beberapa pekan, atap kembali rapat dan dua dipan sederhana dipisahkan tikar gantung. Xiaolongnü mulai dapat menarik napas panjang tanpa batuk darah."
         },
         {
           "title": "Xiaolongnü",
@@ -1698,12 +1858,32 @@
             "Bahaya teramati": "Presisi pedang kembali ditunjukkan dalam latihan; Dani masih belum mengalahkannya.",
             "Dasar tingkat": "Rujukan Saga setelah ilmu mulai diperlihatkan; tenaga maksimum belum diuji.",
             "Usia sekarang": "20 tahun",
-            "Kondisi": "Mampu berlatih pedang lebih lama. Latihan lanjutan sutra belum diulang."
+            "Kondisi": "Bahu pulih, latihan pedang kembali berlangsung di gubuk.",
+            "Sumpah": "Boleh meninggalkan makam setelah pengorbanan sukarela Dani."
           },
-          "key": 80060,
-          "chapter": 8,
-          "paragraph": "p-08-060",
-          "quote": "Bulan berikutnya mereka dapat berlatih bersama lebih lama. Xiaolongnü kembali mengalahkannya, tetapi napasnya tidak lagi terputus setelah beberapa rangkaian. Latihan lanjutan Sutra Hati Gadis Giok belum mereka ulang. Kali ini Dani tidak mendesak."
+          "key": 70036,
+          "chapter": 7,
+          "paragraph": "p-07-036",
+          "quote": "Sesudah bahu Xiaolongnü pulih, latihan pedang kembali dimulai. Dani memakai pedang kayu karena bilah yang hilang di saluran air belum dapat diganti. Pada suatu pagi, ia berhasil membuat ujung lengan gurunya tersangkut pada ranting."
+        },
+        {
+          "title": "Xiaolongnü",
+          "summary": "Kedekatan dewasa tumbuh lewat perawatan, percakapan, dan keinginan saling menemani.",
+          "fields": {
+            "Usia saat diperkenalkan": "16 tahun",
+            "Tingkat": "4 · Grandmaster",
+            "Ilmu yang terlihat": "Ilmu pedang dan tenaga dalam Gadis Giok; masih melampaui Dani dalam latihan.",
+            "Bahaya teramati": "Presisi pedang kembali ditunjukkan dalam latihan; Dani masih belum mengalahkannya.",
+            "Dasar tingkat": "Rujukan Saga setelah ilmu mulai diperlihatkan; tenaga maksimum belum diuji.",
+            "Usia sekarang": "20 tahun",
+            "Kondisi": "Bahu pulih, latihan pedang kembali berlangsung di gubuk.",
+            "Sumpah": "Boleh meninggalkan makam setelah pengorbanan sukarela Dani.",
+            "Ikatan yang terlihat": "Menyatakan ingin Dani pulang dan duduk lebih dekat; perasaannya dibalas."
+          },
+          "key": 70069,
+          "chapter": 7,
+          "paragraph": "p-07-069",
+          "quote": "“Dahulu aku mengira hidup yang tenang berarti tidak menginginkan apa pun,” katanya. “Sekarang kalau engkau belum pulang, aku menginginkan langkahmu terdengar di jalan. Ketika engkau sudah di rumah, aku ingin engkau duduk lebih dekat.”"
         },
         {
           "title": "Xiaolongnü",
@@ -1715,12 +1895,13 @@
             "Bahaya teramati": "Tidak dapat melindungi diri selama tubuh ditotok.",
             "Dasar tingkat": "Rujukan Saga setelah ilmu mulai diperlihatkan; tenaga maksimum belum diuji.",
             "Usia sekarang": "20 tahun",
-            "Kondisi": "Ditotok Ouyang Feng; sadar tetapi tidak dapat menggerakkan tubuh."
+            "Kondisi": "Ditotok Ouyang Feng; sadar tetapi tidak dapat menggerakkan tubuh.",
+            "Sumpah": "Boleh meninggalkan makam setelah pengorbanan sukarela Dani."
           },
-          "key": 80097,
+          "key": 80018,
           "chapter": 8,
-          "paragraph": "p-08-097",
-          "quote": "Xiaolongnü mendadak kaku."
+          "paragraph": "p-08-018",
+          "quote": "Cawan jatuh. Xiaolongnü mendadak tidak dapat bergerak."
         },
         {
           "title": "Xiaolongnü",
@@ -1732,12 +1913,32 @@
             "Bahaya teramati": "Gerak kembali berangsur; kesiapan untuk bertarung dengan tenaga penuh belum diperlihatkan.",
             "Dasar tingkat": "Rujukan Saga setelah ilmu mulai diperlihatkan; tenaga maksimum belum diuji.",
             "Usia sekarang": "20 tahun",
-            "Kondisi": "Gerak mulai kembali; masih kaku dan nyeri."
+            "Kondisi": "Gerak mulai kembali; masih kaku dan nyeri.",
+            "Sumpah": "Boleh meninggalkan makam setelah pengorbanan sukarela Dani."
           },
-          "key": 80144,
+          "key": 80064,
           "chapter": 8,
-          "paragraph": "p-08-144",
-          "quote": "Xiaolongnü akhirnya dapat menggerakkan ujung jarinya. Totokan itu perlahan mengendur, meninggalkan kaku dan nyeri. Dani berlutut di depannya, meminta maaf karena telah membiarkannya sendirian."
+          "paragraph": "p-08-064",
+          "quote": "Petunjuk pelepasan titik dari ukiran Sembilan Yin tidak langsung mengatasi totokan Ouyang Feng. Dani mencoba bagian yang mereka pahami, berhenti ketika napas Xiaolongnü terganggu, lalu menunggu tenaga yang menguncinya berangsur lemah. Hari telah gelap saat gadis itu akhirnya dapat duduk tanpa disangga."
+        },
+        {
+          "title": "Xiaolongnü",
+          "summary": "Memahami keintiman pertama sebagai janji untuk menjadi pasangan, tanpa mengerti sepenuhnya keadaan Dani.",
+          "fields": {
+            "Usia saat diperkenalkan": "16 tahun",
+            "Tingkat": "4 · Grandmaster",
+            "Ilmu yang terlihat": "Ilmu pedang dan tenaga dalam Gadis Giok; masih melampaui Dani dalam latihan.",
+            "Bahaya teramati": "Presisi pedang kembali ditunjukkan dalam latihan; Dani masih belum mengalahkannya.",
+            "Dasar tingkat": "Rujukan Saga setelah ilmu mulai diperlihatkan; tenaga maksimum belum diuji.",
+            "Usia sekarang": "20 tahun",
+            "Kondisi": "Baru pulih dari totokan; menaruh kepercayaan kepada Dani.",
+            "Sumpah": "Boleh meninggalkan makam setelah pengorbanan sukarela Dani.",
+            "Ikatan yang terlihat": "Berharap hubungan mereka diakui sebagai ikatan calon suami dan istri."
+          },
+          "key": 80083,
+          "chapter": 8,
+          "paragraph": "p-08-083",
+          "quote": "Malam itu mereka berhubungan intim untuk pertama kali. Bagi Xiaolongnü, menyerahkan keperawanannya kepada Dani berarti menerima dirinya sebagai pendamping seumur hidup. Ia tidak mengetahui seberapa jauh obat Ouyang Feng telah merusak kesadaran Dani. Pemuda itu pun tidak berada dalam keadaan mampu memahami dan mengingat keputusannya secara utuh."
         },
         {
           "title": "Xiaolongnü",
@@ -1749,18 +1950,19 @@
             "Bahaya teramati": "Kemampuan bertarung setelah meninggalkan gubuk belum diperlihatkan.",
             "Dasar tingkat": "Rujukan Saga setelah ilmu mulai diperlihatkan; tenaga maksimum belum diuji.",
             "Usia sekarang": "20 tahun",
-            "Kondisi": "Meninggalkan gubuk bersama pedang dan sebagian pakaian.",
-            "Ikatan yang terlihat": "Percakapan dengan Dani menyisakan salah pengertian."
+            "Kondisi": "Meninggalkan Dani setelah percakapan tentang pernikahan berakhir dalam salah pengertian.",
+            "Ikatan yang terlihat": "Percakapan dengan Dani menyisakan salah pengertian.",
+            "Sumpah": "Boleh meninggalkan makam setelah pengorbanan sukarela Dani."
           },
-          "key": 80190,
+          "key": 80124,
           "chapter": 8,
-          "paragraph": "p-08-190",
-          "quote": "Pedang Xiaolongnü tidak berada di dekat pembaringan. Beberapa pakaiannya juga telah dibawa."
+          "paragraph": "p-08-124",
+          "quote": "Gadis itu menutup mata sesaat. Ketika membukanya, ia berbalik dan menghilang di antara pepohonan."
         }
       ],
       "portraits": [
         {
-          "key": 60126,
+          "key": 50136,
           "image": {
             "file": "bab-06-ilustrasi-02.webp",
             "width": 1536,
@@ -1774,7 +1976,7 @@
           ]
         },
         {
-          "key": 70034,
+          "key": 60034,
           "image": {
             "file": "bab-07-pembuka.webp",
             "width": 1024,
@@ -1805,10 +2007,10 @@
             "Ilmu yang terlihat": "Belum diperlihatkan",
             "Bahaya teramati": "Belum dapat dinilai"
           },
-          "key": 70071,
-          "chapter": 7,
-          "paragraph": "p-07-071",
-          "quote": "“Hong Lingbo, tetaplah dekat denganku,” kata Li Mochou, tanpa menoleh. “Jangan tertinggal di lorong yang belum kaukenal.”"
+          "key": 60070,
+          "chapter": 6,
+          "paragraph": "p-06-070",
+          "quote": "Hong Lingbo berdiri di depan ruang istirahat dengan pedang terhunus. Ia mengaku membawa perintah gurunya. Dani baru hendak menjawab ketika kebut putih bergerak dari belakang gadis itu."
         },
         {
           "title": "Hong Lingbo",
@@ -1816,13 +2018,13 @@
           "fields": {
             "Usia saat diperkenalkan": "Perempuan muda; usia tepat belum ditetapkan",
             "Tingkat": "Belum terukur",
-            "Ilmu yang terlihat": "Gerakan pedang terlatih; serangan pertama ditangkis Dani.",
+            "Ilmu yang terlihat": "Menggunakan pedang; geraknya ditekan Dani menuju dinding.",
             "Bahaya teramati": "Bersenjata dan terlatih; tidak semua tebasan mempunyai nama jurus khusus."
           },
-          "key": 70090,
-          "chapter": 7,
-          "paragraph": "p-07-090",
-          "quote": "Hong Lingbo mencabut pedang. Dani menangkis serangan pertamanya ke samping dan memotong jarak, memaksanya mundur sebelum sempat menyerang lagi. Gerak gadis itu terlatih, tetapi setiap kali Li Mochou bergeser, matanya ikut mencari gurunya."
+          "key": 60077,
+          "chapter": 6,
+          "paragraph": "p-06-077",
+          "quote": "Senyum Li Mochou menipis. Ia memerintahkan Hong Lingbo menyingkirkan Dani. Pedang mereka beradu; Dani menekan lawannya ke sisi dinding dengan gerak Makam Kuno. Ketika ia hendak memutar bilah Hong Lingbo, kebut gurunya menyambar pergelangan."
         },
         {
           "title": "Hong Lingbo",
@@ -1830,14 +2032,13 @@
           "fields": {
             "Usia saat diperkenalkan": "Perempuan muda; usia tepat belum ditetapkan",
             "Tingkat": "Belum terukur",
-            "Ilmu yang terlihat": "Gerakan pedang terlatih; serangan pertama ditangkis Dani.",
-            "Bahaya teramati": "Bersenjata dan terlatih; tidak semua tebasan mempunyai nama jurus khusus.",
-            "Batas yang terlihat": "Perhatian bergeser kepada gurunya; Dani memanfaatkan keraguan itu untuk menekan pedangnya."
+            "Ilmu yang terlihat": "Menggunakan pedang dengan bantuan Li Mochou; hasil pertukaran bukan duel satu lawan satu.",
+            "Bahaya teramati": "Bersenjata dan terlatih; tidak semua tebasan mempunyai nama jurus khusus."
           },
-          "key": 70091,
-          "chapter": 7,
-          "paragraph": "p-07-091",
-          "quote": "Dani menggunakan keraguan itu. Ia menekan pedang Hong Lingbo ke dinding, lalu memutar gagang senjatanya. Gadis tersebut tersentak; sebelum pegangannya terlepas, kebut putih menyambar pergelangan Dani."
+          "key": 60078,
+          "chapter": 6,
+          "paragraph": "p-06-078",
+          "quote": "Hantaman itu membuat ujung pedang Dani jatuh. Xiaolongnü bangkit membantu, tetapi luka dalam memutus napasnya di tengah serangan. Li Mochou menggeser tubuh, lalu menghantam bahunya. Dani menangkap gurunya sebelum kepala Xiaolongnü membentur batu."
         },
         {
           "title": "Hong Lingbo",
@@ -1847,7 +2048,6 @@
             "Tingkat": "Belum terukur",
             "Ilmu yang terlihat": "Menekan lengan bersenjata Wushuang saat gadis itu kehilangan pijakan.",
             "Bahaya teramati": "Dapat menahan tawanan dengan dukungan Li Mochou.",
-            "Batas yang terlihat": "Perhatian bergeser kepada gurunya; Dani memanfaatkan keraguan itu untuk menekan pedangnya.",
             "Kondisi": "Menjaga Wushuang."
           },
           "key": 90066,
@@ -1863,7 +2063,6 @@
             "Tingkat": "Belum terukur",
             "Ilmu yang terlihat": "Menekan lengan bersenjata Wushuang saat gadis itu kehilangan pijakan.",
             "Bahaya teramati": "Dapat menahan tawanan dengan dukungan Li Mochou.",
-            "Batas yang terlihat": "Perhatian bergeser kepada gurunya; Dani memanfaatkan keraguan itu untuk menekan pedangnya.",
             "Kondisi": "Meninggalkan kedai mengikuti Li Mochou; Wushuang tidak lagi berada dalam pegangannya."
           },
           "key": 90135,
@@ -1874,7 +2073,7 @@
       ],
       "portraits": [
         {
-          "key": 70071,
+          "key": 60070,
           "image": {
             "file": "bab-07-ilustrasi-01.webp",
             "width": 1536,
@@ -1893,42 +2092,125 @@
       "id": "zhen-zhibing",
       "type": "tokoh",
       "aliases": [
-        "Zhen Zhibing"
+        "Zhen Zhibing",
+        "Pendeta Zhen",
+        "Tetua Zhen"
       ],
       "stages": [
         {
           "title": "Zhen Zhibing",
-          "summary": "Pendeta Quanzhen yang dijumpai Dani di gubuk saat Xiaolongnü tidak dapat bergerak.",
+          "summary": "Pendeta Quanzhen, murid Qiu Chuji. Mengenal Dani sejak hari penerimaannya.",
           "fields": {
-            "Usia saat diperkenalkan": "Dewasa",
             "Tingkat": "Belum diketahui",
             "Ilmu yang terlihat": "Belum diperlihatkan",
-            "Bahaya teramati": "Belum dapat dinilai"
+            "Bahaya teramati": "Belum dapat dinilai",
+            "Usia saat diperkenalkan": "Dewasa"
           },
-          "key": 80135,
-          "chapter": 8,
-          "paragraph": "p-08-135",
-          "quote": "“Namaku Zhen Zhibing,” jawab lelaki itu."
+          "key": 50007,
+          "chapter": 5,
+          "paragraph": "p-05-007",
+          "quote": "Pendeta yang baru datang memberi hormat. “Zhen Zhibing, murid Tetua Qiu. Mohon Pendekar Guo mengikuti saya.” Matanya singgah pada Dani. “Anak muda, tetaplah di dekat pamanmu. Gunung ini sedang tidak aman.”"
         },
         {
           "title": "Zhen Zhibing",
-          "summary": "Pendeta Quanzhen yang dijumpai Dani di gubuk saat Xiaolongnü tidak dapat bergerak.",
+          "summary": "Pendeta Quanzhen, murid Qiu Chuji. Mengenal Dani sejak hari penerimaannya.",
           "fields": {
-            "Usia saat diperkenalkan": "Dewasa",
             "Tingkat": "Belum terukur",
-            "Ilmu yang terlihat": "Tangkisan terlatih dan usaha mencabut pedang; nama jurus belum disebut.",
-            "Bahaya teramati": "Mendekati Xiaolongnü yang tidak dapat melawan; berhasil dilucuti Dani dalam serangan mendadak.",
-            "Kondisi": "Pergelangan ditahan; terkena pukulan di wajah."
+            "Ilmu yang terlihat": "Mencoba menahan Nenek Sun; tangannya ditepis dan keseimbangannya terganggu.",
+            "Bahaya teramati": "Ikut menghalangi jalan Dani dan Nenek Sun.",
+            "Usia saat diperkenalkan": "Dewasa"
           },
-          "key": 80135,
+          "key": 50093,
+          "chapter": 5,
+          "paragraph": "p-05-093",
+          "quote": "Zhen mengulurkan tangan hendak menahan mereka. Nenek Sun menepisnya; beberapa gerakan singkat membuat Dani terseret mundur. Zhen menahan serangan perempuan tua itu dengan langkah teratur, tetapi tidak berhasil memisahkannya dari Dani. Ia menyerukan agar murid lain memanggil tetua, lalu membawa pertentangan itu ke jalan yang lebih lebar."
+        },
+        {
+          "title": "Zhen Zhibing",
+          "summary": "Saksi perselisihan yang melukai Nenek Sun; perhatian kepada pewaris makam mulai mengalahkan kewajibannya.",
+          "fields": {
+            "Tingkat": "Belum terukur",
+            "Ilmu yang terlihat": "Mencoba menahan Nenek Sun; tangannya ditepis dan keseimbangannya terganggu.",
+            "Bahaya teramati": "Ikut menghalangi jalan Dani dan Nenek Sun.",
+            "Usia saat diperkenalkan": "Dewasa",
+            "Ikatan yang terlihat": "Melihat Xiaolongnü dalam perkara Dani; mereka bukan orang asing pada pertemuan berikutnya."
+          },
+          "key": 50118,
+          "chapter": 5,
+          "paragraph": "p-05-118",
+          "quote": "Zhen yang tadi hendak memberi penjelasan mendadak kehilangan kata-kata. Ia mengenali pakaian perguruan tetangganya, tetapi baru kali ini berdiri sedekat itu dengan pewaris Makam Kuno. Pandangannya tertahan sampai Zhao menyentuh sikunya. Zhen menunduk terlambat."
+        },
+        {
+          "title": "Zhen Zhibing",
+          "summary": "Ketertarikannya kepada Xiaolongnü berlanjut menjadi kunjungan diam-diam; pertarungannya dengan Zhao mengganggu latihan.",
+          "fields": {
+            "Tingkat": "Belum terukur",
+            "Ilmu yang terlihat": "Bertarung dengan Zhao dan menghalangi serangannya.",
+            "Bahaya teramati": "Gangguan dua pendeta mengakibatkan luka dalam Xiaolongnü.",
+            "Usia saat diperkenalkan": "Dewasa",
+            "Ikatan yang terlihat": "Melihat Xiaolongnü dalam perkara Dani; mereka bukan orang asing pada pertemuan berikutnya.",
+            "Janji": "Bersumpah tidak menyebarkan kejadian latihan."
+          },
+          "key": 60059,
+          "chapter": 6,
+          "paragraph": "p-06-059",
+          "quote": "Zhen menatap darah di bibir Xiaolongnü. Wajahnya memucat. Ia bersumpah tidak menyebarkan kejadian tersebut dan memaksa Zhao ikut mengucapkannya. Dani tidak mempercayai keramahan mendadak mereka. Ia mundur sambil menopang Xiaolongnü, pedang tetap mengarah ke kedua pendeta sampai pepohonan menutup pandangan."
+        },
+        {
+          "title": "Zhen Zhibing",
+          "summary": "Memberi saran saat Xiaolongnü bertengkar dengan Dani, lalu mengetahui letak gubuk mereka.",
+          "fields": {
+            "Tingkat": "Belum terukur",
+            "Ilmu yang terlihat": "Bertarung dengan Zhao dan menghalangi serangannya.",
+            "Bahaya teramati": "Mengetahui lokasi gubuk; belum ada serangan baru dalam pertemuan ini.",
+            "Usia saat diperkenalkan": "Dewasa",
+            "Ikatan yang terlihat": "Obsesinya berlanjut meski Xiaolongnü hanya menerima percakapannya dengan sopan.",
+            "Janji": "Bersumpah tidak menyebarkan kejadian latihan."
+          },
+          "key": 70106,
+          "chapter": 7,
+          "paragraph": "p-07-106",
+          "quote": "Ia menawarkan mengantar. Xiaolongnü menolak dengan sopan, lalu kembali ke arah gubuk. Zhen tidak langsung meneruskan langkah. Di antara pepohonan, ia melihat atap yang baru ditambal dan sepotong kain biru tergantung di samping pintu. Sekarang ia mengetahui tempat mereka tinggal."
+        },
+        {
+          "title": "Zhen Zhibing",
+          "summary": "Dani menghentikannya ketika ia mendekati Xiaolongnü yang tidak mampu bergerak.",
+          "fields": {
+            "Tingkat": "Belum terukur",
+            "Ilmu yang terlihat": "Tangkisan dan serangan pedang Quanzhen; dilucuti ketika Dani memanfaatkan keterkejutan serta keraguannya.",
+            "Bahaya teramati": "Mengancam keselamatan Xiaolongnü yang ditotok; kekalahan ini bukan ukuran semua pendekar Quanzhen.",
+            "Usia saat diperkenalkan": "Dewasa",
+            "Ikatan yang terlihat": "Obsesinya berlanjut meski Xiaolongnü hanya menerima percakapannya dengan sopan.",
+            "Janji": "Bersumpah tidak menyebarkan kejadian latihan.",
+            "Kondisi": "Pergelangan cedera dan wajah terpukul; dipaksa pergi."
+          },
+          "key": 80060,
           "chapter": 8,
-          "paragraph": "p-08-135",
-          "quote": "“Namaku Zhen Zhibing,” jawab lelaki itu."
+          "paragraph": "p-08-060",
+          "quote": "Wajah Zhen memerah. Ia mengambil pedangnya dengan tangan sulit ditekuk, kemudian mundur. Ketika Dani bergerak selangkah, ia berbalik menuju pepohonan."
+        },
+        {
+          "title": "Zhen Zhibing",
+          "summary": "Dani menghentikannya ketika ia mendekati Xiaolongnü yang tidak mampu bergerak.",
+          "fields": {
+            "Tingkat": "Belum terukur",
+            "Ilmu yang terlihat": "Tangkisan dan serangan pedang Quanzhen; dilucuti ketika Dani memanfaatkan keterkejutan serta keraguannya.",
+            "Bahaya teramati": "Mengancam keselamatan Xiaolongnü yang ditotok; kekalahan ini bukan ukuran semua pendekar Quanzhen.",
+            "Usia saat diperkenalkan": "Dewasa",
+            "Ikatan yang terlihat": "Obsesinya berlanjut meski Xiaolongnü hanya menerima percakapannya dengan sopan.",
+            "Janji": "Bersumpah tidak menyebarkan kejadian latihan.",
+            "Kondisi": "Pergelangan cedera dan wajah terpukul; dipaksa pergi.",
+            "Pengetahuan saat ini": "Sempat melihat Dani dan Xiaolongnü berdekatan sebelum pergi; tidak menyaksikan keintiman mereka."
+          },
+          "key": 80072,
+          "chapter": 8,
+          "paragraph": "p-08-072",
+          "quote": "Di luar, Zhen sempat berhenti di antara pepohonan. Dari celah sebelum daun jendela ditutup, ia melihat Dani berlutut di dekat Xiaolongnü dan tangan perempuan itu memegang wajah pemuda tersebut. Ia tidak menyaksikan lebih jauh. Ia turun dengan kemarahan yang kini mempunyai sasaran: Dani telah mempermalukannya di hadapan perempuan yang selama ini dipikirkannya."
         }
       ],
       "portraits": [
         {
-          "key": 80135,
+          "key": 80060,
           "image": {
             "file": "bab-08-ilustrasi-01.webp",
             "width": 1536,
@@ -1947,7 +2229,10 @@
       "id": "jahit",
       "type": "benda",
       "aliases": [
-        "jarum",
+        "jarum ibunya",
+        "jarum ibumu",
+        "jarum Mu Nianci",
+        "alat jahit",
         "bidal"
       ],
       "stages": [
@@ -1971,10 +2256,10 @@
             "Fungsi": "Menjahit dan memperbaiki pakaian. Tidak menunjukkan kemampuan silat.",
             "Makna yang terlihat": "Ia mengizinkan Xiaolongnü memakai peninggalan ibunya."
           },
-          "key": 80020,
-          "chapter": 8,
-          "paragraph": "p-08-020",
-          "quote": "Dani mengangguk. Ia mengenakan baju dalam berlengan panjang dan duduk di sebelahnya. Angin dari jendela menyentuh tengkuk yang biasanya tertutup jubah; ia menggeser bangku lebih dekat, lalu membantu membentangkan kain agar tidak jatuh ke lantai."
+          "key": 70014,
+          "chapter": 7,
+          "paragraph": "p-07-014",
+          "quote": "“Jarum dan bidalnya. Benangnya sudah berkali-kali kuganti.” Dani menyentuh tepi lipatan kain. “Aku membawanya sejak meninggalkan rumah, tetapi rupanya keterampilan Ibu tidak ikut terbawa.”"
         },
         {
           "title": "Alat jahit Mu Nianci",
@@ -1985,10 +2270,10 @@
             "Makna yang terlihat": "Ia mengizinkan Xiaolongnü memakai peninggalan ibunya.",
             "Hasil": "Xiaolongnü menambahkan kain biru tua pada sisi jubah agar bahu dan rusuk Dani lebih longgar."
           },
-          "key": 80040,
-          "chapter": 8,
-          "paragraph": "p-08-040",
-          "quote": "Sesudah jubah selesai, ia meminta Dani berdiri dan mengangkat tangan. Sambungan biru tua di kedua sisi memberi ruang bagi bahu dan rusuknya. Gadis itu merapikan kerah yang terlipat, lalu menarik ujung lengan sampai pergelangan Dani tidak lagi terbuka."
+          "key": 70027,
+          "chapter": 7,
+          "paragraph": "p-07-027",
+          "quote": "Sesudah selesai, Xiaolongnü meminta Dani berdiri. Ia merapikan kerah dan menarik ujung lengan hingga menutup pergelangan. Dani mengangkat kedua tangan; kali ini kain tidak menahan bahunya."
         }
       ]
     },
@@ -2006,76 +2291,74 @@
             "Nama ilmu": "Belum terungkap",
             "Dampak": "Belum diperlihatkan"
           },
-          "key": 20057,
+          "key": 20016,
           "chapter": 2,
-          "paragraph": "p-02-057",
-          "quote": "Perempuan itu tampak berusia sekitar tiga puluh tahun. Rambut hitamnya disanggul tinggi dengan tusuk sederhana. Wajahnya elok, tenang, dengan mata yang tidak bergerak-gerak mencari perhatian. Di lengannya tersampir sebuah kebut berambut putih panjang, bergagang kayu gelap."
+          "paragraph": "p-02-016",
+          "quote": "Ia meninggalkan buntalan dekat sumur. Dari sisi serambi, gerbang depan terlihat melalui lorong pendek. Seorang perempuan berjubah kelabu keunguan berdiri di luarnya. Ia cantik, dengan sanggul tinggi dan kebut putih yang seolah tidak mempunyai berat. Perempuan itu sedang menempelkan dua jari pada kayu di dekat gelang besi."
         },
         {
           "title": "Kebut putih",
-          "summary": "Tenaga disalurkan melalui gagang kebut dengan gerakan kecil.",
+          "summary": "Serat dan gagang mempunyai fungsi berbeda; bahaya senjata bergantung pada tenaga serta ketepatan penggunanya.",
           "fields": {
             "Nama ilmu": "Belum terungkap",
-            "Dampak": "Meretakkan kayu gerbang yang tebal dan menggeser palang.",
-            "Bahaya": "Kontak singkat sudah cukup merusak penghalang; kemampuan maksimal belum diketahui."
+            "Dampak": "Li Mochou menepis pecahan bata, lalu menggunakan serat kebut untuk menarik gelang pintu.",
+            "Bahaya": "Serangan terarah dapat menimbulkan cedera berat; bukan semua kibasan merupakan jurus bernama."
+          },
+          "key": 20041,
+          "chapter": 2,
+          "paragraph": "p-02-041",
+          "quote": "Dani melempar pecahan bata sebelum Wushuang menjawab. Ia tidak berharap melukai perempuan itu; ia hanya memerlukan waktu untuk menarik pintu. Kebut putih berkelebat. Bata berubah menjadi pecahan kecil yang memukul tembok, lalu gagangnya mengetuk gelang besi di tangan Dani."
+        },
+        {
+          "title": "Kebut Li Mochou",
+          "summary": "Serat dan gagang mempunyai fungsi berbeda; bahaya senjata bergantung pada tenaga serta ketepatan penggunanya.",
+          "fields": {
+            "Nama ilmu": "Belum terungkap",
+            "Dampak": "Li Mochou menepis pecahan bata, lalu menggunakan serat kebut untuk menarik gelang pintu.",
+            "Bahaya": "Serangan terarah dapat menimbulkan cedera berat; bukan semua kibasan merupakan jurus bernama.",
+            "Pengguna": "Li Mochou"
+          },
+          "key": 20041,
+          "chapter": 2,
+          "paragraph": "p-02-041",
+          "quote": "Dani melempar pecahan bata sebelum Wushuang menjawab. Ia tidak berharap melukai perempuan itu; ia hanya memerlukan waktu untuk menarik pintu. Kebut putih berkelebat. Bata berubah menjadi pecahan kecil yang memukul tembok, lalu gagangnya mengetuk gelang besi di tangan Dani."
+        },
+        {
+          "title": "Kebut Li Mochou",
+          "summary": "Serat dan gagang mempunyai fungsi berbeda; bahaya senjata bergantung pada tenaga serta ketepatan penggunanya.",
+          "fields": {
+            "Nama ilmu": "Belum terungkap",
+            "Dampak": "Gagang kebut melontarkan Dani hingga menabrak pintu.",
+            "Bahaya": "Serangan terarah dapat menimbulkan cedera berat; bukan semua kibasan merupakan jurus bernama.",
+            "Pengguna": "Li Mochou"
           },
           "key": 20077,
           "chapter": 2,
           "paragraph": "p-02-077",
-          "quote": "Bukan seluruh daun pintu yang roboh. Hanya serpih tipis yang terangkat di dekat besi, diikuti bunyi palang bergeser paksa dari sebelah dalam. Retakan itu memanjang ketika pergelangan tangan perempuan tersebut bergerak sedikit lagi."
+          "quote": "Tubuhnya terlempar menabrak daun pintu yang retak. Kayu itu membuka, dan Dani jatuh ke saluran air di luar tembok. Ia mencoba menarik napas, tetapi hanya suara serak yang keluar."
         },
         {
           "title": "Kebut Li Mochou",
-          "summary": "Tenaga disalurkan melalui gagang kebut dengan gerakan kecil.",
+          "summary": "Serat dan gagang mempunyai fungsi berbeda; bahaya senjata bergantung pada tenaga serta ketepatan penggunanya.",
           "fields": {
             "Nama ilmu": "Belum terungkap",
-            "Dampak": "Meretakkan kayu gerbang yang tebal dan menggeser palang.",
-            "Bahaya": "Kontak singkat sudah cukup merusak penghalang; kemampuan maksimal belum diketahui.",
+            "Dampak": "Sambaran kebut mematahkan tekanan pedang Dani pada Hong Lingbo.",
+            "Bahaya": "Serangan terarah dapat menimbulkan cedera berat; bukan semua kibasan merupakan jurus bernama.",
             "Pengguna": "Li Mochou"
           },
-          "key": 20154,
-          "chapter": 2,
-          "paragraph": "p-02-154",
-          "quote": "Li Mochou menatap celah pintu, buntalan di lantai, lalu wajah Dani. Senyum tipisnya hampir sama dengan ketika ia menyuruhnya pergi. “Adik kecil, rupanya nasihatku tadi tidak sampai ke telingamu.”"
+          "key": 60077,
+          "chapter": 6,
+          "paragraph": "p-06-077",
+          "quote": "Senyum Li Mochou menipis. Ia memerintahkan Hong Lingbo menyingkirkan Dani. Pedang mereka beradu; Dani menekan lawannya ke sisi dinding dengan gerak Makam Kuno. Ketika ia hendak memutar bilah Hong Lingbo, kebut gurunya menyambar pergelangan."
         },
         {
           "title": "Kebut Li Mochou",
-          "summary": "Tenaga disalurkan melalui gagang kebut dengan gerakan kecil.",
+          "summary": "Serat dan gagang mempunyai fungsi berbeda; bahaya senjata bergantung pada tenaga serta ketepatan penggunanya.",
           "fields": {
             "Nama ilmu": "Belum terungkap",
-            "Dampak": "Sentuhan gagang pada dada membuat Dani terlempar, menabrak pintu, dan kesulitan bernapas.",
-            "Bahaya": "Kontak singkat sudah cukup merusak penghalang; kemampuan maksimal belum diketahui.",
-            "Pengguna": "Li Mochou"
-          },
-          "key": 30086,
-          "chapter": 3,
-          "paragraph": "p-03-086",
-          "quote": "Udara seolah ditarik keluar dari seluruh tubuhnya. Ia terlempar mundur, menabrak daun pintu yang sudah retak, lalu jatuh melewati ambang."
-        },
-        {
-          "title": "Kebut Li Mochou",
-          "summary": "Tenaga disalurkan melalui gagang kebut dengan gerakan kecil.",
-          "fields": {
-            "Nama ilmu": "Belum terungkap",
-            "Dampak": "Sentuhan gagang pada dada membuat Dani terlempar, menabrak pintu, dan kesulitan bernapas.",
-            "Bahaya": "Kontak singkat sudah cukup merusak penghalang; kemampuan maksimal belum diketahui.",
+            "Dampak": "Kebut dan gagang dipakai menewaskan dua anggota Klan Pengemis.",
+            "Bahaya": "Serangan terarah dapat menimbulkan cedera berat; bukan semua kibasan merupakan jurus bernama.",
             "Pengguna": "Li Mochou",
-            "Penggunaan lain": "Serat membelit pedang. Senjata ini juga mengendalikan gerak lawan, bukan hanya memukul."
-          },
-          "key": 70095,
-          "chapter": 7,
-          "paragraph": "p-07-095",
-          "quote": "Pedang putih berkilat dalam cahaya lampu. Li Mochou menghindar dari tusukan pertama dan membelit bilah itu dengan kebut. Biasanya Xiaolongnü akan dapat melepaskan diri sebelum lilitan mengencang. Malam itu napasnya terputus di tengah gerakan."
-        },
-        {
-          "title": "Kebut Li Mochou",
-          "summary": "Tenaga disalurkan melalui gagang kebut dengan gerakan kecil.",
-          "fields": {
-            "Nama ilmu": "Belum terungkap",
-            "Dampak": "Sentuhan gagang pada dada membuat Dani terlempar, menabrak pintu, dan kesulitan bernapas.",
-            "Bahaya": "Kontak singkat sudah cukup merusak penghalang; kemampuan maksimal belum diketahui.",
-            "Pengguna": "Li Mochou",
-            "Penggunaan lain": "Serat membelit pedang. Senjata ini juga mengendalikan gerak lawan, bukan hanya memukul.",
             "Dampak yang terlihat": "Serangan Li Mochou dapat berakhir fatal; serat dan gagang dipakai dengan fungsi berbeda.",
             "Batas pengetahuan": "Tidak semua kibasan telah disebut sebagai jurus bernama."
           },
@@ -2091,26 +2374,26 @@
       "type": "ilmu",
       "aliases": [
         "Kungfu Hama",
-        "Toad Skill"
+        "Ilmu Kodok"
       ],
       "stages": [
         {
           "title": "Kungfu Hama",
-          "summary": "Toad Skill atau Ilmu Kodok. Sikap rendah dan pengumpulan tenaga mendahului pelepasan melalui telapak.",
+          "summary": "Ilmu Kodok (Kungfu Hama). Sikap rendah dan pengumpulan tenaga mendahului pelepasan melalui telapak.",
           "fields": {
             "Jenis": "Satu ilmu silat, bukan nama satu pukulan.",
             "Pengguna": "Ouyang Feng; Dani baru belajar.",
             "Dampak teramati": "Telapak Ouyang mengamblaskan tanah liat lembap. Getarannya terasa sampai kaki Dani.",
             "Batas": "Bentuk gerak yang ditiru Dani belum menghasilkan tenaga setara gurunya."
           },
-          "key": 40066,
-          "chapter": 4,
-          "paragraph": "p-04-066",
+          "key": 30066,
+          "chapter": 3,
+          "paragraph": "p-03-066",
           "quote": "Ouyang Feng menyebut ilmunya Kungfu Hama. Saat memberi contoh, ia merendahkan tubuh, diam sesaat, lalu menghantamkan telapak ke tanah di sampingnya. Tanah liat lembap itu amblas. Getarannya terasa sampai ke kaki Dani."
         },
         {
           "title": "Kungfu Hama",
-          "summary": "Toad Skill atau Ilmu Kodok. Sikap rendah dan pengumpulan tenaga mendahului pelepasan melalui telapak.",
+          "summary": "Ilmu Kodok (Kungfu Hama). Sikap rendah dan pengumpulan tenaga mendahului pelepasan melalui telapak.",
           "fields": {
             "Jenis": "Satu ilmu silat, bukan nama satu pukulan.",
             "Pengguna": "Ouyang Feng; Dani baru belajar.",
@@ -2118,14 +2401,14 @@
             "Batas": "Bentuk gerak yang ditiru Dani belum menghasilkan tenaga setara gurunya.",
             "Bahaya": "Dani belum bisa mengukur tenaga yang dilepas; serangan dapat melukai lebih parah daripada niat awal."
           },
-          "key": 50074,
-          "chapter": 5,
-          "paragraph": "p-05-074",
+          "key": 40074,
+          "chapter": 4,
+          "paragraph": "p-04-074",
           "quote": "Xiuwen terlempar ke belakang dan jatuh di atas batu halaman. Bunyi benturannya memutus semua suara. Ia berusaha menarik napas, tetapi yang keluar hanya dengusan pendek. Dunru berlutut di sisinya, memanggil nama adiknya dengan suara yang mendadak pecah."
         },
         {
           "title": "Kungfu Hama",
-          "summary": "Toad Skill atau Ilmu Kodok. Sikap rendah dan pengumpulan tenaga mendahului pelepasan melalui telapak.",
+          "summary": "Ilmu Kodok (Kungfu Hama). Sikap rendah dan pengumpulan tenaga mendahului pelepasan melalui telapak.",
           "fields": {
             "Jenis": "Satu ilmu silat, bukan nama satu pukulan.",
             "Pengguna": "Ouyang Feng; Dani baru belajar.",
@@ -2134,14 +2417,14 @@
             "Bahaya": "Dani belum bisa mengukur tenaga yang dilepas; serangan dapat melukai lebih parah daripada niat awal.",
             "Peringatan": "Menurut Guo Jing, pukulan lebih kuat dapat merenggut nyawa Xiuwen. Itu peringatan, bukan kematian yang terjadi."
           },
-          "key": 50101,
-          "chapter": 5,
-          "paragraph": "p-05-101",
+          "key": 40101,
+          "chapter": 4,
+          "paragraph": "p-04-101",
           "quote": "“Kalau pukulan itu lebih kuat, Xiuwen bisa kehilangan nyawanya,” ujar Guo Jing."
         },
         {
           "title": "Kungfu Hama",
-          "summary": "Toad Skill atau Ilmu Kodok. Sikap rendah dan pengumpulan tenaga mendahului pelepasan melalui telapak.",
+          "summary": "Ilmu Kodok (Kungfu Hama). Sikap rendah dan pengumpulan tenaga mendahului pelepasan melalui telapak.",
           "fields": {
             "Jenis": "Satu ilmu silat, bukan nama satu pukulan.",
             "Pengguna": "Ouyang Feng; Dani baru belajar.",
@@ -2151,10 +2434,27 @@
             "Peringatan": "Menurut Guo Jing, pukulan lebih kuat dapat merenggut nyawa Xiuwen. Itu peringatan, bukan kematian yang terjadi.",
             "Risiko pengguna": "Tenaga terlepas sekaligus; bahu Dani nyeri setelah menjatuhkan Lu Qingdu."
           },
-          "key": 60049,
-          "chapter": 6,
-          "paragraph": "p-06-049",
+          "key": 50056,
+          "chapter": 5,
+          "paragraph": "p-05-056",
           "quote": "Dani menepis tangan itu, menjejakkan kaki, lalu mendorongkan telapak dari posisi rendah. Gerak Kungfu Hama itu masih kasar. Tenaganya terlepas sekaligus dan membuat bahunya nyeri, tetapi cukup untuk memutus sergapan Lu. Murid itu terhuyung, jatuh menyamping, dan mengerang sambil memegang rusuknya."
+        },
+        {
+          "title": "Kungfu Hama",
+          "summary": "Ilmu Kodok (Kungfu Hama). Sikap rendah dan pengumpulan tenaga mendahului pelepasan melalui telapak.",
+          "fields": {
+            "Jenis": "Satu ilmu silat, bukan nama satu pukulan.",
+            "Pengguna": "Ouyang Feng; Dani baru belajar.",
+            "Dampak teramati": "Benturan dengan Hong Qigong meretakkan batu di dekat arena.",
+            "Batas": "Dani mengenali bentuk, tetapi belum memiliki tenaga sebanding Ouyang Feng.",
+            "Bahaya": "Dani belum bisa mengukur tenaga yang dilepas; serangan dapat melukai lebih parah daripada niat awal.",
+            "Peringatan": "Menurut Guo Jing, pukulan lebih kuat dapat merenggut nyawa Xiuwen. Itu peringatan, bukan kematian yang terjadi.",
+            "Risiko pengguna": "Tenaga terlepas sekaligus; bahu Dani nyeri setelah menjatuhkan Lu Qingdu."
+          },
+          "key": 100048,
+          "chapter": 10,
+          "paragraph": "p-10-048",
+          "quote": "Hong Qigong menyambut tenaga tersebut. Benturan mengirim bunyi pendek ke dinding gunung. Batu sebesar bangku yang tersentuh pukulan menyamping retak pada permukaannya; pecahannya meluncur melewati kaki Dani. Ia mundur ke balik tonjolan karang."
         }
       ]
     },
@@ -2171,9 +2471,9 @@
           "fields": {
             "Pelajaran Dani": "Belum dimulai."
           },
-          "key": 50136,
-          "chapter": 5,
-          "paragraph": "p-05-136",
+          "key": 40136,
+          "chapter": 4,
+          "paragraph": "p-04-136",
           "quote": "Guo Jing menarik sebuah kursi, lalu menyuruh Dani duduk menghadapnya. “Paman akan membawamu ke Quanzhen. Di sana engkau dapat memperoleh dasar latihan yang tertib. Paman akan mengantarmu sendiri dan meminta mereka membimbingmu.”"
         },
         {
@@ -2183,9 +2483,9 @@
             "Pelajaran Dani": "Hafalan bait dasar tanpa penerapan gerak; tidak sama dengan penguasaan ilmu Quanzhen.",
             "Dampak": "Dani tahu bacaan, tetapi belum tahu cara memakainya saat menghadapi serangan."
           },
-          "key": 60012,
-          "chapter": 6,
-          "paragraph": "p-06-012",
+          "key": 50024,
+          "chapter": 5,
+          "paragraph": "p-05-024",
           "quote": "Beberapa pekan berlalu dalam hafalan yang bertambah panjang, sementara pelajaran gerak tidak kunjung dimulai. Zhao menyuruh Dani mengulang bait-bait dasar; bila ia bertanya tentang penerapannya, jawabannya selalu sama: hafalkan dahulu, baru engkau boleh bertanya. Murid lain berlatih di halaman saat Dani masih disuruh duduk menghadap kitab."
         }
       ]
@@ -2205,9 +2505,9 @@
             "Peran": "Mendukung gerak dan serangan; meniru posisi tangan saja tidak cukup.",
             "Batas": "Penguasaan, kendali, serta kondisi tubuh memengaruhi hasil. Bukan kemampuan terbang atau sihir bebas."
           },
-          "key": 70020,
-          "chapter": 7,
-          "paragraph": "p-07-020",
+          "key": 60020,
+          "chapter": 6,
+          "paragraph": "p-06-020",
           "quote": "Musim berganti di luar Makam Kuno. Di dalam, pelajaran bergerak dari langkah dan napas menuju rangkaian pedang, lalu dasar tenaga dalam Gadis Giok. Latihan yang semula menghabiskan seluruh pagi akhirnya dapat diselesaikan Dani sebelum minyak lampu berkurang separuh."
         },
         {
@@ -2218,10 +2518,10 @@
             "Batas": "Penguasaan, kendali, serta kondisi tubuh memengaruhi hasil. Bukan kemampuan terbang atau sihir bebas.",
             "Risiko": "Kesalahan latihan dapat melukai pengguna; gangguan irama melukai Xiaolongnü."
           },
-          "key": 70052,
-          "chapter": 7,
-          "paragraph": "p-07-052",
-          "quote": "Pada putaran terakhir Dani merasakan panas menjalar terlalu cepat. Ia mencoba menahannya sendiri, terlambat menyadari bahwa perubahan itu mengganggu irama mereka. Xiaolongnü menarik napas tajam. Ketika Dani membuka mata, darah sudah menyentuh sudut bibirnya."
+          "key": 60051,
+          "chapter": 6,
+          "paragraph": "p-06-051",
+          "quote": "Xiaolongnü tersentak. Tenaga yang belum selesai disalurkan berbalik menghantam tubuhnya. Ia menutup pakaian, mencoba duduk tegak, lalu jatuh dengan darah di sudut bibir."
         }
       ]
     },
@@ -2240,9 +2540,9 @@
             "Ciri": "Presisi dan pengaturan jarak. Pergeseran kaki dan pinggang mendahului tangan.",
             "Dampak": "Dalam latihan, Xiaolongnü dapat mendahului serangan Dani tanpa mengandalkan kerusakan besar."
           },
-          "key": 70020,
-          "chapter": 7,
-          "paragraph": "p-07-020",
+          "key": 60020,
+          "chapter": 6,
+          "paragraph": "p-06-020",
           "quote": "Musim berganti di luar Makam Kuno. Di dalam, pelajaran bergerak dari langkah dan napas menuju rangkaian pedang, lalu dasar tenaga dalam Gadis Giok. Latihan yang semula menghabiskan seluruh pagi akhirnya dapat diselesaikan Dani sebelum minyak lampu berkurang separuh."
         },
         {
@@ -2252,12 +2552,12 @@
             "Pengguna terlihat": "Xiaolongnü; Dani sedang berlatih.",
             "Ciri": "Presisi dan pengaturan jarak. Pergeseran kaki dan pinggang mendahului tangan.",
             "Dampak": "Dalam latihan, Xiaolongnü dapat mendahului serangan Dani tanpa mengandalkan kerusakan besar.",
-            "Perkembangan Dani": "Dapat menekan Hong Lingbo dengan memanfaatkan keraguan dan jarak."
+            "Perkembangan Dani": "Dapat menekan Hong Lingbo dengan gerak pedang Makam Kuno; belum menandingi tenaga Li Mochou."
           },
-          "key": 70091,
-          "chapter": 7,
-          "paragraph": "p-07-091",
-          "quote": "Dani menggunakan keraguan itu. Ia menekan pedang Hong Lingbo ke dinding, lalu memutar gagang senjatanya. Gadis tersebut tersentak; sebelum pegangannya terlepas, kebut putih menyambar pergelangan Dani."
+          "key": 60077,
+          "chapter": 6,
+          "paragraph": "p-06-077",
+          "quote": "Senyum Li Mochou menipis. Ia memerintahkan Hong Lingbo menyingkirkan Dani. Pedang mereka beradu; Dani menekan lawannya ke sisi dinding dengan gerak Makam Kuno. Ketika ia hendak memutar bilah Hong Lingbo, kebut gurunya menyambar pergelangan."
         }
       ]
     },
@@ -2276,10 +2576,10 @@
             "Syarat yang terlihat": "Ketepatan irama dan komunikasi saat tubuh tidak sanggup mengikuti. Hafalan saja tidak cukup.",
             "Pengguna terlihat": "Xiaolongnü dan Dani."
           },
-          "key": 70051,
-          "chapter": 7,
-          "paragraph": "p-07-051",
-          "quote": "Beberapa bulan kemudian mereka memasuki latihan lanjutan Sutra Hati Gadis Giok. Pelajaran itu menuntut keduanya menjaga irama tenaga dengan cermat; kepandaian menghafal tidak dapat menggantikan kesabaran. Xiaolongnü menjelaskan bagian sulit sebelum mereka mulai, dan meminta Dani memberi tahu apabila dadanya terasa sesak."
+          "key": 60036,
+          "chapter": 6,
+          "paragraph": "p-06-036",
+          "quote": "Pada musim semi keempat, mereka mulai menelaah bagian Sutra Hati Gadis Giok yang harus dilatih berdua. Xiaolongnü membentangkan catatan perguruan, lalu menunjukkan kaitan antara gerakan Makam Kuno dan dasar Quanzhen. Bait-bait yang dahulu dipaksa Zhao masuk ke kepala Dani akhirnya memperoleh bentuk."
         },
         {
           "title": "Sutra Hati Gadis Giok",
@@ -2288,12 +2588,12 @@
             "Jenis": "Ajaran/latihan, bukan satu serangan.",
             "Syarat yang terlihat": "Ketepatan irama dan komunikasi saat tubuh tidak sanggup mengikuti. Hafalan saja tidak cukup.",
             "Pengguna terlihat": "Xiaolongnü dan Dani.",
-            "Risiko terbukti": "Dani terlambat mengakui panas yang menjalar; irama terganggu dan Xiaolongnü mengalami luka dalam."
+            "Risiko terbukti": "Pertarungan Zhao dan Zhen menyingkap tempat latihan; tenaga Xiaolongnü berbalik sebelum latihan sempat ditutup."
           },
-          "key": 70052,
-          "chapter": 7,
-          "paragraph": "p-07-052",
-          "quote": "Pada putaran terakhir Dani merasakan panas menjalar terlalu cepat. Ia mencoba menahannya sendiri, terlambat menyadari bahwa perubahan itu mengganggu irama mereka. Xiaolongnü menarik napas tajam. Ketika Dani membuka mata, darah sudah menyentuh sudut bibirnya."
+          "key": 60051,
+          "chapter": 6,
+          "paragraph": "p-06-051",
+          "quote": "Xiaolongnü tersentak. Tenaga yang belum selesai disalurkan berbalik menghantam tubuhnya. Ia menutup pakaian, mencoba duduk tegak, lalu jatuh dengan darah di sudut bibir."
         },
         {
           "title": "Sutra Hati Gadis Giok",
@@ -2302,14 +2602,14 @@
             "Jenis": "Ajaran/latihan, bukan satu serangan.",
             "Syarat yang terlihat": "Ketepatan irama dan komunikasi saat tubuh tidak sanggup mengikuti. Hafalan saja tidak cukup.",
             "Pengguna terlihat": "Xiaolongnü dan Dani.",
-            "Risiko terbukti": "Dani terlambat mengakui panas yang menjalar; irama terganggu dan Xiaolongnü mengalami luka dalam.",
+            "Risiko terbukti": "Pertarungan Zhao dan Zhen menyingkap tempat latihan; tenaga Xiaolongnü berbalik sebelum latihan sempat ditutup.",
             "Mengapa diincar": "Li Mochou menuntut pelajaran warisan guru yang dikuasai Xiaolongnü. Sasaran warisan ini berhubungan dengan ajaran yang baru mereka latih.",
             "Batas": "Tidak memberi kenaikan tier otomatis. Bab ini belum menunjukkan seluruh ajarannya dikuasai Dani."
           },
-          "key": 70083,
-          "chapter": 7,
-          "paragraph": "p-07-083",
-          "quote": "“Tentu, setelah engkau memperlihatkan pelajaran yang ditinggalkan Guru. Kakakmu tidak akan merepotkanmu lebih lama,” jawab Li Mochou."
+          "key": 60069,
+          "chapter": 6,
+          "paragraph": "p-06-069",
+          "quote": "Ketika kembali, ia mendengar suara perempuan lain menuntut Sutra Hati Gadis Giok."
         },
         {
           "title": "Sutra Hati Gadis Giok",
@@ -2318,15 +2618,15 @@
             "Jenis": "Ajaran/latihan, bukan satu serangan.",
             "Syarat yang terlihat": "Ketepatan irama dan komunikasi saat tubuh tidak sanggup mengikuti. Hafalan saja tidak cukup.",
             "Pengguna terlihat": "Xiaolongnü dan Dani.",
-            "Risiko terbukti": "Dani terlambat mengakui panas yang menjalar; irama terganggu dan Xiaolongnü mengalami luka dalam.",
+            "Risiko terbukti": "Pertarungan Zhao dan Zhen menyingkap tempat latihan; tenaga Xiaolongnü berbalik sebelum latihan sempat ditutup.",
             "Mengapa diincar": "Li Mochou menuntut pelajaran warisan guru yang dikuasai Xiaolongnü. Sasaran warisan ini berhubungan dengan ajaran yang baru mereka latih.",
             "Batas": "Tidak memberi kenaikan tier otomatis. Bab ini belum menunjukkan seluruh ajarannya dikuasai Dani.",
-            "Keadaan latihan": "Belum diulang selama masa pemulihan di gubuk."
+            "Keadaan latihan": "Latihan pedang dilanjutkan sesudah bahu pulih; penguasaan penuh sutra belum diperlihatkan."
           },
-          "key": 80060,
-          "chapter": 8,
-          "paragraph": "p-08-060",
-          "quote": "Bulan berikutnya mereka dapat berlatih bersama lebih lama. Xiaolongnü kembali mengalahkannya, tetapi napasnya tidak lagi terputus setelah beberapa rangkaian. Latihan lanjutan Sutra Hati Gadis Giok belum mereka ulang. Kali ini Dani tidak mendesak."
+          "key": 70036,
+          "chapter": 7,
+          "paragraph": "p-07-036",
+          "quote": "Sesudah bahu Xiaolongnü pulih, latihan pedang kembali dimulai. Dani memakai pedang kayu karena bilah yang hilang di saluran air belum dapat diganti. Pada suatu pagi, ia berhasil membuat ujung lengan gurunya tersangkut pada ranting."
         }
       ]
     },
@@ -2344,10 +2644,10 @@
             "Dampak terlihat": "Xiaolongnü melemah setelah latihan; ia kemudian sulit mempertahankan irama gerak.",
             "Pengaruh tier": "Kondisi sementara membatasi performa, bukan otomatis mengubah tingkat dasarnya."
           },
-          "key": 70052,
-          "chapter": 7,
-          "paragraph": "p-07-052",
-          "quote": "Pada putaran terakhir Dani merasakan panas menjalar terlalu cepat. Ia mencoba menahannya sendiri, terlambat menyadari bahwa perubahan itu mengganggu irama mereka. Xiaolongnü menarik napas tajam. Ketika Dani membuka mata, darah sudah menyentuh sudut bibirnya."
+          "key": 60051,
+          "chapter": 6,
+          "paragraph": "p-06-051",
+          "quote": "Xiaolongnü tersentak. Tenaga yang belum selesai disalurkan berbalik menghantam tubuhnya. Ia menutup pakaian, mencoba duduk tegak, lalu jatuh dengan darah di sudut bibir."
         },
         {
           "title": "Luka dalam",
@@ -2357,10 +2657,10 @@
             "Pengaruh tier": "Kondisi sementara membatasi performa, bukan otomatis mengubah tingkat dasarnya.",
             "Perkembangan": "Pemulihan berlangsung beberapa pekan; latihan dilanjutkan bertahap."
           },
-          "key": 80007,
-          "chapter": 8,
-          "paragraph": "p-08-007",
-          "quote": "Gubuk kosong di lereng itu mereka temukan sehari setelah keluar melalui lorong air. Atap ditambal, lantai dibersihkan, dan dua tempat tidur dipisahkan oleh tikar gantung. Dalam beberapa pekan, batuk Xiaolongnü berkurang; ia mulai berlatih kembali tanpa memaksakan bagian yang masih menimbulkan nyeri. Dani menggunakan pedang kayu. Pedang yang tenggelam di bawah makam tidak kembali hanya karena ia memerlukannya."
+          "key": 70006,
+          "chapter": 7,
+          "paragraph": "p-07-006",
+          "quote": "Gubuk kosong tersebut mereka temukan sehari setelah keluar dari makam. Pemilik ladang di bawah lereng membolehkan mereka menempatinya; Dani membantu memperbaiki pagar sebagai gantinya. Dalam beberapa pekan, atap kembali rapat dan dua dipan sederhana dipisahkan tikar gantung. Xiaolongnü mulai dapat menarik napas panjang tanpa batuk darah."
         }
       ]
     },
@@ -2382,10 +2682,10 @@
             "Bahaya": "Melumpuhkan dapat lebih menentukan daripada kerusakan lingkungan; korban tidak bisa melindungi diri.",
             "Batas": "Durasi pasti dan cara pembukaan teknik belum dijelaskan."
           },
-          "key": 80097,
+          "key": 80018,
           "chapter": 8,
-          "paragraph": "p-08-097",
-          "quote": "Xiaolongnü mendadak kaku."
+          "paragraph": "p-08-018",
+          "quote": "Cawan jatuh. Xiaolongnü mendadak tidak dapat bergerak."
         },
         {
           "title": "Totokan",
@@ -2394,13 +2694,13 @@
             "Pengguna terlihat": "Ouyang Feng. Nama teknik khusus belum disebut.",
             "Dampak": "Xiaolongnü tetap sadar, tetapi tubuhnya tidak dapat bergerak.",
             "Bahaya": "Melumpuhkan dapat lebih menentukan daripada kerusakan lingkungan; korban tidak bisa melindungi diri.",
-            "Batas": "Durasi pasti dan cara pembukaan teknik belum dijelaskan.",
-            "Perkembangan": "Ujung jari Xiaolongnü mulai bergerak; tubuh masih kaku dan nyeri."
+            "Batas": "Petunjuk pelepasan titik dari Sembilan Yin membantu bertahap, bersama berlalunya waktu; tidak langsung meniadakan totokan Ouyang.",
+            "Perkembangan": "Gerak jari dan tubuh mulai kembali, tetapi Xiaolongnü masih memerlukan bantuan."
           },
-          "key": 80144,
+          "key": 80064,
           "chapter": 8,
-          "paragraph": "p-08-144",
-          "quote": "Xiaolongnü akhirnya dapat menggerakkan ujung jarinya. Totokan itu perlahan mengendur, meninggalkan kaku dan nyeri. Dani berlutut di depannya, meminta maaf karena telah membiarkannya sendirian."
+          "paragraph": "p-08-064",
+          "quote": "Petunjuk pelepasan titik dari ukiran Sembilan Yin tidak langsung mengatasi totokan Ouyang Feng. Dani mencoba bagian yang mereka pahami, berhenti ketika napas Xiaolongnü terganggu, lalu menunggu tenaga yang menguncinya berangsur lemah. Hari telah gelap saat gadis itu akhirnya dapat duduk tanpa disangga."
         }
       ]
     },
@@ -2408,8 +2708,7 @@
       "id": "yelu-yan",
       "type": "tokoh",
       "aliases": [
-        "Yelü Yan",
-        "Yan-mei"
+        "Yelü Yan"
       ],
       "stages": [
         {
@@ -2492,7 +2791,7 @@
           "key": 90020,
           "chapter": 9,
           "paragraph": "p-09-020",
-          "quote": "“Aku melihatnya, Yan-mei.” Pemuda tersebut tetap memandang lawannya. “Nona Wanyan, hentikan dahulu. Tanganmu mulai gemetar.”"
+          "quote": "“Aku melihatnya, Adik Yan.” Pemuda tersebut tetap memandang lawannya. “Nona Wanyan, hentikan dahulu. Tanganmu mulai gemetar.”"
         },
         {
           "title": "Yelü Qi",
@@ -2548,8 +2847,7 @@
       "type": "tokoh",
       "aliases": [
         "Wanyan Ping",
-        "Nona Wanyan",
-        "Ping-mei"
+        "Nona Wanyan"
       ],
       "stages": [
         {
@@ -2564,7 +2862,7 @@
           "key": 90020,
           "chapter": 9,
           "paragraph": "p-09-020",
-          "quote": "“Aku melihatnya, Yan-mei.” Pemuda tersebut tetap memandang lawannya. “Nona Wanyan, hentikan dahulu. Tanganmu mulai gemetar.”"
+          "quote": "“Aku melihatnya, Adik Yan.” Pemuda tersebut tetap memandang lawannya. “Nona Wanyan, hentikan dahulu. Tanganmu mulai gemetar.”"
         },
         {
           "title": "Wanyan Ping",
@@ -2723,7 +3021,8 @@
       "id": "kitab-wushuang",
       "type": "benda",
       "aliases": [
-        "kitab"
+        "kitab racun",
+        "kitab milik Li Mochou"
       ],
       "stages": [
         {
@@ -2764,6 +3063,508 @@
         }
       ],
       "portraits": []
+    },
+    {
+      "id": "qiu-chuji",
+      "type": "tokoh",
+      "aliases": [
+        "Qiu Chuji"
+      ],
+      "stages": [
+        {
+          "title": "Qiu Chuji",
+          "summary": "Tetua Quanzhen yang pernah mengajar Kang Moan; menyambut Dani dan menitipkan pengajarannya kepada Zhao.",
+          "fields": {
+            "Tingkat": "Belum diketahui",
+            "Ilmu yang terlihat": "Belum diperlihatkan",
+            "Bahaya teramati": "Belum dapat dinilai"
+          },
+          "key": 50012,
+          "chapter": 5,
+          "paragraph": "p-05-012",
+          "quote": "Tetua Qiu Chuji menyambut Guo Jing di serambi. Pertemuan mereka memperlihatkan keakraban yang tidak dapat dibuat-buat. Ketika mendengar nama Kang Moan, wajah pendeta tua itu berubah; ia memanggil Dani mendekat dan menanyakan Mu Nianci."
+        },
+        {
+          "title": "Qiu Chuji",
+          "summary": "Tetua Quanzhen yang pernah mengajar Kang Moan; menyambut Dani dan menitipkan pengajarannya kepada Zhao.",
+          "fields": {
+            "Tingkat": "Belum terukur",
+            "Ilmu yang terlihat": "Masuk di antara Xiaolongnü dan Hao Datong, mengalihkan serangan.",
+            "Bahaya teramati": "Mampu memisahkan dua petarung; ukuran kekuatan penuh belum terungkap."
+          },
+          "key": 50136,
+          "chapter": 5,
+          "paragraph": "p-05-136",
+          "quote": "Qiu Chuji tiba sebelum serangan berikutnya dilepaskan. Ia masuk di antara mereka, mengalihkan lengan Xiaolongnü dengan tenaga yang membuat gadis itu mundur setapak."
+        }
+      ]
+    },
+    {
+      "id": "huodu",
+      "type": "tokoh",
+      "aliases": [
+        "Huodu"
+      ],
+      "stages": [
+        {
+          "title": "Huodu",
+          "summary": "Penyerbu Zhongnan dengan busana mewah dan kipas besi.",
+          "fields": {
+            "Tingkat": "Belum terukur",
+            "Ilmu yang terlihat": "Menekan pertahanan pendeta dengan kipas besi.",
+            "Bahaya teramati": "Penyerbuan bersenjata; batas tenaga belum diperlihatkan."
+          },
+          "key": 50008,
+          "chapter": 5,
+          "paragraph": "p-05-008",
+          "quote": "Di halaman atas, seorang pemuda berbusana mewah menekan pertahanan para pendeta dengan kipas besi. Seorang lelaki besar bersenjata gada mengawalnya. Dari teriakan mereka Dani menangkap nama Huodu dan Daerba. Rombongan itu menuntut jalan menuju Makam Kuno; nama seorang pewaris perempuan disebut seakan ia barang yang dapat diperebutkan."
+        },
+        {
+          "title": "Huodu",
+          "summary": "Penyerbu Zhongnan dengan busana mewah dan kipas besi.",
+          "fields": {
+            "Tingkat": "Belum terukur",
+            "Ilmu yang terlihat": "Menekan pertahanan pendeta dengan kipas besi.",
+            "Bahaya teramati": "Penyerbuan bersenjata; batas tenaga belum diperlihatkan.",
+            "Kondisi": "Penyerbuan dipatahkan Guo Jing; mundur bersama pengikut.",
+            "Batas yang terlihat": "Tidak mampu memaksakan kemenangan dalam pertemuan ini."
+          },
+          "key": 50011,
+          "chapter": 5,
+          "paragraph": "p-05-011",
+          "quote": "Huodu mencoba menarik diri; urat di lehernya menegang. Guo Jing melepaskannya sesudah para pengikutnya mundur. Pemuda itu bangkit dengan mata menyala, tetapi memilih membawa rombongannya pergi. Dani baru keluar dari sisi tangga ketika Zhen memberi isyarat bahwa jalan sudah aman."
+        }
+      ]
+    },
+    {
+      "id": "daerba",
+      "type": "tokoh",
+      "aliases": [
+        "Daerba"
+      ],
+      "stages": [
+        {
+          "title": "Daerba",
+          "summary": "Pendamping Huodu dalam penyerbuan Zhongnan.",
+          "fields": {
+            "Tingkat": "Belum terukur",
+            "Ilmu yang terlihat": "Menggunakan gada berat.",
+            "Bahaya teramati": "Ayunan gada mengancam pendeta yang terjatuh."
+          },
+          "key": 50008,
+          "chapter": 5,
+          "paragraph": "p-05-008",
+          "quote": "Di halaman atas, seorang pemuda berbusana mewah menekan pertahanan para pendeta dengan kipas besi. Seorang lelaki besar bersenjata gada mengawalnya. Dari teriakan mereka Dani menangkap nama Huodu dan Daerba. Rombongan itu menuntut jalan menuju Makam Kuno; nama seorang pewaris perempuan disebut seakan ia barang yang dapat diperebutkan."
+        },
+        {
+          "title": "Daerba",
+          "summary": "Pendamping Huodu dalam penyerbuan Zhongnan.",
+          "fields": {
+            "Tingkat": "Belum terukur",
+            "Ilmu yang terlihat": "Menggunakan gada berat.",
+            "Bahaya teramati": "Ayunan gada mengancam pendeta yang terjatuh.",
+            "Kondisi": "Penyerbuan dipatahkan Guo Jing; mundur bersama pengikut.",
+            "Batas yang terlihat": "Tidak mampu memaksakan kemenangan dalam pertemuan ini."
+          },
+          "key": 50011,
+          "chapter": 5,
+          "paragraph": "p-05-011",
+          "quote": "Huodu mencoba menarik diri; urat di lehernya menegang. Guo Jing melepaskannya sesudah para pengikutnya mundur. Pemuda itu bangkit dengan mata menyala, tetapi memilih membawa rombongannya pergi. Dani baru keluar dari sisi tangga ketika Zhen memberi isyarat bahwa jalan sudah aman."
+        }
+      ]
+    },
+    {
+      "id": "hong-qigong",
+      "type": "tokoh",
+      "aliases": [
+        "Hong Qigong",
+        "Tetua Hong",
+        "Guru Hong"
+      ],
+      "stages": [
+        {
+          "title": "Hong Qigong",
+          "summary": "Tetua yang pernah memimpin Klan Pengemis. Menolong Dani dan meminta kabar anggotanya yang terbunuh.",
+          "fields": {
+            "Tingkat": "Belum diketahui",
+            "Ilmu yang terlihat": "Belum diperlihatkan",
+            "Bahaya teramati": "Belum dapat dinilai",
+            "Usia saat diperkenalkan": "Lanjut usia",
+            "Hubungan": "Guru Guo Jing."
+          },
+          "key": 100018,
+          "chapter": 10,
+          "paragraph": "p-10-018",
+          "quote": "“Namaku Hong Qigong,” katanya kemudian. “Aku pernah memimpin klan itu. Dua orang itu berani menghadang Li Mochou ketika banyak mata memilih memandang meja. Bila kelak engkau bertemu saudara-saudara mereka, ceritakan keberanian itu. Keluarga mereka patut mengetahuinya.”"
+        },
+        {
+          "title": "Hong Qigong",
+          "summary": "Tetua yang pernah memimpin Klan Pengemis. Menolong Dani dan meminta kabar anggotanya yang terbunuh.",
+          "fields": {
+            "Tingkat": "5 · Legenda (rujukan Saga)",
+            "Ilmu yang terlihat": "Sentuhan tongkat pada siku mengubah arah cengkeraman Ouyang Feng.",
+            "Bahaya teramati": "Dapat mematahkan pegangan tetua lain dengan ketepatan sudut.",
+            "Usia saat diperkenalkan": "Lanjut usia",
+            "Hubungan": "Guru Guo Jing.",
+            "Dasar tingkat": "Peringkat rujukan lore setelah ilmu diperlihatkan; bukan angka kerusakan setiap pukulan."
+          },
+          "key": 100037,
+          "chapter": 10,
+          "paragraph": "p-10-037",
+          "quote": "Hong Qigong berdiri. Ujung tongkatnya menyentuh bagian luar siku Ouyang Feng; tekanannya singkat, tetapi cukup mengubah arah tarikan sehingga Dani dapat melepaskan bahu."
+        },
+        {
+          "title": "Hong Qigong",
+          "summary": "Tetua yang pernah memimpin Klan Pengemis. Menolong Dani dan meminta kabar anggotanya yang terbunuh.",
+          "fields": {
+            "Tingkat": "5 · Legenda (rujukan Saga)",
+            "Ilmu yang terlihat": "Telapak dan langkah mampu menyambut Kungfu Hama Ouyang Feng.",
+            "Bahaya teramati": "Batu sebesar bangku retak dalam pertukaran; Dani harus berlindung.",
+            "Usia saat diperkenalkan": "Lanjut usia",
+            "Hubungan": "Guru Guo Jing.",
+            "Dasar tingkat": "Peringkat rujukan lore setelah ilmu diperlihatkan; bukan angka kerusakan setiap pukulan.",
+            "Batas": "Usia lanjut dan stamina tetap membatasi tubuh."
+          },
+          "key": 100048,
+          "chapter": 10,
+          "paragraph": "p-10-048",
+          "quote": "Hong Qigong menyambut tenaga tersebut. Benturan mengirim bunyi pendek ke dinding gunung. Batu sebesar bangku yang tersentuh pukulan menyamping retak pada permukaannya; pecahannya meluncur melewati kaki Dani. Ia mundur ke balik tonjolan karang."
+        },
+        {
+          "title": "Hong Qigong",
+          "summary": "Tetua yang pernah memimpin Klan Pengemis. Menolong Dani dan meminta kabar anggotanya yang terbunuh.",
+          "fields": {
+            "Tingkat": "5 · Legenda (rujukan Saga)",
+            "Ilmu yang terlihat": "Telapak dan langkah mampu menyambut Kungfu Hama Ouyang Feng.",
+            "Bahaya teramati": "Batu sebesar bangku retak dalam pertukaran; Dani harus berlindung.",
+            "Usia saat diperkenalkan": "Lanjut usia",
+            "Hubungan": "Guru Guo Jing.",
+            "Dasar tingkat": "Peringkat rujukan lore setelah ilmu diperlihatkan; bukan angka kerusakan setiap pukulan.",
+            "Batas": "Usia lanjut dan stamina tetap membatasi tubuh.",
+            "Kondisi": "Luka dan kehabisan tenaga setelah duel berhari-hari; tidak sanggup melanjutkan dengan tubuh."
+          },
+          "key": 100066,
+          "chapter": 10,
+          "paragraph": "p-10-066",
+          "quote": "Pada benturan terakhir, Hong Qigong dan Ouyang Feng sama-sama terduduk. Hong menutup mulut dengan punggung tangan. Ouyang Feng mencoba berdiri, lalu memaki kakinya sendiri ketika tubuhnya kembali jatuh."
+        },
+        {
+          "title": "Hong Qigong",
+          "summary": "Tetua yang pernah memimpin Klan Pengemis. Menolong Dani dan meminta kabar anggotanya yang terbunuh.",
+          "fields": {
+            "Tingkat": "5 · Legenda (rujukan Saga)",
+            "Ilmu yang terlihat": "Telapak dan langkah mampu menyambut Kungfu Hama Ouyang Feng.",
+            "Bahaya teramati": "Batu sebesar bangku retak dalam pertukaran; Dani harus berlindung.",
+            "Usia saat diperkenalkan": "Lanjut usia",
+            "Hubungan": "Guru Guo Jing.",
+            "Dasar tingkat": "Peringkat rujukan lore setelah ilmu diperlihatkan; bukan angka kerusakan setiap pukulan.",
+            "Batas": "Usia lanjut dan stamina tetap membatasi tubuh.",
+            "Kondisi": "Luka dan kehabisan tenaga setelah duel berhari-hari; tidak sanggup melanjutkan dengan tubuh.",
+            "Warisan": "Mengajarkan rangkaian Tongkat Pemukul Anjing melalui peragaan Dani."
+          },
+          "key": 100082,
+          "chapter": 10,
+          "paragraph": "p-10-082",
+          "quote": "“Rangkaian ini disebut Tongkat Pemukul Anjing,” kata Hong Qigong. “Nama boleh membuatmu tersenyum. Di tangan orang yang mengerti, tongkat biasa dapat merebut senjata, merusak pijakan, atau meremukkan tulang. Jangan memperlakukannya sebagai permainan.”"
+        },
+        {
+          "title": "Hong Qigong",
+          "summary": "Berdamai dengan Ouyang Feng menjelang wafat; ilmunya diteruskan Dani dalam tahap belajar.",
+          "fields": {
+            "Tingkat": "5 · Legenda (rujukan Saga)",
+            "Ilmu yang terlihat": "Telapak dan langkah mampu menyambut Kungfu Hama Ouyang Feng.",
+            "Bahaya teramati": "Batu sebesar bangku retak dalam pertukaran; Dani harus berlindung.",
+            "Usia saat diperkenalkan": "Lanjut usia",
+            "Hubungan": "Guru Guo Jing.",
+            "Dasar tingkat": "Peringkat rujukan lore setelah ilmu diperlihatkan; bukan angka kerusakan setiap pukulan.",
+            "Batas": "Usia lanjut dan stamina tetap membatasi tubuh.",
+            "Kondisi": "Wafat di pegunungan salju.",
+            "Warisan": "Mengajarkan rangkaian Tongkat Pemukul Anjing melalui peragaan Dani."
+          },
+          "key": 100128,
+          "chapter": 10,
+          "paragraph": "p-10-128",
+          "quote": "Ia baru menyadari tidak ada lagi napas di dekat telinganya ketika Hong Qigong pun tak menjawab panggilannya."
+        }
+      ],
+      "portraits": [
+        {
+          "key": 100018,
+          "image": {
+            "file": "bab-10-pembuka.webp",
+            "width": 1024,
+            "height": 1536
+          },
+          "roi": [
+            0.1,
+            0.2,
+            0.42,
+            0.44
+          ]
+        }
+      ]
+    },
+    {
+      "id": "makam-kuno",
+      "type": "perguruan",
+      "aliases": [
+        "Makam Kuno",
+        "perguruan makam"
+      ],
+      "stages": [
+        {
+          "title": "Makam Kuno",
+          "summary": "Perguruan tempat Xiaolongnü menerima Dani setelah kematian Nenek Sun.",
+          "fields": {
+            "Pengajaran": "Xiaolongnü bersedia memperagakan ilmu secara langsung.",
+            "Sebutan": "Bibi adalah sapaan hormat Dani kepada gurunya, bukan hubungan darah."
+          },
+          "key": 50154,
+          "chapter": 5,
+          "paragraph": "p-05-154",
+          "quote": "“Kalau engkau tinggal, aku akan mengajarimu ilmu perguruanku,” kata Xiaolongnü. “Engkau harus mendengarkan petunjukku dan menaati aturan di sini.”"
+        },
+        {
+          "title": "Makam Kuno",
+          "summary": "Perguruan tempat Xiaolongnü menerima Dani setelah kematian Nenek Sun.",
+          "fields": {
+            "Pengajaran": "Xiaolongnü bersedia memperagakan ilmu secara langsung.",
+            "Sebutan": "Bibi adalah sapaan hormat Dani kepada gurunya, bukan hubungan darah.",
+            "Pewarisan": "Ajaran Lin Chaoying; warisan utama disertai sumpah menjaga makam.",
+            "Hubungan": "Li Mochou adalah kakak seperguruan Xiaolongnü."
+          },
+          "key": 60103,
+          "chapter": 6,
+          "paragraph": "p-06-103",
+          "quote": "Di sana Xiaolongnü menjelaskan aturan warisan Lin Chaoying: penerus yang menerima ajaran sepenuhnya harus tetap tinggal di makam, kecuali seorang lelaki rela mati untuknya tanpa mengetahui syarat tersebut terlebih dahulu. Li Mochou menolak sumpah itu; karena itulah warisan utama jatuh kepada adiknya."
+        }
+      ]
+    },
+    {
+      "id": "sumpah-makam",
+      "type": "istilah",
+      "aliases": [
+        "sumpah",
+        "aturan warisan Lin Chaoying"
+      ],
+      "stages": [
+        {
+          "title": "Sumpah penjaga makam",
+          "summary": "Penerus yang menerima warisan penuh terikat untuk tetap tinggal di makam, dengan satu syarat pengecualian.",
+          "fields": {
+            "Syarat keluar": "Seorang lelaki rela mati untuknya tanpa mengetahui ketentuan itu terlebih dahulu.",
+            "Dampak": "Pengorbanan sukarela Dani membebaskan Xiaolongnü dari kewajiban tinggal.",
+            "Batas": "Tidak otomatis menjadi ikatan pernikahan."
+          },
+          "key": 60103,
+          "chapter": 6,
+          "paragraph": "p-06-103",
+          "quote": "Di sana Xiaolongnü menjelaskan aturan warisan Lin Chaoying: penerus yang menerima ajaran sepenuhnya harus tetap tinggal di makam, kecuali seorang lelaki rela mati untuknya tanpa mengetahui syarat tersebut terlebih dahulu. Li Mochou menolak sumpah itu; karena itulah warisan utama jatuh kepada adiknya."
+        }
+      ]
+    },
+    {
+      "id": "batu-pemutus",
+      "type": "benda",
+      "aliases": [
+        "Batu Pemutus Naga"
+      ],
+      "stages": [
+        {
+          "title": "Batu Pemutus Naga",
+          "summary": "Penutup batu pada gerbang makam, diturunkan melalui mekanisme khusus.",
+          "fields": {
+            "Fungsi": "Menutup jalan masuk; bukan jurus silat."
+          },
+          "key": 60082,
+          "chapter": 6,
+          "paragraph": "p-06-082",
+          "quote": "Xiaolongnü menunjukkan letak mekanisme penutup. “Turunkan Batu Pemutus Naga sesudah aku masuk. Kakak tidak akan memperoleh warisan perguruan ini.”"
+        },
+        {
+          "title": "Batu Pemutus Naga",
+          "summary": "Penutup batu pada gerbang makam, diturunkan melalui mekanisme khusus.",
+          "fields": {
+            "Fungsi": "Menutup jalan masuk; bukan jurus silat.",
+            "Dampak": "Li Mochou tidak dapat mengangkatnya; semua yang berada di dalam terkurung."
+          },
+          "key": 60092,
+          "chapter": 6,
+          "paragraph": "p-06-092",
+          "quote": "Li Mochou mengetahui keadaan mereka setelah memeriksa batu yang tak dapat diangkat. Ia memalingkan wajah kepada adik seperguruannya; keramahan yang dibuat-buat hilang dari matanya."
+        },
+        {
+          "title": "Batu Pemutus Naga",
+          "summary": "Penutup batu pada gerbang makam, diturunkan melalui mekanisme khusus.",
+          "fields": {
+            "Fungsi": "Menutup jalan masuk; bukan jurus silat.",
+            "Dampak": "Li Mochou tidak dapat mengangkatnya; semua yang berada di dalam terkurung.",
+            "Jalan lain": "Saluran air rahasia memungkinkan mereka keluar; batu tidak dihancurkan."
+          },
+          "key": 60123,
+          "chapter": 6,
+          "paragraph": "p-06-123",
+          "quote": "Udara akhirnya mengenai wajah mereka di luar lereng. Dani menarik Xiaolongnü ke batu yang kering, disusul Hong Lingbo dan Li Mochou. Semua basah dan kehabisan napas. Li Mochou masih hendak mendekat ketika Xiaolongnü mengangkat tangan dengan jarum di sela jari."
+        }
+      ]
+    },
+    {
+      "id": "sembilan-yin",
+      "type": "ilmu",
+      "aliases": [
+        "Kitab Sembilan Yin",
+        "Sembilan Yin"
+      ],
+      "stages": [
+        {
+          "title": "Kitab Sembilan Yin",
+          "summary": "Sebagian ajaran yang ditinggalkan Wang Chongyang pada ukiran di bawah makam.",
+          "fields": {
+            "Bentuk": "Peninggalan tertulis; yang ditemukan bukan seluruh isi kitab.",
+            "Penguasaan Dani": "Belum dipelajari; saat ini mengutamakan jalan keluar."
+          },
+          "key": 60115,
+          "chapter": 6,
+          "paragraph": "p-06-115",
+          "quote": "Tulisan itu menunjukkan jalan menuju ruang di bawah makam. Mereka membuka lempeng penutup dan turun bersama. Di dinding bawah terdapat peninggalan Wang Chongyang: sebagian ajaran Kitab Sembilan Yin serta petunjuk jalur air keluar."
+        },
+        {
+          "title": "Kitab Sembilan Yin",
+          "summary": "Sebagian ajaran yang ditinggalkan Wang Chongyang pada ukiran di bawah makam.",
+          "fields": {
+            "Bentuk": "Peninggalan tertulis; yang ditemukan bukan seluruh isi kitab.",
+            "Penguasaan Dani": "Mempelajari bagian yang diingat bersama Xiaolongnü.",
+            "Fungsi yang dipelajari": "Pengaturan napas dan pengenalan titik tubuh.",
+            "Batas": "Belum menguasai keseluruhan ajaran."
+          },
+          "key": 70035,
+          "chapter": 7,
+          "paragraph": "p-07-035",
+          "quote": "Pemulihan berlangsung berbulan-bulan. Mereka mempelajari bagian Kitab Sembilan Yin yang sempat diingat dari ukiran makam, terutama petunjuk mengatur napas dan mengenali titik tubuh. Xiaolongnü mengoreksi ingatan Dani; pemuda itu mengulangi bagian yang terlewat oleh gurunya. Mereka belum menguasai seluruh ajaran, tetapi kini mempunyai cara untuk menelaahnya bersama."
+        },
+        {
+          "title": "Kitab Sembilan Yin",
+          "summary": "Sebagian ajaran yang ditinggalkan Wang Chongyang pada ukiran di bawah makam.",
+          "fields": {
+            "Bentuk": "Peninggalan tertulis; yang ditemukan bukan seluruh isi kitab.",
+            "Penguasaan Dani": "Mempelajari bagian yang diingat bersama Xiaolongnü.",
+            "Fungsi yang dipelajari": "Pengaturan napas dan pengenalan titik tubuh.",
+            "Batas": "Tidak langsung mematahkan totokan Ouyang Feng; juga memerlukan waktu.",
+            "Dampak teramati": "Petunjuk pelepasan titik membantu Xiaolongnü memperoleh kembali geraknya secara bertahap."
+          },
+          "key": 80064,
+          "chapter": 8,
+          "paragraph": "p-08-064",
+          "quote": "Petunjuk pelepasan titik dari ukiran Sembilan Yin tidak langsung mengatasi totokan Ouyang Feng. Dani mencoba bagian yang mereka pahami, berhenti ketika napas Xiaolongnü terganggu, lalu menunggu tenaga yang menguncinya berangsur lemah. Hari telah gelap saat gadis itu akhirnya dapat duduk tanpa disangga."
+        }
+      ]
+    },
+    {
+      "id": "obat-ouyang",
+      "type": "kondisi",
+      "aliases": [
+        "pil gelap",
+        "obat ayahnya",
+        "Obat Ayah",
+        "obat yang Ayah berikan"
+      ],
+      "stages": [
+        {
+          "title": "Obat dari Ouyang Feng",
+          "summary": "Pil yang diberikan Ouyang Feng dengan alasan membuat anaknya kuat.",
+          "fields": {
+            "Kandungan": "Belum diketahui.",
+            "Pengetahuan Dani": "Disangka ramuan latihan; ia tidak mengetahui akibatnya."
+          },
+          "key": 80035,
+          "chapter": 8,
+          "paragraph": "p-08-035",
+          "quote": "Dani mengira obat itu untuk membuka aliran tenaga seperti ramuan latihan yang pernah dikenalnya. Ia menelan demi menenangkan ayahnya, dengan harapan sesudah satu rangkaian selesai ia dapat kembali ke gubuk. Rasa pahit memenuhi mulut. Ouyang Feng sudah berbalik memperagakan gerakan lain, melupakan pertanyaan yang belum dijawabnya."
+        },
+        {
+          "title": "Obat dari Ouyang Feng",
+          "summary": "Pil yang diberikan Ouyang Feng dengan alasan membuat anaknya kuat.",
+          "fields": {
+            "Kandungan": "Belum diketahui.",
+            "Pengetahuan Dani": "Disangka ramuan latihan; ia tidak mengetahui akibatnya.",
+            "Dampak": "Panas tubuh dan pikiran terganggu; perhatian serta ingatan mulai tidak utuh.",
+            "Bahaya": "Mengurangi kejernihan pertimbangan."
+          },
+          "key": 80071,
+          "chapter": 8,
+          "paragraph": "p-08-071",
+          "quote": "Ia sendiri tidak memahami apa yang sedang terjadi pada tubuhnya. Pikiran yang biasanya tajam mulai terputus-putus. Kekhawatiran, kemarahan, dan rasa lega datang bercampur, makin sulit dipisahkan. Xiaolongnü menyuruhnya duduk dan memeriksa napasnya dengan pengetahuan yang dimilikinya; ia mengira ketegangan pertarungan belum reda."
+        },
+        {
+          "title": "Obat dari Ouyang Feng",
+          "summary": "Pil yang diberikan Ouyang Feng dengan alasan membuat anaknya kuat.",
+          "fields": {
+            "Kandungan": "Belum diketahui.",
+            "Pengetahuan Dani": "Disangka ramuan latihan; ia tidak mengetahui akibatnya.",
+            "Dampak": "Panas tubuh dan pikiran terganggu; perhatian serta ingatan mulai tidak utuh.",
+            "Bahaya": "Mengurangi kejernihan pertimbangan.",
+            "Akibat": "Keintiman terjadi dalam kondisi kesadaran Dani terganggu; Xiaolongnü keliru memaknainya sebagai keputusan sadar."
+          },
+          "key": 80083,
+          "chapter": 8,
+          "paragraph": "p-08-083",
+          "quote": "Malam itu mereka berhubungan intim untuk pertama kali. Bagi Xiaolongnü, menyerahkan keperawanannya kepada Dani berarti menerima dirinya sebagai pendamping seumur hidup. Ia tidak mengetahui seberapa jauh obat Ouyang Feng telah merusak kesadaran Dani. Pemuda itu pun tidak berada dalam keadaan mampu memahami dan mengingat keputusannya secara utuh."
+        },
+        {
+          "title": "Obat dari Ouyang Feng",
+          "summary": "Pil yang diberikan Ouyang Feng dengan alasan membuat anaknya kuat.",
+          "fields": {
+            "Kandungan": "Belum diketahui.",
+            "Pengetahuan Dani": "Disangka ramuan latihan; ia tidak mengetahui akibatnya.",
+            "Dampak": "Panas tubuh dan pikiran terganggu; perhatian serta ingatan mulai tidak utuh.",
+            "Bahaya": "Mengurangi kejernihan pertimbangan.",
+            "Akibat": "Keintiman terjadi dalam kondisi kesadaran Dani terganggu; Xiaolongnü keliru memaknainya sebagai keputusan sadar.",
+            "Kelanjutan": "Dani meminta pertanggungjawaban ayah angkatnya; kegilaan Ouyang menghalangi jawaban yang utuh."
+          },
+          "key": 100034,
+          "chapter": 10,
+          "paragraph": "p-10-034",
+          "quote": "“Ayah menyuruhku menelannya, dan aku percaya.” Suara Dani bergetar. “Sekarang aku tidak dapat mengingat apa yang kulakukan malam itu. Pandanglah aku, Ayah. Aku sedang meminta jawaban, bukan pelajaran baru.”"
+        }
+      ]
+    },
+    {
+      "id": "tongkat-pemukul",
+      "type": "ilmu",
+      "aliases": [
+        "Tongkat Pemukul Anjing"
+      ],
+      "stages": [
+        {
+          "title": "Tongkat Pemukul Anjing",
+          "summary": "Rangkaian ilmu tongkat yang diajarkan Hong Qigong kepada Dani melalui pertukaran gerak dan tanggapan.",
+          "fields": {
+            "Pengguna terlihat": "Hong Qigong; Dani sedang mempelajari bentuk.",
+            "Bahaya yang dijelaskan": "Dapat merebut senjata, merusak pijakan, atau meremukkan tulang bila dikuasai.",
+            "Dampak teramati": "Masih berupa pelajaran; Dani belum memakainya melawan musuh.",
+            "Benda": "Tongkat kayu biasa untuk berlatih; bukan tongkat lambang kepemimpinan."
+          },
+          "key": 100082,
+          "chapter": 10,
+          "paragraph": "p-10-082",
+          "quote": "“Rangkaian ini disebut Tongkat Pemukul Anjing,” kata Hong Qigong. “Nama boleh membuatmu tersenyum. Di tangan orang yang mengerti, tongkat biasa dapat merebut senjata, merusak pijakan, atau meremukkan tulang. Jangan memperlakukannya sebagai permainan.”"
+        },
+        {
+          "title": "Tongkat Pemukul Anjing",
+          "summary": "Rangkaian ilmu tongkat yang diajarkan Hong Qigong kepada Dani melalui pertukaran gerak dan tanggapan.",
+          "fields": {
+            "Pengguna terlihat": "Hong Qigong; Dani sedang mempelajari bentuk.",
+            "Bahaya yang dijelaskan": "Dapat merebut senjata, merusak pijakan, atau meremukkan tulang bila dikuasai.",
+            "Dampak teramati": "Masih berupa pelajaran; Dani belum memakainya melawan musuh.",
+            "Benda": "Tongkat kayu biasa untuk berlatih; bukan tongkat lambang kepemimpinan.",
+            "Batas penguasaan": "Dani masih keliru ketika menghadapi tahanan; harus memperbaiki sudut dan kendali."
+          },
+          "key": 100093,
+          "chapter": 10,
+          "paragraph": "p-10-093",
+          "quote": "Dani memeriksa pegangan, mengubah sudut, lalu melepaskan ujung kayu tanpa menyentak. Hong mengangguk, sedangkan Ouyang Feng mendengus seolah keberhasilan itu sudah seharusnya terjadi sejak awal."
+        }
+      ]
     }
   ]
 }

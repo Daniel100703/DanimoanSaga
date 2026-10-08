@@ -1,4 +1,4 @@
-# Bab 1: Rumah yang Kehilangan Suara
+# BAB 1 — RUMAH YANG KEHILANGAN SUARA
 
 Pintu itu masih harus diangkat sedikit sebelum didorong.
 
@@ -10,7 +10,7 @@ Ia mundur setapak, mengusap bahu, lalu memandang pintu dengan mata menyipit.
 
 Papan bawahnya mengganjal tanah. Hujan sejak pagi telah membuat kayunya mengembang; di tepi ambang, air masih menggenang dalam cekungan bekas tumit. Dani menyelipkan ujung sepatu, mengangkat daun pintu dengan kedua tangan, lalu mendorongnya. Engselnya menjerit.
 
-“Sejak tadi seharusnya kuangkat seperti ini,” kata Dani.
+Dani mengatur napas, lalu mengusap bekas lumpur pada telapaknya. Ia hampir menoleh untuk memastikan ibunya tidak melihat cara bodohnya membuka pintu.
 
 Ia melangkah masuk sambil menundukkan kepala, kendati palang di atas pintu masih cukup tinggi untuk dilewatinya.
 
@@ -32,7 +32,7 @@ Udara di dalam lebih dingin daripada di luar. Ada bau abu basah, kayu lembap, da
 
 Ujung lengan kirinya tersangkut pada serpihan pintu ketika ia berbalik. Terdengar bunyi sobekan kecil.
 
-Dani menatap kain itu. “Belum cukup rupanya kemalanganku hari ini.”
+Dani menatap kain itu. “Ibu baru memperbaiki bagian itu,” gumamnya.
 
 Ia menariknya dengan kasar.
 
@@ -74,17 +74,17 @@ Dani menarik siku dari tepi meja. “Aku hanya bertanya, Bu. Kali ini belum kuse
 
 “Siapa yang memakainya untuk menangkap katak?” tanya Mu Nianci.
 
-“Katak yang itu bersih, Bu. Aku tidak mengambilnya dari lumpur,” bantah Dani.
+“Mangkukku terlalu kecil, Bu. Aku hanya meminjam punya Ibu sebentar,” bantah Dani.
 
-Mu Nianci berhenti mengusap mangkuk. “Kau menanyakannya kepada kataknya?”
+Mu Nianci berhenti mengusap mangkuk. “Kalau kataknya melompat dan mangkuk ini pecah, apakah ia yang akan mencari penggantinya?”
 
-“Aku menangkapnya di air, Bu. Bukankah itu berarti ia sudah mandi?” bantah Dani.
+“Aku yang akan menggantinya,” jawab Dani, lebih pelan. “Tetapi aku belum mempunyai uang sebanyak itu.”
 
 Ia melihat alis ibunya terangkat dan buru-buru memeriksa kolong meja, seolah ada urusan mendesak di sana.
 
 “Ketika kutaruh di dalam, ia diam saja. Aku tidak tahu ia akan melompat sejauh itu,” kata Dani.
 
-Mu Nianci menahan sudut bibirnya. Dani masih berusaha menjelaskan bahwa tak seorang pun pernah memperingatkannya tentang jauhnya lompatan katak.
+Mu Nianci menahan sudut bibirnya. “Karena itu, sebelum meminjam barang, pikirkan dahulu apakah engkau sanggup menjaganya. Ibu tidak melarangmu bermain.” Dani mengangguk sambil mencari binatang yang tadi dilepasnya.
 
 Ibunya tidak tertawa sampai katak itu ditemukan di bawah keranjang jahitan.
 
@@ -458,13 +458,14 @@ Di tikungan, ia nyaris menoleh.
 
 Dani menggigit bagian dalam pipinya dan terus berjalan. Baru setelah atap rumah tertutup rumpun bambu, ia membiarkan lengan bajunya menyapu mata.
 
+
 ---
 
-## Catatan Kontinuitas
+## Catatan Kontinuitas — Bab 1
 
-- **Jalur dan waktu:** Jalur A; Dani berusia 14 tahun, setelah Mu Nianci wafat dan sebelum pertemuan dengan keluarga Guo. Kenangan bersama Kang Moan terjadi saat Dani berusia 5 tahun. Usia tepat Dani ketika ibunya wafat belum ditetapkan.
-- **Usia tokoh lain pada waktu utama:** Xiaolongnü 16 tahun, Guo Fu 12 tahun, Guo Xiang 5 tahun; ketiganya belum muncul.
-- **Ikatan:** tidak ada perubahan nilai ikatan antartokoh dalam bab ini; angka awal belum ditetapkan. Kedekatan Dani dengan orang tuanya diperlihatkan melalui kenangan.
-- **Ilmu silat:** tidak ada jurus baru atau kemampuan khusus yang diperkenalkan; Tapak Melankolis belum tercipta.
-- **Kesinambungan benda dan visual:** baju luar abu-biru dengan tambalan berjahit pucat pada lengan kiri; rambut panjang diikat kain gelap yang pudar. Dani membawa sisa roti, jarum, benang, bidal Mu Nianci, baju dalam, dan selimut tipis dalam buntalan kelabu. Mangkuk retak ibunya ditinggalkan di rak.
-- **Benang cerita:** Dani melanjutkan hidup tanpa tempat menetap yang pasti; penyebab kematian Kang Moan belum terungkap. Insiden keluarga Lu dan pertemuan dengan Ouyang Feng belum terjadi.
+- Jalur A; Dani 14 tahun, lima tahun dalam kenangan bersama Kang Moan.
+- Mu Nianci telah wafat; Kang Moan dahulu menjadi ayah yang hangat, penyebab kematiannya belum terbuka.
+- Dani belum memiliki qi terlatih atau guru silat.
+- Alat jahit, pakaian, selimut, serta sisa roti dibawa; mangkuk ibu ditinggalkan di rumah.
+- Dani belum mengenal Wushuang, Cheng Ying, Ouyang Feng, atau keluarga Guo.
+- Seluruh ilustrasi lama bab ini dipertahankan; dialog keluarga disesuaikan tanpa mengubah riwayat mereka.
