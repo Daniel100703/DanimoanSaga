@@ -38,7 +38,8 @@ def load_chapter(c):
 def ornament():
     return '<div class="ornament" role="separator" aria-label="Pergantian adegan"><svg viewBox="0 0 52 28" fill="none" stroke="currentColor" stroke-width="1"><path d="M3 18c5 0 4-4 8-3-5-6 2-10 6-7 2-9 12-8 13-2 6-4 12 1 10 6 10-1 12 9 3 10-7 1-10-4-6-6-1-5-7-4-7 0-6 3-12-1-9-5M4 22c8 2 13-1 19 0m-4 4h19"/></svg></div>'
 def image_tag(asset,alt,lazy=True,extra=''):
-    return f'<img src="{esc(asset["file"])}" width="{asset["width"]}" height="{asset["height"]}" alt="{esc(alt)}" loading="{"lazy" if lazy else "eager"}" decoding="async" {extra}>'
+    src=asset["file"]+("?v="+asset["version"] if asset.get("version") else "")
+    return f'<img src="{esc(src)}" width="{asset["width"]}" height="{asset["height"]}" alt="{esc(alt)}" loading="{"lazy" if lazy else "eager"}" decoding="async" {extra}>'
 def toc(current,single):
     return '<ol class="toc">'+''.join(f'<li><a href="{link(c["slug"],single=single)}" data-chapter="{c["slug"]}"'+(' aria-current="page"' if c['slug']==current else '')+f'><span>{c["id"]:02}</span>{esc(c["title"])}</a></li>' for c in CHAPTERS)+'</ol>'
 def header(current,single):
@@ -107,7 +108,7 @@ def standalone(path):
         if name not in cache:cache[name]=uri(BASE/name)
         if m[1]=='href':return 'href="'+cache[name]+'"'
         return 'data-asset="'+name+'"'
-    doc=re.sub(r'(src|href)="((?:[^" /]+\.webp|favicon\.svg))"',embed,doc)
+    doc=re.sub(r'(src|href)="((?:[^" /]+\.webp|favicon\.svg))(?:\?v=[A-Za-z0-9_-]+)?"',embed,doc)
     for e in lore.ENTRIES:
         for portrait in e.get('portraits',[]):
             name=portrait['image']['file']
