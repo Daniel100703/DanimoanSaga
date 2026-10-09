@@ -1,6 +1,6 @@
 # Peta Bab 11 — Di Hadapan Dunia Persilatan
 
-Status: disetujui penulis dan diwujudkan sebagai [Bab 11 — Di Hadapan Dunia Persilatan](https://daniel100703.github.io/DanimoanSaga/bab-11.html). Satu arc Pertemuan Pahlawan selesai dalam satu bab, 3.306 kata. Perjalanan dan jeda musim diringkas; percakapan utama memperoleh ruang untuk menjawab konflik hubungan.
+Status: disetujui penulis dan diwujudkan sebagai [Bab 11 — Di Hadapan Dunia Persilatan](https://daniel100703.github.io/DanimoanSaga/bab-11.html). Satu arc Pertemuan Pahlawan selesai dalam satu bab, 4.409 kata setelah revisi dialog dan konflik keluarga. Perjalanan dan jeda musim diringkas; percakapan utama memperoleh ruang untuk menjawab konflik hubungan.
 
 ## Lima pijakan lorebook
 
@@ -18,7 +18,7 @@ Status: disetujui penulis dan diwujudkan sebagai [Bab 11 — Di Hadapan Dunia Pe
 | 2 · Kepercayaan yang diuji | Dalam persiapan pertemuan, perhatian Guo Fu dan kecemburuan Wu bersaudara mencapai titik berbahaya. Wu Santong hadir; Dani menghentikan duel dengan kebohongan tentang restu nikah. Di dekat sungai, latihan Huang Rong–Lu Youjiao dan percakapan perjodohan mempertemukan mereka lagi. Huang Rong kemudian mendengar kabar Hong Qigong serta perjalanan Dani secara pribadi; Dani menolongnya saat lemas, dan kehamilannya diketahui. |
 | 3 · Jawaban kepada Xiaolongnü | Delegasi Mongol menantang para pendekar. Xiaolongnü tiba dengan ilmu ringan tubuh, bukan terbang. Dani meninggalkan keramaian untuk menemuinya. Dalam percakapan pribadi ia menjawab keraguan Bab 8 dengan jelas: ia mencintainya dan ingin hidup bersamanya; sapaan Bibi tidak dipakai untuk mengelak dari perasaan dan tanggung jawab. Xiaolongnü menyatakan apa yang ia inginkan dengan lugas. |
 | 4 · Janji diuji di arena | Gangguan arena membawa mereka kembali. Dani menghadapi Huodu dengan Tongkat Pemukul Anjing yang dipinjamkan Huang Rong, kemudian mengatasi Daerba dengan kecerdikan. Ia dan Xiaolongnü menghadapi Jinlun melalui kerja sama; Guo Jing membantu dan melukainya sesuai lore. Hasil laga membawa pengakuan kepemimpinan kepada Xiaolongnü. |
-| 5 · Kemenangan yang tidak memberi rumah | Sesudah ancaman luar surut, Guo Jing mengajukan Guo Fu. Dani menolak tanpa mempermalukannya dan mengakui cintanya kepada Xiaolongnü. Zhao dan Zhen menyerang hubungan mereka; Dani menghadapi Zhao. Wibawa serta kasih Guo Jing tetap terasa meski ia menentang hubungan itu. Dani dan Xiaolongnü pergi bersama, menutup arc dengan pilihan yang memiliki akibat sosial. |
+| 5 · Kemenangan yang tidak memberi rumah | Sesudah ancaman luar surut, Guo Jing mengajukan Guo Fu. Dani menolak dan membetulkan kebohongannya, tetapi tetap melukai harga diri Guo Fu dan mengakui cintanya kepada Xiaolongnü. Zhao dan Zhen menyerang hubungan mereka; Dani menghadapi Zhao. Guo Jing mengangkat tangan hendak memukul Dani, lalu membatalkannya sendiri ketika kasih kepada anak asuhnya menahan amarah. Penentangannya tetap ada. Dani dan Xiaolongnü pergi bersama, menutup arc dengan pilihan yang memiliki akibat sosial. |
 
 ## Penjahitan kanon yang harus terlihat
 

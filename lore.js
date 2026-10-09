@@ -23,7 +23,7 @@
     progress=Number(stored.progress)||0;
     if(progress && stored.edition!==edition){
       const anchor='p-'+String(Math.floor(progress/10000)).padStart(2,'0')+'-'+String(progress%10000).padStart(3,'0');
-      const mapping=stored.edition===migration.previousEdition?migration.previousMap:migration.map;
+      const mapping=migration.editionMaps?.[stored.edition] || (stored.edition===migration.previousEdition?migration.previousMap:migration.map);
       progress=keyOf(mapping[anchor]);
     }
     const old = JSON.parse(localStorage.getItem('dani-moan-webnovel-v1') || '{}');

@@ -12,7 +12,7 @@ Novel wuxia berilustrasi karya Daniel Halomoan Siregar.
 - Sapaan memakai bahasa Indonesia. Dialog mengalir melalui atribusi naratif tanpa format `Nama: ucapan`.
 - Bab 10: **Dua Nama di Bawah Salju**, dengan satu pembuka dan dua ilustrasi peristiwa. Pertemuan serta warisan dua tetua selesai dalam satu arc.
 - Semua 33 ilustrasi lama dipertahankan. Empat ilustrasi baru ditambahkan: rekonsiliasi hujan dan tiga gambar Bab 10.
-- Wiki berisi 64 catatan dengan 235 tahap informasi. Kartu mengikuti paragraf bacaan; penguasaan ilmu Dani dibedakan dari kekuatan gurunya.
+- Wiki berisi 65 catatan dengan 239 tahap informasi. Kartu mengikuti paragraf bacaan; penguasaan ilmu Dani dibedakan dari kekuatan gurunya.
 - Penanda baca edisi lama dipetakan ke adegan terdekat dalam pembagian baru. Tema dan ukuran huruf tetap tersimpan. Salinan posisi sebelum revisi tetap disimpan di peramban.
 
 ## Pembaruan narasi dan Bab 9
@@ -24,12 +24,20 @@ Bab 9 ditulis ulang untuk memulihkan latar dendam Wanyan Ping, perkenalan keluar
 
 ## Bab 11 — Di Hadapan Dunia Persilatan
 
-[Baca Bab 11](https://daniel100703.github.io/DanimoanSaga/bab-11.html). Seluruh Pertemuan Pahlawan selesai dalam satu arc, 3.306 kata: pertanggungjawaban Quanzhen, persoalan keluarga Guo, reuni Dani–Xiaolongnü, tantangan Mongol, dan keputusan meninggalkan pertemuan bersama.
+[Baca Bab 11](https://daniel100703.github.io/DanimoanSaga/bab-11.html). Seluruh Pertemuan Pahlawan selesai dalam satu arc, 4.409 kata setelah revisi: pertanggungjawaban Quanzhen, persoalan keluarga Guo, reuni Dani–Xiaolongnü, tantangan Mongol, dan keputusan meninggalkan pertemuan bersama.
 
-Tiga ilustrasi baru dimasukkan langsung ke halaman. Total 40 ilustrasi cerita dan satu sampul utama; semua gambar serta naskah Bab 1–10 tetap dipertahankan. Daftar bab, navigasi berikutnya dari Bab 10, dan batas informasi wiki telah diperluas sampai Bab 11. Penanda baca lama tetap menggunakan edisi yang sama.
+Tiga ilustrasi baru dimasukkan langsung ke halaman. Total 40 ilustrasi cerita dan satu sampul utama; semua gambar dan kejadian utama Bab 1–10 tetap dipertahankan. Daftar bab, navigasi berikutnya dari Bab 10, dan batas informasi wiki telah diperluas sampai Bab 11. Penanda baca edisi sebelumnya dipindahkan ke paragraf adegan yang sesuai.
 
 - [Kontinuitas, cakupan lore, dan rujukan kanon Bab 11](editorial/bab-11-kontinuitas.md).
 - [Arahan dan berkas ilustrasi Bab 11](editorial/bab-11-visual.md).
+
+## Revisi dialog dan peta berikutnya
+
+Dialog Dani ditinjau di Bab 1–11. Kepada keluarga Guo, teman, dan orang dekat, ia memakai aku; sapaan hormat tetap mengikuti hubungan tokoh. Revisi dilakukan pada ucapan yang memerlukan perbaikan, bukan mengganti semua kata saya dari setiap pembicara. Bab 11 memberi ruang pada gengsi dan kecemburuan Guo Fu, perselisihan kedua Wu, penolakan hubungan guru–murid, serta ancaman pukulan Guo Jing yang akhirnya dibatalkan.
+
+- [Peta Bab 12 — Harga Sebuah Pertolongan](https://daniel100703.github.io/DanimoanSaga/peta-bab-12.html): usulan alur, belum naskah; memuat bocoran.
+- [Catatan revisi 9 Oktober](editorial/revisi-suara-2026-10-09.md).
+- [Pedoman suara dan kontinuitas untuk penulisan berikutnya](editorial/pedoman-suara-dan-kontinuitas.md).
 
 ## Membaca
 
@@ -47,7 +55,7 @@ Repositori ini adalah situs statis; Python dipakai hanya saat menyusun halaman. 
 python3 build.py
 ```
 
-Perintah itu membangun `index.html`, `wiki.html`, peta editorial `peta-bab-11.html`, dan semua `bab-XX.html` dari `book.json`, `bab-XX.md`, serta `lore-data.json`. Catatan kontinuitas penulis tetap di Markdown dan tidak masuk ke halaman bacaan.
+Perintah itu membangun `index.html`, `wiki.html`, peta editorial `peta-bab-11.html` dan `peta-bab-12.html`, dan semua `bab-XX.html` dari `book.json`, `bab-XX.md`, serta `lore-data.json`. Catatan kontinuitas penulis tetap di Markdown dan tidak masuk ke halaman bacaan.
 
 Untuk satu berkas HTML yang dapat dibaca tanpa internet:
 

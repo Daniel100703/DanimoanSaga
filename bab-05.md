@@ -40,7 +40,7 @@ Guo Jing memeriksa tempat tinggal Dani sebelum berangkat. Di tangga ia membetulk
 
 “Paman akan mencari kabarmu. Belajarlah dengan tekun, tetapi jangan menganggap setiap kesulitan harus kautanggung sendirian.”
 
-“Kalau saya sudah dapat memakai pedang, apakah Paman bersedia melihatnya?”
+“Kalau aku sudah bisa memakai pedang, maukah Paman datang melihatnya?”
 
 “Tentu. Paman ingin melihat apa yang kaupelajari, bukan hanya mendengar siapa yang berhasil kaukalahkan.”
 
@@ -72,7 +72,7 @@ Suara itu patuh, tetapi pandangannya tidak. Lu menampar belakang kepalanya. Dani
 
 Lu lebih dahulu menjawab. “Murid sedang mengingatkannya tentang tata krama, Guru. Tetapi ia justru hendak melawan.”
 
-“Guru, dia memukul kepala saya ketika saya meminta kitab itu dilepaskan,” kata Dani.
+“Guru, dia memukul kepalaku ketika kuminta melepaskan kitab itu,” kata Dani.
 
 Zhao melihat kitab yang tertutup dan bangku yang bergeser. “Duduk kembali, Dani. Seorang murid yang menghormati saudara seperguruannya tidak akan membuat perkara sekecil ini menjadi pertengkaran.”
 
@@ -136,19 +136,19 @@ Suara perempuan tua datang dari samping. Dani berbalik terlalu cepat dan hampir 
 
 “Siapa yang memukulmu sampai bibirmu pecah begitu?” tanya perempuan tua itu.
 
-“Nenek tidak perlu mencampuri urusan saya. Saya hanya hendak lewat,” jawab Dani.
+“Nenek tak perlu mencampuri urusanku. Aku hanya hendak lewat,” jawab Dani.
 
 Perempuan itu tidak tersinggung. Ia mengamati jalan di belakang Dani, lalu menyuruhnya duduk di batu rendah. Dani tidak menurut sampai kedua kakinya mulai gemetar.
 
 “Namaku Sun,” kata Nenek Sun sambil membasahi kain untuk membersihkan luka di bibirnya. “Sekarang katakan namamu.”
 
-“Nama saya Dani Moan, Nek,” jawab Dani.
+“Namaku Dani Moan, Nek,” jawab Dani.
 
 “Apakah engkau murid perguruan Quanzhen?” tanya Nenek Sun.
 
 Ia mengangguk sekali, kemudian menggeleng. Nenek Sun menghentikan tangannya dan menunggu. Sikap itu membuat Dani semakin kesulitan menahan kata-kata yang sejak tadi menumpuk di dadanya.
 
-Ia menceritakan hafalan, pukulan, dan pelajaran yang selalu ditunda. Ketika sampai pada Lu yang jatuh, Dani menatap ujung sepatunya. “Saya memang memukulnya kembali, Nek. Sekarang mereka hanya akan mengatakan bahwa sayalah yang bersalah.”
+Ia menceritakan hafalan, pukulan, dan pelajaran yang selalu ditunda. Ketika sampai pada Lu yang jatuh, Dani menatap ujung sepatunya. “Aku memang memukulnya kembali, Nek. Sekarang mereka hanya akan mengatakan bahwa akulah yang bersalah.”
 
 “Nenek hendak mendengar seluruh kejadiannya. Tidak perlu kausisakan hanya bagian yang membuatmu tampak benar,” kata Nenek Sun.
 
@@ -170,7 +170,7 @@ Tatapan gadis itu singgah pada luka Dani. “Nenek Sun, anak ini bukan anggota p
 
 Dani melepaskan tangan Nenek Sun. Ia belum meminta menjadi murid, tetapi penolakan itu sudah diucapkan sebelum ia sempat menyebut namanya. Ia memungut buntalan yang diletakkan di kaki batu.
 
-“Saya dapat pergi mencari tempat lain. Nona tidak perlu merasa terbebani,” kata Dani.
+“Aku bisa mencari tempat lain. Nona tak perlu merasa terbebani,” kata Dani.
 
 Nenek Sun menahan lengannya. “Tunggulah sebentar, Dani.” Kepada gadis itu ia berkata lebih pelan, “Ia masih anak-anak, Nona. Setidaknya dengarkan dahulu bagaimana wajahnya sampai terluka.”
 
@@ -184,7 +184,7 @@ Gadis itu tidak melarang ketika Nenek Sun mengajak Dani menjauh dari ambang. Dan
 
 Di batas hutan, Zhen Zhibing menunggu bersama beberapa murid. Dani berhenti ketika mengenalinya.
 
-“Tetua Zhen, saya tidak akan kembali kepada Guru Zhao.”
+“Tetua Zhen, aku tidak akan kembali kepada Guru Zhao.”
 
 “Dani, ada murid yang terluka. Engkau harus memberikan penjelasan,” jawab Zhen. Kepada Nenek Sun ia menangkupkan tangan. “Mohon jangan membawa murid perguruan kami pergi sebelum perkara ini diperiksa.”
 
@@ -210,13 +210,13 @@ Dani merasakan tangan Nenek Sun bergerak ke belakang, memastikan ia masih berada
 
 “Anak muda, masuklah bersama kami. Aku akan memeriksa perkara ini dan mendengarkan keteranganmu,” kata Hao Datong.
 
-“Tetua, saya sudah mengadu kepada Guru,” jawab Dani. “Berkali-kali saya meminta pertolongan, tetapi saya tetap dipukul.”
+“Tetua, aku sudah mengadu kepada Guru,” jawab Dani. “Berkali-kali aku meminta pertolongan, tetapi pukulan mereka tak juga berhenti.”
 
 “Sekarang aku sendiri yang akan mendengarkan. Jangan mengira pengaduanmu tidak akan diperiksa,” jawab Hao Datong.
 
 Dani menatap Zhao di belakang Hao. Pegangannya pada jubah Nenek Sun semakin erat.
 
-“Maafkan saya, Tetua. Saya tidak bersedia masuk ke halaman itu lagi,” kata Dani.
+“Maafkan aku, Tetua. Aku tidak mau masuk ke halaman itu lagi,” kata Dani.
 
 Hao Datong menghela napas. Ia bermaksud menyelesaikan persoalan dengan tertib, tetapi di hadapannya penolakan seorang anak dan tuntutan seorang perempuan asing mulai terasa seperti tantangan terhadap perguruan. “Ia tidak dapat dibawa pergi sebelum kami mengetahui seluruh kejadiannya.”
 
@@ -304,7 +304,7 @@ Ia mengangguk.
 
 Nama itu tidak dikenalnya. Dani hanya tahu gadis tersebut memegang janji yang diucapkan kepada orang sekarat, dan janji semacam itu kadang lebih berat daripada keinginan orang yang mengucapkannya.
 
-“Izinkan saya menunggu sampai Nenek Sun dimakamkan,” kata Dani. “Sesudah itu saya akan pergi, supaya Nona tidak perlu menanggung keberadaan saya.”
+“Biar aku menunggu sampai Nenek Sun dimakamkan,” kata Dani. “Sesudah itu aku akan pergi. Nona tak perlu memeliharaku hanya karena kasihan.”
 
 Xiaolongnü menoleh. “Dani, aku tidak menyuruhmu pergi. Aku telah berjanji akan menjagamu.”
 
@@ -316,11 +316,11 @@ Dani tidak mempunyai jawaban. Xiaolongnü mengambil kain bersih dan meletakkanny
 
 “Kalau engkau tinggal, aku akan mengajarimu ilmu perguruanku,” kata Xiaolongnü. “Engkau harus mendengarkan petunjukku dan menaati aturan di sini.”
 
-Dani menatapnya. “Nona akan memperlihatkan gerakannya kepada saya? Bukan hanya menyuruh menghafal?” tanya Dani.
+Dani menatapnya. “Nona akan memperlihatkan gerakannya kepadaku? Bukan hanya menyuruhku menghafal?”
 
 “Bagaimana engkau dapat belajar kalau aku tidak menunjukkan caranya?” Xiaolongnü meletakkan kain bersih di tangannya. “Bersihkan dahulu lukamu. Pelajaran tidak akan lari ke mana-mana.”
 
-“Kepandaian saya masih sedikit, Nona,” kata Dani akhirnya. “Jika saya keliru, mohon tunjukkan kesalahan saya. Jangan suruh orang lain memukul saya karena sesuatu yang belum pernah diajarkan.”
+“Kepandaianku masih sedikit, Nona,” kata Dani akhirnya. “Kalau aku keliru, tunjukkan saja letak salahnya. Jangan suruh orang memukulku karena sesuatu yang belum pernah diajarkan.”
 
 “Aku sendiri yang akan mengajarimu, Dani. Kalau engkau salah, aku pula yang membetulkannya; tidak perlu ada orang lain di antara kita,” jawab Xiaolongnü.
 

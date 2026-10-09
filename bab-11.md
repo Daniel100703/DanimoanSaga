@@ -26,7 +26,7 @@ Guo Jing telah berdiri di pintu. Ia menatap pemuda berdebu itu, lalu memegang ke
 
 Dani hendak membungkuk, tetapi Guo Jing menariknya dekat. Selama beberapa detik, segala jawaban tajam yang disiapkannya menghilang.
 
-“Paman Guo, saya sudah lama tidak tinggal di Quanzhen.”
+“Paman Guo, aku sudah lama tidak tinggal di Quanzhen.”
 
 Guo Jing menoleh kepada para pendeta. “Saya menitipkan seorang anak untuk dididik. Sekarang saya meminta penjelasan.”
 
@@ -42,21 +42,41 @@ Guo Jing mengangguk sebelum Qiu menjawab. “Perkara itu tidak akan ditutup deng
 
 Guo Jing menahan amarah sampai para tamu menjauh. Ia mendengarkan bagaimana Xiaolongnü menerima Dani, lalu berkata, “Aku berutang terima kasih kepadanya. Engkau tinggal di sini malam ini. Sesudah pertemuan, kita bicarakan semuanya.”
 
-Guo Fu datang bersama adiknya. Gadis tujuh belas tahun itu memandang pakaian Dani dengan kerutan yang dikenalnya sejak kecil.
+Guo Fu datang bersama adiknya. Gadis tujuh belas tahun itu memandang pakaian Dani dengan kerutan yang dikenalnya sejak kecil, lalu menyodorkan saputangan tanpa menatap wajahnya.
 
-“Di kedai dahulu engkau buru-buru pergi. Sekarang Ayah sudah menangkapmu sendiri. Jangan menghilang lagi sebelum makan.”
+“Bersihkan dahulu mukamu. Di kedai dahulu kau pergi begitu saja; sekarang malah datang seperti pengemis. Apa susahnya menyebut nama Ayah di gerbang?”
+
+“Kalau kusebut namamu, barangkali aku justru disuruh menunggu di luar,” jawab Dani.
+
+Guo Fu menarik kembali saputangannya, tetapi berhenti ketika Dani hendak menerimanya. “Siapa bilang? Asal kau tidak membuatku marah. Dan jangan pergi lagi sebelum makan.”
 
 Guo Xiang yang berusia sepuluh tahun mengintip dari belakang kakaknya. Dani mengusap debu dari hidungnya sendiri sebelum menyambut mereka. Untuk malam itu, ia menerima tempat di rumah orang.
 
 ***
 
-Keesokan paginya Guo Fu membawa hidangan yang dibuatnya sendiri. Ia menunggu Dani mencicipi sebelum menyebut bahwa ibunya akan mengajari Lu Youjiao, calon ketua Klan Pengemis, di tepi sungai.
+Keesokan paginya Guo Fu meletakkan semangkuk masakan di depan Dani. Ketika Dani mengulurkan tangan ke hidangan lain, ujung sumpitnya segera mengetuk mangkuk itu.
 
-“Jika ingin menonton, ikutlah denganku.”
+“Yang ini dahulu. Aku sudah menyuruh dapur menyiapkan bahan sejak pagi.”
+
+Dani mencicipi, lalu mengangkat alis. “Rupanya dapur keluarga Guo sekarang mempunyai seorang juru masak yang galak.”
+
+“Kalau tidak suka, jangan dimakan.” Guo Fu hendak mengambil mangkuknya, tetapi Dani sudah menariknya mendekat.
+
+“Aku belum mengatakan tidak suka.”
+
+Sudut bibir Guo Fu bergerak sebelum ia menyembunyikannya. Ia bercerita bahwa ibunya akan mengajari Lu Youjiao, calon ketua Klan Pengemis, di tepi sungai. “Ikutlah denganku. Jangan membuatku mencarimu ke seluruh halaman lagi.”
 
 “Pergilah dahulu. Aku segera menyusul,” kata Dani. Ia baru melihat Wu Dunru mengikuti adiknya ke belakang rumpun bambu, keduanya membawa pedang terhunus.
 
-Di sana, kecemburuan telah menghapus akal. Dunru menuntut Xiuwen menjauhi Guo Fu; Xiuwen menolak terus-menerus mengalah hanya karena lahir belakangan. Ketika Dani tiba, ujung pedang telah mengarah ke tenggorokan saudara sendiri.
+Di sana, Dunru menghadang adiknya. “Engkau tahu aku hendak mengantarkan Fu ke sungai. Mengapa masih mendahuluiku?”
+
+“Apakah setiap kali ia memanggil, aku harus bertanya dahulu kepada Kakak?” Xiuwen menepis bilah yang menghalangi jalannya. “Aku sudah cukup sering mengalah. Untuk perkara ini, jangan suruh aku mundur lagi.”
+
+“Jadi engkau hendak melawanku demi dia?”
+
+“Kakak sendiri yang mencabut pedang!”
+
+Besi beradu. Dunru hendak menekan, Xiuwen membalas terlalu jauh, dan amarah segera melampaui maksud semula. Ketika Dani tiba, ujung pedang telah mengarah ke tenggorokan saudara sendiri.
 
 “Hentikan!” bentak seorang lelaki dari jalan kebun. Wu Santong, ayah mereka, berlari mendekat. “Kalian hendak membuatku mengubur seorang anak di tangan anakku yang lain?”
 
@@ -64,17 +84,27 @@ Kedua pedang goyah, belum turun. Dani menyela sebelum harga diri memancing seran
 
 “Paman Guo sudah merestui aku menikahi putrinya. Kalian hendak memperebutkan keputusan yang bukan milik kalian?”
 
-Wajah kedua bersaudara itu memucat. Wu Santong memisahkan mereka ketika perhatian mereka pecah. Dani membantu menarik Xiuwen mundur, lalu berbisik kepada sang ayah, “Saya berdusta untuk menghentikan mereka. Tolong jangan biarkan kebohongan ini menjadi kabar pernikahan.”
+Wajah kedua bersaudara itu memucat. Wu Santong memisahkan mereka ketika perhatian mereka pecah. “Kalian masih mengingat aku sebagai ayah? Sarungkan pedang sebelum kupatahkan sendiri!”
+
+“Guru tidak pernah mengatakan itu kepada kami,” kata Dunru, masih menatap Dani. Xiuwen menggenggam gagangnya, tak lagi mengarahkannya kepada kakaknya.
+
+“Kalau benar, mengapa Fu tidak berkata apa-apa?” tuntut Xiuwen.
+
+“Tanyakan nanti, sesudah kalian berhenti hendak saling membunuh.” Dani membantu Wu Santong menarik mereka berjauhan. Ketika kedua bersaudara itu membungkuk mengambil sarung pedang, ia berbisik kepada sang ayah, “Aku berdusta untuk menghentikan mereka, Paman Wu. Tolong jangan biarkan ucapan itu menjadi kabar pernikahan.”
 
 Wu Santong menatapnya tajam. “Engkau memadamkan api dengan minyak. Sekarang biar aku menjaga kedua anak bodoh ini.”
 
-Guo Fu menunggu di jalan sungai. Ketika ia bertanya mengapa Dani terlambat, pemuda itu menjawab terlalu ringan, “Jika engkau memilih salah seorang dari mereka, rupanya aku harus berdiri paling belakang.”
+Guo Fu menunggu di jalan sungai. “Katamu segera menyusul. Mereka berdua menahanmu lagi?”
 
-“Siapa yang menyuruhmu berdiri di belakang?” Guo Fu menunduk, merapikan ujung lengan bajunya.
+“Mereka sibuk memperebutkan tempat di dekatmu. Kalau kau memilih salah seorang, rupanya aku harus berdiri paling belakang.”
+
+“Siapa yang menyuruhmu berdiri di belakang?” Guo Fu menunduk, merapikan ujung lengan bajunya. “Kau sendiri yang selalu pergi sebelum orang sempat bicara.”
 
 Dani terdiam. Ia mengenali harapan yang baru saja disentuhnya. *Aku mencari Bibi, tetapi masih memakai perasaan orang lain untuk meloloskan diri.* Ia menarik napas.
 
-“Fu, ucapanku tadi terlalu sembarangan. Jangan kauanggap sebagai janji.”
+“Fu, jangan terlalu percaya pada mulutku. Kadang ia berjalan lebih cepat daripada pikiranku.”
+
+“Siapa pula yang menunggumu berjanji?” Guo Fu segera mengangkat dagu. “Aku hanya mengajakmu melihat Ibu mengajar. Jangan berbesar kepala.”
 
 Senyum Guo Fu menipis. Dari balik pohon, suara Guo Jing memotong kesempatan mereka meneruskan percakapan.
 
@@ -82,11 +112,15 @@ Senyum Guo Fu menipis. Dari balik pohon, suara Guo Jing memotong kesempatan mere
 
 Huang Rong menjawab, “Tanyakan dahulu kepada anaknya. Pulang ke rumah belum tentu berarti datang untuk menikah.”
 
-Guo Fu berhenti dengan pipi memerah. Di tepi air, Lu Youjiao mengulang putaran tongkat di bawah petunjuk Huang Rong. Dani mengenali bentuk yang dipelajarinya di Huashan. Ia mendengarkan satu koreksi tentang perpindahan berat tubuh sebelum Huang Rong menoleh tepat ke tempat mereka berdiri.
+Guo Fu berhenti dengan pipi memerah. Ketika Wu bersaudara menyusul, ia menyuruh mereka diam dengan tatapan. Dunru mengatupkan rahang; Xiuwen memandang Dani seolah kebohongan tadi telah memperoleh bukti. Keduanya tidak mendengar adanya keputusan, tetapi ketakutan kehilangan Fu membuat kemungkinan terdengar seperti kepastian.
+
+Di tepi air, Lu Youjiao mengulang putaran tongkat di bawah petunjuk Huang Rong. Dani mengenali bentuk yang dipelajarinya di Huashan. Ia mendengarkan satu koreksi tentang perpindahan berat tubuh sebelum Huang Rong menoleh tepat ke tempat mereka berdiri.
 
 “Fu, bawalah dua pengiring yang baru datang itu kembali. Dani tinggal.”
 
-Wu bersaudara muncul dari jalan lain, kini tanpa pedang terhunus. Huang Rong menunggu mereka pergi bersama Guo Fu, lalu menyuruh Lu Youjiao melanjutkan latihan agak jauh.
+“Mengapa hanya Dani yang boleh tinggal?” tanya Guo Fu.
+
+“Karena Ibu hendak bertanya kepadanya, bukan kepada ketiga orang yang bersembunyi di belakangnya.” Huang Rong memandang kedua Wu sampai mereka menunduk. Guo Fu berbalik dengan langkah keras; ia kesal karena Dani tidak tampak keberatan ditinggalkannya. Sesudah mereka pergi, Huang Rong menyuruh Lu Youjiao melanjutkan latihan agak jauh.
 
 “Kakimu bergerak ketika aku membetulkan tongkatnya,” ujar Huang Rong. “Siapa yang mengajarimu?”
 
@@ -102,7 +136,7 @@ Huang Rong menutup mata. Setelah mampu bicara, ia menanyakan kehidupan Dani seja
 
 Ketika bangkit, Huang Rong mendadak kehilangan keseimbangan. Dani menangkap sikunya, membantunya duduk di batu datar, lalu mengambil air tanpa berteriak memanggil semua orang.
 
-“Saya panggil Paman Guo?”
+“Bibi, biar kupanggil Paman Guo.”
 
 “Sebentar. Ini sudah pernah terjadi.” Huang Rong menerima cawan. “Fu dan Xiang akan mendapat adik.”
 
@@ -125,6 +159,12 @@ Dani menjatuhkan tongkat latihannya.
 “Bibi!”
 
 Ia berlari dan memeluknya sebelum sempat memikirkan puluhan pasang mata. Xiaolongnü memegang punggungnya erat-erat. Jemarinya menemukan sambungan jubah yang pernah dijahitnya, lalu naik ke tengkuk Dani.
+
+Guo Fu berdiri setengah bangkit. “Dani! Ayah sedang—” Panggilannya berhenti ketika melihat tangan perempuan itu di tengkuk Dani.
+
+Xiuwen mendekat. “Bukankah itu gurunya? Kalau begitu, perkara tadi…”
+
+“Aku mempunyai mata,” potong Guo Fu. Ia duduk kembali sebelum ada yang melihat wajahnya dengan jelas. Dunru menarik lengan adiknya supaya diam. Mereka sama-sama ingin percaya bahwa kemesraan itu tidak berarti apa-apa, tetapi belum pernah melihat Dani menyambut siapa pun seperti itu.
 
 “Engkau benar-benar datang,” katanya. “Aku mendengar banyak pendekar berkumpul. Aku berharap engkau ada di antara mereka.”
 
@@ -260,71 +300,123 @@ Seruan kemenangan menyebut Xiaolongnü sebagai pemimpin persilatan, menagih janj
 
 ***
 
-Sesudah orang terluka dipindahkan, Dani mengembalikan pedang pinjaman. Guo Jing memanggilnya ke hadapan keluarga. Kebanggaan masih tampak pada wajah lelaki itu ketika ia menanyakan kesediaan Dani menikahi Guo Fu.
+Sesudah orang terluka dipindahkan, Dani mengembalikan pedang pinjaman. Guo Jing memanggilnya mendekat. Kebanggaan masih tampak pada wajah lelaki itu; di hadapan para sahabatnya, ia mengemukakan keinginan menyatukan Dani dan Guo Fu dalam pernikahan.
 
-Dani menunduk. Ia melihat Fu menunggu di sebelah ibunya dan menyadari betapa kejam kebohongan pagi tadi jika dibiarkan tumbuh sehari lagi.
+“Paman sudah mengenal ayahmu sejak muda. Melihat kalian tumbuh bersama tentu membahagiakan kami. Tetapi katakan dahulu isi hatimu.”
 
-“Paman, saya berterima kasih karena dianggap layak. Tetapi saya tidak dapat menerima. Kepada Wu bersaudara tadi saya bahkan mengaku sudah memperoleh restu Paman demi menghentikan mereka berkelahi. Itu kebohongan saya. Fu tidak pernah menjanjikan apa pun.”
+Guo Fu melirik Dani, lalu menunduk seolah sedang membetulkan gelang. “Ayah belum bertanya kepadaku.”
 
-Warna surut dari wajah Guo Fu. “Jadi semua orang boleh kauberi cerita sesukamu?”
+“Kalau engkau keberatan, Ayah akan mendengarnya.”
 
-“Aku bersalah kepadamu,” jawab Dani. “Aku tidak akan menutupinya dengan menerima pernikahan yang tidak dapat kujalani dengan tulus.”
+“Aku tidak mengatakan keberatan.” Pipi Guo Fu memerah. Ia kesal karena Dani masih belum menjawab; bukankah pemuda itu sendiri yang menggodanya di jalan sungai?
 
-Guo Fu menarik tangannya dari sentuhan ibunya. Hidangan pagi, penantian di jalan sungai, dan harapan yang sempat disembunyikannya kini terasa dipertontonkan kepada semua orang. Ia tidak menangis. Justru dagunya terangkat semakin tinggi, sementara matanya mencari perempuan berpakaian putih yang sejak tadi tak pernah jauh dari Dani.
+Dani merapatkan kedua tangan. “Paman, aku tidak dapat menerima.”
 
-Dani meraih tangan Xiaolongnü.
+Tangan Guo Fu berhenti pada gelangnya.
 
-“Saya mencintai Bibi. Saya ingin menikah dengannya.”
+“Apa maksudmu?” tanya Guo Jing. “Adakah sesuatu yang belum Paman ketahui?”
 
-Keheningan berubah menjadi bisikan. Guo Jing memandang tangan mereka, lalu wajah Dani.
+“Aku sudah berjanji kepada orang lain.” Dani menelan ludah. “Dan ada kebohongan yang harus kubetulkan. Pagi tadi kukatakan kepada kedua Wu bahwa Paman telah merestui pernikahanku dengan Fu. Aku mengatakannya agar mereka berhenti berkelahi. Fu tidak pernah menjanjikan apa pun.”
 
-“Dia gurumu.”
+Xiuwen maju selangkah. “Jadi sejak tadi kau mempermainkan kami?”
 
-“Saya tahu.” Dani mengangkat kepala. “Saya menghormatinya sebagai guru dan mencintainya sebagai perempuan yang ingin saya dampingi.”
+“Engkau hampir menikam kakakmu sendiri,” jawab Dani. “Aku berdusta, dan aku mengakuinya. Tetapi jangan berpura-pura seolah pedang kalian tadi hanya dipakai bermain.”
 
-Guo Jing menegakkan tubuh. “Guru menempati kedudukan orang tua. Engkau telah menerima perlindungannya; jangan membalasnya dengan menyeret nama baiknya ke dalam celaan.”
+“Cukup,” kata Huang Rong sebelum Dunru menyela. “Perkara kalian akan dibicarakan dengan Ayah. Dani belum selesai menjawab.”
 
-“Aku tidak diseret,” kata Xiaolongnü. Ia mendekat ke sisi Dani. “Akulah yang ingin menjadi istrinya. Jika orang hendak mencela, mereka harus mendengar jawabanku juga.”
+Guo Fu tertawa pendek. “Tidak perlu diteruskan. Siapa yang memintanya menjadi suamiku? Ayah terlalu memandang tinggi dirinya.”
 
-Guo Jing memandang perempuan yang telah menyelamatkan anak titipannya. Rasa terima kasih itu tidak berkurang, dan justru membuat jawabannya lebih berat.
+Namun suaranya tersangkut pada kata terakhir. Hidangan yang dibawanya pagi tadi, penantian di jalan sungai, bahkan saputangan yang diberikannya kini terasa seperti pertolongan yang dilempar kembali ke wajahnya. Ia lebih rela disebut marah daripada membiarkan mereka melihat betapa besar harapannya.
 
-“Nona Long, saya menghormati budimu. Namun ada batas yang menjaga hubungan guru dan murid. Jika batas itu dilanggar, bagaimana orang kelak menitipkan anaknya untuk belajar?”
+“Aku bersalah karena membawa namamu, Fu,” kata Dani. “Tetapi menerima pernikahan ini hanya akan membuat kesalahanku lebih besar.”
 
-“Aku tidak menerimanya dahulu untuk kujadikan suami,” jawab Xiaolongnü. “Perasaan ini tumbuh sesudah kami hidup bertahun-tahun bersama. Aku tidak meminta murid lain mengikuti kami. Aku hanya tidak mau menyangkal apa yang kurasakan sekarang.”
+Guo Fu menatap Xiaolongnü. “Karena dia? Sejak perempuan itu datang, kau bahkan tak mendengar orang lain memanggil.”
 
-Huang Rong menyentuh lengan suaminya. Ia memahami ketakutan Guo Jing, sekaligus mengenali keteguhan yang dahulu juga membuat dirinya menentang kehendak orang lain. Namun sebelum ia dapat mengajak mereka bicara tanpa penonton, suara Zhao terdengar.
+“Aku mencintai Bibi,” jawab Dani. Ia meraih tangan Xiaolongnü. “Aku hendak menikah dengannya.”
 
-Zhao Zhijing mendengus. “Murid murtad. Rupanya itulah pelajaran yang kaubawa dari makam.”
+Sebuah cawan berhenti di tengah jalan menuju bibir pemiliknya. Bisikan menyusul, mula-mula dari serambi, lalu merambat ke meja-meja di dekat mereka. Orang-orang yang baru saja memuji Dani menatapnya dengan wajah berubah.
 
-“Jangan kauucapkan lagi,” kata Dani. Suaranya merendah.
+“Bukankah dia gurumu?” suara Guo Jing terdengar berat.
 
-Zhen memandang Xiaolongnü dengan wajah pucat. Melihat perempuan itu menggenggam tangan Dani, obsesinya kembali berubah menjadi dengki. Ia menutupi niatnya sendiri dengan suara yang dibuat saleh.
+“Dia guruku, Paman. Dan dia pula orang yang ingin kudampingi seumur hidup.”
 
-“Hubungan seperti ini mencemarkan seluruh perguruan.”
+Di mata dunia persilatan yang memenuhi aula itu, seorang guru menerima penghormatan seperti orang tua. Ikatan perguruan tidak mereka anggap berakhir hanya karena murid telah dewasa. Karena itulah cinta Dani dan Xiaolongnü dinilai sebagai cinta terlarang: bukan karena keduanya sedarah, melainkan karena kedudukan guru dan murid dianggap tak boleh berubah menjadi suami istri. Pengakuan terbuka itu menantang tata susila yang dijunjung para pendekar sebagai ukuran kehormatan.
 
-Dani menatapnya. “Engkau paling tahu alasanmu tidak berhak mengucapkan itu.” Ia tidak membuka perkara gubuk di hadapan orang banyak; Xiaolongnü tidak datang untuk dijadikan bahan pemeriksaan mereka.
+Seorang tamu di belakang kursi berseru, “Jasa hari ini tidak menghapus pelanggaran terhadap guru!” Yang lain menuntut agar Dani menarik ucapannya. Beberapa orang tetap diam, tetapi pandangan mereka beralih dari wajahnya seolah enggan terlihat membela.
+
+Guo Jing mengangkat tangan meminta mereka tenang. “Dani, jangan salah mengartikan kasih seorang guru. Dia melindungimu ketika kami gagal menjagamu. Seharusnya engkau memuliakannya.”
+
+“Aku memang ingin melindunginya, Paman. Mengapa aku harus berpura-pura tidak mencintainya untuk membuktikan itu?”
+
+“Karena ada batas yang tak boleh kaulangkahi!” Guo Jing menekan suaranya. “Sekali hubungan guru dan murid dijadikan demikian, nama kalian akan dicela ke mana pun pergi. Paman tidak akan membiarkanmu menempuh jalan itu.”
+
+Xiaolongnü memandang orang-orang yang berseru tadi. “Akulah yang ingin menjadi istrinya. Mengapa kalian hanya memarahinya?”
+
+Ketenangannya justru memperbesar kegemparan. Bagi Xiaolongnü, menjawab dengan jujur sudah seharusnya menyelesaikan keraguan mereka. Ia tidak dibesarkan di tengah perguruan-perguruan yang menjadikan penghormatan kepada guru sebagai batas tak terbantahkan bagi cinta.
+
+“Nona Long,” ujar Guo Jing, “budimu kepada anak ini tidak akan kulupakan. Tetapi engkau gurunya. Tidakkah engkau memikirkan akibatnya bagi dia?”
+
+“Aku memikirkannya setiap hari sejak kami berpisah,” jawab Xiaolongnü. Jemarinya mengerat di tangan Dani. “Aku ingin dia hidup baik. Aku juga ingin hidup bersamanya. Mengapa yang satu harus meniadakan yang lain?”
+
+Guo Fu memalingkan muka. Ia ingin menganggap kedekatan itu sebagai keburukan perempuan asing tersebut, tetapi suara Xiaolongnü terlalu tenang untuk dijadikan kebohongan. Di belakangnya, Dunru berbisik bahwa Dani tak pantas diberi hati. Fu segera membentak, “Siapa yang memberinya hati? Jaga ucapanmu!”
+
+Zhao Zhijing mendengus. “Murid murtad. Jadi itulah yang kaupelajari setelah lari dari Quanzhen. Perguruan mana yang mengajari muridnya merayu guru sendiri?”
+
+“Jaga mulutmu,” kata Dani. “Engkau boleh membenciku. Jangan seret Bibi ke dalam dendammu.”
+
+Zhen memandang tangan mereka dengan wajah pucat. Ia pernah hendak memanfaatkan Xiaolongnü yang tak berdaya, tetapi kini berdiri di antara orang-orang yang merasa berhak mengadili perempuan itu. Obsesinya berubah menjadi dengki; celaan tentang kesusilaan memberinya tempat untuk bersembunyi.
+
+“Pengakuan seperti ini mencemarkan seluruh perguruan,” katanya.
+
+Dani menatapnya. “Engkau paling tahu mengapa engkau seharusnya diam.” Ia tidak akan mengumbar perkara gubuk untuk memenangi pertengkaran. Xiaolongnü bukan barang bukti yang boleh diserahkannya kepada rasa ingin tahu orang ramai.
 
 Zhao mencabut pedang ketika Dani bergerak mendekat. Dani menghindari ujungnya, masuk pada pergantian langkah yang dikenalnya dari latihan Quanzhen, lalu menghantam pergelangan. Zhao masih sempat menyikut bahunya. Rasa sakit membuat mata Dani berair, tetapi ia memutar gagang sampai pedang jatuh. Tinju Dani berikutnya terhenti di dalam cengkeraman Guo Jing.
 
-“Jangan tambah kesalahanmu.”
+“Di hadapan para tetua, engkau masih hendak memukul bekas gurumu?”
 
-“Saya akan berhenti memukul,” jawab Dani, dadanya naik turun. “Tetapi saya tidak akan meninggalkannya.”
+“Aku akan berhenti memukul, Paman.” Napas Dani memburu. “Tetapi aku tidak akan menyangkal cintaku hanya agar mereka berhenti menghina.”
 
-Guo Jing melepaskan tangan itu perlahan.
+Guo Jing melepaskan pergelangan itu. “Engkau masih tidak mau mengaku salah?”
 
-“Aku menganggapmu anakku sendiri. Karena itu aku tidak dapat merestui jalan ini.”
+“Karena aku tidak menganggap mencintai Bibi sebagai kejahatan. Kami tidak merampas istri orang, tidak menipu orang untuk menjadi pasangan kami. Siapa yang harus kami korbankan agar mereka merasa adatnya telah dijaga?”
 
-Dani berlutut dan memberi hormat. “Saya tidak melupakan budi Paman dan Bibi Guo. Namun tentang siapa yang akan saya dampingi, izinkan saya menanggung keputusan saya sendiri.”
+“Dani!” Guo Jing menyambar kerahnya. Xiaolongnü bergerak, tetapi sapuan lengan pendekar itu menutup jalannya. Tangan kirinya terangkat di atas kepala Dani.
 
-Ketika ia berdiri, Xiaolongnü sudah menunggunya. Mereka mengambil buntalan serta tongkat latihan, lalu berjalan melewati pintu yang terbuka. Tidak ada sorak yang mengikuti. Dani masih mendengar napasnya sendiri dan gesekan kain di sampingnya.
+Aula mendadak sunyi. Telapak yang baru saja melukai Jinlun kini menggantung begitu dekat. Satu pukulan sungguh-sungguh cukup untuk mengakhiri perdebatan itu bersama nyawa pemuda yang dicekalnya.
 
-Di bawah gerbang, Xiaolongnü menyentuh balutan tangannya.
+Dani dapat merasakan kain menekan lehernya. Kakinya tidak mundur. *Paman mengira sedang menyelamatkanku. Kalau aku berbohong sekarang, Bibi akan ditinggalkan sekali lagi.* Ia menatap lelaki yang pernah menggenggam bahunya dan menyebutnya keluarga.
 
-“Apakah tanganmu masih sakit?”
+“Paman boleh menghukumku karena kebohongan tadi,” katanya. “Tetapi jangan minta aku berjanji meninggalkannya. Janji itu akan kulanggar, sekalipun keluar dari mulutku sekarang.”
 
-“Lumayan.” Dani memandangnya. “Tetapi aku tahu ke mana hendak pergi sekarang.”
+“Aku memandangmu sebagai anakku sendiri.” Suara Guo Jing bergetar oleh amarah dan kepedihan. “Justru karena itu aku tak sanggup melihatmu merusak hidupmu dengan keras kepala.”
 
-Xiaolongnü menyelipkan jari ke tangannya yang tidak terluka. Mereka menuruni jalan bersama, membawa janji yang baru saja kehilangan tempat berlindung di antara manusia.
+Xiaolongnü sudah kembali ke sisi Dani. Ia tidak mencabut pedang; ia memegang lengan yang mencengkeram kerah pemuda itu dan mendongak kepada Guo Jing.
+
+“Lepaskan dia. Dia tidak memaksaku, dan aku tidak hendak diselamatkan dengan cara kehilangan dirinya.”
+
+Huang Rong menyentuh lengan suaminya. “Kakanda Jing, lihat siapa yang ada di hadapanmu.”
+
+Guo Jing menatap Dani. Di balik rahang yang mengeras itu masih ada anak yang dahulu menanyakan apakah ia akan ditemani sampai pintu perguruan. Anak itu pernah takut dibuang; sekarang justru ia sendiri yang membuatnya berdiri menunggu hukuman di tengah ratusan orang. Kemarahannya belum padam, tetapi kasih yang melahirkannya membuat tangan itu tak sanggup turun.
+
+Ia mengendurkan cengkeraman. Telapak kirinya perlahan jatuh ke sisi tubuh tanpa memukul.
+
+“Pikirkan lagi,” ucap Guo Jing. “Paman tidak dapat merestuimu.”
+
+Dani merapikan kerah dengan tangan gemetar, lalu membungkuk dalam-dalam. “Budi Paman dan Bibi Guo tidak akan kulupakan. Tetapi untuk perkara ini, aku tidak dapat menurut.”
+
+Guo Jing berbalik sebelum pemuda itu tegak kembali. Tak seorang pun meneruskan sorak kemenangan. Ada yang memandang pasangan itu dengan jijik, ada yang marah, ada pula yang hanya menghela napas. Mereka baru membela aula yang sama, tetapi tak lagi diberi tempat yang sama di dalamnya.
+
+Guo Fu menatap punggung Dani ketika ia mengambil buntalan serta tongkat latihan. Mulutnya terbuka sedikit, lalu terkatup. Ia tidak akan memanggilnya kembali di hadapan perempuan itu. Bahkan ketika Xiuwen menawarkan untuk mengantarnya keluar, Fu menyentakkan lengan dari sentuhannya.
+
+“Aku bisa berjalan sendiri.”
+
+Di bawah gerbang, Xiaolongnü menyentuh bekas tekanan kerah di leher Dani. “Apakah masih sakit?”
+
+“Akan hilang sebentar lagi, Bibi.” Dani menoleh ke pintu aula yang kini terhalang bahu para tamu. Yang paling melukainya tidak meninggalkan bekas di kulit.
+
+Xiaolongnü menyelipkan jari ke tangannya yang tidak terluka. “Kalau mereka tidak mengizinkan kita tinggal, kita pergi bersama.”
+
+Dani mengangguk. Kali ini tidak ada tangan yang dilepaskannya ketika mereka menuruni jalan.
 
 ---
 
@@ -335,4 +427,4 @@ Xiaolongnü menyelipkan jari ke tangannya yang tidak terluka. Mereka menuruni ja
 - Duel Wu dan kemunculan Wu Santong dipindahkan ke persiapan pertemuan sesuai lore. Kabar Hong disampaikan kepada Huang Rong sebelum arena; keterkejutannya menyangkut penerapan ilmu. Kebohongan perjodohan Dani dibetulkan di hadapan ayah Wu dan keluarga Guo.
 - Tongkat hijau adalah pinjaman, dikembalikan sebelum menghadapi Daerba. Pedang pertama dipinjam dari Lu Guanying dan patah; pedang kedua dipinjam untuk menghadapi Jinlun, kemudian dikembalikan. Tongkat latihan, jubah bersambung, dan buntalan alat jahit tetap dibawa.
 - Kekeliruan reinkarnasi Daerba dari kanon dipadatkan menjadi pengunduran diri; tidak menambahkan penguasaan hipnosis Sembilan Yin yang belum dibangun. Kerja sama pedang pasangan dipadatkan ke pertemuan sesuai lore; bantuan Guo, luka Jinlun, gelar Xiaolongnü, dan kepergian bersama mengikuti hasil Babak VII.
-- Reuni dewasa mengakui perasaan dan keinginan menikah secara sadar; ingatan Dani tentang obat tidak dipalsukan menjadi kepastian. Pembahasan kehilangan keperawanan non-grafis mengikuti persepsi Xiaolongnü, tanpa menilai martabatnya dari keadaan tersebut. Statistik dan potret baru mengikuti bukti yang telah dibaca, bukan masa depan lore.
+- Reuni dewasa mengakui perasaan dan keinginan menikah secara sadar; ingatan Dani tentang obat tidak dipalsukan menjadi kepastian. Pembahasan kehilangan keperawanan non-grafis mengikuti persepsi Xiaolongnü, tanpa menilai martabatnya dari keadaan tersebut. Penolakan adat dijelaskan melalui narator dan hadirin; Guo Jing mengangkat tangan lalu menurunkannya tanpa memukul. Revisi memberi ruang bagi dialog Guo Fu dan Wu bersaudara. Statistik dan potret mengikuti bukti yang telah dibaca, bukan masa depan lore.

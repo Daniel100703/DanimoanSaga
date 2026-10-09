@@ -5,8 +5,8 @@ Tiga ilustrasi dibuat dengan alat bawaan **image_gen**; kategori `illustration-s
 | Berkas final | Ukuran | Penempatan |
 | --- | --- | --- |
 | [bab-11-pembuka.webp](../bab-11-pembuka.webp) | 1024 × 1536 | Pembuka bab, aula Pertemuan Pahlawan. |
-| [bab-11-ilustrasi-01.webp](../bab-11-ilustrasi-01.webp) | 1536 × 1024 | Setelah paragraf 82, reuni pribadi. |
-| [bab-11-ilustrasi-02.webp](../bab-11-ilustrasi-02.webp) | 1536 × 1024 | Setelah paragraf 116, dua pedang menghadapi Jinlun. |
+| [bab-11-ilustrasi-01.webp](../bab-11-ilustrasi-01.webp) | 1536 × 1024 | Setelah paragraf 102, reuni pribadi. |
+| [bab-11-ilustrasi-02.webp](../bab-11-ilustrasi-02.webp) | 1536 × 1024 | Setelah paragraf 136, dua pedang menghadapi Jinlun. |
 
 Potret kartu memakai area wajah dari ilustrasi kedua dan ketiga melalui koordinat di `lore-data.json`; tidak menghasilkan gambar potret tambahan. Seluruh berkas berada di akar situs bersama HTML sehingga tautan tetap relatif saat dipasang di GitHub Pages.
 

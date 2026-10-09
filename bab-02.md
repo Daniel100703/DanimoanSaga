@@ -38,7 +38,7 @@ Perempuan itu mengangkat mata. “Adik kecil, apakah keluarga Lu menerima tamu h
 
 Suaranya ramah. Dani justru mundur setapak. Ia melihat kayu yang retak, lalu dua jari perempuan itu yang bersih. Tamu yang ingin dipersilakan masuk tidak perlu merusak pintu. *Aku harus membawa kedua gadis itu menjauh,* pikirnya. Ia belum mengetahui siapa yang datang, tetapi tidak ingin menunggu sampai perempuan itu menunjukkan maksudnya.
 
-“Saya hanya singgah meminta minum, Bibi. Kalau hendak menemui tuan rumah, izinkan saya memanggil beliau.”
+“Aku hanya singgah meminta minum, Bibi. Kalau hendak menemui tuan rumah, biar kupanggilkan.”
 
 “Sungguh anak yang tahu adat. Panggillah seluruh keluarganya. Aku tidak ingin seorang pun merasa dilupakan.”
 
@@ -146,7 +146,7 @@ Li Mochou memperhatikan wajahnya beberapa saat. Sesuatu melintas di matanya, ter
 
 Dani menggigit bagian dalam pipinya. Ia memindahkan beban Wushuang kepada Cheng Ying dan mundur ke buntalan yang terjatuh tadi. Pintu belakang hanya beberapa langkah lagi. Kalau kain itu menutup pandangan Li Mochou sesaat, mungkin mereka masih dapat menyeret Wushuang keluar. Ia tahu dirinya tidak sanggup mengalahkan perempuan itu; yang hendak dicurinya hanya kesempatan untuk lari.
 
-“Saya akan mengambil barang saya,” kata Dani. “Sesudah itu Bibi tidak perlu mendengarkan nasihat saya lagi.”
+“Aku hendak mengambil barangku,” kata Dani. “Sesudah itu Bibi tak perlu mendengar nasihatku lagi.”
 
 Ibu jarinya mengendurkan simpul. Ia menatap Cheng Ying; gadis itu membaca niatnya dan menggeleng, tetapi Dani sudah melemparkan buntalan terbuka ke wajah Li Mochou.
 
@@ -198,7 +198,7 @@ Lelaki itu memeriksa denyut nadinya sebelum menjawab. Dari dekat, Dani melihat s
 
 “Dengan dada seperti itu, kau masih hendak mengejar?”
 
-“Kalau saya sanggup, saya tidak akan meminta pertolongan Tetua.” Dani menunduk, menahan panas di mata. “Saya tahu kepandaian saya tidak ada. Karena itulah saya memohon.”
+“Kalau sanggup, tentu sudah saya kejar, Tetua.” Dani menunduk, menahan panas di mata. “Kepandaian saya belum seberapa. Karena itulah saya memohon pertolongan.”
 
 Lelaki tua itu menatapnya, kemudian memanggil Cheng Ying mendekat. Ia mengeluarkan obat dan menyuruhnya menelan sedikit, lalu memberi bagian lain kepada Dani.
 
@@ -206,7 +206,7 @@ Lelaki tua itu menatapnya, kemudian memanggil Cheng Ying mendekat. Ia mengeluark
 
 Dani memandang Cheng Ying. Bahu bajunya robek dan ada darah pada pelipisnya. Sejak tadi ia ingin mengejar Wushuang, seolah berlari cukup jauh dapat membatalkan kegagalannya. Namun Cheng Ying masih membutuhkan pertolongan di hadapannya. Ia memaksa diri berhenti menoleh ke gerbang dan mendekat kepada gadis yang masih dapat dijaganya.
 
-“Saya tidak bermaksud meninggalkanmu,” katanya.
+“Aku tidak hendak meninggalkanmu, Ying,” kata Dani.
 
 “Aku mengetahuinya, Kakanda.” Cheng Ying menyeka wajah dengan punggung tangan. “Engkau sudah kembali meskipun pintunya terbuka untukmu.”
 
@@ -214,7 +214,7 @@ Lelaki berjubah hijau itu meminta nama mereka. Ketika Dani balas menanyakan nama
 
 “Huang Yaoshi. Mengingat nama tidak membuatmu berutang hormat setiap kali membuka mulut.”
 
-“Kalau begitu, saya akan mengingat pertolongannya, Kakek Huang.”
+“Kalau begitu, aku akan mengingat pertolongannya saja, Kakek Huang.”
 
 Sudut mulut lelaki itu bergerak sedikit. Cheng Ying berlutut untuk berterima kasih. Huang Yaoshi menyuruhnya bangun, memeriksa lagi lengannya, kemudian bertanya apakah ia mempunyai tempat berlindung yang aman. Gadis itu memandang tubuh paman dan bibinya di serambi.
 
@@ -232,7 +232,7 @@ Dani mundur untuk mengumpulkan barang yang berhamburan. Jarum ibunya terselip di
 
 “Bocah, engkau juga dapat ikut sampai menemukan tempat yang layak,” kata Huang Yaoshi.
 
-“Terima kasih, Kakek. Saya hendak mengambil barang Ibu dahulu.”
+“Terima kasih, Kakek. Aku hendak mengambil barang Ibu dahulu.”
 
 “Ambil. Aku tidak menyuruhmu meninggalkannya.”
 

@@ -22,7 +22,7 @@ Potongan yang lebih besar disodorkan kepada Dani. Ia menerimanya, kemudian tanpa
 
 “Kalau begitu, makanlah sebelum kenanganmu membuatnya dingin.”
 
-Dani tersenyum kecil. “Tetua sudah memberi saya tempat dan makanan. Saya khawatir sesudah ini diminta membayar dengan membersihkan seluruh salju di gunung.”
+Dani tersenyum kecil. “Tetua sudah memberiku tempat dan makanan. Jangan-jangan sesudah ini aku disuruh membersihkan seluruh salju di gunung untuk membayarnya.”
 
 “Jangan terlalu menghargai tenagamu, bocah. Mengumpulkan kayu kering saja sudah cukup.”
 
@@ -42,11 +42,11 @@ Hong Qigong mengangguk. Sesudah mendengar nama Guo Jing disebut, ia menanyakan k
 
 “Dan sekarang gurumu yang kaucari?” tanya Hong Qigong.
 
-“Saya mencintainya,” jawab Dani. Tenggorokannya terasa sempit, tetapi ia meneruskan. “Ketika ia meminta jawaban, saya tidak sanggup membuatnya mengerti. Sekarang saya bahkan tidak tahu ke mana harus menyampaikan jawaban itu.”
+“Aku mencintainya,” jawab Dani. Tenggorokannya terasa sempit, tetapi ia meneruskan. “Ketika ia meminta jawaban, aku malah membuatnya salah mengerti. Sekarang aku bahkan tak tahu ke mana harus mencarinya, Tetua.”
 
 Hong Qigong memandangnya tanpa tertawa. “Nyali untuk menghadapi Li Mochou kaupikul sampai ke kedai, tetapi untuk mengucapkan isi hati kaukehilangan jalan.” Hong menghela napas. “Bila kelak bertemu, jangan menunggu perpisahan kedua untuk menyelesaikan kalimatmu.”
 
-Dani menyentuh sambungan kain di rusuknya. “Itulah yang hendak saya lakukan, Tetua.”
+Dani menyentuh sambungan kain di rusuknya. “Itulah yang ingin kulakukan, Tetua.”
 
 ***
 
@@ -158,7 +158,7 @@ Dani mengulangi gerakan yang ditunjukkan. Ouyang Feng segera membentak.
 
 “Salah! Lehermu terbuka. Mati kau! Bukan—anakku tidak boleh mati. Ulangi!”
 
-Dani berhenti sebelum tongkat berbalik. “Tetua Hong, kalau langkah saya masuk dari luar, bukankah bahu Ayah dapat menutup jalan kembali?”
+Dani berhenti sebelum tongkat berbalik. “Tetua Hong, kalau aku masuk dari luar, bukankah bahu Ayah akan menutup jalan kembali?”
 
 Mata Hong Qigong menyala. “Itulah sebabnya ujung tongkat tidak boleh engkau tarik lurus. Biarkan sentuhannya menuntun senjata lawan, lalu pindahkan kakimu. Cobalah dengan perlahan.”
 
@@ -170,7 +170,7 @@ Penjelasannya melompat-lompat, tetapi gerakan jarinya tidak pernah ragu. Dani me
 
 “Rangkaian ini disebut Tongkat Pemukul Anjing,” kata Hong Qigong. “Nama boleh membuatmu tersenyum. Di tangan orang yang mengerti, tongkat biasa dapat merebut senjata, merusak pijakan, atau meremukkan tulang. Jangan memperlakukannya sebagai permainan.”
 
-Dani menundukkan tongkat. “Apakah saya diperbolehkan mempelajarinya, Tetua? Saya bukan anggota Klan Pengemis.”
+Dani menundukkan tongkat. “Bolehkah aku mempelajarinya, Tetua? Aku bukan anggota Klan Pengemis.”
 
 Hong Qigong menatap tangan pemuda itu yang dibalut. “Aku yang menyuruhmu memegangnya. Tanggung jawab mengajar berada padaku. Tanggung jawab memakainya kelak berada padamu.”
 
@@ -254,7 +254,7 @@ Ia menyambut tangan Hong Qigong. Kedua orang itu tertawa pelan, saling mendekat 
 
 “Dani,” kata Hong Qigong, “pelajaran kita selesai di sini. Yang belum sanggup kaulakukan, latihlah dengan sabar. Jangan mencari orang untuk dipatahkan hanya demi memastikan tongkatmu sudah pandai.”
 
-“Guru Hong, saya akan mengingatnya.” Suara Dani pecah pada sapaan itu. “Tetapi izinkan saya membawa kalian turun. Di bawah gunung ada tempat yang lebih hangat.”
+“Guru Hong, akan kuingat.” Suara Dani pecah pada sapaan itu. “Tetapi biarkan aku membawa kalian turun. Di bawah gunung ada tempat yang lebih hangat.”
 
 Hong Qigong memandang api yang telah dirawatnya semalaman.
 
@@ -278,7 +278,7 @@ Pada dua batu penanda, ia menggoreskan nama dengan serpihan batu yang lebih kera
 
 Hong Qigong. Ouyang Feng.
 
-“Guru Hong, saya belum pandai memakai ilmu yang Guru tinggalkan,” ucap Dani di depan makam pertama. “Saya akan mempelajarinya. Kedua orang di kedai itu pun tidak akan saya lupakan.”
+“Guru Hong, aku belum pandai memakai ilmu yang Guru tinggalkan,” ucap Dani di depan makam pertama. “Aku akan terus berlatih. Kedua orang di kedai itu juga tidak akan kulupakan.”
 
 Ia bergeser ke makam ayahnya. Lama ia memandang nama yang dahulu begitu sulit diingat oleh pemiliknya sendiri.
 

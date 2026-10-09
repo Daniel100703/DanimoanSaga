@@ -6,7 +6,7 @@ Dani berhenti. Setelah apa yang terjadi di rumah keluarga Lu, ia tidak ingin men
 
 Rambut kelabunya menyapu tanah. Jubah kusamnya melorot ke arah bahu, memperlihatkan celana yang terikat di pergelangan kaki. Kedua lengannya kokoh menopang tubuh. Ia berjalan lurus ke arah Dani.
 
-“Tetua, hati-hati! Saya berdiri di jalan ini,” seru Dani.
+“Tetua, hati-hati! Jangan menabrakku!” seru Dani.
 
 Orang itu mendongak dari bawah. Dani mundur dua langkah; tumitnya tersangkut akar. Sebuah tangan tiba-tiba menyambar kerahnya sebelum ia jatuh. Dalam sekejap lelaki itu sudah berdiri tegak.
 
@@ -14,13 +14,13 @@ Tarikan tersebut menyentak dada Dani. Ia mendesis, menepis tangan itu, lalu meny
 
 “Siapa yang memukulmu?” tanya lelaki tua itu.
 
-“Seorang perempuan membawa kebut, Tetua. Mohon jangan tarik kerah saya; dada saya masih sakit!” seru Dani.
+“Seorang perempuan membawa kebut, Tetua. Jangan tarik kerahku; dadaku masih sakit!” seru Dani.
 
 Mata lelaki itu membelalak. Rambut acak-acakan membingkai wajah keras dengan hidung tinggi dan alis lebat. Ia meraba bahu Dani, seolah mencari sesuatu yang telah lama hilang.
 
 “Berani memukul anakku? Mana dia? Panggil ke sini!” bentak lelaki tua itu.
 
-“Perempuan itu sudah pergi, Tetua. Tetapi saya bukan anak—” bantah Dani.
+“Perempuan itu sudah pergi, Tetua. Tetapi aku bukan anak—” bantah Dani.
 
 “Pergi? Takut! Semua takut kepadaku. Aku yang paling hebat. Paling hebat!”
 
@@ -28,7 +28,7 @@ Teriakannya membuat burung-burung terbang dari pepohonan. Dani menelan sisa bant
 
 Ia melirik jalan di belakang lelaki itu.
 
-“Kalau Tetua tidak membutuhkan bantuan, izinkan saya meneruskan perjalanan,” kata Dani.
+“Kalau Tetua tidak membutuhkan bantuan, aku hendak melanjutkan perjalanan,” kata Dani.
 
 “Rumahmu di mana?” tanya lelaki tua itu.
 
@@ -36,7 +36,7 @@ Dani membuka mulut, lalu mengangkat bahu. Lelaki tua itu malah menangkap pergela
 
 “Ikut aku. Anakku tidak boleh tidur di jalan,” ujar lelaki tua itu.
 
-“Saya sanggup berjalan sendiri, Tetua! Pergelangan yang itu juga terluka,” balas Dani.
+“Aku masih sanggup berjalan sendiri, Tetua! Pergelangan yang itu juga terluka,” balas Dani.
 
 Pegangan itu langsung mengendur.
 
@@ -48,7 +48,7 @@ Tempat tinggal yang dimaksud hanyalah sebuah tempat pemujaan kosong di pinggir h
 
 “Apa lagi yang diminta anakku? Katakan kepadaku!” tanya lelaki tua itu.
 
-“Barangkali ada ayam. Saya hanya bertanya, Tetua; dua ubi itu pun sudah banyak,” jawab Dani.
+“Barangkali ada ayam. Aku hanya bertanya, Tetua; dua ubi itu pun sudah banyak,” jawab Dani.
 
 Lelaki itu benar-benar merogoh lengan bajunya. Dani menahan tawa, kemudian terbatuk kesakitan. Tangannya buru-buru menekan dada.
 
@@ -56,37 +56,37 @@ Senyum lelaki tua itu lenyap. Ia berjongkok, memeriksa bagian yang terkena pukul
 
 “Memar! Mereka berani meninggalkan bekas pada anakku. Jangan bergerak! Kau hendak merusakkan dadamu sendiri?” kata lelaki tua itu.
 
-“Saya tidak sengaja melukai diri, Tetua. Perempuan itulah yang melemparkan saya,” balas Dani.
+“Bukan aku yang melukai diri, Tetua. Perempuan itulah yang melemparkanku,” balas Dani.
 
 “Siapa berani—”
 
-“Perempuan berkebut yang tadi saya ceritakan, Tetua. Dia sudah pergi jauh dari sini,” jawab Dani.
+“Perempuan berkebut yang kuceritakan tadi, Tetua. Dia sudah jauh dari sini,” jawab Dani.
 
 Lelaki itu mengerutkan dahi, lalu mengangguk dengan kesal. Dani menyembunyikan senyum di balik lutut. Setidaknya, ia sudah menemukan cara menghentikan teriakannya.
 
 Ketika ubi matang, lelaki itu membelah yang paling besar dan menyodorkannya. Jari Dani kepanasan. Ia memindah-mindahkannya dari telapak ke telapak sambil meniup. Lelaki itu tertawa keras, kemudian mengambil separuh ubi tersebut untuk ditiupnya sendiri.
 
-“Tetua, apakah saya boleh mempelajari ilmu silat yang tadi diperlihatkan?” tanya Dani.
+“Tetua, bolehkah aku mempelajari ilmu silat yang tadi diperlihatkan?” tanya Dani.
 
 “Ilmuku paling tinggi! Mereka semua hendak mencurinya. Biar mereka datang, akan kupatahkan tangannya!” jawab lelaki tua itu.
 
-“Saya ingin belajar melindungi diri, Tetua. Untuk berjalan di atas tangan, saya belum berani mencobanya,” kata Dani.
+“Aku ingin belajar melindungi diri, Tetua. Kalau berjalan di atas tangan, rasanya aku belum berani,” kata Dani.
 
 “Bodoh! Bukan itu! Sekali pukul, mereka terpelanting. Tanganku yang memukul, mengapa mereka masih berani tertawa?” seru lelaki tua itu.
 
-Dani mengangguk terlalu cepat. Saat mengingat Wushuang dibawa melewati gerbang, ia meremas kulit ubi sampai dagingnya penyok. Kali berikutnya, ia ingin bisa melakukan lebih dari sekadar melempar buntalan. “Saya ingin belajar, Tetua. Tetapi saya tidak mempunyai uang untuk membalas kebaikan itu.”
+Dani mengangguk terlalu cepat. Saat mengingat Wushuang dibawa melewati gerbang, ia meremas kulit ubi sampai dagingnya penyok. Kali berikutnya, ia ingin bisa melakukan lebih dari sekadar melempar buntalan. “Aku ingin belajar, Tetua. Tetapi aku tak punya uang untuk membalas kebaikan itu.”
 
 “Siapa minta uang? Panggil ayah!” bentak lelaki tua itu.
 
-Dani menatapnya. “Bolehkah saya memanggil Tetua sebagai Guru?”
+Dani menatapnya. “Kalau kupanggil Guru saja, bolehkah?”
 
 “Tidak! Murid banyak. Anak cuma satu. Kau anakku,” jawab lelaki tua itu.
 
-“Tetapi saya sudah mempunyai seorang ayah, Tetua,” kata Dani.
+“Tetapi aku sudah mempunyai seorang ayah, Tetua,” kata Dani.
 
 “Di mana dia? Mengapa anakku berada seorang diri di jalan?” desak lelaki tua itu.
 
-“Ayah kandung saya sudah meninggal,” jawab Dani.
+“Ayah kandungku sudah meninggal,” jawab Dani.
 
 Lelaki tua itu berhenti mengunyah. Sesaat rahangnya bergerak tanpa suara. Kemudian ia mendekat, hampir berbisik.
 
@@ -94,7 +94,7 @@ Lelaki tua itu berhenti mengunyah. Sesaat rahangnya bergerak tanpa suara. Kemudi
 
 Jari-jarinya mencengkeram lengan jubahnya sendiri. Dani tadinya hendak berkata bahwa mereka bahkan tidak mirip, tetapi kata-kata itu tertahan. Wajah di hadapannya tampak begitu ketakutan sehingga ia tidak sanggup menertawakannya.
 
-“Nama saya Dani Moan, Tetua. Barangkali anak yang sedang dicari bukan saya,” ujar Dani.
+“Namaku Dani Moan, Tetua. Barangkali bukan aku anak yang sedang dicari,” ujar Dani.
 
 “Dani. Dani…” gumam lelaki tua itu.
 
@@ -196,15 +196,15 @@ Lelaki berjubah cokelat keemasan itu berhenti. Pandangannya tertahan pada wajah 
 
 “Adik kecil, tunggu sebentar. Siapa namamu?” tanya Guo Jing.
 
-“Untuk apa Paman menanyakan nama saya?” tanya Dani.
+“Untuk apa Paman menanyakan namaku?” tanya Dani.
 
 “Wajahmu mengingatkan Paman kepada seorang saudara lama. Paman hendak memastikan sesuatu,” jawab Guo Jing.
 
-Dani memindahkan buntalan ke sisi yang menjauhi mereka. Tiga hari lalu ia bertemu orang yang langsung mengaku ayah; sekarang ada orang lain yang mengaku paman. “Saudara Paman itu juga pernah berjalan dengan wajah penuh lumpur seperti saya?”
+Dani memindahkan buntalan ke sisi yang menjauhi mereka. Tiga hari lalu ia bertemu orang yang langsung mengaku ayah; sekarang ada orang lain yang mengaku paman. “Saudara Paman itu juga pernah berjalan dengan wajah penuh lumpur seperti aku?”
 
 Guo Jing membiarkan sindiran itu lewat. Tatapannya tetap tenang pada wajah Dani. “Lumpur dapat dibasuh, tetapi sorot mata itu tetap dapat Paman kenali. Siapa namamu, Nak?”
 
-Dani hampir tersenyum. “Nama saya Dani Moan, Paman.”
+Dani hampir tersenyum. “Namaku Dani Moan, Paman.”
 
 Wajah Guo Jing berubah. Ia maju setapak, tetapi berhenti ketika Dani menegangkan bahunya.
 
@@ -212,7 +212,7 @@ Wajah Guo Jing berubah. Ia maju setapak, tetapi berhenti ketika Dani menegangkan
 
 Tongkat di sampingnya mengetuk batu dengan keras.
 
-“Dari mana Paman mengenal nama ayah saya?” tanya Dani.
+“Dari mana Paman mengenal nama ayahku?” tanya Dani.
 
 “Kalau begitu, apakah Mu Nianci ibumu?” tanya Guo Jing.
 
@@ -220,7 +220,7 @@ Kini Dani tidak tersenyum lagi. Ia mengangguk, matanya bergerak dari Guo Jing ke
 
 “Aku Guo Jing. Ayahmu saudara angkatku. Kami sudah lama mencari kabar kalian. Ibumu sekarang di mana?” kata Guo Jing.
 
-“Ibu saya sudah meninggal, Paman,” jawab Dani.
+“Ibuku sudah meninggal, Paman,” jawab Dani.
 
 Tangan Guo Jing yang terulur perlahan turun. Ia memandang baju Dani yang robek dan buntalan kecilnya, lalu menarik napas berat.
 
@@ -240,7 +240,7 @@ Dani mengendurkan pegangannya sedikit. Orang ini tahu sesuatu yang tidak mungkin
 
 Guo Jing terdiam. Dani menatap lelaki tua itu; panas mulai merayap ke telinganya.
 
-“Tetua, saya tidak meminta diakui sebagai siapa pun. Saya sedang mencari seseorang,” kata Dani.
+“Tetua, aku tidak meminta diakui sebagai siapa pun. Aku hanya sedang mencari seseorang,” kata Dani.
 
 “Guru Paman bernama Ke Zhen'e. Beliau khawatir Paman keliru. Duduklah dulu, Dani. Dadamu sakit?” ujar Guo Jing.
 
@@ -256,7 +256,7 @@ Dani mengembuskan napas. Setidaknya satu orang benar-benar berada di tempat aman
 
 “Kau perlu istirahat. Ikut Paman. Di rumah ada makanan dan tempat tidur,” ujar Guo Jing.
 
-“Saya masih harus mencari ayah angkat saya, Paman. Pagi tadi kami terpisah,” balas Dani.
+“Aku masih harus mencari ayah angkatku, Paman. Pagi tadi kami terpisah,” balas Dani.
 
 “Siapa yang telah mengangkatmu sebagai anak?” tanya Ke Zhen'e.
 
@@ -276,21 +276,21 @@ Dengan arang sisa api, Guo Jing menuliskan nama dan arah perjalanannya pada papa
 
 “Murid akan membawanya, Guru. Anak saudaraku tidak patut dibiarkan sendirian dalam keadaan terluka. Jika ia keliru, menjadi tanggung jawabku untuk membimbingnya,” jawab Guo Jing.
 
-“Tetapi saya belum mengatakan bersedia ikut, Paman,” balas Dani.
+“Tetapi aku belum mengatakan hendak ikut, Paman,” balas Dani.
 
 Guo Jing menoleh dan menunggu. Itu malah membuat Dani salah tingkah. Ia menggaruk noda abu di ujung hidungnya, memandang jalan, lalu kembali memandang papan tersebut.
 
-“Jika ayah angkat saya datang, mohon Paman jangan mengusirnya,” kata Dani.
+“Kalau ayah angkatku datang, jangan usir beliau, Paman,” kata Dani.
 
 “Paman akan mendengarkan beliau,” balas Guo Jing.
 
-“Saya juga tidak hendak hidup menumpang tanpa membantu. Saya bisa mencari kayu dan menjahit sedikit, meskipun jahitan saya belum rapi,” tambah Dani.
+“Aku juga tak hendak menumpang makan saja. Aku bisa mencari kayu dan menjahit sedikit, meskipun jahitanku belum rapi,” tambah Dani.
 
 “Kemauanmu membantu Paman hargai. Tetapi makanan dan tempat bernaung bukan upah yang harus kaubeli dengan tubuh terluka. Pulihkan dirimu dahulu,” jawab Guo Jing.
 
 Perut Dani berbunyi sebelum ia sempat menjawab. Guo Jing tersenyum tanpa menertawakan. Bahkan Ke Zhen'e hanya berdeham dan berbalik ke arah jalan.
 
-Dani meraba ubi terakhir di dalam buntalan. Ia membiarkannya di sana, kemudian menyusul kedua lelaki itu. “Paman Guo, mohon jangan berjalan terlalu cepat. Kaki saya masih pegal.”
+Dani meraba ubi terakhir di dalam buntalan. Ia membiarkannya di sana, kemudian menyusul kedua lelaki itu. “Paman Guo, jangan terlalu cepat. Kakiku masih pegal.”
 
 Guo Jing segera memperlambat langkah. Kali ini Dani tidak perlu berlari untuk mengejar.
 

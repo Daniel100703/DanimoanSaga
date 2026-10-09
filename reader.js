@@ -20,8 +20,8 @@
   const migration=JSON.parse(document.getElementById('edition-migration').textContent);
   if(state.edition!==migration.edition){
     const previous=state, positions={};
-    const fromPrevious=previous.edition===migration.previousEdition;
-    const mapping=fromPrevious?migration.previousMap:migration.map;
+    const fromPrevious=previous.edition===migration.previousEdition || Boolean(migration.editionMaps?.[previous.edition]);
+    const mapping=migration.editionMaps?.[previous.edition] || (previous.edition===migration.previousEdition?migration.previousMap:migration.map);
     const mapped=anchor=>mapping[anchor]||null;
     for(const [slug,pos] of Object.entries(previous.positions)){
       const anchor=mapped(pos.anchor);if(!anchor)continue;

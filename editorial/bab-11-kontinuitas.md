@@ -1,22 +1,22 @@
 # Catatan penulis — Bab 11
 
-**Judul:** Di Hadapan Dunia Persilatan. **Panjang:** 3.306 kata, 159 paragraf. **Status:** peta disetujui penulis; naskah dan tiga ilustrasi terpasang.
+**Judul:** Di Hadapan Dunia Persilatan. **Panjang:** 4.409 kata, 205 paragraf. **Status:** peta disetujui penulis; naskah dan tiga ilustrasi terpasang.
 
 ## Dasar penulisan
 
-Lorebook terbaru `Saga_Dani_Moan_Lorebook_1(4).md` sama dengan sumber proyek `Saga_Dani_Moan_Lorebook_1.md`. Prioritas: arahan penulis, lorebook Jalur A, kemudian kanon Return of the Condor Heroes. Bab 1–10 tidak ditulis ulang pada pembaruan ini.
+Lorebook terbaru `Saga_Dani_Moan_Lorebook_1(4).md` sama dengan sumber proyek `Saga_Dani_Moan_Lorebook_1.md`. Prioritas: arahan penulis, lorebook Jalur A, kemudian kanon Return of the Condor Heroes. Revisi 9 Oktober mempertahankan kejadian Bab 1–10 dan memperbaiki dialog Dani yang terlalu resmi. Bab 11 diperluas sesuai arahan penulis; panjangnya tidak dipaksa ke batas lama apabila percakapan utama menjadi terpotong.
 
 ## Cakupan Babak VII
 
 | Poin lore | Paragraf Bab 11 | Peristiwa |
 | --- | --- | --- |
-| 1–4 | 1–24 | Pergantian musim; penyamaran; Guo meminta penjelasan; Quanzhen meminta maaf; Dani bermalam. |
-| 5–10 | 25–44 | Masakan Guo Fu; duel Wu; Wu Santong; kebohongan perjodohan; sungai dan pelajaran Lu Youjiao. |
-| 11–13 | 45–55 | Kabar Hong dan riwayat perjalanan; pertolongan saat Huang Rong lemas; kembali ke pertemuan. |
-| 14–16 | 55–87 | Tantangan Mongol; kedatangan Xiaolongnü; percakapan pribadi; kembali ke arena. |
-| 17 | 88–109 | Tongkat pinjaman melawan Huodu; penawar; Daerba mengalah akibat kekeliruan identitas. |
-| 18–20 | 110–126 | Pasangan menghadapi Jinlun; Guo ikut melukai; pengakuan gelar Xiaolongnü. |
-| 21–24 | 127–159 | Lamaran ditolak; cinta diumumkan; celaan Zhao–Zhen; pertarungan singkat; pilihan dan kepergian bersama. |
+| 1–4 | 1–26 | Pergantian musim; penyamaran; Guo meminta penjelasan; Quanzhen meminta maaf; Dani bermalam. |
+| 5–10 | 27–61 | Masakan Guo Fu; duel Wu; Wu Santong; kebohongan perjodohan; sungai dan pelajaran Lu Youjiao. |
+| 11–13 | 62–72 | Kabar Hong dan riwayat perjalanan; pertolongan saat Huang Rong lemas; kembali ke pertemuan. |
+| 14–16 | 72–107 | Tantangan Mongol; kedatangan Xiaolongnü; percakapan pribadi; kembali ke arena. |
+| 17 | 108–129 | Tongkat pinjaman melawan Huodu; penawar; Daerba mengalah akibat kekeliruan identitas. |
+| 18–20 | 130–146 | Pasangan menghadapi Jinlun; Guo ikut melukai; pengakuan gelar Xiaolongnü. |
+| 21–24 | 147–205 | Lamaran ditolak; cinta diumumkan; celaan Zhao–Zhen; pertarungan singkat; Guo Jing mengangkat tangan lalu membatalkan pukulan; pilihan dan kepergian bersama. |
 
 ## Sambungan yang dikunci
 
@@ -40,6 +40,8 @@ Jin Yong, *The Return of the Condor Heroes*, terjemahan novel oleh Jenxi Seow, W
 - [Bab 13, bagian 5](https://wuxiasociety.com/return-of-the-condor-heroes-chapter-13-part-5/) — kekeliruan Daerba tentang reinkarnasi dan perbedaan kekuatan kedua petarung.
 - [Bab 14, bagian 5](https://wuxiasociety.com/return-of-the-condor-heroes-chapter-14-part-5/) — prinsip pedang Quanzhen dan Gadis Giok yang saling melindungi.
 
+- [Bab 14, bagian 2](https://wuxiasociety.com/return-of-the-condor-heroes-chapter-14-part-2/) dan [bagian 3](https://wuxiasociety.com/return-of-the-condor-heroes-chapter-14-part-3/) — pertentangan adat, ancaman pukulan Guo Jing yang dibatalkan, serta keberangkatan pasangan.
+
 ## Penyesuaian yang disengaja
 
 Duel Wu bersaudara dan Wu Santong dipindahkan ke persiapan pertemuan menurut Babak VII. Pertarungan gabungan, bantuan Guo Jing yang melukai Jinlun, dan gelar Xiaolongnü mengikuti hasil lore, bukan mengklaim urutan asli novel persis sama.
@@ -48,6 +50,6 @@ Kekeliruan reinkarnasi Daerba dipadatkan menjadi keputusan mengalah. Saga belum 
 
 ## Wiki dan visual
 
-64 entri, 235 tahap informasi. Dua belas entri baru mencakup enam tokoh, tiga ilmu, serta tiga senjata. Kartu awal Jinlun dan tokoh pendukung tidak mengungkap kemampuan yang belum ditunjukkan. Tingkat rujukan Saga dibedakan dari hasil satu pertandingan dan batas kemampuan aktual.
+65 entri, 239 tahap informasi setelah revisi. Catatan adat guru–murid ditambahkan; perubahan sikap Guo Jing dan terbongkarnya kebohongan di depan kedua Wu diberi tahap tersendiri. Kartu awal Jinlun dan tokoh pendukung tidak mengungkap kemampuan yang belum ditunjukkan. Tingkat rujukan Saga dibedakan dari hasil satu pertandingan dan batas kemampuan aktual.
 
 Tiga ilustrasi cerita baru: aula, reuni, dan duel. Potret Dani, Xiaolongnü, serta Jinlun menggunakan area wajah dari gambar adegan tersebut. Tidak membuat potret tambahan. Semua 37 ilustrasi cerita sebelumnya dan sampul utama dipertahankan.
