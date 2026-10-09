@@ -11,7 +11,8 @@
     "7": 139,
     "8": 133,
     "9": 133,
-    "10": 143
+    "10": 143,
+    "11": 159
   },
   "entries": [
     {
@@ -388,6 +389,107 @@
           "chapter": 10,
           "paragraph": "p-10-141",
           "quote": "Ketika akhirnya berdiri, Dani mengambil tongkat kayu yang dipakainya belajar. Buntalan kecil di punggung masih menyimpan alat jahit ibunya; sambungan jubah di rusuknya menahan dingin setiap kali angin datang dari samping."
+        },
+        {
+          "title": "Dani Moan",
+          "summary": "Melanjutkan pencarian setelah pergantian musim dan kehilangan dua tetua di Huashan.",
+          "fields": {
+            "Usia sekarang": "19 tahun",
+            "Tingkat": "Belum terukur · mempelajari ilmu lanjutan",
+            "Ilmu yang terlihat": "Warisan tongkat sudah dipelajari; belum diuji kembali pada awal bab.",
+            "Kondisi": "Luka tangan telah menutup. Masih membawa duka dan mencari Xiaolongnü.",
+            "Bekal": "Tongkat latihan dan jubah biru bersambung; belum mempunyai pedang pengganti.",
+            "Ikatan yang terlihat": "Salah pengertian dengan Xiaolongnü belum diselesaikan."
+          },
+          "key": 110001,
+          "chapter": 11,
+          "paragraph": "p-11-001",
+          "quote": "Ketika jalan-jalan kembali kering, Dani telah berusia sembilan belas tahun. Luka tangannya menutup; duka dari Huashan ikut turun bersamanya. Ia mencari Xiaolongnü melalui kedai, persimpangan, dan rombongan pengelana, sampai kabar Pertemuan Pahlawan membawanya ke kediaman Lu Guanying. Begitu banyak orang berkumpul di sana. Barangkali seseorang pernah melihatnya."
+        },
+        {
+          "title": "Dani Moan",
+          "summary": "Menyatakan cinta dan keinginan menikah dengan sadar setelah menjelaskan keterbatasan ingatannya.",
+          "fields": {
+            "Usia sekarang": "19 tahun",
+            "Tingkat": "Belum terukur · mempelajari ilmu lanjutan",
+            "Kondisi": "Bertemu kembali dengan Xiaolongnü.",
+            "Ikatan yang terlihat": "Saling menyatakan keinginan hidup bersama; belum menikah.",
+            "Pengetahuan": "Tidak mengarang kepastian tentang bagian malam berobat yang tidak diingatnya.",
+            "Janji": "Tidak menyembunyikan Xiaolongnü di hadapan orang lain."
+          },
+          "key": 110081,
+          "chapter": 11,
+          "paragraph": "p-11-081",
+          "quote": "Dani mengecup punggung jarinya. “Aku tidak akan menyembunyikanmu.”"
+        },
+        {
+          "title": "Dani Moan",
+          "summary": "Mengalahkan Huodu dengan sudut tongkat, pengaturan jarak, dan serangan pada tumpuan.",
+          "fields": {
+            "Usia sekarang": "19 tahun",
+            "Tingkat": "3 · Kelas Super (rujukan fase awal Saga)",
+            "Dasar tingkat": "Matriks pertumbuhan Dani; kemenangan ini tidak otomatis menaikkan tingkat.",
+            "Ilmu yang terlihat": "Tongkat Pemukul Anjing diterapkan dalam pertandingan.",
+            "Dampak teramati": "Menjatuhkan Huodu dan menahan ujung tongkat di tenggorokannya.",
+            "Batas": "Belum menguasai seluruh kedalaman ilmu; menghindari adu tenaga.",
+            "Kondisi": "Terengah dan bahu nyeri.",
+            "Ikatan yang terlihat": "Telah berjanji hidup bersama Xiaolongnü."
+          },
+          "key": 110100,
+          "chapter": 11,
+          "paragraph": "p-11-100",
+          "quote": "Dani tidak mencoba menahan pukulan berikutnya. Ia membiarkan Huodu mengejar, mengusik pergelangan, kemudian menyapu tumpuan ketika kipas ditarik terlalu jauh. Lutut Huodu membentur lantai. Sebelum ia bangkit, ujung bambu berhenti di lekuk tenggorokannya."
+        },
+        {
+          "title": "Dani Moan",
+          "summary": "Menang atas Daerba karena lawan mengalah akibat salah mengenali dirinya.",
+          "fields": {
+            "Usia sekarang": "19 tahun",
+            "Tingkat": "3 · Kelas Super (rujukan fase awal Saga)",
+            "Ilmu yang terlihat": "Menghindar, membaca keraguan lawan, dan menggunakan isyarat.",
+            "Dampak teramati": "Daerba menyatakan kalah; kekuatannya belum dipatahkan.",
+            "Batas": "Bilah pinjaman Dani justru patah dalam benturan. Tidak menggunakan hipnosis.",
+            "Kondisi": "Pangkal ibu jari berdarah; betis tergores pecahan ubin.",
+            "Ikatan yang terlihat": "Telah berjanji hidup bersama Xiaolongnü."
+          },
+          "key": 110108,
+          "chapter": 11,
+          "paragraph": "p-11-108",
+          "quote": "Jinlun membentak muridnya. Daerba memandang guru dan pemuda itu bergantian, akhirnya meletakkan gada serta menyatakan mengalah. Kekalahannya lahir dari keyakinan yang keliru; tenaga dan senjatanya belum ditundukkan."
+        },
+        {
+          "title": "Dani Moan",
+          "summary": "Bekerja sama dengan Xiaolongnü untuk menekan Jinlun.",
+          "fields": {
+            "Usia sekarang": "19 tahun",
+            "Tingkat": "3 · Kelas Super (rujukan fase awal Saga)",
+            "Ilmu yang terlihat": "Dasar Quanzhen mengisi gerak Gadis Giok Xiaolongnü.",
+            "Dampak teramati": "Pasangan memaksa Jinlun mundur.",
+            "Batas": "Belum melampaui tenaga lawan; susunan dapat pecah ketika dipisahkan rintangan.",
+            "Kondisi": "Tangan terluka masih memegang pedang pinjaman kedua.",
+            "Ikatan yang terlihat": "Saling menjaga dalam pertandingan setelah janji pribadi."
+          },
+          "key": 110121,
+          "chapter": 11,
+          "paragraph": "p-11-121",
+          "quote": "Jinlun mundur tiga langkah. Ketika roda berbalik, ujungnya merobek tiang kayu. Mereka belum melampaui tenaga dalamnya; kedua pedang hanya mempersulitnya menghimpun serangan penuh. Begitu Jinlun memaksa mereka terpisah mengitari bangku patah, celah itu terbuka."
+        },
+        {
+          "title": "Dani Moan",
+          "summary": "Memilih meninggalkan pertemuan bersama Xiaolongnü setelah penolakan Guo Jing.",
+          "fields": {
+            "Usia sekarang": "19 tahun",
+            "Tingkat": "3 · Kelas Super (rujukan fase awal Saga)",
+            "Ilmu yang terlihat": "Tongkat, kecerdikan, dan kerja sama pedang telah diuji.",
+            "Batas": "Kemenangan atas Daerba bersifat psikologis; menghadapi Jinlun memerlukan pasangan dan bantuan Guo Jing.",
+            "Kondisi": "Tangan dibalut; bahu masih sakit.",
+            "Bekal": "Tongkat latihan dan buntalan dibawa; tongkat hijau serta pedang kedua telah dikembalikan.",
+            "Ikatan yang terlihat": "Cinta diumumkan; belum menikah dan belum mendapat restu Guo Jing."
+          },
+          "key": 110159,
+          "chapter": 11,
+          "paragraph": "p-11-159",
+          "quote": "Xiaolongnü menyelipkan jari ke tangannya yang tidak terluka. Mereka menuruni jalan bersama, membawa janji yang baru saja kehilangan tempat berlindung di antara manusia.\n"
         }
       ],
       "portraits": [
@@ -417,6 +519,20 @@
             0.075,
             0.39,
             0.29
+          ]
+        },
+        {
+          "key": 110082,
+          "image": {
+            "file": "bab-11-ilustrasi-01.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "roi": [
+            0.265,
+            0.035,
+            0.46,
+            0.36
           ]
         }
       ]
@@ -1103,6 +1219,36 @@
           "chapter": 5,
           "paragraph": "p-05-011",
           "quote": "Huodu mencoba menarik diri; urat di lehernya menegang. Guo Jing melepaskannya sesudah para pengikutnya mundur. Pemuda itu bangkit dengan mata menyala, tetapi memilih membawa rombongannya pergi. Dani baru keluar dari sisi tangga ketika Zhen memberi isyarat bahwa jalan sudah aman."
+        },
+        {
+          "title": "Guo Jing",
+          "summary": "Melindungi pasangan dari serangan Jinlun dengan Tapak Penakluk Naga.",
+          "fields": {
+            "Tingkat": "4 · Grandmaster, mendekati 5 (rujukan Saga)",
+            "Ilmu yang terlihat": "Tapak Penakluk Naga.",
+            "Dampak teramati": "Benturan memaksa Jinlun mundur dengan darah di bibir.",
+            "Konteks": "Jinlun membagi tenaga antara roda dan telapak; bukan duel tunggal sejak awal.",
+            "Kondisi": "Tetap berdiri sesudah benturan."
+          },
+          "key": 110123,
+          "chapter": 11,
+          "paragraph": "p-11-123",
+          "quote": "Guo Jing masuk di antara serangan itu dan Xiaolongnü. Tapak Penakluk Naga menyambut dorongan Jinlun dengan benturan yang mengguncang lantai. Jinlun telah membagi tenaga antara roda dan telapak; darah merembes di sudut bibirnya ketika ia mundur. Guo Jing tetap berdiri, tetapi lengan bajunya bergetar setelah benturan."
+        },
+        {
+          "title": "Guo Jing",
+          "summary": "Tetap menganggap Dani sebagai anak, tetapi menolak merestui hubungan guru–murid.",
+          "fields": {
+            "Tingkat": "4 · Grandmaster, mendekati 5 (rujukan Saga)",
+            "Ilmu yang terlihat": "Tapak Penakluk Naga; kemudian menghentikan tinju Dani.",
+            "Bahaya teramati": "Dapat melukai Jinlun dalam keadaan pertarungan itu.",
+            "Hubungan": "Kasih kepada Dani bertahan bersama penentangannya terhadap pernikahan.",
+            "Sikap": "Menganggap batas guru–murid sebagai tanggung jawab moral, bukan alasan menghina Xiaolongnü."
+          },
+          "key": 110154,
+          "chapter": 11,
+          "paragraph": "p-11-154",
+          "quote": "Dani berlutut dan memberi hormat. “Saya tidak melupakan budi Paman dan Bibi Guo. Namun tentang siapa yang akan saya dampingi, izinkan saya menanggung keputusan saya sendiri.”"
         }
       ],
       "portraits": [
@@ -1211,6 +1357,49 @@
           "chapter": 4,
           "paragraph": "p-04-077",
           "quote": "Huang Rong menyusul dari serambi. Ia menopang punggung Xiuwen setelah Guo Jing mengubah posisi tubuh anak itu. Beberapa saat kemudian terdengar tarikan napas yang kasar, disusul batuk. Dunru berpegangan pada bahu adiknya seolah takut tubuh itu akan kembali terlepas."
+        },
+        {
+          "title": "Huang Rong",
+          "summary": "Membimbing Lu Youjiao dan memperhatikan Dani yang mengenali gerak tongkat.",
+          "fields": {
+            "Tingkat": "4 · Grandmaster (rujukan Saga)",
+            "Ilmu yang terlihat": "Memberi koreksi putaran tongkat dan tumpuan.",
+            "Bahaya teramati": "Kemampuan mengajar terlihat; kekuatan tempur maksimum belum diuji.",
+            "Peran": "Membimbing calon ketua Klan Pengemis."
+          },
+          "key": 110041,
+          "chapter": 11,
+          "paragraph": "p-11-041",
+          "quote": "Guo Fu berhenti dengan pipi memerah. Di tepi air, Lu Youjiao mengulang putaran tongkat di bawah petunjuk Huang Rong. Dani mengenali bentuk yang dipelajarinya di Huashan. Ia mendengarkan satu koreksi tentang perpindahan berat tubuh sebelum Huang Rong menoleh tepat ke tempat mereka berdiri."
+        },
+        {
+          "title": "Huang Rong",
+          "summary": "Mengetahui kematian Hong Qigong dan warisan tongkat Dani sebelum pertandingan.",
+          "fields": {
+            "Tingkat": "4 · Grandmaster (rujukan Saga)",
+            "Ilmu yang terlihat": "Petunjuk tongkat dan penilaian gerak murid.",
+            "Pengetahuan": "Dani belajar kepada Hong Qigong; Hong dan Ouyang Feng dimakamkan di Huashan.",
+            "Batas pengetahuan": "Belum mengetahui percakapan dan keintiman Dani–Xiaolongnü di gubuk."
+          },
+          "key": 110046,
+          "chapter": 11,
+          "paragraph": "p-11-046",
+          "quote": "Dani menyampaikan kabar kematian dua tetua tanpa menyembunyikan siapa yang dimakamkannya. Huang Rong diam begitu lama sehingga ia mendengar gesekan bambu Lu Youjiao dari hilir."
+        },
+        {
+          "title": "Huang Rong",
+          "summary": "Menerima pertolongan Dani saat lemas dan mengakui ketulusannya.",
+          "fields": {
+            "Tingkat": "4 · Grandmaster (rujukan Saga)",
+            "Ilmu yang terlihat": "Petunjuk tongkat; belum bertarung dalam bab ini.",
+            "Kondisi": "Hamil; mengalami lemas dan beristirahat.",
+            "Hubungan": "Kepercayaan kepada Dani menguat setelah mengetahui tindakannya dan menerima pertolongannya.",
+            "Pengetahuan": "Sudah mengetahui kematian Hong dan asal ilmu tongkat Dani."
+          },
+          "key": 110053,
+          "chapter": 11,
+          "paragraph": "p-11-053",
+          "quote": "Dani mengendurkan pegangan setelah memastikan ia dapat duduk sendiri. Huang Rong memperhatikan pemuda yang menunggu tanpa pertanyaan usil itu. Kecurigaannya selama bertahun-tahun terasa memalukan di hadapan pertolongan sesederhana ini."
         }
       ],
       "portraits": [
@@ -1265,6 +1454,35 @@
           "chapter": 9,
           "paragraph": "p-09-113",
           "quote": "Dua burung besar melintas di depan serambi. Li Mochou menahan kibasan. Di jalan, Guo Fu datang bersama Wu Dunru dan Wu Xiuwen, ketiganya bersenjata dan belum memahami mengapa ruangan di depan mereka porak-poranda."
+        },
+        {
+          "title": "Guo Fu",
+          "summary": "Menyambut kembali Dani setelah pertemuan di kedai pada Bab 9.",
+          "fields": {
+            "Usia sekarang": "17 tahun",
+            "Tingkat": "Belum terukur",
+            "Ilmu yang terlihat": "Belum memperlihatkan kungfu baru dalam bab ini.",
+            "Hubungan": "Sudah mengenal Dani sejak kecil dan bertemu lagi sebelum Pertemuan Pahlawan."
+          },
+          "key": 110022,
+          "chapter": 11,
+          "paragraph": "p-11-022",
+          "quote": "Guo Fu datang bersama adiknya. Gadis tujuh belas tahun itu memandang pakaian Dani dengan kerutan yang dikenalnya sejak kecil."
+        },
+        {
+          "title": "Guo Fu",
+          "summary": "Merasa dipermalukan setelah kebohongan perjodohan dibuka dan lamarannya ditolak.",
+          "fields": {
+            "Usia sekarang": "17 tahun",
+            "Tingkat": "Belum terukur",
+            "Ilmu yang terlihat": "Belum memperlihatkan kungfu baru dalam bab ini.",
+            "Kondisi": "Terluka hati dan mulai cemburu kepada Xiaolongnü.",
+            "Hubungan": "Tidak pernah memberikan janji nikah; pernyataan kepada Wu bersaudara dibuat sepihak oleh Dani."
+          },
+          "key": 110132,
+          "chapter": 11,
+          "paragraph": "p-11-132",
+          "quote": "Guo Fu menarik tangannya dari sentuhan ibunya. Hidangan pagi, penantian di jalan sungai, dan harapan yang sempat disembunyikannya kini terasa dipertontonkan kepada semua orang. Ia tidak menangis. Justru dagunya terangkat semakin tinggi, sementara matanya mencari perempuan berpakaian putih yang sejak tadi tak pernah jauh dari Dani."
         }
       ],
       "portraits": [
@@ -1306,6 +1524,20 @@
           "chapter": 4,
           "paragraph": "p-04-008",
           "quote": "Anak berbaju merah itu merapatkan bibir. Ia berusia dua belas tahun dan terbiasa menjadi yang paling didengarkan di antara anak-anak rumah itu. Guo Xiang, yang baru lima tahun, mendongak dari sisi ibunya."
+        },
+        {
+          "title": "Guo Xiang",
+          "summary": "Hadir sebagai adik kecil Guo Fu dalam keluarga yang menyambut Dani.",
+          "fields": {
+            "Usia sekarang": "10 tahun",
+            "Tingkat": "Belum diketahui",
+            "Ilmu yang terlihat": "Tidak bertarung.",
+            "Peran": "Anak di latar pertemuan keluarga; tidak dilibatkan dalam hubungan romantis orang dewasa."
+          },
+          "key": 110024,
+          "chapter": 11,
+          "paragraph": "p-11-024",
+          "quote": "Guo Xiang yang berusia sepuluh tahun mengintip dari belakang kakaknya. Dani mengusap debu dari hidungnya sendiri sebelum menyambut mereka. Untuk malam itu, ia menerima tempat di rumah orang."
         }
       ],
       "portraits": [
@@ -1375,6 +1607,34 @@
           "chapter": 9,
           "paragraph": "p-09-113",
           "quote": "Dua burung besar melintas di depan serambi. Li Mochou menahan kibasan. Di jalan, Guo Fu datang bersama Wu Dunru dan Wu Xiuwen, ketiganya bersenjata dan belum memahami mengapa ruangan di depan mereka porak-poranda."
+        },
+        {
+          "title": "Wu Dunru",
+          "summary": "Bertikai dengan saudara sendiri karena kecemburuan terhadap Guo Fu.",
+          "fields": {
+            "Tingkat": "Belum terukur",
+            "Ilmu yang terlihat": "Pedang terhunus; belum ada jurus lengkap yang dijelaskan.",
+            "Bahaya teramati": "Mengancam tenggorokan saudara sendiri.",
+            "Kondisi": "Penilaian dirusak kecemburuan."
+          },
+          "key": 110028,
+          "chapter": 11,
+          "paragraph": "p-11-028",
+          "quote": "Di sana, kecemburuan telah menghapus akal. Dunru menuntut Xiuwen menjauhi Guo Fu; Xiuwen menolak terus-menerus mengalah hanya karena lahir belakangan. Ketika Dani tiba, ujung pedang telah mengarah ke tenggorokan saudara sendiri."
+        },
+        {
+          "title": "Wu Dunru",
+          "summary": "Dipisahkan Wu Santong setelah Dani memakai kebohongan perjodohan untuk menghentikan duel.",
+          "fields": {
+            "Tingkat": "Belum terukur",
+            "Ilmu yang terlihat": "Belum ada pengukuran kungfu baru.",
+            "Kondisi": "Duel dihentikan ayahnya.",
+            "Batas pengetahuan": "Pernyataan restu menikah yang didengarnya berasal dari kebohongan Dani."
+          },
+          "key": 110032,
+          "chapter": 11,
+          "paragraph": "p-11-032",
+          "quote": "Wajah kedua bersaudara itu memucat. Wu Santong memisahkan mereka ketika perhatian mereka pecah. Dani membantu menarik Xiuwen mundur, lalu berbisik kepada sang ayah, “Saya berdusta untuk menghentikan mereka. Tolong jangan biarkan kebohongan ini menjadi kabar pernikahan.”"
         }
       ],
       "portraits": [
@@ -1459,6 +1719,34 @@
           "chapter": 9,
           "paragraph": "p-09-113",
           "quote": "Dua burung besar melintas di depan serambi. Li Mochou menahan kibasan. Di jalan, Guo Fu datang bersama Wu Dunru dan Wu Xiuwen, ketiganya bersenjata dan belum memahami mengapa ruangan di depan mereka porak-poranda."
+        },
+        {
+          "title": "Wu Xiuwen",
+          "summary": "Bertikai dengan saudara sendiri karena kecemburuan terhadap Guo Fu.",
+          "fields": {
+            "Tingkat": "Belum terukur",
+            "Ilmu yang terlihat": "Pedang terhunus; belum ada jurus lengkap yang dijelaskan.",
+            "Bahaya teramati": "Mengancam tenggorokan saudara sendiri.",
+            "Kondisi": "Penilaian dirusak kecemburuan."
+          },
+          "key": 110028,
+          "chapter": 11,
+          "paragraph": "p-11-028",
+          "quote": "Di sana, kecemburuan telah menghapus akal. Dunru menuntut Xiuwen menjauhi Guo Fu; Xiuwen menolak terus-menerus mengalah hanya karena lahir belakangan. Ketika Dani tiba, ujung pedang telah mengarah ke tenggorokan saudara sendiri."
+        },
+        {
+          "title": "Wu Xiuwen",
+          "summary": "Dipisahkan Wu Santong setelah Dani memakai kebohongan perjodohan untuk menghentikan duel.",
+          "fields": {
+            "Tingkat": "Belum terukur",
+            "Ilmu yang terlihat": "Belum ada pengukuran kungfu baru.",
+            "Kondisi": "Duel dihentikan ayahnya.",
+            "Batas pengetahuan": "Pernyataan restu menikah yang didengarnya berasal dari kebohongan Dani."
+          },
+          "key": 110032,
+          "chapter": 11,
+          "paragraph": "p-11-032",
+          "quote": "Wajah kedua bersaudara itu memucat. Wu Santong memisahkan mereka ketika perhatian mereka pecah. Dani membantu menarik Xiuwen mundur, lalu berbisik kepada sang ayah, “Saya berdusta untuk menghentikan mereka. Tolong jangan biarkan kebohongan ini menjadi kabar pernikahan.”"
         }
       ],
       "portraits": [
@@ -1513,6 +1801,20 @@
           "chapter": 5,
           "paragraph": "p-05-024",
           "quote": "Pekan-pekan berlalu dalam hafalan; gerakannya tidak pernah diajarkan. Zhao sengaja menahan pelajaran itu. Ia menyimpan malu karena dipatahkan Guo Jing di gerbang dan kini menuntut kepatuhan mutlak dari anak yang dititipkan kepadanya. Dani belum memahami dendam gurunya. Ia terus mengulang bait, berharap hafalan yang sempurna akhirnya membuka pintu latihan."
+        },
+        {
+          "title": "Zhao Zhijing",
+          "summary": "Menyerang Dani setelah menghina hubungan dan pelajaran Makam Kuno.",
+          "fields": {
+            "Tingkat": "Belum terukur",
+            "Ilmu yang terlihat": "Pedang Quanzhen serta serangan siku.",
+            "Dampak teramati": "Sikunya melukai bahu Dani, tetapi pedangnya dilucuti.",
+            "Batas": "Dani memanfaatkan pergantian langkah yang dikenal; pertarungan dihentikan Guo Jing."
+          },
+          "key": 110149,
+          "chapter": 11,
+          "paragraph": "p-11-149",
+          "quote": "Zhao mencabut pedang ketika Dani bergerak mendekat. Dani menghindari ujungnya, masuk pada pergantian langkah yang dikenalnya dari latihan Quanzhen, lalu menghantam pergelangan. Zhao masih sempat menyikut bahunya. Rasa sakit membuat mata Dani berair, tetapi ia memutar gagang sampai pedang jatuh. Tinju Dani berikutnya terhenti di dalam cengkeraman Guo Jing."
         }
       ],
       "portraits": [
@@ -1922,6 +2224,85 @@
           "chapter": 8,
           "paragraph": "p-08-124",
           "quote": "Gadis itu menutup mata sesaat. Ketika membukanya, ia berbalik dan menghilang di antara pepohonan."
+        },
+        {
+          "title": "Xiaolongnü",
+          "summary": "Mencari Dani hingga Pertemuan Pahlawan dan tiba dengan ilmu ringan tubuh.",
+          "fields": {
+            "Usia sekarang": "21 tahun",
+            "Tingkat": "4 · Grandmaster (rujukan Saga)",
+            "Ilmu yang terlihat": "Tolakan dan pendaratan ringan dari bubungan.",
+            "Bahaya teramati": "Kemampuan bergerak terlihat; kekuatan tempur belum diuji pada kemunculan ini.",
+            "Ikatan yang terlihat": "Datang dengan harapan menemukan Dani.",
+            "Batas": "Ilmu ringan tubuh memerlukan tumpuan."
+          },
+          "key": 110058,
+          "chapter": 11,
+          "paragraph": "p-11-058",
+          "quote": "Xiaolongnü menapak bubungan, menolak genting dengan ujung kaki, lalu turun ke halaman. Ilmu ringan tubuh membuat setiap tolakannya nyaris luput dari mata. Usianya kini dua puluh satu, tetapi ketenangan wajahnya membuat perjalanan panjang itu seolah tak pernah terjadi."
+        },
+        {
+          "title": "Xiaolongnü",
+          "summary": "Mendengar jawaban Dani yang jelas dan menghendaki hubungan mereka diakui.",
+          "fields": {
+            "Usia sekarang": "21 tahun",
+            "Tingkat": "4 · Grandmaster (rujukan Saga)",
+            "Ilmu yang terlihat": "Ilmu ringan tubuh; pedang dan dasar Gadis Giok telah terlihat pada bab sebelumnya.",
+            "Ikatan yang terlihat": "Saling menginginkan pernikahan; menunggu upacara, bukan menyangkal hubungan.",
+            "Kondisi": "Lega setelah percakapan pribadi; belum menghadapi reaksi pertemuan."
+          },
+          "key": 110081,
+          "chapter": 11,
+          "paragraph": "p-11-081",
+          "quote": "Dani mengecup punggung jarinya. “Aku tidak akan menyembunyikanmu.”"
+        },
+        {
+          "title": "Xiaolongnü",
+          "summary": "Menyatukan Ilmu Pedang Gadis Giok dengan gerak Quanzhen Dani.",
+          "fields": {
+            "Usia sekarang": "21 tahun",
+            "Tingkat": "4 · Grandmaster (rujukan Saga)",
+            "Ilmu yang terlihat": "Pedang Hati Murni Gadis Giok secara berpasangan.",
+            "Dampak teramati": "Koordinasi dua pedang mendesak Jinlun mundur.",
+            "Batas": "Teknik dan presisi, bukan keunggulan tenaga mentah; terancam saat susunan terpisah.",
+            "Ikatan yang terlihat": "Melindungi Dani sambil memperhatikan luka tangannya."
+          },
+          "key": 110121,
+          "chapter": 11,
+          "paragraph": "p-11-121",
+          "quote": "Jinlun mundur tiga langkah. Ketika roda berbalik, ujungnya merobek tiang kayu. Mereka belum melampaui tenaga dalamnya; kedua pedang hanya mempersulitnya menghimpun serangan penuh. Begitu Jinlun memaksa mereka terpisah mengitari bangku patah, celah itu terbuka."
+        },
+        {
+          "title": "Xiaolongnü",
+          "summary": "Diakui sebagai pemimpin persilatan berdasarkan hasil pertandingan.",
+          "fields": {
+            "Usia sekarang": "21 tahun",
+            "Tingkat": "4 · Grandmaster (rujukan Saga)",
+            "Ilmu yang terlihat": "Kerja sama pedang dengan Dani.",
+            "Jabatan": "Diakui sebagai pemimpin persilatan; kemampuan mengurus aliansi belum diperlihatkan.",
+            "Batas": "Jinlun mundur setelah Guo Jing ikut melukai; gelar tidak mengubah tingkat kekuatan.",
+            "Ikatan yang terlihat": "Mendahulukan perawatan tangan Dani setelah laga."
+          },
+          "key": 110126,
+          "chapter": 11,
+          "paragraph": "p-11-126",
+          "quote": "Seruan kemenangan menyebut Xiaolongnü sebagai pemimpin persilatan, menagih janji pertandingan yang disaksikan bersama. Para pengurus segera mendekatinya; Xiaolongnü justru mencari kain untuk tangan Dani. Gelar itu diterimanya sebagai hasil laga, tanpa pemahaman tentang segala urusan yang hendak dibebankan kepadanya."
+        },
+        {
+          "title": "Xiaolongnü",
+          "summary": "Menyatakan cintanya di hadapan pertemuan dan pergi bersama Dani.",
+          "fields": {
+            "Usia sekarang": "21 tahun",
+            "Tingkat": "4 · Grandmaster (rujukan Saga)",
+            "Ilmu yang terlihat": "Kerja sama pedang melawan Jinlun.",
+            "Jabatan": "Gelar pemimpin diperoleh; tidak terlihat menjalankan administrasi aliansi.",
+            "Ikatan yang terlihat": "Mengakui keinginan menjadi istri Dani; belum menikah.",
+            "Kondisi": "Pergi bersama setelah hubungan mereka ditentang."
+          },
+          "key": 110159,
+          "chapter": 11,
+          "paragraph": "p-11-159",
+          "quote": "Xiaolongnü menyelipkan jari ke tangannya yang tidak terluka. Mereka menuruni jalan bersama, membawa janji yang baru saja kehilangan tempat berlindung di antara manusia.\n"
         }
       ],
       "portraits": [
@@ -1951,6 +2332,20 @@
             0.15,
             0.835,
             0.3
+          ]
+        },
+        {
+          "key": 110082,
+          "image": {
+            "file": "bab-11-ilustrasi-01.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "roi": [
+            0.405,
+            0.17,
+            0.55,
+            0.44
           ]
         }
       ]
@@ -2170,6 +2565,36 @@
           "chapter": 8,
           "paragraph": "p-08-072",
           "quote": "Di luar, Zhen sempat berhenti di antara pepohonan. Sebelum daun jendela ditutup, ia melihat Dani berlutut di dekat Xiaolongnü dan tangan perempuan itu memegang wajah pemuda tersebut. Kelembutan yang tidak pernah ditujukan kepadanya itu memperuncing cemburunya. Ia tahu baru saja hendak berbuat keji, tetapi lebih suka menyalahkan Dani yang mempermalukannya. Zhen lalu turun dengan dendam. Ia hanya menyaksikan kedekatan itu; ketika malam berlanjut, ia sudah pergi."
+        },
+        {
+          "title": "Zhen Zhibing",
+          "summary": "Mengenali Dani dan mengingat kegagalannya melakukan kejahatan di gubuk.",
+          "fields": {
+            "Tingkat": "Belum terukur",
+            "Ilmu yang terlihat": "Belum memperlihatkan kungfu pada pertemuan ini.",
+            "Kondisi": "Pergelangan telah sembuh.",
+            "Motif": "Malu dan dendam kepada Dani; menyembunyikan niat kejinya dari orang lain.",
+            "Pengetahuan": "Sudah mengenal Dani dan Xiaolongnü; tidak menyaksikan keintiman mereka."
+          },
+          "key": 110006,
+          "chapter": 11,
+          "paragraph": "p-11-006",
+          "quote": "Dani mengangkat wajah. Zhen mengenalinya lebih dahulu; jemarinya mengencang pada cawan. Luka pergelangannya telah sembuh, tetapi ingatan ketika Dani memaksanya meninggalkan gubuk belum pernah reda."
+        },
+        {
+          "title": "Zhen Zhibing",
+          "summary": "Menutupi obsesi dan dengki dengan celaan moral terhadap hubungan pasangan.",
+          "fields": {
+            "Tingkat": "Belum terukur",
+            "Ilmu yang terlihat": "Belum memperlihatkan kungfu baru.",
+            "Motif": "Obsesi kepada Xiaolongnü dan cemburu terhadap Dani.",
+            "Bahaya teramati": "Menggunakan kedudukan pendeta untuk mencela sambil menyembunyikan kesalahannya sendiri.",
+            "Pengetahuan": "Mendengar pengakuan cinta di muka umum; tidak mendengar percakapan pribadi pasangan."
+          },
+          "key": 110146,
+          "chapter": 11,
+          "paragraph": "p-11-146",
+          "quote": "Zhen memandang Xiaolongnü dengan wajah pucat. Melihat perempuan itu menggenggam tangan Dani, obsesinya kembali berubah menjadi dengki. Ia menutupi niatnya sendiri dengan suara yang dibuat saleh."
         }
       ],
       "portraits": [
@@ -2238,6 +2663,20 @@
           "chapter": 7,
           "paragraph": "p-07-027",
           "quote": "Sesudah selesai, Xiaolongnü meminta Dani berdiri. Ia merapikan kerah dan menarik ujung lengan hingga menutup pergelangan. Dani mengangkat kedua tangan; kali ini kain tidak menahan bahunya."
+        },
+        {
+          "title": "Alat jahit Mu Nianci",
+          "summary": "Jarum Mu Nianci menghubungkan kenangan ibu dengan kehidupan bersama Xiaolongnü.",
+          "fields": {
+            "Pemilik": "Peninggalan Mu Nianci, disimpan Dani.",
+            "Pemakaian": "Xiaolongnü pernah menjahit sambungan jubah Dani di gubuk.",
+            "Makna": "Menandai rumah dan keseharian yang ingin mereka bangun kembali.",
+            "Jenis": "Alat jahit; bukan senjata rahasia atau artefak penambah kekuatan."
+          },
+          "key": 110077,
+          "chapter": 11,
+          "paragraph": "p-11-077",
+          "quote": "Dani menahan jarinya agar tidak menjauh. “Aku masih menyimpan jarum Ibu. Setiap kali membukanya, aku teringat kau duduk menjahit sambil menyuruhku jangan bergerak. Aku ingin mengalami hari seperti itu lagi. Makan bersamamu, mencari kayu, mendengar kau memanggilku pulang.”"
         }
       ]
     },
@@ -2522,6 +2961,20 @@
           "chapter": 6,
           "paragraph": "p-06-077",
           "quote": "Senyum Li Mochou menipis. Ia memerintahkan Hong Lingbo menyingkirkan Dani. Pedang mereka beradu; Dani menekan lawannya ke sisi dinding dengan gerak Makam Kuno. Ketika ia hendak memutar bilah Hong Lingbo, kebut gurunya menyambar pergelangan."
+        },
+        {
+          "title": "Ilmu pedang Gadis Giok",
+          "summary": "Gerak Xiaolongnü melengkapi dasar Quanzhen Dani dalam kerja sama pedang.",
+          "fields": {
+            "Pengguna terlihat": "Xiaolongnü, berpasangan dengan Dani.",
+            "Ciri": "Presisi, langkah, dan pengisian celah pertahanan pasangan.",
+            "Dampak": "Dua sudut pedang mempersulit roda Jinlun.",
+            "Perkembangan": "Menjadi susunan Pedang Hati Murni Gadis Giok; bukan kenaikan tenaga otomatis."
+          },
+          "key": 110116,
+          "chapter": 11,
+          "paragraph": "p-11-116",
+          "quote": "Dua ujung pedang mengapit roda Jinlun. Xiaolongnü memutar mengikuti bahu Dani, bukan mendahuluinya; Dani menahan dorongan untuk mengejar leher lawan karena langkah itu akan membiarkan rusuknya terbuka. Pedang Hati Murni Gadis Giok hidup dalam kesediaan mereka menjaga satu sama lain."
         }
       ]
     },
@@ -3046,6 +3499,20 @@
           "chapter": 5,
           "paragraph": "p-05-136",
           "quote": "Qiu Chuji tiba sebelum serangan berikutnya dilepaskan. Ia masuk di antara mereka, mengalihkan lengan Xiaolongnü dengan tenaga yang membuat gadis itu mundur setapak."
+        },
+        {
+          "title": "Qiu Chuji",
+          "summary": "Mengakui kegagalan menjaga Dani dan meminta para pendeta bertanggung jawab.",
+          "fields": {
+            "Tingkat": "Belum terukur",
+            "Ilmu yang terlihat": "Tidak ada peragaan kungfu baru.",
+            "Peran": "Mengakui kesalahan pendidikan dan kematian Nenek Sun; memerintahkan permintaan maaf.",
+            "Batas": "Permintaan maaf tidak menghapus akibat perlakuan Quanzhen."
+          },
+          "key": 110018,
+          "chapter": 11,
+          "paragraph": "p-11-018",
+          "quote": "Atas perintah Qiu, Zhao meminta maaf dengan rahang terkunci. Zhen ikut memberi hormat; ia hanya membicarakan perkara perguruan. Tidak sepatah pun tentang niat kejinya di gubuk."
         }
       ]
     },
@@ -3083,6 +3550,35 @@
           "chapter": 5,
           "paragraph": "p-05-011",
           "quote": "Huodu mencoba menarik diri; urat di lehernya menegang. Guo Jing melepaskannya sesudah para pengikutnya mundur. Pemuda itu bangkit dengan mata menyala, tetapi memilih membawa rombongannya pergi. Dani baru keluar dari sisi tangga ketika Zhen memberi isyarat bahwa jalan sudah aman."
+        },
+        {
+          "title": "Huodu",
+          "summary": "Memenangkan pertandingan awal dengan senjata beracun.",
+          "fields": {
+            "Tingkat": "Belum terukur",
+            "Ilmu yang terlihat": "Kipas besi dan senjata beracun.",
+            "Bahaya teramati": "Racun melukai Zhu Ziliu hingga membutuhkan penawar.",
+            "Batas": "Kemenangan dengan racun tidak membuktikan tenaga lebih besar dari lawan."
+          },
+          "key": 110083,
+          "chapter": 11,
+          "paragraph": "p-11-083",
+          "quote": "Sebuah hantaman mengguncang daun pintu. Ketika mereka keluar, Zhu Ziliu sedang dirawat akibat senjata beracun Huodu, sedangkan senjata Diancang Yuyin, sesama murid Yideng, telah dipatahkan gada Daerba. Huodu mengumumkan dua kemenangan di tengah protes para tamu."
+        },
+        {
+          "title": "Huodu",
+          "summary": "Dikalahkan Dani dan menyerahkan penawar atas perintah gurunya.",
+          "fields": {
+            "Tingkat": "Belum terukur",
+            "Ilmu yang terlihat": "Kipas, tipuan celah, dan pukulan telapak.",
+            "Bahaya teramati": "Memburu tangan dan titik penting dengan senjata serta telapak.",
+            "Kondisi": "Lutut membentur lantai; menyerahkan penawar.",
+            "Batas": "Dani menang lewat tumpuan dan sudut tongkat, bukan adu tenaga murni."
+          },
+          "key": 110102,
+          "chapter": 11,
+          "paragraph": "p-11-102",
+          "quote": "Huodu mengeluarkan botol setelah Jinlun memerintahkannya. Dani menunggu Huang Rong memeriksa isinya sebelum mundur. Bahunya berdenyut; sekali saja tadi ia memaksakan benturan, hasilnya dapat terbalik."
         }
       ]
     },
@@ -3120,6 +3616,35 @@
           "chapter": 5,
           "paragraph": "p-05-011",
           "quote": "Huodu mencoba menarik diri; urat di lehernya menegang. Guo Jing melepaskannya sesudah para pengikutnya mundur. Pemuda itu bangkit dengan mata menyala, tetapi memilih membawa rombongannya pergi. Dani baru keluar dari sisi tangga ketika Zhen memberi isyarat bahwa jalan sudah aman."
+        },
+        {
+          "title": "Daerba",
+          "summary": "Serangannya menghancurkan ubin serta pedang pinjaman Dani.",
+          "fields": {
+            "Tingkat": "Belum terukur",
+            "Ilmu yang terlihat": "Ayunan gada berat.",
+            "Bahaya teramati": "Bilah patah dan tangan Dani berdarah ketika beradu senjata.",
+            "Batas": "Keraguan akibat keyakinan pribadi mengganggu keputusannya, bukan meniadakan tenaganya."
+          },
+          "key": 110105,
+          "chapter": 11,
+          "paragraph": "p-11-105",
+          "quote": "Keraguan itu memberi Dani ruang, bukan kemenangan mudah. Gada menghantam lantai ketika ia menghindar; pecahan ubin menggores betisnya. Ia mencoba menuntun senjata berat itu ke samping, namun bilah pinjamannya bertemu gada dan patah. Dani terhuyung dengan pangkal ibu jari berdarah."
+        },
+        {
+          "title": "Daerba",
+          "summary": "Mengalah karena mengira Dani adalah kelahiran kembali kakak seperguruannya.",
+          "fields": {
+            "Tingkat": "Belum terukur",
+            "Ilmu yang terlihat": "Gada berat lebih unggul dalam benturan langsung dengan bilah Dani.",
+            "Kondisi": "Meletakkan senjata dan mengakui kalah.",
+            "Sebab hasil": "Salah pengenalan dan keyakinan tentang kelahiran kembali.",
+            "Batas": "Dani tidak ditetapkan benar-benar sebagai reinkarnasi; tidak ada hipnosis yang dipakai."
+          },
+          "key": 110108,
+          "chapter": 11,
+          "paragraph": "p-11-108",
+          "quote": "Jinlun membentak muridnya. Daerba memandang guru dan pemuda itu bergantian, akhirnya meletakkan gada serta menyatakan mengalah. Kekalahannya lahir dari keyakinan yang keliru; tenaga dan senjatanya belum ditundukkan."
         }
       ]
     },
@@ -3513,6 +4038,51 @@
           "chapter": 10,
           "paragraph": "p-10-093",
           "quote": "Dani memeriksa pegangan, mengubah sudut, lalu melepaskan ujung kayu tanpa menyentak. Hong mengangguk, sedangkan Ouyang Feng mendengus seolah keberhasilan itu sudah seharusnya terjadi sejak awal."
+        },
+        {
+          "title": "Tongkat Pemukul Anjing",
+          "summary": "Ilmu warisan Hong Qigong dipakai Dani dengan tongkat hijau pinjaman.",
+          "fields": {
+            "Pengguna terlihat": "Dani; petunjuk tambahan dari Huang Rong.",
+            "Benda": "Tongkat bambu hijau lambang kepemimpinan dipinjamkan untuk laga.",
+            "Dampak teramati": "Bambu lebih lentur dan seimbang daripada tongkat latihan.",
+            "Batas penguasaan": "Dani belum menguasai seluruh kedalaman ilmu; benda tidak menambah tenaga dalam.",
+            "Jabatan": "Peminjaman tidak mengangkat Dani sebagai ketua Klan Pengemis."
+          },
+          "key": 110091,
+          "chapter": 11,
+          "paragraph": "p-11-091",
+          "quote": "Dani menyerahkan kayu latihannya kepada pelayan, menerima tongkat itu, lalu kembali menghadapi kipas besi. Tongkat Pemukul Anjing terasa lebih lentur dan seimbang; keluwesan bendanya membantu, tetapi tidak menambah tenaga dalam pemakainya."
+        },
+        {
+          "title": "Tongkat Pemukul Anjing",
+          "summary": "Gerak tongkat mengganggu pergelangan, menyapu tumpuan, lalu mengancam tenggorokan Huodu.",
+          "fields": {
+            "Pengguna terlihat": "Dani.",
+            "Dampak teramati": "Huodu jatuh berlutut; tenggorokan terancam ujung bambu.",
+            "Bahaya": "Menghilangkan pijakan dan menguasai titik vital dapat mengakhiri laga tanpa benturan tenaga langsung.",
+            "Batas penguasaan": "Keberhasilan situasional bukan penguasaan penuh warisan Hong.",
+            "Benda": "Tongkat resmi masih berupa pinjaman."
+          },
+          "key": 110100,
+          "chapter": 11,
+          "paragraph": "p-11-100",
+          "quote": "Dani tidak mencoba menahan pukulan berikutnya. Ia membiarkan Huodu mengejar, mengusik pergelangan, kemudian menyapu tumpuan ketika kipas ditarik terlalu jauh. Lutut Huodu membentur lantai. Sebelum ia bangkit, ujung bambu berhenti di lekuk tenggorokannya."
+        },
+        {
+          "title": "Tongkat Pemukul Anjing",
+          "summary": "Tongkat hijau dikembalikan sesudah pertandingan Huodu.",
+          "fields": {
+            "Pengguna terlihat": "Dani memakainya dalam laga Huodu.",
+            "Dampak teramati": "Melucuti kendali tumpuan Huodu dan memaksa penyerahan penawar.",
+            "Benda": "Tongkat lambang klan telah dikembalikan; tongkat kayu latihan tetap milik bekal Dani.",
+            "Jabatan": "Tidak ada pemindahan jabatan ketua kepada Dani.",
+            "Batas penguasaan": "Kecakapan belum setara dengan Hong Qigong."
+          },
+          "key": 110103,
+          "chapter": 11,
+          "paragraph": "p-11-103",
+          "quote": "Daerba maju membawa Gada Vajra. Dani mengembalikan tongkat hijau dan meminjam pedang dari Lu Guanying. Pedang itu senjata biasa; pedangnya sendiri masih berada di jalur air bawah makam."
         }
       ]
     },
@@ -3647,6 +4217,427 @@
         }
       ],
       "portraits": []
+    },
+    {
+      "id": "lu-guanying",
+      "type": "tokoh",
+      "aliases": [
+        "Lu Guanying"
+      ],
+      "stages": [
+        {
+          "title": "Lu Guanying",
+          "summary": "Tuan rumah Pertemuan Pahlawan yang diprakarsai Guo Jing dan Huang Rong.",
+          "fields": {
+            "Tingkat": "Belum diketahui",
+            "Peran": "Menyediakan kediaman bagi pertemuan para pendekar.",
+            "Ilmu yang terlihat": "Belum memperlihatkan kungfu.",
+            "Bahaya teramati": "Belum dapat dinilai.",
+            "Hubungan": "Nama keluarga Lu tidak membuktikan hubungan darah dengan Lu Wushuang."
+          },
+          "key": 110002,
+          "chapter": 11,
+          "paragraph": "p-11-002",
+          "quote": "Lu Guanying, tuan rumah pertemuan, menyambut perguruan-perguruan yang memenuhi halaman. Atas ajakan Guo Jing dan Huang Rong, mereka datang untuk menghimpun perlawanan terhadap pasukan Mongol. Dani masuk bersama pengemis, berwajah kotor, membawa tongkat latihan. Di bawah kain luarnya, jubah biru bersambung masih menyimpan jahitan Xiaolongnü."
+        }
+      ]
+    },
+    {
+      "id": "lu-youjiao",
+      "type": "tokoh",
+      "aliases": [
+        "Lu Youjiao"
+      ],
+      "stages": [
+        {
+          "title": "Lu Youjiao",
+          "summary": "Calon ketua Klan Pengemis yang akan menerima pelajaran Huang Rong.",
+          "fields": {
+            "Tingkat": "Belum diketahui",
+            "Ilmu yang terlihat": "Belum diperlihatkan pada kemunculan ini.",
+            "Bahaya teramati": "Belum dapat dinilai.",
+            "Peran": "Calon ketua; bukan Dani yang sedang disiapkan memimpin klan."
+          },
+          "key": 110025,
+          "chapter": 11,
+          "paragraph": "p-11-025",
+          "quote": "Keesokan paginya Guo Fu membawa hidangan yang dibuatnya sendiri. Ia menunggu Dani mencicipi sebelum menyebut bahwa ibunya akan mengajari Lu Youjiao, calon ketua Klan Pengemis, di tepi sungai."
+        },
+        {
+          "title": "Lu Youjiao",
+          "summary": "Berlatih menggerakkan tongkat di bawah petunjuk Huang Rong.",
+          "fields": {
+            "Tingkat": "Belum terukur",
+            "Ilmu yang terlihat": "Mengulang putaran tongkat dan memperbaiki tumpuan.",
+            "Bahaya teramati": "Latihan belum menunjukkan batas kemampuan tempurnya.",
+            "Peran": "Mempersiapkan tanggung jawab sebagai ketua Klan Pengemis."
+          },
+          "key": 110041,
+          "chapter": 11,
+          "paragraph": "p-11-041",
+          "quote": "Guo Fu berhenti dengan pipi memerah. Di tepi air, Lu Youjiao mengulang putaran tongkat di bawah petunjuk Huang Rong. Dani mengenali bentuk yang dipelajarinya di Huashan. Ia mendengarkan satu koreksi tentang perpindahan berat tubuh sebelum Huang Rong menoleh tepat ke tempat mereka berdiri."
+        }
+      ]
+    },
+    {
+      "id": "wu-santong",
+      "type": "tokoh",
+      "aliases": [
+        "Wu Santong"
+      ],
+      "stages": [
+        {
+          "title": "Wu Santong",
+          "summary": "Ayah Wu Dunru dan Wu Xiuwen; datang ketika perselisihan mereka hampir merenggut nyawa.",
+          "fields": {
+            "Tingkat": "Belum diketahui",
+            "Hubungan": "Ayah kedua Wu bersaudara.",
+            "Ilmu yang terlihat": "Belum memperlihatkan jurus.",
+            "Bahaya teramati": "Belum dapat dinilai."
+          },
+          "key": 110029,
+          "chapter": 11,
+          "paragraph": "p-11-029",
+          "quote": "“Hentikan!” bentak seorang lelaki dari jalan kebun. Wu Santong, ayah mereka, berlari mendekat. “Kalian hendak membuatku mengubur seorang anak di tangan anakku yang lain?”"
+        }
+      ]
+    },
+    {
+      "id": "jinlun",
+      "type": "tokoh",
+      "aliases": [
+        "Jinlun Guoshi",
+        "Jinlun"
+      ],
+      "stages": [
+        {
+          "title": "Jinlun Guoshi",
+          "summary": "Guru Huodu dan Daerba, diusulkan sebagai pemimpin persilatan oleh rombongan Mongol.",
+          "fields": {
+            "Tingkat": "Belum diketahui",
+            "Ilmu yang terlihat": "Belum diperlihatkan.",
+            "Bahaya teramati": "Ancaman politik sudah nyata; kekuatan bertarung belum diuji.",
+            "Tujuan": "Merebut kepemimpinan pertemuan yang dibentuk untuk melawan Mongol."
+          },
+          "key": 110056,
+          "chapter": 11,
+          "paragraph": "p-11-056",
+          "quote": "Di belakang keduanya berjalan Jinlun Guoshi, guru mereka, bertubuh tinggi dengan tatapan tenang. Huodu mengusulkannya sebagai pemimpin persilatan. Pertemuan yang hendak menyatukan perlawanan terhadap Mongol tiba-tiba dituntut tunduk kepada guru yang datang mewakili kekuasaan itu."
+        },
+        {
+          "title": "Jinlun Guoshi",
+          "summary": "Mulai bertarung dengan roda logam dan tekanan tenaga yang mengganggu pertahanan Xiaolongnü.",
+          "fields": {
+            "Tingkat": "4–5 · Grandmaster hingga Tak Tertandingi (rujukan Saga)",
+            "Dasar tingkat": "Rujukan matriks Saga setelah kemampuan terlihat; seluruh ilmu belum diperlihatkan.",
+            "Ilmu yang terlihat": "Roda logam dan tekanan tenaga dalam.",
+            "Bahaya teramati": "Lengan Xiaolongnü turun akibat benturan dan kehilangan kesempatan memulihkan jarak."
+          },
+          "key": 110113,
+          "chapter": 11,
+          "paragraph": "p-11-113",
+          "quote": "Roda logam Jinlun membentur pedangnya. Getarannya membuat lengan Xiaolongnü turun; serangan berikutnya menyambar sebelum ia sempat memulihkan jarak. Dani mengambil pedang kedua yang disodorkan Lu Guanying dan masuk dari samping."
+        },
+        {
+          "title": "Jinlun Guoshi",
+          "summary": "Didorong mundur oleh kerja sama dua pedang, lalu memisahkan posisi pasangan.",
+          "fields": {
+            "Tingkat": "4–5 · Grandmaster hingga Tak Tertandingi (rujukan Saga)",
+            "Ilmu yang terlihat": "Memutar roda, mengubah jarak, serta memanfaatkan rintangan.",
+            "Bahaya teramati": "Roda merobek kayu tiang.",
+            "Batas": "Perlu ruang dan waktu untuk menghimpun tenaga penuh; dua sudut serangan menyulitkannya."
+          },
+          "key": 110121,
+          "chapter": 11,
+          "paragraph": "p-11-121",
+          "quote": "Jinlun mundur tiga langkah. Ketika roda berbalik, ujungnya merobek tiang kayu. Mereka belum melampaui tenaga dalamnya; kedua pedang hanya mempersulitnya menghimpun serangan penuh. Begitu Jinlun memaksa mereka terpisah mengitari bangku patah, celah itu terbuka."
+        },
+        {
+          "title": "Jinlun Guoshi",
+          "summary": "Mundur setelah terluka oleh Guo Jing, sementara Dani dan Xiaolongnü kembali berpasangan.",
+          "fields": {
+            "Tingkat": "4–5 · Grandmaster hingga Tak Tertandingi (rujukan Saga)",
+            "Ilmu yang terlihat": "Roda dan telapak dalam pertarungan.",
+            "Kondisi": "Darah merembes di sudut bibir setelah benturan telapak Guo Jing.",
+            "Sebab mundur": "Luka dan tiga lawan yang siap melanjutkan perlawanan.",
+            "Batas": "Hasil ini bukan kekalahan dalam duel tunggal yang setara keadaannya."
+          },
+          "key": 110125,
+          "chapter": 11,
+          "paragraph": "p-11-125",
+          "quote": "Jinlun menilai kedua pedang yang kembali berdampingan dan Guo Jing di hadapannya. Ia menahan luka serta amarah, kemudian meninggalkan aula bersama murid-muridnya."
+        }
+      ],
+      "portraits": [
+        {
+          "key": 110056,
+          "image": {
+            "file": "bab-11-ilustrasi-02.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "roi": [
+            0.79,
+            0.035,
+            0.935,
+            0.27
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zhu-ziliu",
+      "type": "tokoh",
+      "aliases": [
+        "Zhu Ziliu",
+        "Tuan Zhu"
+      ],
+      "stages": [
+        {
+          "title": "Zhu Ziliu",
+          "summary": "Pendekar terpelajar dari lingkungan Yideng yang maju menghadapi Huodu.",
+          "fields": {
+            "Tingkat": "Belum diketahui",
+            "Perguruan": "Lingkungan Yideng.",
+            "Ilmu yang terlihat": "Pertandingan baru dimulai; jurusnya belum diterangkan.",
+            "Bahaya teramati": "Belum dapat dinilai."
+          },
+          "key": 110057,
+          "chapter": 11,
+          "paragraph": "p-11-057",
+          "quote": "Tiga pertandingan diajukan; dua kemenangan menentukan hasil. Zhu Ziliu, pendekar terpelajar dari lingkungan Yideng, maju menghadapi Huodu. Saat sapuan kipas pertama membelah udara, kain putih bergerak di atas serambi."
+        },
+        {
+          "title": "Zhu Ziliu",
+          "summary": "Terkena senjata beracun Huodu dan membutuhkan penawar.",
+          "fields": {
+            "Tingkat": "Belum terukur",
+            "Kondisi": "Dirawat setelah terkena racun.",
+            "Batas bukti": "Kekalahan akibat racun tidak mengukur seluruh kemampuan bela dirinya.",
+            "Kebutuhan": "Penawar dari Huodu."
+          },
+          "key": 110083,
+          "chapter": 11,
+          "paragraph": "p-11-083",
+          "quote": "Sebuah hantaman mengguncang daun pintu. Ketika mereka keluar, Zhu Ziliu sedang dirawat akibat senjata beracun Huodu, sedangkan senjata Diancang Yuyin, sesama murid Yideng, telah dipatahkan gada Daerba. Huodu mengumumkan dua kemenangan di tengah protes para tamu."
+        },
+        {
+          "title": "Zhu Ziliu",
+          "summary": "Penawar diperoleh dari Huodu setelah kemenangan Dani.",
+          "fields": {
+            "Tingkat": "Belum terukur",
+            "Kondisi": "Sedang dirawat; Huang Rong memeriksa penawar.",
+            "Batas bukti": "Pemulihan penuh belum ditunjukkan."
+          },
+          "key": 110102,
+          "chapter": 11,
+          "paragraph": "p-11-102",
+          "quote": "Huodu mengeluarkan botol setelah Jinlun memerintahkannya. Dani menunggu Huang Rong memeriksa isinya sebelum mundur. Bahunya berdenyut; sekali saja tadi ia memaksakan benturan, hasilnya dapat terbalik."
+        }
+      ]
+    },
+    {
+      "id": "diancang-yuyin",
+      "type": "tokoh",
+      "aliases": [
+        "Diancang Yuyin"
+      ],
+      "stages": [
+        {
+          "title": "Diancang Yuyin",
+          "summary": "Sesama murid Yideng yang kalah setelah senjatanya dipatahkan gada Daerba.",
+          "fields": {
+            "Tingkat": "Belum terukur",
+            "Perguruan": "Murid Yideng.",
+            "Dampak teramati": "Senjata patah dalam pertandingan.",
+            "Batas bukti": "Laga tidak dijabarkan lengkap; kekalahan senjata bukan ukuran seluruh kemampuannya."
+          },
+          "key": 110083,
+          "chapter": 11,
+          "paragraph": "p-11-083",
+          "quote": "Sebuah hantaman mengguncang daun pintu. Ketika mereka keluar, Zhu Ziliu sedang dirawat akibat senjata beracun Huodu, sedangkan senjata Diancang Yuyin, sesama murid Yideng, telah dipatahkan gada Daerba. Huodu mengumumkan dua kemenangan di tengah protes para tamu."
+        }
+      ]
+    },
+    {
+      "id": "qinggong",
+      "type": "ilmu",
+      "aliases": [
+        "ilmu ringan tubuh"
+      ],
+      "stages": [
+        {
+          "title": "Ilmu ringan tubuh",
+          "summary": "Keterampilan mengatur langkah, tolakan, keseimbangan, dan pendaratan.",
+          "fields": {
+            "Pengguna terlihat": "Xiaolongnü.",
+            "Dampak teramati": "Menyeberangi bubungan lalu turun ke halaman dengan tumpuan singkat.",
+            "Batas": "Bukan terbang bebas; tetap memerlukan tempat berpijak.",
+            "Peran tempur": "Membantu berpindah posisi; tidak otomatis menambah daya pukul."
+          },
+          "key": 110058,
+          "chapter": 11,
+          "paragraph": "p-11-058",
+          "quote": "Xiaolongnü menapak bubungan, menolak genting dengan ujung kaki, lalu turun ke halaman. Ilmu ringan tubuh membuat setiap tolakannya nyaris luput dari mata. Usianya kini dua puluh satu, tetapi ketenangan wajahnya membuat perjalanan panjang itu seolah tak pernah terjadi."
+        }
+      ]
+    },
+    {
+      "id": "gada-vajra",
+      "type": "senjata",
+      "aliases": [
+        "Gada Vajra"
+      ],
+      "stages": [
+        {
+          "title": "Gada Vajra",
+          "summary": "Gada berat yang dibawa Daerba ke arena.",
+          "fields": {
+            "Pemakai": "Daerba.",
+            "Bentuk": "Senjata pemukul berat.",
+            "Dampak teramati": "Sebelumnya mematahkan senjata Diancang Yuyin.",
+            "Risiko": "Jangan menyamakan benturan gada berat dengan tebasan pedang biasa."
+          },
+          "key": 110103,
+          "chapter": 11,
+          "paragraph": "p-11-103",
+          "quote": "Daerba maju membawa Gada Vajra. Dani mengembalikan tongkat hijau dan meminjam pedang dari Lu Guanying. Pedang itu senjata biasa; pedangnya sendiri masih berada di jalur air bawah makam."
+        },
+        {
+          "title": "Gada Vajra",
+          "summary": "Benturannya merusak ubin dan mematahkan pedang pinjaman Dani.",
+          "fields": {
+            "Pemakai": "Daerba.",
+            "Dampak teramati": "Ubin pecah, bilah patah, pangkal ibu jari Dani berdarah akibat benturan.",
+            "Bahaya": "Benturan langsung dapat menghancurkan senjata yang lebih ringan dan melukai tangan pemegangnya.",
+            "Batas": "Dampak berasal dari berat senjata, tenaga, serta keadaan benturan; bukan angka kerusakan tetap."
+          },
+          "key": 110105,
+          "chapter": 11,
+          "paragraph": "p-11-105",
+          "quote": "Keraguan itu memberi Dani ruang, bukan kemenangan mudah. Gada menghantam lantai ketika ia menghindar; pecahan ubin menggores betisnya. Ia mencoba menuntun senjata berat itu ke samping, namun bilah pinjamannya bertemu gada dan patah. Dani terhuyung dengan pangkal ibu jari berdarah."
+        }
+      ]
+    },
+    {
+      "id": "kipas-besi",
+      "type": "senjata",
+      "aliases": [
+        "kipas besi"
+      ],
+      "stages": [
+        {
+          "title": "Kipas besi Huodu",
+          "summary": "Senjata Huodu yang dapat dipakai untuk menyerang dan mengunci lawan.",
+          "fields": {
+            "Pemakai": "Huodu.",
+            "Dampak teramati": "Menekan tongkat dan memburu tangan Dani.",
+            "Risiko": "Jangkauan tampak pendek, tetapi dipadukan dengan serangan telapak.",
+            "Batas informasi": "Senjata beracun Huodu telah melukai Zhu; mekanisme racunnya tidak dijelaskan di sini."
+          },
+          "key": 110091,
+          "chapter": 11,
+          "paragraph": "p-11-091",
+          "quote": "Dani menyerahkan kayu latihannya kepada pelayan, menerima tongkat itu, lalu kembali menghadapi kipas besi. Tongkat Pemukul Anjing terasa lebih lentur dan seimbang; keluwesan bendanya membantu, tetapi tidak menambah tenaga dalam pemakainya."
+        }
+      ]
+    },
+    {
+      "id": "roda-jinlun",
+      "type": "senjata",
+      "aliases": [
+        "Roda logam Jinlun",
+        "roda Jinlun"
+      ],
+      "stages": [
+        {
+          "title": "Roda logam Jinlun",
+          "summary": "Senjata bundar yang dipakai Jinlun menangkis pedang serta menyerang.",
+          "fields": {
+            "Pemakai": "Jinlun Guoshi.",
+            "Dampak teramati": "Benturan membuat lengan Xiaolongnü turun dan mengganggu pertahanannya.",
+            "Bahaya": "Tenaga berat disalurkan melalui senjata; benturan memengaruhi tangan dan jarak lawan."
+          },
+          "key": 110113,
+          "chapter": 11,
+          "paragraph": "p-11-113",
+          "quote": "Roda logam Jinlun membentur pedangnya. Getarannya membuat lengan Xiaolongnü turun; serangan berikutnya menyambar sebelum ia sempat memulihkan jarak. Dani mengambil pedang kedua yang disodorkan Lu Guanying dan masuk dari samping."
+        },
+        {
+          "title": "Roda logam Jinlun",
+          "summary": "Roda mampu merobek kayu tiang ketika Jinlun memutar serangannya.",
+          "fields": {
+            "Pemakai": "Jinlun Guoshi.",
+            "Dampak teramati": "Merobek bagian tiang kayu.",
+            "Bahaya": "Pedang pasangan harus menghindari adu tenaga penuh.",
+            "Batas": "Satu tiang yang tergores bukan bukti kemampuan merobohkan seluruh bangunan."
+          },
+          "key": 110121,
+          "chapter": 11,
+          "paragraph": "p-11-121",
+          "quote": "Jinlun mundur tiga langkah. Ketika roda berbalik, ujungnya merobek tiang kayu. Mereka belum melampaui tenaga dalamnya; kedua pedang hanya mempersulitnya menghimpun serangan penuh. Begitu Jinlun memaksa mereka terpisah mengitari bangku patah, celah itu terbuka."
+        }
+      ]
+    },
+    {
+      "id": "pedang-hati-murni",
+      "type": "ilmu",
+      "aliases": [
+        "Pedang Hati Murni Gadis Giok"
+      ],
+      "stages": [
+        {
+          "title": "Pedang Hati Murni Gadis Giok",
+          "summary": "Kerja sama pedang Quanzhen dan Gadis Giok yang saling mengisi celah pertahanan.",
+          "fields": {
+            "Pengguna terlihat": "Dani dan Xiaolongnü sebagai pasangan.",
+            "Dasar": "Menghubungkan latihan pedang lama dengan kepekaan pada langkah pasangan.",
+            "Dampak teramati": "Dua sudut serangan mempersulit Jinlun menggunakan roda.",
+            "Syarat": "Jarak, waktu, dan perhatian timbal balik; bukan sekadar dua orang mengayunkan pedang."
+          },
+          "key": 110116,
+          "chapter": 11,
+          "paragraph": "p-11-116",
+          "quote": "Dua ujung pedang mengapit roda Jinlun. Xiaolongnü memutar mengikuti bahu Dani, bukan mendahuluinya; Dani menahan dorongan untuk mengejar leher lawan karena langkah itu akan membiarkan rusuknya terbuka. Pedang Hati Murni Gadis Giok hidup dalam kesediaan mereka menjaga satu sama lain."
+        },
+        {
+          "title": "Pedang Hati Murni Gadis Giok",
+          "summary": "Mendesak Jinlun lewat koordinasi, tetapi susunannya dapat dipisahkan oleh rintangan.",
+          "fields": {
+            "Pengguna terlihat": "Dani dan Xiaolongnü.",
+            "Dampak teramati": "Memaksa Jinlun mundur tiga langkah.",
+            "Batas": "Tenaga dalam mereka tidak tiba-tiba melampaui Jinlun. Bangku patah memisahkan posisi dan membuka celah.",
+            "Risiko": "Luka tangan Dani dan kehilangan jarak mengurangi ketepatan kerja sama."
+          },
+          "key": 110121,
+          "chapter": 11,
+          "paragraph": "p-11-121",
+          "quote": "Jinlun mundur tiga langkah. Ketika roda berbalik, ujungnya merobek tiang kayu. Mereka belum melampaui tenaga dalamnya; kedua pedang hanya mempersulitnya menghimpun serangan penuh. Begitu Jinlun memaksa mereka terpisah mengitari bangku patah, celah itu terbuka."
+        }
+      ]
+    },
+    {
+      "id": "tapak-naga",
+      "type": "ilmu",
+      "aliases": [
+        "Tapak Penakluk Naga"
+      ],
+      "stages": [
+        {
+          "title": "Tapak Penakluk Naga",
+          "summary": "Ilmu telapak Guo Jing yang digunakan untuk menghentikan serangan Jinlun.",
+          "fields": {
+            "Pengguna terlihat": "Guo Jing.",
+            "Dampak teramati": "Benturan mengguncang lantai; Jinlun mundur dengan darah di sudut bibir.",
+            "Konteks kemenangan": "Jinlun sedang membagi tenaga antara roda dan telapak.",
+            "Batas": "Bukan bukti semua benturan dalam keadaan lain akan berakhir sama; tidak menampilkan naga sungguhan."
+          },
+          "key": 110123,
+          "chapter": 11,
+          "paragraph": "p-11-123",
+          "quote": "Guo Jing masuk di antara serangan itu dan Xiaolongnü. Tapak Penakluk Naga menyambut dorongan Jinlun dengan benturan yang mengguncang lantai. Jinlun telah membagi tenaga antara roda dan telapak; darah merembes di sudut bibirnya ketika ia mundur. Guo Jing tetap berdiri, tetapi lengan bajunya bergetar setelah benturan."
+        }
+      ]
     }
   ]
 }

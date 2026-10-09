@@ -1,6 +1,6 @@
 # Peta Bab 11 — Di Hadapan Dunia Persilatan
 
-Status: peta untuk persetujuan penulis; naskah Bab 11 belum diterbitkan. Target satu arc Pertemuan Pahlawan yang selesai dalam satu bab, sekitar 3.300–3.500 kata. Perjalanan dan jeda musim diringkas; percakapan utama tidak dipotong menjadi jawaban satu kata.
+Status: disetujui penulis dan diwujudkan sebagai [Bab 11 — Di Hadapan Dunia Persilatan](https://daniel100703.github.io/DanimoanSaga/bab-11.html). Satu arc Pertemuan Pahlawan selesai dalam satu bab, 3.306 kata. Perjalanan dan jeda musim diringkas; percakapan utama memperoleh ruang untuk menjawab konflik hubungan.
 
 ## Lima pijakan lorebook
 

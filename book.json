@@ -1,6 +1,6 @@
 {
   "title": "Saga Dani Moan",
-  "description": "Novel wuxia berilustrasi karya Daniel Halomoan Siregar. Edisi revisi Bab 1–10, dengan Wiki Persilatan yang mengikuti cerita.",
+  "description": "Novel wuxia berilustrasi karya Daniel Halomoan Siregar. Bab 1–11, dengan Wiki Persilatan yang mengikuti cerita.",
   "chapters": [
     {
       "id": 1,
@@ -883,6 +883,75 @@
           "name": "Hong Qigong",
           "age": "Lanjut usia.",
           "description": "Tetua Klan Pengemis; hangat, tajam dalam menilai keberanian, dan tegas tentang penggunaan ilmu."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "slug": "bab-11",
+      "han": "十一",
+      "source": "bab-11.md",
+      "title": "Di Hadapan Dunia Persilatan",
+      "accent": "#756549",
+      "description": "Pertemuan Pahlawan mempertemukan kembali Dani dengan orang-orang yang ditinggalkannya. Sebuah janji harus dijawab di hadapan dunia.",
+      "quote": "Kalau begitu, jangan lepaskan tanganku ketika orang lain bertanya.",
+      "cover": {
+        "file": "bab-11-pembuka.webp",
+        "width": 1024,
+        "height": 1536
+      },
+      "plates": [
+        {
+          "image": {
+            "file": "bab-11-ilustrasi-01.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "anchor": "Xiaolongnü menyentuhkan dahi ke dadanya.",
+          "alt": "Dani berjubah biru bersambung merengkuh Xiaolongnü di ruang tamu; keduanya saling menenangkan setelah berdamai.",
+          "caption": "Jawaban yang dahulu terlambat kini diucapkan dengan sadar."
+        },
+        {
+          "image": {
+            "file": "bab-11-ilustrasi-02.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "anchor": "Dua ujung pedang mengapit roda Jinlun.",
+          "alt": "Dani dan Xiaolongnü mengisi celah pertahanan satu sama lain dengan dua pedang melawan roda Jinlun di aula.",
+          "caption": "Dua pedang menutup celah yang tidak dapat dijaga seorang diri."
+        }
+      ],
+      "cast": [
+        {
+          "name": "Lu Guanying",
+          "age": "Dewasa.",
+          "description": "Tuan rumah Pertemuan Pahlawan."
+        },
+        {
+          "name": "Lu Youjiao",
+          "age": "Dewasa.",
+          "description": "Calon ketua Klan Pengemis."
+        },
+        {
+          "name": "Wu Santong",
+          "age": "Dewasa.",
+          "description": "Ayah Wu Dunru dan Wu Xiuwen."
+        },
+        {
+          "name": "Jinlun Guoshi",
+          "age": "Dewasa.",
+          "description": "Guru Huodu dan Daerba."
+        },
+        {
+          "name": "Zhu Ziliu",
+          "age": "Dewasa.",
+          "description": "Pendekar dari lingkungan Yideng."
+        },
+        {
+          "name": "Diancang Yuyin",
+          "age": "Dewasa.",
+          "description": "Sesama murid Yideng."
         }
       ]
     }

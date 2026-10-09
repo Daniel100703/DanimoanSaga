@@ -1,4 +1,4 @@
-# Saga Dani Moan — Bab 1–10
+# Saga Dani Moan — Bab 1–11
 
 Novel wuxia berilustrasi karya Daniel Halomoan Siregar.
 
@@ -12,7 +12,7 @@ Novel wuxia berilustrasi karya Daniel Halomoan Siregar.
 - Sapaan memakai bahasa Indonesia. Dialog mengalir melalui atribusi naratif tanpa format `Nama: ucapan`.
 - Bab 10: **Dua Nama di Bawah Salju**, dengan satu pembuka dan dua ilustrasi peristiwa. Pertemuan serta warisan dua tetua selesai dalam satu arc.
 - Semua 33 ilustrasi lama dipertahankan. Empat ilustrasi baru ditambahkan: rekonsiliasi hujan dan tiga gambar Bab 10.
-- Wiki berisi 52 catatan dengan 178 tahap informasi. Kartu mengikuti paragraf bacaan; penguasaan ilmu Dani dibedakan dari kekuatan gurunya.
+- Wiki berisi 64 catatan dengan 235 tahap informasi. Kartu mengikuti paragraf bacaan; penguasaan ilmu Dani dibedakan dari kekuatan gurunya.
 - Penanda baca edisi lama dipetakan ke adegan terdekat dalam pembagian baru. Tema dan ukuran huruf tetap tersimpan. Salinan posisi sebelum revisi tetap disimpan di peramban.
 
 ## Pembaruan narasi dan Bab 9
@@ -20,7 +20,16 @@ Novel wuxia berilustrasi karya Daniel Halomoan Siregar.
 Bab 9 ditulis ulang untuk memulihkan latar dendam Wanyan Ping, perkenalan keluarga Yelü, dan identitas penolong yang masih dirahasiakan. Bab 1–8 serta 10 mendapat revisi terarah pada motivasi dan pikiran langsung tokoh. Sampul utama kini menggunakan ilustrasi konseptual tersendiri; semua 37 ilustrasi cerita tetap dipertahankan.
 
 - [Catatan revisi](editorial/revisi-2026-10-08.md)
-- [Peta Bab 11 untuk persetujuan penulis](https://daniel100703.github.io/DanimoanSaga/peta-bab-11.html) — belum menjadi bab terbit.
+- [Peta Bab 11 yang telah disetujui](https://daniel100703.github.io/DanimoanSaga/peta-bab-11.html).
+
+## Bab 11 — Di Hadapan Dunia Persilatan
+
+[Baca Bab 11](https://daniel100703.github.io/DanimoanSaga/bab-11.html). Seluruh Pertemuan Pahlawan selesai dalam satu arc, 3.306 kata: pertanggungjawaban Quanzhen, persoalan keluarga Guo, reuni Dani–Xiaolongnü, tantangan Mongol, dan keputusan meninggalkan pertemuan bersama.
+
+Tiga ilustrasi baru dimasukkan langsung ke halaman. Total 40 ilustrasi cerita dan satu sampul utama; semua gambar serta naskah Bab 1–10 tetap dipertahankan. Daftar bab, navigasi berikutnya dari Bab 10, dan batas informasi wiki telah diperluas sampai Bab 11. Penanda baca lama tetap menggunakan edisi yang sama.
+
+- [Kontinuitas, cakupan lore, dan rujukan kanon Bab 11](editorial/bab-11-kontinuitas.md).
+- [Arahan dan berkas ilustrasi Bab 11](editorial/bab-11-visual.md).
 
 ## Membaca
 
