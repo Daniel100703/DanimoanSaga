@@ -36,7 +36,7 @@ Bukan seluruh daun pintu yang roboh. Kayunya retak sepanjang serat, sedangkan ge
 
 Perempuan itu mengangkat mata. “Adik kecil, apakah keluarga Lu menerima tamu hari ini?”
 
-Suaranya ramah. Dani justru mundur setapak.
+Suaranya ramah. Dani justru mundur setapak. Ia melihat kayu yang retak, lalu dua jari perempuan itu yang bersih. Tamu yang ingin dipersilakan masuk tidak perlu merusak pintu. *Aku harus membawa kedua gadis itu menjauh,* pikirnya. Ia belum mengetahui siapa yang datang, tetapi tidak ingin menunggu sampai perempuan itu menunjukkan maksudnya.
 
 “Saya hanya singgah meminta minum, Bibi. Kalau hendak menemui tuan rumah, izinkan saya memanggil beliau.”
 
@@ -110,7 +110,7 @@ Senyum Li Mochou lenyap. Untuk sesaat Dani mengira ucapan tersebut menyentuh ses
 
 Li Mochou menoleh. “Engkau mengira orang harus bersalah dahulu sebelum kehilangan sesuatu?”
 
-Dani berhenti. Perempuan itu tidak menjawab seperti orang yang sedang mempertimbangkan benar atau salah. Ia seperti mengulangi sebuah pertanyaan yang telah lama dibawanya sendiri, lalu memilih membuat orang lain menanggung jawabannya.
+Dani berhenti. Ia berharap menyebut ketidakbersalahan anak-anak akan menahan tangan perempuan itu. Harapan tersebut sia-sia. Li Mochou menjadikan luka cintanya alasan untuk menghukum keluarga Lu; penderitaan yang pernah ditanggungnya seolah memberinya hak menentukan siapa lagi yang harus kehilangan. Dani belum mengetahui riwayat dendam itu. Ia hanya menangkap bahwa belas kasihan tidak akan membuka jalan keluar bagi mereka.
 
 Wushuang mengangkat kepala. Air matanya belum jatuh; wajahnya pucat sampai bibirnya terlihat merah sekali. Ia meraih pecahan kaki kursi dan menghantamkannya ke lutut Li Mochou.
 
@@ -144,7 +144,7 @@ Li Mochou memperhatikan wajahnya beberapa saat. Sesuatu melintas di matanya, ter
 
 “Engkau mempunyai banyak nasihat untuk orang yang belum sanggup membuka pintu.”
 
-Dani menggigit bagian dalam pipinya. Ia memindahkan beban Wushuang kepada Cheng Ying dan mundur ke buntalan yang terjatuh tadi. Perempuan itu mengikuti gerakannya tanpa menghalangi. Barangkali ia mengira bocah yang ketakutan akhirnya memilih menyelamatkan diri.
+Dani menggigit bagian dalam pipinya. Ia memindahkan beban Wushuang kepada Cheng Ying dan mundur ke buntalan yang terjatuh tadi. Pintu belakang hanya beberapa langkah lagi. Kalau kain itu menutup pandangan Li Mochou sesaat, mungkin mereka masih dapat menyeret Wushuang keluar. Ia tahu dirinya tidak sanggup mengalahkan perempuan itu; yang hendak dicurinya hanya kesempatan untuk lari.
 
 “Saya akan mengambil barang saya,” kata Dani. “Sesudah itu Bibi tidak perlu mendengarkan nasihat saya lagi.”
 
@@ -204,7 +204,7 @@ Lelaki tua itu menatapnya, kemudian memanggil Cheng Ying mendekat. Ia mengeluark
 
 “Gadis ini tidak boleh dibiarkan di sini. Li Mochou sudah membawa seorang tawanan yang mungkin ingin dipertahankannya hidup-hidup; gadis yang di depanmu baru saja hampir mati tertimpa kayu. Jangan sampai orang yang masih dapat kautolong kauabaikan karena mengejar yang belum terjangkau.”
 
-Dani memandang Cheng Ying. Bahu bajunya robek dan ada darah pada pelipisnya. Ia merasa malu karena sejak tadi terus menoleh ke gerbang.
+Dani memandang Cheng Ying. Bahu bajunya robek dan ada darah pada pelipisnya. Sejak tadi ia ingin mengejar Wushuang, seolah berlari cukup jauh dapat membatalkan kegagalannya. Namun Cheng Ying masih membutuhkan pertolongan di hadapannya. Ia memaksa diri berhenti menoleh ke gerbang dan mendekat kepada gadis yang masih dapat dijaganya.
 
 “Saya tidak bermaksud meninggalkanmu,” katanya.
 

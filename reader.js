@@ -20,7 +20,9 @@
   const migration=JSON.parse(document.getElementById('edition-migration').textContent);
   if(state.edition!==migration.edition){
     const previous=state, positions={};
-    const mapped=anchor=>migration.map[anchor]||null;
+    const fromPrevious=previous.edition===migration.previousEdition;
+    const mapping=fromPrevious?migration.previousMap:migration.map;
+    const mapped=anchor=>mapping[anchor]||null;
     for(const [slug,pos] of Object.entries(previous.positions)){
       const anchor=mapped(pos.anchor);if(!anchor)continue;
       const next='bab-'+anchor.split('-')[1], n=Number(anchor.split('-')[2]);
@@ -28,9 +30,9 @@
       if(!positions[next]||positions[next].anchor<anchor)positions[next]={anchor,offset:0,percent};
     }
     const lastAnchor=mapped(previous.positions[previous.last]?.anchor);
-    state={...previous,positions,edition:migration.edition,last:lastAnchor?'bab-'+lastAnchor.split('-')[1]:(migration.chapterFallback[previous.last]||previous.last)};
+    state={...previous,positions,edition:migration.edition,last:lastAnchor?'bab-'+lastAnchor.split('-')[1]:(fromPrevious?previous.last:(migration.chapterFallback[previous.last]||previous.last))};
     // Keep the pre-revision record recoverable; reader preferences stay unchanged.
-    try{if(Object.keys(previous.positions).length)localStorage.setItem(storageKey+'-before-2026-10',JSON.stringify(previous));localStorage.setItem(storageKey,JSON.stringify(state));}catch(_){}
+    try{if(Object.keys(previous.positions).length)localStorage.setItem(storageKey+'-before-'+(previous.edition||'2026-10'),JSON.stringify(previous));localStorage.setItem(storageKey,JSON.stringify(state));}catch(_){}
   }
   let size=Math.min(26,Math.max(16,Number(state.size)||(innerWidth<=760?18:20)));
   const persist=()=>{try{localStorage.setItem(storageKey,JSON.stringify(state));}catch(_){}};

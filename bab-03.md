@@ -24,7 +24,7 @@ Mata lelaki itu membelalak. Rambut acak-acakan membingkai wajah keras dengan hid
 
 “Pergi? Takut! Semua takut kepadaku. Aku yang paling hebat. Paling hebat!”
 
-Teriakannya membuat burung-burung terbang dari pepohonan. Dani menelan sisa bantahannya. Orang gila. Orang gila yang sanggup menegakkan tubuh dari satu tangan sambil mengangkatnya seperti karung kosong.
+Teriakannya membuat burung-burung terbang dari pepohonan. Dani menelan sisa bantahannya. Orang gila ini sanggup menegakkan tubuh dari satu tangan sambil mengangkatnya seperti karung kosong. *Jangan membantah dahulu. Cari jalan lepas,* pikir Dani. Ia memperhatikan arah kaki lelaki itu, bukan lagi mencoba memenangkan percakapan.
 
 Ia melirik jalan di belakang lelaki itu.
 
@@ -102,7 +102,7 @@ Ia mengulang nama itu, mengangguk, lalu tersenyum lebar seolah persoalannya tela
 
 “Bagus. Anakku bernama Dani,” kata lelaki tua itu.
 
-Dani menunduk pada ubi di tangannya. Mengangguk saja, pikirnya semula; dapat makanan, dapat pelajaran. Namun lelaki itu sudah memberinya bagian yang lebih besar bahkan sebelum meminta apa pun. “Kalau Tetua bersedia menjadi ayah angkatku, aku akan menerimanya. Tetapi aku tidak hendak melupakan ayah yang telah meninggal.”
+Dani menunduk pada ubi di tangannya. Semula ia berniat mengangguk saja agar memperoleh makanan dan pelajaran. Kini niat itu membuatnya malu. Lelaki ini sungguh takut ditinggalkan, dan sudah memberinya bagian terbesar sebelum meminta apa pun. Dani mengenali kesepian itu meskipun keluar dari mulut yang terus membentak. “Kalau Tetua bersedia menjadi ayah angkatku, aku akan menerimanya. Tetapi aku tidak hendak melupakan ayah yang telah meninggal.”
 
 “Boleh, boleh! Panggil!” seru lelaki tua itu.
 
@@ -180,7 +180,7 @@ Nama itu justru membuatnya berteriak. Ia mendorong Dani menjauh, bukan untuk men
 
 “Ayah! Tunggu aku!” Dani menyambar buntalannya dan mengejar. Baru beberapa puluh langkah, dadanya terasa ditusuk. Ia terpaksa berhenti sambil memegangi batang pohon. Teriakan Ouyang Feng makin jauh, kemudian hilang. Tidak ada jejak yang bisa Dani ikuti di antara akar dan daun kering.
 
-Ia menunggu sampai matahari melewati pucuk-pucuk bambu. Menjelang siang, ia kembali ke tempat pemujaan. Bara api telah dingin. Ubi terakhir masih terselip di tepinya.
+Ia menunggu sampai matahari melewati pucuk-pucuk bambu, menimbang apakah panggilannya tadi membuat Ouyang Feng marah. Tetapi lelaki itu bahkan tidak lagi melihat dirinya ketika berlari. Dani tidak tahu bagaimana mengejar pikiran yang tersesat di dalam kepala ayah angkatnya. Menjelang siang ia kembali ke tempat pemujaan; bara telah dingin, dan ubi terakhir masih terselip di tepinya.
 
 Dani mengambilnya, membersihkan abu, lalu memasukkannya ke buntalan. Ia meninggalkan jejak kaki yang sengaja dibuat jelas pada tanah lembap di depan pintu, menuju jalan besar. “Aku akan mencari Ayah di jalan besar. Jika Ayah kembali, ikutilah jejak kakiku ini.”
 
@@ -260,7 +260,7 @@ Dani mengembuskan napas. Setidaknya satu orang benar-benar berada di tempat aman
 
 “Siapa yang telah mengangkatmu sebagai anak?” tanya Ke Zhen'e.
 
-Nada tajam itu membuat Dani kembali menutup diri. Ia mengangguk pendek. Jangan sampai lelaki tua ini menanyainya soal Ayah, pikirnya. Mendengar bahwa Ayah suka berjalan terbalik, pasti ia akan mencibir.
+Nada tajam Ke Zhen’e membuat Dani kembali menutup diri. Ia mengangguk pendek. *Jangan sampai ia menanyai Ayah,* pikirnya. Orang tua itu belum mengetahui siapa Ouyang Feng bagi dirinya. Dani takut setiap tingkah ganjil ayah angkatnya akan dipakai untuk meniadakan kebaikan yang baru beberapa hari dirasakannya.
 
 “Di mana kalian tinggal?” tanya Guo Jing.
 

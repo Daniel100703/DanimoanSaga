@@ -78,7 +78,7 @@ Pada musim semi keempat, mereka mulai menelaah bagian Sutra Hati Gadis Giok yang
 
 “Sekarang engkau harus mempelajari keduanya. Mengetahui kelemahan suatu ilmu tidak berguna bila tanganmu belum sanggup mencapai kelemahan itu.”
 
-Dani mengulangi gerakan lawan dengan pedang kayu. Xiaolongnü masuk di antara pertahanannya, mengetuk pergelangan dan berhenti dekat sekali. Dahulu ia akan segera mundur untuk mengulang. Kali ini ia memandang wajah gurunya sampai Xiaolongnü bertanya mengapa pedangnya turun.
+Dani mengulangi gerakan lawan dengan pedang kayu. Xiaolongnü masuk di antara pertahanannya, mengetuk pergelangan dan berhenti dekat sekali. Dani sadar ia dapat mundur, tetapi justru menunggu gadis itu menjauh lebih dahulu. Keinginan untuk tetap berdekatan datang lebih cepat daripada nama untuk perasaan tersebut. Pedangnya turun sampai Xiaolongnü bertanya mengapa ia berhenti.
 
 “Bibi sudah menang. Murid sedang memikirkan alasan yang tidak terlalu memalukan.”
 
@@ -118,7 +118,7 @@ Zhao menusuk. Ranting Dani menyimpang melalui sudut yang justru terbuka oleh ger
 
 “Kalau begitu, bersumpahlah,” kata Dani. “Apa yang kaulihat adalah latihan. Jangan kaubiarkan lidahmu mengubahnya menjadi aib untuk menutupi kesalahan kalian.”
 
-Zhen menatap darah di bibir Xiaolongnü. Wajahnya memucat. Ia bersumpah tidak menyebarkan kejadian tersebut dan memaksa Zhao ikut mengucapkannya. Dani tidak mempercayai keramahan mendadak mereka. Ia mundur sambil menopang Xiaolongnü, pedang tetap mengarah ke kedua pendeta sampai pepohonan menutup pandangan.
+Zhen menatap darah di bibir Xiaolongnü dan memucat. Ia merasa bersalah, sekaligus takut perempuan yang terus memenuhi pikirannya itu akan membencinya. Ia bersumpah tidak menyebarkan kejadian tersebut dan memaksa Zhao ikut mengucapkannya. Dari sisi Dani, sumpah itu tidak cukup: kedua pendeta telah mengubah tempat latihan menjadi bahaya. Ia mundur sambil menopang Xiaolongnü, pedang tetap terarah kepada mereka.
 
 ***
 
@@ -138,7 +138,7 @@ Pertanyaan itu membuat tangannya berhenti. Dani merasakan seluruh tubuhnya dingi
 
 “Aku ingin hidup bersamamu,” katanya. “Bila Bibi ingin menepati janji, biarkan aku berusaha merawatmu dahulu.”
 
-Ia keluar sebelum gadis itu menjawab. Di lorong ia duduk menempel pada dinding, marah dan ketakutan; namun beberapa saat kemudian ia bangkit mencari persediaan obat. Ia tidak sanggup meninggalkan perempuan yang bahkan tidak tahu betapa salah cara menjaga yang baru dipikirkannya.
+Dani keluar sebelum Xiaolongnü menjawab. Di lorong ia duduk menempel pada dinding, marah dan ketakutan. Ia percaya gadis itu menyayanginya, dan justru karena itulah pedang tadi begitu melukainya: Xiaolongnü sempat menganggap kematian bersama lebih mudah daripada perpisahan. Dani bangkit mencari obat. Ia ingin mereka hidup, lalu membicarakan ketakutan itu ketika gurunya mampu mendengarkan.
 
 Ketika kembali, ia mendengar suara perempuan lain menuntut Sutra Hati Gadis Giok.
 
@@ -172,7 +172,7 @@ Xiaolongnü menunjukkan letak mekanisme penutup. “Turunkan Batu Pemutus Naga s
 
 “Aku bersumpah menjaga makam. Engkau masih dapat hidup di luar. Carilah Paman Guo.”
 
-Dani memandang jalan menuruni gunung. Ia sudah pernah meninggalkan sebuah rumah setelah ibunya meninggal. Kini ia diminta memilih jalan itu sementara orang yang disayanginya masih bernapas di hadapannya.
+Dani memandang jalan menuruni gunung. Jalan itu berarti hidup bagi dirinya, tetapi meninggalkan Xiaolongnü menunggu mati. *Aku tidak akan membiarkannya sendirian,* pikirnya. Ia tidak mengetahui syarat sumpah perguruan; tidak ada kebebasan atau cinta yang dijanjikan sebagai imbalan. Ia hanya tahu orang yang hendak ditinggalkannya telah menjadi tempat pulangnya.
 
 “Bibi sungguh mengira aku akan menghabiskan hidup dengan bersyukur karena berhasil meninggalkanmu di sini?”
 
@@ -204,7 +204,7 @@ Li Mochou menekan bilah sampai Dani merasakan dinginnya. “Engkau bahkan tidak 
 
 “Aku sudah memilih ketika kembali melewati pintu.”
 
-Wajah Li Mochou berubah. Ia menatap Xiaolongnü dengan kebencian yang bercampur iri.
+Wajah Li Mochou berubah. Dahulu ia meninggalkan perguruan demi cinta yang berakhir sebagai dendam; kini adiknya yang hampir tak mengenal dunia justru mempunyai lelaki yang rela mati bersamanya. Kesetiaan Dani menyentuh luka yang tak pernah sembuh itu. Iri menajamkan kebenciannya kepada Xiaolongnü.
 
 “Adik seperguruan, rupanya sumpahmu telah terpatahkan. Seandainya pintu itu masih terbuka, sekarang engkau boleh turun gunung.”
 

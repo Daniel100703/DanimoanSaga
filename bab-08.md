@@ -42,7 +42,7 @@ Dani menangkapnya sebelum tubuhnya menyentuh tanah. “Ayah, apa yang Ayah lakuk
 
 “Beliau tidak memerlukan ilmu Ayah untuk menjagaku. Lepaskan totokannya.”
 
-Ouyang Feng menegang. Dani mengenali bahaya di balik tatapan tersebut. Ia membawa Xiaolongnü ke bangku di dalam gubuk, membetulkan letak lengannya, lalu berlutut agar mata mereka sejajar.
+Ouyang Feng menegang. Dani mengenali tatapan yang dapat berubah menjadi serangan tanpa peringatan. Jika ia terus membantah di sini, Xiaolongnü akan berada di tengah benturan tanpa sanggup mengelak. Ia membawa gadis itu ke bangku di dalam gubuk, membetulkan letak lengannya, lalu berlutut agar mata mereka sejajar. Ia hendak menjauhkan ayahnya lebih dahulu, kemudian kembali untuk membuka totokan.
 
 “Aku akan segera kembali,” bisiknya. “Aku harus menjauhkan Ayah dahulu. Jangan takut; aku tidak akan membiarkanmu menunggu lama.”
 
@@ -84,11 +84,11 @@ Lelaki itu menerobos semak sambil berteriak meminta orang yang tidak ada menunju
 
 Pintunya terbuka.
 
-Zhen Zhibing berada di dalam.
+Zhen Zhibing berada di dalam. Ia mengenali keadaan Xiaolongnü: gadis itu sadar, tetapi totokan membuat tubuhnya tak dapat melawan. Pendeta tersebut datang membawa obsesi yang telah lama dipeliharanya. Kini, ketika Dani tidak terlihat, ia berniat memperkosa perempuan yang tidak pernah membalas perasaannya. Pengetahuan tentang larangan perguruan masih ada; ia sengaja mengabaikannya. Sikap tertib yang dikenalnya di hadapan para tetua tidak menahan tangan yang mulai terulur.
 
 ***
 
-Dani mengenali jubah pendeta itu dan cara ia menempatkan kaki. Tangan Zhen sedang terulur kepada Xiaolongnü, sedangkan gadis itu menatap pintu dengan ketakutan yang tidak dapat disuarakannya.
+Dari ambang pintu, Dani mengenali jubah Zhen dan cara ia menempatkan kaki. Tangan pendeta itu terulur kepada Xiaolongnü; mata gadis itu menatap pintu dengan ketakutan yang tidak dapat disuarakannya. Dani tidak mengetahui seluruh pikiran Zhen. Namun tubuh yang didekati tanpa izin dan tatapan yang meminta pertolongan sudah cukup membuatnya bergerak.
 
 “Jauhkan tanganmu darinya.”
 
@@ -98,7 +98,7 @@ Zhen tersentak. Dani masuk sebelum ia sempat berbalik sepenuhnya, menghantam len
 
 “Engkau melihat ia tidak dapat bergerak. Itu yang kaulihat.”
 
-Zhen mundur melewati ambang. Dani mengejarnya, sengaja membawa pertarungan ke luar. Ia ingat nasihat Xiaolongnü tentang lawan yang melupakan pijakan ketika terkejut. Tangan Zhen bergerak ke pedang; Dani menekan pergelangannya ke kusen sebelum bilah tercabut utuh, lalu menyapu kaki tumpuannya.
+Zhen mundur melewati ambang. Dani mengejarnya, sengaja membawa pertarungan ke luar. *Jauhkan dia dari Bibi. Jangan beri ruang untuk menarik pedang,* pikirnya. Ketika tangan Zhen bergerak ke gagang, Dani menekan pergelangannya ke kusen sebelum bilah tercabut utuh, lalu menyapu kaki tumpuannya seperti yang dipelajari dari Xiaolongnü.
 
 Mereka jatuh bersama. Bahu Dani membentur tanah. Ia hampir kehilangan kuncian ketika Zhen mengerahkan tenaga, tetapi pendeta itu melirik ke dalam gubuk dan terlambat menutup sisi wajahnya. Pukulan Dani mengenai mulut.
 
@@ -112,9 +112,9 @@ Dani menyeretnya ke luar jangkauan dan menekan lengan Zhen. Ia menang karena ser
 
 “Dengan menyentuhnya ketika ia tidak dapat menolak?”
 
-Zhen Zhibing mengalihkan mata. Darah turun dari bibirnya. Untuk sesaat Dani ingin memukul lagi sampai wajah yang malu itu tidak dapat memandang Xiaolongnü. Lalu terdengar bunyi kecil dari dalam: tumit gadis itu bergeser pada lantai.
+Zhen mengalihkan mata. Darah turun dari bibirnya, tetapi rasa malu yang membakarnya terutama karena niatnya terbongkar oleh Dani. Ia masih mencari dalih pertolongan untuk menutupi percobaan pelecehan itu. Dani melihatnya menghindari tatapan dan ingin memukul lagi. Lalu terdengar bunyi kecil dari dalam: tumit Xiaolongnü bergeser pada lantai.
 
-Dani menahan tangannya. Xiaolongnü sedang berusaha memanggilnya.
+Dani menahan tangannya. Xiaolongnü sedang berusaha memanggilnya. Jika ia terus memukuli Zhen demi melampiaskan amarah, ia kembali membiarkan gadis itu menunggu tanpa pertolongan. Ia memaksa jemarinya mengendur; yang harus dijaganya berada di dalam gubuk.
 
 Ia menarik Zhen bangkit, lalu mendorongnya menjauh dari pintu. “Kau sudah mengetahui namaku sejak aku datang ke Quanzhen. Ingat baik-baik siapa yang akan mencarimu jika engkau mendekatinya lagi.”
 
@@ -146,9 +146,9 @@ Ia tetap tidak melepaskan. Dani membawa cawan dengan sebelah tangan, membiarkan 
 
 “Ayah memberiku obat untuk latihan.” Dani mencoba mengingat rasa dan bentuknya. “Aku akan baik-baik saja. Tadi aku berlari terlalu cepat.”
 
-Ia sendiri tidak memahami apa yang sedang terjadi pada tubuhnya. Pikiran yang biasanya tajam mulai terputus-putus. Kekhawatiran, kemarahan, dan rasa lega datang bercampur, makin sulit dipisahkan. Xiaolongnü menyuruhnya duduk dan memeriksa napasnya dengan pengetahuan yang dimilikinya; ia mengira ketegangan pertarungan belum reda.
+Pikiran Dani mulai terputus-putus. Panas yang dianggapnya sisa pertarungan ternyata pengaruh obat Ouyang Feng: ramuan itu membangkitkan dorongan nafsu sekaligus mengaburkan kesadarannya. Ia tidak memahami perubahan tersebut. Xiaolongnü menyuruhnya duduk dan memeriksa napasnya dengan pengetahuan yang dimilikinya; ia pun menyangka tubuh Dani masih menanggung ketegangan setelah perkelahian.
 
-Di luar, Zhen sempat berhenti di antara pepohonan. Dari celah sebelum daun jendela ditutup, ia melihat Dani berlutut di dekat Xiaolongnü dan tangan perempuan itu memegang wajah pemuda tersebut. Ia tidak menyaksikan lebih jauh. Ia turun dengan kemarahan yang kini mempunyai sasaran: Dani telah mempermalukannya di hadapan perempuan yang selama ini dipikirkannya.
+Di luar, Zhen sempat berhenti di antara pepohonan. Sebelum daun jendela ditutup, ia melihat Dani berlutut di dekat Xiaolongnü dan tangan perempuan itu memegang wajah pemuda tersebut. Kelembutan yang tidak pernah ditujukan kepadanya itu memperuncing cemburunya. Ia tahu baru saja hendak berbuat keji, tetapi lebih suka menyalahkan Dani yang mempermalukannya. Zhen lalu turun dengan dendam. Ia hanya menyaksikan kedekatan itu; ketika malam berlanjut, ia sudah pergi.
 
 Dani mencoba menegakkan tubuh untuk memeriksa jendela. Kakinya goyah. Xiaolongnü segera menopangnya dan menyuruhnya duduk kembali.
 
@@ -182,7 +182,7 @@ Xiaolongnü bangun lebih dahulu. Ia melipat jubah biru, menaruhnya di dekat Dani
 
 “Kepalamu masih sakit?” tanyanya.
 
-Dani mengangguk. Ia ingat tangan Zhen, darah di bibir pendeta itu, dan cawan di meja. Setelahnya hanya potongan-potongan yang tidak dapat disusun. Ia bangkit terlalu cepat dan harus menahan tepi dipan.
+Dani mengangguk. Ia ingat tangan Zhen, darah di bibir pendeta itu, dan cawan di meja. Sesudahnya hanya potongan yang tidak dapat disusun. *Mengapa aku tidak ingat sesudah itu?* Ia mencoba bangkit untuk memastikan pintu masih terkunci, tetapi kepalanya berdenyut dan ia harus menahan tepi dipan.
 
 Xiaolongnü menyentuh tengkuknya. “Jangan tergesa. Hari ini engkau tinggal bersamaku.”
 
@@ -198,7 +198,7 @@ Dani mengira ia kembali ketakutan. Ia meraih tangan gadis itu, tetapi Xiaolongn�
 
 “Semalam aku mengira engkau sudah memilih memandangku sebagai perempuan yang akan mendampingimu.” Suaranya pelan, tetapi utuh. “Aku bukan hanya gurumu lagi, Dani.”
 
-Dani menahan napas. Wajahnya panas karena hal yang mulai diduganya dan ketakutan bahwa ia menduga terlalu jauh.
+Dani menahan napas. Ia mulai menduga maksud Xiaolongnü, tetapi tidak menemukan ingatan yang dapat menegaskannya. Ia takut mengatakan sesuatu yang keliru tentang malam yang begitu berarti bagi gadis itu. Kebingungan tersebut menahan jawaban yang paling dibutuhkannya: apakah Dani mencintainya dan hendak hidup bersamanya.
 
 “Apa yang terjadi setelah aku menutup pintu?”
 
@@ -206,11 +206,11 @@ Xiaolongnü menarik tangannya sedikit. “Mengapa harus kututurkan kembali? Engk
 
 “Aku ingat sebagian. Selebihnya—” Ia menekan pelipis. “Obat Ayah membuat kepalaku kacau. Aku tidak ingin menjawab sesuatu yang belum dapat kuingat.”
 
-Bagi Xiaolongnü, kalimat itu terdengar seperti langkah mundur. Ia dibesarkan dalam perguruan yang mewariskan ajarannya melalui perempuan yang menjaga keperawanan. Selama ini ia mengira dirinya akan hidup dan mati dengan aturan tersebut. Semalam ia merasa telah memilih Dani dengan seluruh akibatnya; kini lelaki yang dipilihnya meminta penjelasan seolah peristiwa itu tidak mengikat mereka.
+Bagi Xiaolongnü, permintaan penjelasan itu terdengar seperti langkah mundur. Ajaran Makam Kuno membuatnya memandang penyerahan keperawanan sebagai keputusan yang tidak akan diberikan kepada lelaki lain. Ia telah memilih Dani sebagai suami. Karena belum memahami pengaruh obat itu, ia mengira pemuda tersebut mengingat pilihan yang sama, lalu hendak menghindari akibatnya.
 
 “Aku sudah menyerahkan diriku kepadamu,” katanya. “Aku ingin menjadi istrimu. Apakah itu tidak juga menjadi kehendakmu?”
 
-Dani terdiam. Ia mencintainya; setiap hari di gubuk sudah memperlihatkan itu sebelum ia sanggup menyebut namanya. Tetapi ia belum pernah diminta berdiri sebagai suami, terlebih sebagai suami yang seharusnya mengingat janji malam sebelumnya.
+Dani terdiam. Ia mencintainya dan menghendaki hari-hari mereka tetap bersama. Namun sebutan suami memaksanya mengakui bahwa perempuan yang dirindukannya itu bukan sekadar guru. Selama ini ia berlindung dalam panggilan Bibi karena panggilan tersebut tidak menuntutnya menjelaskan perasaannya. Kini perlindungan itu justru melukai Xiaolongnü.
 
 “Engkau guruku, Bibi. Selama empat tahun aku menghormatimu dengan panggilan itu. Aku tidak tahu bahwa pagi ini—”
 
@@ -228,13 +228,13 @@ Dani terdiam. Ia mencintainya; setiap hari di gubuk sudah memperlihatkan itu seb
 
 Xiaolongnü menatapnya seakan dua kalimat itu tidak mempunyai perbedaan. Dani melihat air mata mulai turun, dan ketakutannya membuat ia semakin berhati-hati memilih kata. Justru kehati-hatian itu terdengar dingin di telinga perempuan yang menunggu satu jawaban sederhana.
 
-Dani membuka mulut. Ia hendak meminta waktu sampai kepalanya jernih, hendak mengatakan bahwa ia takut melukai perempuan itu dengan janji yang diucapkan tanpa memahami apa yang telah terjadi. Yang keluar terdengar seperti penolakan.
+Dani membuka mulut. *Aku ingin bersamamu. Mengapa setiap jawaban malah membuatmu semakin jauh?* Ia hendak meminta waktu sampai pikirannya jernih, takut sebuah janji tergesa hanya menambah luka. Ia belum menyadari bahwa Xiaolongnü tidak sedang mengujinya mengingat urutan kejadian; gadis itu menunggu pengakuan cinta yang dapat diberikannya saat itu juga.
 
 “Jangan minta aku memutuskan sekarang. Aku masih belum mengerti, Bibi.”
 
 Xiaolongnü melepaskan tangannya.
 
-Ia telah menunggu Dani pulang, belajar menahan pertanyaan, dan percaya ketika pemuda itu mengatakan kembali kepadanya. Pagi tersebut ia merasa seluruh keberaniannya justru mempermalukan dirinya sendiri. Ia bangkit dan merapikan lengan jubah dengan gerakan kecil yang terlalu hati-hati.
+Xiaolongnü merasa telah menyerahkan seluruh hidupnya, lalu diminta kembali ke tempat seorang guru. Itulah yang didengarnya, meskipun Dani tidak bermaksud demikian. Malu dan takut ditolak bercampur dengan cinta yang belum surut. Ia bangkit, merapikan lengan jubah dengan gerakan terlalu hati-hati, berusaha menyembunyikan betapa keras ia masih berharap Dani akan menahannya sebagai kekasih.
 
 “Aku mengerti,” katanya. “Engkau masih ingin mempunyai seorang guru. Aku yang mengira engkau telah menghendaki seorang istri.”
 
@@ -242,7 +242,7 @@ Ia telah menunggu Dani pulang, belajar menahan pertanyaan, dan percaya ketika pe
 
 “Sebagai siapa?”
 
-Pertanyaan itu membuatnya membeku. Xiaolongnü menunggu beberapa detik yang terasa lebih lama daripada seluruh pagi, lalu memalingkan wajah.
+Dani membeku. Jawaban yang jujur ada di dadanya, tetapi ia terlalu lama berusaha memisahkan hormat, cinta, dan malam yang tak dapat diingat. Xiaolongnü hanya melihat lelaki yang kembali diam setelah ditanya sebagai siapa ia dicintai. Gadis itu menunggu beberapa detik, lalu memalingkan wajah.
 
 “Jangan ikuti aku sekarang. Aku tidak sanggup mendengar engkau memanggilku Bibi sekali lagi.”
 
@@ -281,7 +281,7 @@ Pagi berikutnya Dani turun gunung. Kali ini ia membawa seluruh barangnya, serta 
 ## Catatan Kontinuitas — Bab 8
 
 - Dani 18 dan Xiaolongnü 20. Ouyang Feng menotok Xiaolongnü serta memberi Dani obat yang mengganggu kesadarannya.
-- Dani mengenali dan menghajar Zhen yang mencoba menyerang; percobaan itu digagalkan sebelum berlanjut, sesuai percabangan Saga.
+- Dani mengenali dan menghajar Zhen yang berniat memperkosa Xiaolongnü; percobaan itu digagalkan sebelum berlanjut, sesuai percabangan Saga.
 - Keintiman pertama terjadi antara Dani dan Xiaolongnü; kesadaran Dani terganggu. Xiaolongnü mengira kedekatan itu pilihan sadar dan ikatan perkawinan.
 - Zhen mengetahui kedekatan mereka dan tempat gubuk, tetapi tidak menyaksikan hubungan intim; pengetahuan itu tidak boleh menjadi kesaksian palsu narator.
 - Xiaolongnü pergi karena merasa ditolak sebagai istri. Dani memahami cintanya dan mulai mencari; belum ada pernikahan atau reuni.

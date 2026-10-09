@@ -102,7 +102,7 @@ Di luar, air menetes dari ujung atap. Tiga tetes berurutan, jeda, lalu satu tete
 
 Ia datang untuk mengambil jarum.
 
-Itu saja, katanya kepada diri sendiri sejak melihat atap rumah dari tikungan jalan. Lengan bajunya sudah berlubang sebelum pintu sialan tadi memperburuknya, dan ia tidak bisa terus menyelipkan siku agar angin tidak masuk. Jarum ada di rumah. Benang pun barangkali masih ada. Tidak ada alasan lain untuk kembali.
+Itu saja, katanya kepada diri sendiri sejak melihat atap rumah dari tikungan jalan. Lengan bajunya berlubang dan jarum ada di rumah. Alasan itu mudah dipertahankan. Mengakui bahwa ia merindukan suara ibunya jauh lebih sukar; kalau ia datang hanya untuk mendengarnya lagi, ia harus mengakui pula bahwa penantian itu tidak akan mendapat jawaban.
 
 Dani bangkit terlalu cepat. Bangku di belakangnya terguling.
 
@@ -206,7 +206,7 @@ Baju itu dilemparkannya ke lantai.
 
 Jarum ikut terlepas.
 
-Dani langsung membeku. Amarah di wajahnya luruh seketika; ia menahan napas, kedua tangan menggantung kaku di atas lutut.
+Dani langsung membeku. Jarum itu peninggalan ibunya, dan ia baru saja melemparkannya demi melampiaskan amarah kepada pekerjaan yang tidak kunjung berhasil. Bagaimana jika benda sekecil itu hilang di lantai tanah? Napasnya tertahan; kedua tangannya menggantung kaku di atas lutut.
 
 Ia menatap lantai di antara kakinya.
 
@@ -324,7 +324,7 @@ Kalau tinggal, ia harus mencari makanan lagi ketika sisa roti habis. Jalan menuj
 
 Ia sudah menghitungnya berkali-kali.
 
-Yang belum pernah berhasil dihitungnya adalah berapa jauh ia sanggup berjalan sebelum mulai memikirkan rumah ini dan berbalik.
+Yang belum pernah berhasil dihitungnya adalah berapa jauh ia sanggup berjalan sebelum memikirkan rumah ini dan berbalik. *Kalau aku pergi, bukan berarti aku melupakan Ibu,* pikir Dani. Ia mencoba mempercayainya. Ibunya dahulu bekerja supaya ia tetap hidup; tinggal di sini sampai bekalnya habis tidak akan membuat pengorbanan itu lebih berarti.
 
 Dengan kesal ia menyelipkan ranting itu ke bawah ikatan kayu yang lain.
 
@@ -410,7 +410,7 @@ Ia mengambil sedikit air dari tempayan, membilas mangkuk retak itu, kemudian mem
 
 Sejenak kemudian, ia memutar mangkuk ibunya sehingga bagian yang retak menghadap dinding.
 
-Ia tidak memerlukan alasan untuk itu.
+Dani tahu ibunya tidak akan memakai mangkuk itu lagi. Namun membiarkan bibirnya yang retak menghadap keluar terasa seperti meninggalkan pekerjaan Mu Nianci belum selesai. Ia memutarnya untuk menjaga kebiasaan kecil itu, satu hal yang masih dapat dilakukannya sebelum pergi.
 
 Pelita tanah liat tetap berada di meja. Minyaknya sudah lama habis. Dani meluruskan sumbunya dengan ujung kuku, lalu menarik tangan seolah baru menyentuh sesuatu yang panas.
 

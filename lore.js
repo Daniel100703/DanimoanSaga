@@ -23,7 +23,8 @@
     progress=Number(stored.progress)||0;
     if(progress && stored.edition!==edition){
       const anchor='p-'+String(Math.floor(progress/10000)).padStart(2,'0')+'-'+String(progress%10000).padStart(3,'0');
-      progress=keyOf(migration.map[anchor]);
+      const mapping=stored.edition===migration.previousEdition?migration.previousMap:migration.map;
+      progress=keyOf(mapping[anchor]);
     }
     const old = JSON.parse(localStorage.getItem('dani-moan-webnovel-v1') || '{}');
     for (const p of Object.values(old.positions || {})) progress = Math.max(progress, keyOf(p.anchor));

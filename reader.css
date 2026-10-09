@@ -18,7 +18,7 @@
 @media print{.topbar,.shelf-side,.toc-modal,.skip,.read-start,.chapter-nav,.footer{display:none!important}.chapter-heading,.prose,.after-story,.cover-plate{transform:none}.prose{font-size:12pt;line-height:1.6}.chapter-heading{margin-top:0}.cover-plate{max-width:350px}.plate img{max-height:190mm;object-fit:contain}.chapter-view{break-before:page}.memory{break-inside:auto}body{background:white;color:#222}.js [data-view].is-active{display:block}}
 
 /* Lore tetap berada di lapisan bantu; warna dan suara dialog tidak berubah. */
-.lore-term{display:inline;background:none;border:0;border-radius:2px;padding:0;color:inherit;font:inherit;line-height:inherit;text-align:inherit;text-decoration:underline dotted var(--copper);text-underline-offset:.2em;text-decoration-thickness:1px;cursor:pointer}
+.lore-term{display:inline;background:none;border:0;border-radius:2px;padding:0;color:var(--accent);font:inherit;font-weight:700;line-height:inherit;text-align:inherit;text-decoration:underline solid var(--copper);text-underline-offset:.2em;text-decoration-thickness:1px;cursor:pointer}
 .lore-term:hover{background:var(--panel)}.lore-term:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
 .wiki-nav{display:inline-flex;text-decoration:none}.side-wiki{display:block;margin-top:18px;padding:13px 8px;border-top:1px solid var(--line);font:600 14px/1.5 system-ui,sans-serif;text-decoration:none}
 body[data-current=wiki] .type-controls,body[data-current=wiki] .progress-track{display:none}
@@ -32,3 +32,5 @@ body[data-current=wiki] .type-controls,body[data-current=wiki] .progress-track{d
 @media print{.lore-dialog,.wiki-nav,.lore-open{display:none!important}.lore-term{border:0;text-decoration:none}.wiki-view{transform:none;max-width:100%}}
 
 .edition-note{font:600 .78rem/1.5 system-ui,sans-serif;letter-spacing:.04em;color:var(--muted);margin:1rem 0;}
+
+.reading-hint{max-width:690px;margin:24px auto 36px;padding:14px 18px;border-left:2px solid var(--copper);background:var(--panel);color:var(--muted);font:14px/1.75 system-ui,sans-serif}.reading-hint strong{color:var(--accent);text-decoration:underline;text-underline-offset:3px}@media(max-width:760px){.reading-hint{margin:20px 20px 30px}}

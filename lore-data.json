@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "edition": "2026-10-revision",
+  "edition": "2026-10-polish",
   "chapterLengths": {
     "1": 227,
     "2": 131,
@@ -10,7 +10,7 @@
     "6": 133,
     "7": 139,
     "8": 133,
-    "9": 162,
+    "9": 133,
     "10": 143
   },
   "entries": [
@@ -67,7 +67,7 @@
         },
         {
           "title": "Dani Moan",
-          "summary": "Pemuda yang kembali ke rumah ibunya. Cerdik, mudah tersulut, dan menutupi kesedihan dengan gurauan.",
+          "summary": "Anak angkat Ouyang Feng; kasih sayang dan bahaya hidup berdampingan dalam hubungannya dengan sang ayah.",
           "fields": {
             "Usia saat diperkenalkan": "14 tahun",
             "Tingkat": "Belum terukur · tahap belajar dasar",
@@ -83,7 +83,7 @@
         },
         {
           "title": "Dani Moan",
-          "summary": "Pemuda yang kembali ke rumah ibunya. Cerdik, mudah tersulut, dan menutupi kesedihan dengan gurauan.",
+          "summary": "Tinggal bersama keluarga Guo, membawa kasih kepada ayah angkat dan kesulitan mengendalikan diri.",
           "fields": {
             "Usia saat diperkenalkan": "14 tahun",
             "Tingkat": "Belum terukur · tahap belajar dasar",
@@ -99,7 +99,7 @@
         },
         {
           "title": "Dani Moan",
-          "summary": "Pemuda yang kembali ke rumah ibunya. Cerdik, mudah tersulut, dan menutupi kesedihan dengan gurauan.",
+          "summary": "Menghadapi perlakuan tidak adil di Quanzhen sebelum diterima di Makam Kuno.",
           "fields": {
             "Usia saat diperkenalkan": "14 tahun",
             "Tingkat": "Belum terukur · tahap belajar dasar",
@@ -115,7 +115,7 @@
         },
         {
           "title": "Dani Moan",
-          "summary": "Pemuda yang kembali ke rumah ibunya. Cerdik, mudah tersulut, dan menutupi kesedihan dengan gurauan.",
+          "summary": "Berguru kepada Xiaolongnü; empat tahun latihan mengubah kemampuan dan kedekatan mereka.",
           "fields": {
             "Usia saat diperkenalkan": "14 tahun",
             "Tingkat": "Belum terukur pada fase ini",
@@ -132,7 +132,7 @@
         },
         {
           "title": "Dani Moan",
-          "summary": "Pemuda yang kembali ke rumah ibunya. Cerdik, mudah tersulut, dan menutupi kesedihan dengan gurauan.",
+          "summary": "Berguru kepada Xiaolongnü; empat tahun latihan mengubah kemampuan dan kedekatan mereka.",
           "fields": {
             "Usia saat diperkenalkan": "14 tahun",
             "Tingkat": "Belum terukur pada fase ini",
@@ -149,7 +149,7 @@
         },
         {
           "title": "Dani Moan",
-          "summary": "Pemuda yang kembali ke rumah ibunya. Cerdik, mudah tersulut, dan menutupi kesedihan dengan gurauan.",
+          "summary": "Berguru kepada Xiaolongnü; empat tahun latihan mengubah kemampuan dan kedekatan mereka.",
           "fields": {
             "Usia saat diperkenalkan": "14 tahun",
             "Tingkat": "Belum terukur pada fase ini",
@@ -166,7 +166,7 @@
         },
         {
           "title": "Dani Moan",
-          "summary": "Pemuda yang kembali ke rumah ibunya. Cerdik, mudah tersulut, dan menutupi kesedihan dengan gurauan.",
+          "summary": "Berguru kepada Xiaolongnü; empat tahun latihan mengubah kemampuan dan kedekatan mereka.",
           "fields": {
             "Usia saat diperkenalkan": "14 tahun",
             "Tingkat": "Belum terukur pada fase ini",
@@ -183,7 +183,7 @@
         },
         {
           "title": "Dani Moan",
-          "summary": "Pemuda yang kembali ke rumah ibunya. Cerdik, mudah tersulut, dan menutupi kesedihan dengan gurauan.",
+          "summary": "Membangun kehidupan bersama Xiaolongnü di gubuk, belajar memahami ketakutan dan kasihnya.",
           "fields": {
             "Usia saat diperkenalkan": "14 tahun",
             "Tingkat": "Belum terukur pada fase ini",
@@ -201,7 +201,7 @@
         },
         {
           "title": "Dani Moan",
-          "summary": "Pemuda yang kembali ke rumah ibunya. Cerdik, mudah tersulut, dan menutupi kesedihan dengan gurauan.",
+          "summary": "Melindungi Xiaolongnü, lalu menghadapi akibat obat dan kesalahpahaman dalam hubungan mereka.",
           "fields": {
             "Usia saat diperkenalkan": "14 tahun",
             "Tingkat": "Belum terukur pada fase ini",
@@ -219,7 +219,7 @@
         },
         {
           "title": "Dani Moan",
-          "summary": "Pemuda yang kembali ke rumah ibunya. Cerdik, mudah tersulut, dan menutupi kesedihan dengan gurauan.",
+          "summary": "Melindungi Xiaolongnü, lalu menghadapi akibat obat dan kesalahpahaman dalam hubungan mereka.",
           "fields": {
             "Usia saat diperkenalkan": "14 tahun",
             "Tingkat": "Belum terukur pada fase ini",
@@ -237,7 +237,7 @@
         },
         {
           "title": "Dani Moan",
-          "summary": "Pemuda yang kembali ke rumah ibunya. Cerdik, mudah tersulut, dan menutupi kesedihan dengan gurauan.",
+          "summary": "Melindungi Xiaolongnü, lalu menghadapi akibat obat dan kesalahpahaman dalam hubungan mereka.",
           "fields": {
             "Usia saat diperkenalkan": "14 tahun",
             "Tingkat": "Belum terukur pada fase ini",
@@ -255,13 +255,13 @@
         },
         {
           "title": "Dani Moan",
-          "summary": "Pemuda yang kembali ke rumah ibunya. Cerdik, mudah tersulut, dan menutupi kesedihan dengan gurauan.",
+          "summary": "Mencari Xiaolongnü dalam penyamaran dan kembali bertemu Wushuang.",
           "fields": {
             "Usia saat diperkenalkan": "14 tahun",
             "Tingkat": "Belum terukur pada fase ini",
             "Ilmu yang terlihat": "Langkah yang dipelajari di makam, tekanan pergelangan, dan sapuan kaki; tanpa nama jurus baru.",
             "Bahaya teramati": "Berhasil menjatuhkan dan melucuti Zhen Zhibing dalam keadaan serangan mendadak; bukan ukuran kemenangan atas semua pendekar Quanzhen.",
-            "Kondisi": "Mencari Xiaolongnü; pedang yang hilang belum tergantikan. Menyamarkan wajah di perjalanan.",
+            "Kondisi": "Mengembara setelah perpisahan; wajah disamarkan dengan debu dan arang.",
             "Kendali": "Terlatih dalam dasar Makam Kuno; kemampuan tetap dibatasi lawan, luka, dan keadaan.",
             "Usia sekarang": "18 tahun",
             "Ikatan yang terlihat": "Mengakui perasaan cintanya; salah paham belum diselesaikan bersama Xiaolongnü."
@@ -273,65 +273,64 @@
         },
         {
           "title": "Dani Moan",
-          "summary": "Pemuda yang kembali ke rumah ibunya. Cerdik, mudah tersulut, dan menutupi kesedihan dengan gurauan.",
+          "summary": "Membetulkan tumpuan Wanyan Ping berdasarkan pengamatan gerak.",
           "fields": {
             "Usia saat diperkenalkan": "14 tahun",
             "Tingkat": "Belum terukur pada fase ini",
-            "Ilmu yang terlihat": "Mengamati kesalahan tumpuan dan memperagakan koreksi dengan tangan kosong.",
+            "Ilmu yang terlihat": "Dasar Makam Kuno dan pengamatan keseimbangan; mampu memberi koreksi kuda-kuda.",
             "Bahaya teramati": "Berhasil menjatuhkan dan melucuti Zhen Zhibing dalam keadaan serangan mendadak; bukan ukuran kemenangan atas semua pendekar Quanzhen.",
-            "Kondisi": "Mencari Xiaolongnü; pedang yang hilang belum tergantikan. Menyamarkan wajah di perjalanan.",
+            "Kondisi": "Mengembara setelah perpisahan; wajah disamarkan dengan debu dan arang.",
             "Kendali": "Terlatih dalam dasar Makam Kuno; kemampuan tetap dibatasi lawan, luka, dan keadaan.",
             "Usia sekarang": "18 tahun",
             "Ikatan yang terlihat": "Mengakui perasaan cintanya; salah paham belum diselesaikan bersama Xiaolongnü.",
-            "Batas yang terlihat": "Tidak mengajarkan jurus bernama atau menjanjikan kemenangan atas Yelü Qi."
+            "Batas yang terlihat": "Petunjuk dasar tidak menaikkan kekuatan Wanyan setara Yelü Qi."
           },
-          "key": 90039,
+          "key": 90045,
           "chapter": 9,
-          "paragraph": "p-09-039",
-          "quote": "“Pertahankan tumpuan belakang sampai langkah depan selesai. Itu tidak akan membuatmu tiba-tiba mengalahkan Yelü Qi, tetapi setidaknya pedangmu tidak lagi menarikmu jatuh,” kata Dani."
+          "paragraph": "p-09-045",
+          "quote": "Wanyan Ping mencoba gerakan itu. Dani membetulkan jaraknya dengan ujung ranting, tanpa menyentuh kakinya. Pada percobaan berikut, bilahnya kembali sementara keseimbangannya bertahan."
         },
         {
           "title": "Dani Moan",
-          "summary": "Pemuda yang kembali ke rumah ibunya. Cerdik, mudah tersulut, dan menutupi kesedihan dengan gurauan.",
+          "summary": "Dani dan Yelü Qi bekerja sama membuka jalan bagi Wushuang.",
           "fields": {
             "Usia saat diperkenalkan": "14 tahun",
             "Tingkat": "Belum terukur pada fase ini",
-            "Ilmu yang terlihat": "Mengamati kesalahan tumpuan dan memperagakan koreksi dengan tangan kosong.",
-            "Bahaya teramati": "Dapat membantu membuka kesempatan, tetapi masih kalah dalam benturan langsung dengan Li Mochou.",
-            "Kondisi": "Lengan kiri kebas akibat benturan; bertarung tanpa pedang bersama para sekutu.",
+            "Ilmu yang terlihat": "Mengatur jarak, menyerang pergelangan, dan bekerja sama dengan Qi.",
+            "Bahaya teramati": "Dapat membantu menahan Li Mochou; belum mampu mengalahkannya sendirian.",
+            "Kondisi": "Lengan kebas akibat kebut; amarah sempat merusak pertimbangannya.",
             "Kendali": "Terlatih dalam dasar Makam Kuno; kemampuan tetap dibatasi lawan, luka, dan keadaan.",
             "Usia sekarang": "18 tahun",
             "Ikatan yang terlihat": "Mengakui perasaan cintanya; salah paham belum diselesaikan bersama Xiaolongnü.",
-            "Batas yang terlihat": "Tidak mengajarkan jurus bernama atau menjanjikan kemenangan atas Yelü Qi."
+            "Batas yang terlihat": "Petunjuk dasar tidak menaikkan kekuatan Wanyan setara Yelü Qi."
           },
-          "key": 90118,
+          "key": 90101,
           "chapter": 9,
-          "paragraph": "p-09-118",
-          "quote": "Enam orang itu akhirnya berkumpul di dekat pintu. Dani baru memahami betapa sempit keberhasilan mereka: Wushuang telah bebas, tetapi tidak seorang pun mempunyai jalan aman untuk membelakangi Li Mochou."
+          "paragraph": "p-09-101",
+          "quote": "Dani mengatupkan gigi. Rasa sakit memulihkan pikirannya. Ia kembali menyerang pergelangan Li Mochou, kali ini mengikuti pergeseran Qi, bukan mendahuluinya."
         },
         {
           "title": "Dani Moan",
-          "summary": "Pemuda yang kembali ke rumah ibunya. Cerdik, mudah tersulut, dan menutupi kesedihan dengan gurauan.",
+          "summary": "Meneruskan pencarian Xiaolongnü setelah Wushuang selamat.",
           "fields": {
             "Usia saat diperkenalkan": "14 tahun",
             "Tingkat": "Belum terukur pada fase ini",
-            "Ilmu yang terlihat": "Mengamati kesalahan tumpuan dan memperagakan koreksi dengan tangan kosong.",
-            "Bahaya teramati": "Dapat membantu membuka kesempatan, tetapi masih kalah dalam benturan langsung dengan Li Mochou.",
-            "Kondisi": "Luka tangan telah dibebat; bersiap meneruskan pencarian Xiaolongnü.",
+            "Ilmu yang terlihat": "Mengatur jarak, menyerang pergelangan, dan bekerja sama dengan Qi.",
+            "Bahaya teramati": "Dapat membantu menahan Li Mochou; belum mampu mengalahkannya sendirian.",
+            "Kondisi": "Luka ringan sudah dibebat; jubah bersambung masih utuh. Tidak memperoleh pedang baru.",
             "Kendali": "Terlatih dalam dasar Makam Kuno; kemampuan tetap dibatasi lawan, luka, dan keadaan.",
             "Usia sekarang": "18 tahun",
             "Ikatan yang terlihat": "Mengakui perasaan cintanya; salah paham belum diselesaikan bersama Xiaolongnü.",
-            "Batas yang terlihat": "Tidak mengajarkan jurus bernama atau menjanjikan kemenangan atas Yelü Qi.",
-            "Tujuan": "Menemukan Xiaolongnü dan menyelesaikan percakapan yang terputus."
+            "Batas yang terlihat": "Petunjuk dasar tidak menaikkan kekuatan Wanyan setara Yelü Qi."
           },
-          "key": 90160,
+          "key": 90132,
           "chapter": 9,
-          "paragraph": "p-09-160",
-          "quote": "Cheng Ying mengikat simpul terakhir. “Kami akan mengingat nama itu, Kakanda Dani. Kalau mendengar kabarnya, kami akan berusaha menyampaikannya.”"
+          "paragraph": "p-09-132",
+          "quote": "Ia memilih tetap menyembunyikan wajah dan asalnya. Dani menghormati batas itu. Selesai membebat luka ringannya, ia berpamitan dan mengambil jalan pegunungan, membawa sambungan jubah biru yang masih utuh meskipun ternoda darah."
         },
         {
           "title": "Dani Moan",
-          "summary": "Pemuda yang kembali ke rumah ibunya. Cerdik, mudah tersulut, dan menutupi kesedihan dengan gurauan.",
+          "summary": "Mempelajari warisan dua tetua di Huashan sambil menghadapi kehilangan baru.",
           "fields": {
             "Usia saat diperkenalkan": "14 tahun",
             "Tingkat": "Belum terukur pada fase ini",
@@ -351,7 +350,7 @@
         },
         {
           "title": "Dani Moan",
-          "summary": "Pemuda yang kembali ke rumah ibunya. Cerdik, mudah tersulut, dan menutupi kesedihan dengan gurauan.",
+          "summary": "Mempelajari warisan dua tetua di Huashan sambil menghadapi kehilangan baru.",
           "fields": {
             "Usia saat diperkenalkan": "14 tahun",
             "Tingkat": "Belum terukur · mempelajari ilmu lanjutan",
@@ -371,7 +370,7 @@
         },
         {
           "title": "Dani Moan",
-          "summary": "Pemuda yang kembali ke rumah ibunya. Cerdik, mudah tersulut, dan menutupi kesedihan dengan gurauan.",
+          "summary": "Mempelajari warisan dua tetua di Huashan sambil menghadapi kehilangan baru.",
           "fields": {
             "Usia saat diperkenalkan": "14 tahun",
             "Tingkat": "Belum terukur · mempelajari ilmu lanjutan",
@@ -554,86 +553,86 @@
         },
         {
           "title": "Lu Wushuang",
-          "summary": "Wushuang telah tumbuh menjadi remaja akhir; keras dalam menjaga harga diri dan belum mengenali Dani yang menyamar.",
+          "summary": "Penyintas serangan Li Mochou yang kini berusaha melarikan diri dari gurunya.",
           "fields": {
             "Usia saat diperkenalkan": "13 tahun",
             "Tingkat": "Belum diketahui",
-            "Ilmu yang terlihat": "Belum diperlihatkan pada pertemuan kembali.",
-            "Bahaya teramati": "Belum dapat dinilai",
-            "Kondisi": "Kaki kiri tetap pincang; membawa pedang dan buntalan.",
-            "Usia sekarang": "Sekitar 17 tahun; jeda empat tahun sejak Bab 2"
+            "Ilmu yang terlihat": "Kemampuan tempur pada fase ini belum diperlihatkan.",
+            "Bahaya teramati": "Belum dapat dinilai pada pertemuan kembali.",
+            "Kondisi": "Kaki kiri tetap cedera; belum mengenali Dani yang menyamar.",
+            "Usia sekarang": "Sekitar 17 tahun"
           },
           "key": 90003,
           "chapter": 9,
           "paragraph": "p-09-003",
-          "quote": "Empat tahun telah mengubah wajah Lu Wushuang. Cara ia mengangkat dagu ketika merasa terancam ternyata masih sama."
+          "quote": "Lu Wushuang. Empat tahun lalu Dani melihatnya dibawa Li Mochou, dengan tangan terulur kepada orang-orang yang tidak sanggup menolongnya."
         },
         {
           "title": "Lu Wushuang",
-          "summary": "Wushuang telah tumbuh menjadi remaja akhir; keras dalam menjaga harga diri dan belum mengenali Dani yang menyamar.",
+          "summary": "Ditangkap setelah melarikan diri; Li Mochou menuntut kitab yang dicurinya.",
           "fields": {
             "Usia saat diperkenalkan": "13 tahun",
             "Tingkat": "Belum diketahui",
-            "Ilmu yang terlihat": "Belum diperlihatkan pada pertemuan kembali.",
-            "Bahaya teramati": "Belum dapat dinilai",
-            "Kondisi": "Ditangkap kembali dan dibawa Li Mochou; kaki kiri tetap menjadi keterbatasan gerak.",
-            "Usia sekarang": "Sekitar 17 tahun; jeda empat tahun sejak Bab 2"
+            "Ilmu yang terlihat": "Kemampuan tempur pada fase ini belum diperlihatkan.",
+            "Bahaya teramati": "Belum dapat dinilai pada pertemuan kembali.",
+            "Kondisi": "Ditawan; lengan ditotok Hong Lingbo.",
+            "Usia sekarang": "Sekitar 17 tahun"
           },
-          "key": 90072,
+          "key": 90070,
           "chapter": 9,
-          "paragraph": "p-09-072",
-          "quote": "Hong Lingbo menahan siku gadis itu. Mereka mundur melalui jalan depan, sementara Cheng Ying harus mencengkeram lengan Dani agar ia tidak menerjang sendirian."
+          "paragraph": "p-09-070",
+          "quote": "Dani turun membeli obat untuk kaki Wushuang ketika pintu kamar dibobol. Hong Lingbo menotok lengan adik seperguruannya. Gadis berjubah hijau yang pernah menolong mereka datang mengejar, tetapi Li Mochou menahan leher Wushuang dan memaksanya berhenti."
         },
         {
           "title": "Lu Wushuang",
-          "summary": "Wushuang telah tumbuh menjadi remaja akhir; keras dalam menjaga harga diri dan belum mengenali Dani yang menyamar.",
+          "summary": "Baru mengenali teman masa kecilnya ketika Dani membuka topeng.",
           "fields": {
             "Usia saat diperkenalkan": "13 tahun",
             "Tingkat": "Belum diketahui",
-            "Ilmu yang terlihat": "Belum diperlihatkan pada pertemuan kembali.",
-            "Bahaya teramati": "Belum dapat dinilai",
-            "Kondisi": "Ditangkap kembali dan dibawa Li Mochou; kaki kiri tetap menjadi keterbatasan gerak.",
-            "Usia sekarang": "Sekitar 17 tahun; jeda empat tahun sejak Bab 2",
-            "Ikatan yang terlihat": "Mengetahui pemuda yang menemaninya adalah Dani Moan."
+            "Ilmu yang terlihat": "Kemampuan tempur pada fase ini belum diperlihatkan.",
+            "Bahaya teramati": "Belum dapat dinilai pada pertemuan kembali.",
+            "Kondisi": "Ditawan; lengan ditotok Hong Lingbo.",
+            "Usia sekarang": "Sekitar 17 tahun",
+            "Ikatan yang terlihat": "Mengenali Dani, tetapi kesal karena ia menyembunyikan identitas."
           },
-          "key": 90090,
+          "key": 90092,
           "chapter": 9,
-          "paragraph": "p-09-090",
-          "quote": "Dani menarik topeng itu."
+          "paragraph": "p-09-092",
+          "quote": "“Kakanda Dani?” Wushuang terlepas menyebut namanya. Keterkejutan segera berubah menjadi kemarahan karena telah dikelabui, tetapi Hong Lingbo menekan bahunya sebelum ia dapat berdiri."
         },
         {
           "title": "Lu Wushuang",
-          "summary": "Wushuang telah tumbuh menjadi remaja akhir; keras dalam menjaga harga diri dan belum mengenali Dani yang menyamar.",
+          "summary": "Membantu melepaskan diri meskipun kakinya nyeri.",
           "fields": {
             "Usia saat diperkenalkan": "13 tahun",
-            "Tingkat": "Belum terukur",
-            "Ilmu yang terlihat": "Menggunakan pedang dengan tumpuan utama kaki kanan.",
-            "Bahaya teramati": "Serangan rendahnya menghambat pengejaran Hong Lingbo.",
-            "Kondisi": "Bebas dari pegangan; kaki kiri tetap pincang, mulai kelelahan.",
-            "Usia sekarang": "Sekitar 17 tahun; jeda empat tahun sejak Bab 2",
-            "Ikatan yang terlihat": "Mengetahui pemuda yang menemaninya adalah Dani Moan."
+            "Tingkat": "Belum diketahui",
+            "Ilmu yang terlihat": "Menggunakan pedang untuk menangkis pengejar.",
+            "Bahaya teramati": "Dapat membantu pertahanan kelompok; batas kemampuan belum terukur.",
+            "Kondisi": "Bebas dari bangku tawanan; bergerak dengan bantuan penolong.",
+            "Usia sekarang": "Sekitar 17 tahun",
+            "Ikatan yang terlihat": "Mengenali Dani, tetapi kesal karena ia menyembunyikan identitas."
           },
-          "key": 90117,
+          "key": 90104,
           "chapter": 9,
-          "paragraph": "p-09-117",
-          "quote": "Wushuang menyabet rendah dari balik Cheng Ying, memaksa Hong Lingbo menghentikan pengejaran. Gadis itu menumpukan berat pada kaki kanannya; keringat muncul di pelipis, tetapi kali ini pedangnya memberi Cheng Ying waktu untuk mundur bersama."
+          "paragraph": "p-09-104",
+          "quote": "Wushuang meraih senjata dan menangkis pengejarnya. Ia tidak sempat menanyakan siapa penolong itu. Kaki kirinya nyeri, tetapi tangan yang menopangnya tidak memaksa tubuhnya bergerak lebih cepat daripada kemampuannya."
         },
         {
           "title": "Lu Wushuang",
-          "summary": "Wushuang telah tumbuh menjadi remaja akhir; keras dalam menjaga harga diri dan belum mengenali Dani yang menyamar.",
+          "summary": "Kepatuhannya kepada Li Mochou selama ini merupakan cara bertahan hidup, bukan kesetiaan.",
           "fields": {
             "Usia saat diperkenalkan": "13 tahun",
-            "Tingkat": "Belum terukur",
-            "Ilmu yang terlihat": "Menggunakan pedang dengan tumpuan utama kaki kanan.",
-            "Bahaya teramati": "Serangan rendahnya menghambat pengejaran Hong Lingbo.",
-            "Kondisi": "Selamat bersama Cheng Ying; cedera lama pada kaki tidak hilang.",
-            "Usia sekarang": "Sekitar 17 tahun; jeda empat tahun sejak Bab 2",
-            "Ikatan yang terlihat": "Meminta Dani mempercayai keputusannya dan berterus terang kepadanya."
+            "Tingkat": "Belum diketahui",
+            "Ilmu yang terlihat": "Menggunakan pedang untuk menangkis pengejar.",
+            "Bahaya teramati": "Dapat membantu pertahanan kelompok; batas kemampuan belum terukur.",
+            "Kondisi": "Selamat dari penculikan; kaki tetap cedera.",
+            "Usia sekarang": "Sekitar 17 tahun",
+            "Ikatan yang terlihat": "Menuntut Dani memahami alasan ia bertahan bersama pembunuh keluarganya."
           },
-          "key": 90154,
+          "key": 90128,
           "chapter": 9,
-          "paragraph": "p-09-154",
-          "quote": "“Aku bukan lagi anak yang hanya bisa menunggu diangkat orang,” ujar Wushuang akhirnya. “Lain kali, tanyakan kepadaku.”"
+          "paragraph": "p-09-128",
+          "quote": "“Perempuan itu membunuh keluargaku.” Mata Wushuang memerah, tetapi suaranya tidak merendah. “Bertahun-tahun aku menurut agar tetap hidup. Jangan menyamakan keduanya lagi.”"
         }
       ],
       "portraits": [
@@ -717,38 +716,6 @@
           "chapter": 2,
           "paragraph": "p-02-112",
           "quote": "Namun ia tidak menarik kembali tawarannya. Cheng Ying memberi hormat sekali lagi, dan kali ini Huang Yaoshi menerimanya."
-        },
-        {
-          "title": "Cheng Ying",
-          "summary": "Cheng Ying telah tumbuh dewasa; tutur halus dan pertimbangannya menenangkan orang yang sedang terdesak.",
-          "fields": {
-            "Usia saat diperkenalkan": "13–14 tahun",
-            "Tingkat": "Belum diketahui",
-            "Ilmu yang terlihat": "Kemampuan tempur pada fase ini belum diperlihatkan.",
-            "Bahaya teramati": "Belum dapat dinilai pada pertemuan kembali.",
-            "Kondisi": "Kembali bertemu Dani dan mengikuti jejak sepupunya; memakai topeng penyamaran.",
-            "Usia sekarang": "Sekitar 17–18 tahun"
-          },
-          "key": 90059,
-          "chapter": 9,
-          "paragraph": "p-09-059",
-          "quote": "Panggilan itu menahannya sejenak. Perempuan tersebut mengangkat tepi topeng, memperlihatkan wajah yang lebih dewasa daripada dalam ingatannya."
-        },
-        {
-          "title": "Cheng Ying",
-          "summary": "Cheng Ying telah tumbuh dewasa; tutur halus dan pertimbangannya menenangkan orang yang sedang terdesak.",
-          "fields": {
-            "Usia saat diperkenalkan": "13–14 tahun",
-            "Tingkat": "Belum terukur",
-            "Ilmu yang terlihat": "Menggunakan kontrol lengan dan pedang untuk membuka jalan bagi Wushuang.",
-            "Bahaya teramati": "Mampu menghambat Hong Lingbo cukup lama untuk membebaskan sepupunya.",
-            "Kondisi": "Menopang dan melindungi Wushuang dalam penyelamatan.",
-            "Usia sekarang": "Sekitar 17–18 tahun"
-          },
-          "key": 90109,
-          "chapter": 9,
-          "paragraph": "p-09-109",
-          "quote": "Hong Lingbo menarik senjata. Cheng Ying menyambutnya dengan bilah sendiri, cukup lama untuk memindahkan Wushuang ke belakang bahunya. Kedua pedang beradu dekat kusen, sementara Wanyan Ping menjaga celah menuju pintu."
         }
       ],
       "portraits": [
@@ -836,52 +803,52 @@
         },
         {
           "title": "Li Mochou",
-          "summary": "Perempuan berkebut putih yang menghadang Dani dan kedua gadis. Ancaman diucapkan dengan tenang.",
+          "summary": "Membunuh dua orang yang tidak mengetahui urusannya untuk menekan pencarian kitab.",
           "fields": {
             "Usia saat diperkenalkan": "Sekitar 30 tahun",
             "Tingkat": "3 · Kelas Super",
-            "Ilmu yang terlihat": "Kebut dan gagangnya dipakai untuk mengempaskan dan memukul tubuh dengan tenaga terarah.",
-            "Bahaya teramati": "Sangat mematikan: menewaskan dua anggota Klan Pengemis dalam rangkaian serangan singkat.",
-            "Dasar tingkat": "Rujukan tingkat Saga; puncak kemampuan belum diperlihatkan."
+            "Ilmu yang terlihat": "Kebut memukul pergelangan Dani; serangan berikutnya mengenai bahu Xiaolongnü yang sedang terluka.",
+            "Bahaya teramati": "Dua serangan kebut langsung menewaskan dua anggota Klan Pengemis.",
+            "Dasar tingkat": "Rujukan tingkat Saga; puncak kemampuan belum diperlihatkan.",
+            "Motif yang terungkap": "Merebut kembali Kitab Lima Racun dan menghukum murid yang melarikan diri."
           },
-          "key": 90083,
+          "key": 90085,
           "chapter": 9,
-          "paragraph": "p-09-083",
-          "quote": "Kebut bergerak sebelum kalimatnya selesai. Orang pertama terempas ke tiang; ketika temannya maju menangkapnya, gagang gelap menyentuh dadanya dengan bunyi tumpul. Kedua tubuh itu jatuh dan tidak bangkit lagi."
+          "paragraph": "p-09-085",
+          "quote": "Kebut menyapu sebelum ia selesai mengangkat tangan. Serat putih menghantam leher orang pertama; gagangnya menyusul ke dada temannya. Keduanya jatuh. Qi berlutut memeriksa, kemudian berdiri dengan wajah mengeras."
         },
         {
           "title": "Li Mochou",
-          "summary": "Perempuan berkebut putih yang menghadang Dani dan kedua gadis. Ancaman diucapkan dengan tenang.",
+          "summary": "Tetap menekan enam anak muda yang bekerja sama menyelamatkan Wushuang.",
           "fields": {
             "Usia saat diperkenalkan": "Sekitar 30 tahun",
             "Tingkat": "3 · Kelas Super",
-            "Ilmu yang terlihat": "Kebut dan gagangnya dipakai untuk mengempaskan dan memukul tubuh dengan tenaga terarah.",
-            "Bahaya teramati": "Enam anak muda harus saling menggantikan untuk mempertahankan ruang; jumlah mereka belum menghasilkan kemenangan.",
+            "Ilmu yang terlihat": "Kebut memukul pergelangan Dani; serangan berikutnya mengenai bahu Xiaolongnü yang sedang terluka.",
+            "Bahaya teramati": "Unggul dalam tekanan tempur; para pemuda hanya mampu mempertahankan jalan keluar.",
             "Dasar tingkat": "Rujukan tingkat Saga; puncak kemampuan belum diperlihatkan.",
-            "Batas yang terlihat": "Pertarungan berkelompok ini tidak membuktikan puncak tenaga setiap tokoh."
+            "Motif yang terungkap": "Merebut kembali Kitab Lima Racun dan menghukum murid yang melarikan diri."
           },
-          "key": 90120,
+          "key": 90109,
           "chapter": 9,
-          "paragraph": "p-09-120",
-          "quote": "Li Mochou masih dapat memilih orang yang hendak ditekan."
+          "paragraph": "p-09-109",
+          "quote": "Enam anak muda itu akhirnya berkumpul di ambang pintu. Qi dan Dani menahan tekanan utama, sementara empat perempuan menutup celah serta bergantian melindungi Wushuang. Kerja sama mereka membuat jalan keluar mungkin dipertahankan. Tidak seorang pun sanggup memaksa Li Mochou berhenti sendirian."
         },
         {
           "title": "Li Mochou",
-          "summary": "Perempuan berkebut putih yang menghadang Dani dan kedua gadis. Ancaman diucapkan dengan tenang.",
+          "summary": "Mengkhawatirkan kedatangan Guo Jing dan Huang Rong setelah mengenali rajawali mereka.",
           "fields": {
             "Usia saat diperkenalkan": "Sekitar 30 tahun",
             "Tingkat": "3 · Kelas Super",
-            "Ilmu yang terlihat": "Kebut dan gagangnya dipakai untuk mengempaskan dan memukul tubuh dengan tenaga terarah.",
-            "Bahaya teramati": "Enam anak muda harus saling menggantikan untuk mempertahankan ruang; jumlah mereka belum menghasilkan kemenangan.",
+            "Ilmu yang terlihat": "Kebut memukul pergelangan Dani; serangan berikutnya mengenai bahu Xiaolongnü yang sedang terluka.",
+            "Bahaya teramati": "Unggul dalam tekanan tempur; para pemuda hanya mampu mempertahankan jalan keluar.",
             "Dasar tingkat": "Rujukan tingkat Saga; puncak kemampuan belum diperlihatkan.",
-            "Batas yang terlihat": "Pertarungan berkelompok ini tidak membuktikan puncak tenaga setiap tokoh.",
-            "Kondisi": "Memilih meninggalkan kedai setelah melihat dua rajawali dan Guo Fu.",
-            "Alasan mundur yang terlihat": "Mengkhawatirkan kemungkinan Guo Jing dan Huang Rong berada di dekat situ; keduanya tidak muncul."
+            "Motif yang terungkap": "Merebut kembali Kitab Lima Racun dan menghukum murid yang melarikan diri.",
+            "Kondisi": "Mempertimbangkan mundur karena kemungkinan hadirnya pendekar yang lebih berbahaya."
           },
-          "key": 90132,
+          "key": 90115,
           "chapter": 9,
-          "paragraph": "p-09-132",
-          "quote": "“Lingbo, ikut aku,” perintah Li Mochou."
+          "paragraph": "p-09-115",
+          "quote": "Li Mochou memandang jalan di belakang mereka. Sepasang rajawali keluarga Guo lebih menggentarkannya daripada tiga remaja yang baru tiba. Guo Jing dan Huang Rong dapat berada tidak jauh dari putri mereka; ia tidak berniat mempertaruhkan nyawa untuk memastikan dugaan itu."
         }
       ],
       "portraits": [
@@ -1286,19 +1253,18 @@
         },
         {
           "title": "Guo Fu",
-          "summary": "Anak keluarga Guo; manja, angkuh, dan ingin didengar.",
+          "summary": "Datang bersama rombongan keluarga Guo ketika pertarungan masih berlangsung.",
           "fields": {
             "Usia saat diperkenalkan": "12 tahun",
-            "Tingkat": "Belum diketahui pada fase ini",
-            "Ilmu yang terlihat": "Tidak memakai kungfu dalam adegan kedatangan.",
-            "Bahaya teramati": "Belum dapat dinilai pada fase ini.",
-            "Usia sekarang": "16 tahun",
-            "Kondisi": "Hadir di kedai setelah jeda empat tahun; kemampuan tempur terkini belum diperlihatkan."
+            "Tingkat": "Belum diketahui",
+            "Ilmu yang terlihat": "Belum memperlihatkan kungfu baru dalam kedatangan ini.",
+            "Bahaya teramati": "Kehadiran rombongan membuat Li Mochou menduga orang tua Guo Fu mungkin dekat.",
+            "Kondisi": "Tiba di kedai bersama sepasang rajawali."
           },
-          "key": 90126,
+          "key": 90113,
           "chapter": 9,
-          "paragraph": "p-09-126",
-          "quote": "Suara gadis itu diikuti langkah tiga orang. Guo Fu muncul bersama Wu Dunru dan Wu Xiuwen. Ia telah tumbuh menjadi remaja dengan dagu yang tetap terangkat; melihat kebut putih dan ruangan yang porak-poranda, tangannya langsung bergerak ke gagang pedang."
+          "paragraph": "p-09-113",
+          "quote": "Dua burung besar melintas di depan serambi. Li Mochou menahan kibasan. Di jalan, Guo Fu datang bersama Wu Dunru dan Wu Xiuwen, ketiganya bersenjata dan belum memahami mengapa ruangan di depan mereka porak-poranda."
         }
       ],
       "portraits": [
@@ -1397,19 +1363,18 @@
         },
         {
           "title": "Wu Dunru",
-          "summary": "Kakak Xiuwen; ingin membela Guo Fu dan adiknya.",
+          "summary": "Datang bersama rombongan keluarga Guo ketika pertarungan masih berlangsung.",
           "fields": {
             "Usia saat diperkenalkan": "12 tahun",
-            "Tingkat": "Belum diketahui pada fase ini",
-            "Ilmu yang terlihat": "Tidak memakai kungfu dalam adegan kedatangan.",
-            "Bahaya teramati": "Belum dapat dinilai pada fase ini.",
-            "Usia sekarang": "16 tahun",
-            "Kondisi": "Hadir di kedai setelah jeda empat tahun; kemampuan tempur terkini belum diperlihatkan."
+            "Tingkat": "Belum diketahui",
+            "Ilmu yang terlihat": "Belum memperlihatkan kungfu baru dalam kedatangan ini.",
+            "Bahaya teramati": "Kehadiran rombongan membuat Li Mochou menduga orang tua Guo Fu mungkin dekat.",
+            "Kondisi": "Tiba di kedai bersama sepasang rajawali."
           },
-          "key": 90126,
+          "key": 90113,
           "chapter": 9,
-          "paragraph": "p-09-126",
-          "quote": "Suara gadis itu diikuti langkah tiga orang. Guo Fu muncul bersama Wu Dunru dan Wu Xiuwen. Ia telah tumbuh menjadi remaja dengan dagu yang tetap terangkat; melihat kebut putih dan ruangan yang porak-poranda, tangannya langsung bergerak ke gagang pedang."
+          "paragraph": "p-09-113",
+          "quote": "Dua burung besar melintas di depan serambi. Li Mochou menahan kibasan. Di jalan, Guo Fu datang bersama Wu Dunru dan Wu Xiuwen, ketiganya bersenjata dan belum memahami mengapa ruangan di depan mereka porak-poranda."
         }
       ],
       "portraits": [
@@ -1482,19 +1447,18 @@
         },
         {
           "title": "Wu Xiuwen",
-          "summary": "Adik Dunru; mudah terpancing dan ingin menunjukkan keberanian.",
+          "summary": "Datang bersama rombongan keluarga Guo ketika pertarungan masih berlangsung.",
           "fields": {
             "Usia saat diperkenalkan": "11 tahun",
-            "Tingkat": "Belum diketahui pada fase ini",
-            "Ilmu yang terlihat": "Tidak memakai kungfu dalam adegan kedatangan.",
-            "Bahaya teramati": "Belum dapat dinilai pada fase ini.",
-            "Kondisi": "Hadir di kedai setelah jeda empat tahun; kemampuan tempur terkini belum diperlihatkan.",
-            "Usia sekarang": "15 tahun"
+            "Tingkat": "Belum diketahui",
+            "Ilmu yang terlihat": "Belum memperlihatkan kungfu baru dalam kedatangan ini.",
+            "Bahaya teramati": "Kehadiran rombongan membuat Li Mochou menduga orang tua Guo Fu mungkin dekat.",
+            "Kondisi": "Tiba di kedai bersama sepasang rajawali."
           },
-          "key": 90126,
+          "key": 90113,
           "chapter": 9,
-          "paragraph": "p-09-126",
-          "quote": "Suara gadis itu diikuti langkah tiga orang. Guo Fu muncul bersama Wu Dunru dan Wu Xiuwen. Ia telah tumbuh menjadi remaja dengan dagu yang tetap terangkat; melihat kebut putih dan ruangan yang porak-poranda, tangannya langsung bergerak ke gagang pedang."
+          "paragraph": "p-09-113",
+          "quote": "Dua burung besar melintas di depan serambi. Li Mochou menahan kibasan. Di jalan, Guo Fu datang bersama Wu Dunru dan Wu Xiuwen, ketiganya bersenjata dan belum memahami mengapa ruangan di depan mereka porak-poranda."
         }
       ],
       "portraits": [
@@ -1548,7 +1512,7 @@
           "key": 50024,
           "chapter": 5,
           "paragraph": "p-05-024",
-          "quote": "Beberapa pekan berlalu dalam hafalan yang bertambah panjang, sementara pelajaran gerak tidak kunjung dimulai. Zhao menyuruh Dani mengulang bait-bait dasar; bila ia bertanya tentang penerapannya, jawabannya selalu sama: hafalkan dahulu, baru engkau boleh bertanya. Murid lain berlatih di halaman saat Dani masih disuruh duduk menghadap kitab."
+          "quote": "Pekan-pekan berlalu dalam hafalan; gerakannya tidak pernah diajarkan. Zhao sengaja menahan pelajaran itu. Ia menyimpan malu karena dipatahkan Guo Jing di gerbang dan kini menuntut kepatuhan mutlak dari anak yang dititipkan kepadanya. Dani belum memahami dendam gurunya. Ia terus mengulang bait, berharap hafalan yang sempurna akhirnya membuka pintu latihan."
         }
       ],
       "portraits": [
@@ -2042,33 +2006,32 @@
         },
         {
           "title": "Hong Lingbo",
-          "summary": "Perempuan muda yang datang bersama Li Mochou, patuh dan waspada terhadap gurunya.",
+          "summary": "Membantu gurunya menangkap dan menjaga Wushuang.",
           "fields": {
             "Usia saat diperkenalkan": "Perempuan muda; usia tepat belum ditetapkan",
             "Tingkat": "Belum terukur",
-            "Ilmu yang terlihat": "Menekan lengan bersenjata Wushuang saat gadis itu kehilangan pijakan.",
-            "Bahaya teramati": "Dapat menahan tawanan dengan dukungan Li Mochou.",
-            "Kondisi": "Menjaga Wushuang."
+            "Ilmu yang terlihat": "Totokan untuk melumpuhkan lengan tawanan.",
+            "Bahaya teramati": "Dapat menahan Wushuang dengan serangan mendadak."
           },
-          "key": 90066,
+          "key": 90070,
           "chapter": 9,
-          "paragraph": "p-09-066",
-          "quote": "Wushuang berbalik terlalu cepat. Kaki kirinya tersangkut undakan; Hong Lingbo masuk dari sisi lain dan menekan lengan yang memegang pedang. Dani menyambar pergelangannya, tetapi kibasan kebut memaksanya menarik tangan sebelum seratnya membelit."
+          "paragraph": "p-09-070",
+          "quote": "Dani turun membeli obat untuk kaki Wushuang ketika pintu kamar dibobol. Hong Lingbo menotok lengan adik seperguruannya. Gadis berjubah hijau yang pernah menolong mereka datang mengejar, tetapi Li Mochou menahan leher Wushuang dan memaksanya berhenti."
         },
         {
           "title": "Hong Lingbo",
-          "summary": "Perempuan muda yang datang bersama Li Mochou, patuh dan waspada terhadap gurunya.",
+          "summary": "Kehilangan tawanan ketika penolong berjubah hijau memecah penjagaannya.",
           "fields": {
             "Usia saat diperkenalkan": "Perempuan muda; usia tepat belum ditetapkan",
             "Tingkat": "Belum terukur",
-            "Ilmu yang terlihat": "Menekan lengan bersenjata Wushuang saat gadis itu kehilangan pijakan.",
-            "Bahaya teramati": "Dapat menahan tawanan dengan dukungan Li Mochou.",
-            "Kondisi": "Meninggalkan kedai mengikuti Li Mochou; Wushuang tidak lagi berada dalam pegangannya."
+            "Ilmu yang terlihat": "Totokan untuk melumpuhkan lengan tawanan.",
+            "Bahaya teramati": "Dapat menahan Wushuang dengan serangan mendadak.",
+            "Kondisi": "Lengan dikendalikan sesaat; Wushuang berhasil dibebaskan."
           },
-          "key": 90135,
+          "key": 90102,
           "chapter": 9,
-          "paragraph": "p-09-135",
-          "quote": "Nada Li Mochou tetap manis. Hong Lingbo justru memucat dan bergerak lebih cepat. Gurunya mundur melalui sisi serambi yang belum tertutup; tak seorang pun mengejar ke dalam jangkauan kebutnya."
+          "paragraph": "p-09-102",
+          "quote": "Di dekat dinding, gadis berjubah hijau menyelipkan diri antara Hong Lingbo dan tawanan. Ia menepis tangan yang hendak menotoknya, memaksa siku Hong Lingbo mengarah keluar, lalu menarik Wushuang dari bangku."
         }
       ],
       "portraits": [
@@ -2127,7 +2090,7 @@
         },
         {
           "title": "Zhen Zhibing",
-          "summary": "Saksi perselisihan yang melukai Nenek Sun; perhatian kepada pewaris makam mulai mengalahkan kewajibannya.",
+          "summary": "Saksi perkara Nenek Sun; mulai terpikat kepada Xiaolongnü dan menyembunyikannya di balik sikap tertib.",
           "fields": {
             "Tingkat": "Belum terukur",
             "Ilmu yang terlihat": "Mencoba menahan Nenek Sun; tangannya ditepis dan keseimbangannya terganggu.",
@@ -2138,11 +2101,11 @@
           "key": 50118,
           "chapter": 5,
           "paragraph": "p-05-118",
-          "quote": "Zhen yang tadi hendak memberi penjelasan mendadak kehilangan kata-kata. Ia mengenali pakaian perguruan tetangganya, tetapi baru kali ini berdiri sedekat itu dengan pewaris Makam Kuno. Pandangannya tertahan sampai Zhao menyentuh sikunya. Zhen menunduk terlambat."
+          "quote": "Zhen kehilangan kata-kata ketika melihat pewaris Makam Kuno dari dekat. Nenek Sun sedang sekarat, tetapi perhatiannya tertawan wajah gadis berbaju putih itu. Ia menunduk saat Zhao menyentuh sikunya, malu karena lalai. Keterpukauan yang disembunyikannya di balik sikap tertib itulah awal obsesi yang kelak dipeliharanya sendiri."
         },
         {
           "title": "Zhen Zhibing",
-          "summary": "Ketertarikannya kepada Xiaolongnü berlanjut menjadi kunjungan diam-diam; pertarungannya dengan Zhao mengganggu latihan.",
+          "summary": "Obsesinya kepada Xiaolongnü dibarengi rasa bersalah setelah gangguan latihan melukainya; ia takut dibenci dan bersumpah menjaga rahasia.",
           "fields": {
             "Tingkat": "Belum terukur",
             "Ilmu yang terlihat": "Bertarung dengan Zhao dan menghalangi serangannya.",
@@ -2154,11 +2117,11 @@
           "key": 60059,
           "chapter": 6,
           "paragraph": "p-06-059",
-          "quote": "Zhen menatap darah di bibir Xiaolongnü. Wajahnya memucat. Ia bersumpah tidak menyebarkan kejadian tersebut dan memaksa Zhao ikut mengucapkannya. Dani tidak mempercayai keramahan mendadak mereka. Ia mundur sambil menopang Xiaolongnü, pedang tetap mengarah ke kedua pendeta sampai pepohonan menutup pandangan."
+          "quote": "Zhen menatap darah di bibir Xiaolongnü dan memucat. Ia merasa bersalah, sekaligus takut perempuan yang terus memenuhi pikirannya itu akan membencinya. Ia bersumpah tidak menyebarkan kejadian tersebut dan memaksa Zhao ikut mengucapkannya. Dari sisi Dani, sumpah itu tidak cukup: kedua pendeta telah mengubah tempat latihan menjadi bahaya. Ia mundur sambil menopang Xiaolongnü, pedang tetap terarah kepada mereka."
         },
         {
           "title": "Zhen Zhibing",
-          "summary": "Memberi saran saat Xiaolongnü bertengkar dengan Dani, lalu mengetahui letak gubuk mereka.",
+          "summary": "Mencari jejak Xiaolongnü karena obsesi, memberikan saran saat pertengkaran, lalu mengetahui letak gubuk.",
           "fields": {
             "Tingkat": "Belum terukur",
             "Ilmu yang terlihat": "Bertarung dengan Zhao dan menghalangi serangannya.",
@@ -2174,11 +2137,11 @@
         },
         {
           "title": "Zhen Zhibing",
-          "summary": "Dani menghentikannya ketika ia mendekati Xiaolongnü yang tidak mampu bergerak.",
+          "summary": "Percobaan memperkosa Xiaolongnü yang sedang ditotok digagalkan Dani. Zhen menyembunyikan niatnya di balik dalih pertolongan.",
           "fields": {
             "Tingkat": "Belum terukur",
             "Ilmu yang terlihat": "Tangkisan dan serangan pedang Quanzhen; dilucuti ketika Dani memanfaatkan keterkejutan serta keraguannya.",
-            "Bahaya teramati": "Mengancam keselamatan Xiaolongnü yang ditotok; kekalahan ini bukan ukuran semua pendekar Quanzhen.",
+            "Bahaya teramati": "Memanfaatkan keadaan Xiaolongnü yang tak dapat melawan; pergelangannya kemudian dikunci dan ia dipaksa pergi oleh Dani.",
             "Usia saat diperkenalkan": "Dewasa",
             "Ikatan yang terlihat": "Obsesinya berlanjut meski Xiaolongnü hanya menerima percakapannya dengan sopan.",
             "Janji": "Bersumpah tidak menyebarkan kejadian latihan.",
@@ -2191,21 +2154,22 @@
         },
         {
           "title": "Zhen Zhibing",
-          "summary": "Dani menghentikannya ketika ia mendekati Xiaolongnü yang tidak mampu bergerak.",
+          "summary": "Percobaan memperkosa Xiaolongnü yang sedang ditotok digagalkan Dani. Zhen menyembunyikan niatnya di balik dalih pertolongan.",
           "fields": {
             "Tingkat": "Belum terukur",
             "Ilmu yang terlihat": "Tangkisan dan serangan pedang Quanzhen; dilucuti ketika Dani memanfaatkan keterkejutan serta keraguannya.",
-            "Bahaya teramati": "Mengancam keselamatan Xiaolongnü yang ditotok; kekalahan ini bukan ukuran semua pendekar Quanzhen.",
+            "Bahaya teramati": "Memanfaatkan keadaan Xiaolongnü yang tak dapat melawan; pergelangannya kemudian dikunci dan ia dipaksa pergi oleh Dani.",
             "Usia saat diperkenalkan": "Dewasa",
             "Ikatan yang terlihat": "Obsesinya berlanjut meski Xiaolongnü hanya menerima percakapannya dengan sopan.",
             "Janji": "Bersumpah tidak menyebarkan kejadian latihan.",
             "Kondisi": "Pergelangan cedera dan wajah terpukul; dipaksa pergi.",
-            "Pengetahuan saat ini": "Sempat melihat Dani dan Xiaolongnü berdekatan sebelum pergi; tidak menyaksikan keintiman mereka."
+            "Pengetahuan saat ini": "Sempat melihat Dani dan Xiaolongnü berdekatan sebelum pergi; tidak menyaksikan keintiman mereka.",
+            "Motif yang terungkap": "Obsesi dan cemburu berubah menjadi dendam kepada Dani; belum ada tindakan balasan yang diperlihatkan."
           },
           "key": 80072,
           "chapter": 8,
           "paragraph": "p-08-072",
-          "quote": "Di luar, Zhen sempat berhenti di antara pepohonan. Dari celah sebelum daun jendela ditutup, ia melihat Dani berlutut di dekat Xiaolongnü dan tangan perempuan itu memegang wajah pemuda tersebut. Ia tidak menyaksikan lebih jauh. Ia turun dengan kemarahan yang kini mempunyai sasaran: Dani telah mempermalukannya di hadapan perempuan yang selama ini dipikirkannya."
+          "quote": "Di luar, Zhen sempat berhenti di antara pepohonan. Sebelum daun jendela ditutup, ia melihat Dani berlutut di dekat Xiaolongnü dan tangan perempuan itu memegang wajah pemuda tersebut. Kelembutan yang tidak pernah ditujukan kepadanya itu memperuncing cemburunya. Ia tahu baru saja hendak berbuat keji, tetapi lebih suka menyalahkan Dani yang mempermalukannya. Zhen lalu turun dengan dendam. Ia hanya menyaksikan kedekatan itu; ketika malam berlanjut, ia sudah pergi."
         }
       ],
       "portraits": [
@@ -2353,19 +2317,19 @@
         },
         {
           "title": "Kebut Li Mochou",
-          "summary": "Serat dan gagang mempunyai fungsi berbeda; bahaya senjata bergantung pada tenaga serta ketepatan penggunanya.",
+          "summary": "Serat dan gagangnya sama-sama menjadi senjata mematikan.",
           "fields": {
             "Nama ilmu": "Belum terungkap",
-            "Dampak": "Kebut dan gagang dipakai menewaskan dua anggota Klan Pengemis.",
+            "Dampak": "Sambaran kebut mematahkan tekanan pedang Dani pada Hong Lingbo.",
             "Bahaya": "Serangan terarah dapat menimbulkan cedera berat; bukan semua kibasan merupakan jurus bernama.",
             "Pengguna": "Li Mochou",
-            "Dampak yang terlihat": "Serangan Li Mochou dapat berakhir fatal; serat dan gagang dipakai dengan fungsi berbeda.",
-            "Batas pengetahuan": "Tidak semua kibasan telah disebut sebagai jurus bernama."
+            "Dampak teramati": "Menghantam leher dan dada; dua anggota Klan Pengemis tewas.",
+            "Batas penilaian": "Daya rusak mengikuti tenaga pengguna dan bagian tubuh yang terkena."
           },
-          "key": 90083,
+          "key": 90085,
           "chapter": 9,
-          "paragraph": "p-09-083",
-          "quote": "Kebut bergerak sebelum kalimatnya selesai. Orang pertama terempas ke tiang; ketika temannya maju menangkapnya, gagang gelap menyentuh dadanya dengan bunyi tumpul. Kedua tubuh itu jatuh dan tidak bangkit lagi."
+          "paragraph": "p-09-085",
+          "quote": "Kebut menyapu sebelum ia selesai mengangkat tangan. Serat putih menghantam leher orang pertama; gagangnya menyusul ke dada temannya. Keduanya jatuh. Qi berlutut memeriksa, kemudian berdiri dengan wajah mengeras."
         }
       ]
     },
@@ -2486,7 +2450,7 @@
           "key": 50024,
           "chapter": 5,
           "paragraph": "p-05-024",
-          "quote": "Beberapa pekan berlalu dalam hafalan yang bertambah panjang, sementara pelajaran gerak tidak kunjung dimulai. Zhao menyuruh Dani mengulang bait-bait dasar; bila ia bertanya tentang penerapannya, jawabannya selalu sama: hafalkan dahulu, baru engkau boleh bertanya. Murid lain berlatih di halaman saat Dani masih disuruh duduk menghadap kitab."
+          "quote": "Pekan-pekan berlalu dalam hafalan; gerakannya tidak pernah diajarkan. Zhao sengaja menahan pelajaran itu. Ia menyimpan malu karena dipatahkan Guo Jing di gerbang dan kini menuntut kepatuhan mutlak dari anak yang dititipkan kepadanya. Dani belum memahami dendam gurunya. Ia terus mengulang bait, berharap hafalan yang sempurna akhirnya membuka pintu latihan."
         }
       ]
     },
@@ -2713,51 +2677,36 @@
       "stages": [
         {
           "title": "Yelü Yan",
-          "summary": "Gadis yang menjaga sisi pemuda lawan Wanyan Ping.",
+          "summary": "Adik Qi; khawatir kemurahan hati kakaknya membahayakan ayah mereka.",
           "fields": {
-            "Tingkat": "Belum diketahui",
-            "Ilmu yang terlihat": "Belum diperlihatkan",
-            "Bahaya teramati": "Belum dapat dinilai",
-            "Usia": "Sekitar 19 tahun"
-          },
-          "key": 90019,
-          "chapter": 9,
-          "paragraph": "p-09-019",
-          "quote": "“Kakak, ia menyerang lagi,” kata gadis yang ditahan itu."
-        },
-        {
-          "title": "Yelü Yan",
-          "summary": "Adik Yelü Qi; sigap membela kakaknya dan berbicara terus terang.",
-          "fields": {
-            "Tingkat": "Belum diketahui",
-            "Ilmu yang terlihat": "Belum diperlihatkan",
-            "Bahaya teramati": "Belum dapat dinilai",
-            "Usia": "Sekitar 19 tahun"
-          },
-          "key": 90027,
-          "chapter": 9,
-          "paragraph": "p-09-027",
-          "quote": "Yelü Yan memandang wajahnya yang kotor. “Dan siapa engkau sampai berani menjamin dia tidak kembali menyerang kakakku?”"
-        },
-        {
-          "title": "Yelü Yan",
-          "summary": "Adik Yelü Qi; sigap membela kakaknya dan berbicara terus terang.",
-          "fields": {
-            "Tingkat": "Belum terukur",
-            "Ilmu yang terlihat": "Memakai bangku sebagai penghalang serangan lalu berlindung di balik tiang.",
-            "Bahaya teramati": "Membantu pengalihan; belum ada jurus khas atau ukuran tenaga dalam yang terlihat.",
             "Usia": "Sekitar 19 tahun",
-            "Batas yang terlihat": "Tidak sanggup menahan tarikan kebut Li Mochou."
+            "Tingkat": "Belum diketahui",
+            "Ilmu yang terlihat": "Belum diperlihatkan",
+            "Bahaya teramati": "Belum dapat dinilai"
           },
-          "key": 90111,
+          "key": 90033,
           "chapter": 9,
-          "paragraph": "p-09-111",
-          "quote": "Yelü Yan mendorong bangku melintasi jalur serangan. Serat putih membelit sandarannya, merobek kayu dan menarik bangku itu keluar dari tangannya. Gadis tersebut terpaksa berlindung di balik tiang."
+          "paragraph": "p-09-033",
+          "quote": "Yelü Qi hanya memakai tangan kanan. Ia menyisihkan sisi golok, mengunci sesaat pergelangan lawan, lalu melepaskannya sebelum sendi itu cedera. Wanyan Ping terhuyung. Yelü Yan hendak maju, namun kakaknya kembali menahannya."
+        },
+        {
+          "title": "Yelü Yan",
+          "summary": "Sigap membuka ruang bagi Wushuang dengan mengganggu jalur kebut.",
+          "fields": {
+            "Usia": "Sekitar 19 tahun",
+            "Tingkat": "Belum terukur",
+            "Ilmu yang terlihat": "Memakai bangku sebagai penghalang dan segera menghindar.",
+            "Bahaya teramati": "Membantu pertahanan kelompok; bangku tetap dihancurkan kebut Li Mochou."
+          },
+          "key": 90105,
+          "chapter": 9,
+          "paragraph": "p-09-105",
+          "quote": "Li Mochou melihat tawanan lepas. Kebutnya berbalik. Yelü Yan mendorong bangku ke jalur serangan; kayu itu terbelit dan pecah sebelum mencapai lantai."
         }
       ],
       "portraits": [
         {
-          "key": 90019,
+          "key": 90033,
           "image": {
             "file": "bab-09-ilustrasi-01.webp",
             "width": 1536,
@@ -2781,53 +2730,56 @@
       "stages": [
         {
           "title": "Yelü Qi",
-          "summary": "Pemuda yang menahan serangan tanpa segera membalas ke bagian tubuh yang terbuka.",
+          "summary": "Putra Chucai yang berulang kali melindungi ayahnya tanpa membunuh Wanyan Ping.",
           "fields": {
-            "Tingkat": "Belum diketahui",
-            "Ilmu yang terlihat": "Belum diperlihatkan",
-            "Bahaya teramati": "Belum dapat dinilai",
-            "Usia": "Sekitar 20 tahun"
+            "Usia": "Sekitar 20 tahun",
+            "Tingkat": "Belum terukur",
+            "Ilmu yang terlihat": "Pengendalian jarak dan kuncian pergelangan dengan satu tangan.",
+            "Bahaya teramati": "Mampu melucuti Wanyan tanpa membunuhnya.",
+            "Batas pengetahuan": "Nama guru dan perguruan belum diungkap."
           },
-          "key": 90020,
+          "key": 90033,
           "chapter": 9,
-          "paragraph": "p-09-020",
-          "quote": "“Aku melihatnya, Adik Yan.” Pemuda tersebut tetap memandang lawannya. “Nona Wanyan, hentikan dahulu. Tanganmu mulai gemetar.”"
+          "paragraph": "p-09-033",
+          "quote": "Yelü Qi hanya memakai tangan kanan. Ia menyisihkan sisi golok, mengunci sesaat pergelangan lawan, lalu melepaskannya sebelum sendi itu cedera. Wanyan Ping terhuyung. Yelü Yan hendak maju, namun kakaknya kembali menahannya."
         },
         {
           "title": "Yelü Qi",
-          "summary": "Pemuda yang menahan serangan tanpa segera membalas ke bagian tubuh yang terbuka.",
+          "summary": "Tetap menyelamatkan Wanyan meskipun tindakan itu membuatnya kalah dalam janji tangan kiri.",
           "fields": {
-            "Tingkat": "Belum terukur",
-            "Ilmu yang terlihat": "Mengendalikan jarak dan menekan sisi datar pedang lawan dengan timing yang tepat.",
-            "Bahaya teramati": "Mampu menghentikan serangan Wanyan Ping tanpa membunuhnya.",
             "Usia": "Sekitar 20 tahun",
-            "Batas pengetahuan": "Asal perguruan dan kemampuan maksimum belum diungkap."
+            "Tingkat": "Belum terukur",
+            "Ilmu yang terlihat": "Pengendalian jarak dan kuncian pergelangan dengan satu tangan.",
+            "Bahaya teramati": "Mampu melucuti Wanyan tanpa membunuhnya.",
+            "Batas pengetahuan": "Nama guru dan perguruan belum diungkap.",
+            "Watak yang terlihat": "Mendahulukan nyawa lawan daripada kemenangan taruhan."
           },
-          "key": 90022,
+          "key": 90059,
           "chapter": 9,
-          "paragraph": "p-09-022",
-          "quote": "Wanyan Ping menerjang. Yelü Qi memutar pergelangan, menekan sisi datar pedang lawannya ke bawah dengan telapak, lalu mundur sebelum gadis itu kehilangan keseimbangan. Justru pengendalian tersebut membuat wajah Wanyan Ping semakin pucat."
+          "paragraph": "p-09-059",
+          "quote": "Wushuang masih mengompres kakinya di kamar ketika, pagi berikutnya, Wanyan Ping kembali menantang Qi. Ketika goloknya berputar ke arah tubuh sendiri, tangan kiri pemuda itu bergerak menyelamatkannya. Qi mengetahui dirinya masuk perangkap; ia tetap berdiri menunggu pelaksanaan janjinya."
         },
         {
           "title": "Yelü Qi",
-          "summary": "Pemuda yang menahan serangan tanpa segera membalas ke bagian tubuh yang terbuka.",
+          "summary": "Membantu Dani setelah Li Mochou membunuh dua anggota Klan Pengemis.",
           "fields": {
-            "Tingkat": "Belum terukur",
-            "Ilmu yang terlihat": "Mengalihkan tenaga serangan sambil berpindah kaki; tetap terdorong oleh Li Mochou.",
-            "Bahaya teramati": "Mampu membantu menahan serangan Li Mochou bersama Dani.",
             "Usia": "Sekitar 20 tahun",
-            "Batas pengetahuan": "Asal perguruan dan kemampuan maksimum belum diungkap.",
-            "Batas yang terlihat": "Belum terbukti setara Li Mochou dalam pertarungan satu lawan satu."
+            "Tingkat": "Belum terukur",
+            "Ilmu yang terlihat": "Membelokkan gagang kebut dengan telapak miring; bertahan bersama Dani.",
+            "Bahaya teramati": "Mampu membantu menghadapi Li Mochou, tetapi masih terdorong tenaganya.",
+            "Batas pengetahuan": "Nama guru dan perguruan belum diungkap.",
+            "Watak yang terlihat": "Mendahulukan nyawa lawan daripada kemenangan taruhan.",
+            "Batas yang terlihat": "Belum terbukti setara Li Mochou dalam pertarungan tunggal."
           },
-          "key": 90103,
+          "key": 90099,
           "chapter": 9,
-          "paragraph": "p-09-103",
-          "quote": "Yelü Qi menyambut pukulan berikut dengan telapak miring. Ia tidak menahannya lurus; kakinya berpindah, mengalihkan arah tenaga sambil tetap terdorong setapak. Dani masuk dari sisi seberang, menyerang pergelangan yang memegang kebut, lalu mundur ketika Li Mochou berputar."
+          "paragraph": "p-09-099",
+          "quote": "Yelü Qi menahan sisi gagang dengan telapak miring. Tubuhnya terdorong, memberi Dani ruang untuk mundur."
         }
       ],
       "portraits": [
         {
-          "key": 90020,
+          "key": 90033,
           "image": {
             "file": "bab-09-ilustrasi-01.webp",
             "width": 1536,
@@ -2852,86 +2804,72 @@
       "stages": [
         {
           "title": "Wanyan Ping",
-          "summary": "Perempuan muda yang sedang berhadapan dengan Yelü Qi; identitas dan alasannya baru mulai diketahui.",
+          "summary": "Perempuan keturunan bangsawan Jin yang memburu Chucai karena kehilangan orang tua dan negerinya.",
           "fields": {
-            "Tingkat": "Belum diketahui",
-            "Ilmu yang terlihat": "Belum diperlihatkan",
-            "Bahaya teramati": "Belum dapat dinilai",
-            "Usia": "Sekitar 18–19 tahun"
+            "Usia": "Sekitar 18–19 tahun",
+            "Tingkat": "Belum terukur",
+            "Ilmu yang terlihat": "Serangan golok.",
+            "Bahaya teramati": "Menyerang untuk membunuh Chucai; ditahan oleh Qi.",
+            "Motif": "Dendam keluarga kepada Chucai, bukan permusuhan tanpa sebab dengan Qi."
           },
-          "key": 90020,
+          "key": 90031,
           "chapter": 9,
-          "paragraph": "p-09-020",
-          "quote": "“Aku melihatnya, Adik Yan.” Pemuda tersebut tetap memandang lawannya. “Nona Wanyan, hentikan dahulu. Tanganmu mulai gemetar.”"
+          "paragraph": "p-09-031",
+          "quote": "Wanyan Ping menjawab dengan tebasan. Ia keturunan keluarga bangsawan Jin; kehancuran negerinya membawa kematian orang tuanya, dan ia membebankan dendam itu kepada Chucai yang membantu pihak Mongol. Malam ini bukan awal permusuhan mereka."
         },
         {
           "title": "Wanyan Ping",
-          "summary": "Perempuan muda yang sedang berhadapan dengan Yelü Qi; identitas dan alasannya baru mulai diketahui.",
+          "summary": "Menerima koreksi pijakan Dani; tidak mendadak menyamai kemampuan Qi.",
           "fields": {
-            "Tingkat": "Belum terukur",
-            "Ilmu yang terlihat": "Menggunakan pedang; serangan berulang belum mampu menembus pertahanan Yelü Qi.",
-            "Bahaya teramati": "Bersenjata; keseimbangan dan pengendalian serangan masih bermasalah.",
             "Usia": "Sekitar 18–19 tahun",
-            "Kondisi": "Lelah dan terdesak emosi."
+            "Tingkat": "Belum terukur",
+            "Ilmu yang terlihat": "Golok dengan tumpuan yang mulai diperbaiki.",
+            "Bahaya teramati": "Menyerang untuk membunuh Chucai; ditahan oleh Qi.",
+            "Motif": "Dendam keluarga kepada Chucai, bukan permusuhan tanpa sebab dengan Qi.",
+            "Batas yang terlihat": "Perbaikan teknik dasar belum menutup selisih kemampuan."
           },
-          "key": 90022,
+          "key": 90045,
           "chapter": 9,
-          "paragraph": "p-09-022",
-          "quote": "Wanyan Ping menerjang. Yelü Qi memutar pergelangan, menekan sisi datar pedang lawannya ke bawah dengan telapak, lalu mundur sebelum gadis itu kehilangan keseimbangan. Justru pengendalian tersebut membuat wajah Wanyan Ping semakin pucat."
+          "paragraph": "p-09-045",
+          "quote": "Wanyan Ping mencoba gerakan itu. Dani membetulkan jaraknya dengan ujung ranting, tanpa menyentuh kakinya. Pada percobaan berikut, bilahnya kembali sementara keseimbangannya bertahan."
         },
         {
           "title": "Wanyan Ping",
-          "summary": "Perempuan muda yang sedang berhadapan dengan Yelü Qi; identitas dan alasannya baru mulai diketahui.",
+          "summary": "Memilih menghentikan perburuan Chucai setelah Qi menyelamatkannya.",
           "fields": {
-            "Tingkat": "Belum terukur",
-            "Ilmu yang terlihat": "Memperbaiki tumpuan pedang setelah petunjuk Dani.",
-            "Bahaya teramati": "Bersenjata; keseimbangan dan pengendalian serangan masih bermasalah.",
             "Usia": "Sekitar 18–19 tahun",
-            "Kondisi": "Lelah dan terdesak emosi.",
-            "Batas yang terlihat": "Perbaikan pijakan belum membuktikan kemampuan menandingi Yelü Qi."
+            "Tingkat": "Belum terukur",
+            "Ilmu yang terlihat": "Golok dengan tumpuan yang mulai diperbaiki.",
+            "Bahaya teramati": "Menyerang untuk membunuh Chucai; ditahan oleh Qi.",
+            "Motif": "Dendam belum lenyap, tetapi ia tidak sanggup membunuh orang yang melindunginya.",
+            "Batas yang terlihat": "Perbaikan teknik dasar belum menutup selisih kemampuan."
           },
-          "key": 90037,
+          "key": 90061,
           "chapter": 9,
-          "paragraph": "p-09-037",
-          "quote": "Ia memperagakan langkah itu dengan tangan kosong, berhenti sebelum tubuhnya condong. Wanyan Ping mengikutinya. Pada percobaan kedua, pedangnya kembali tanpa menarik seluruh bahunya."
+          "paragraph": "p-09-061",
+          "quote": "“Aku tidak akan menyentuh ayahmu lagi,” kata Wanyan Ping. “Jangan minta aku mengucapkan lebih daripada itu hari ini.”"
         },
         {
           "title": "Wanyan Ping",
-          "summary": "Perempuan muda yang sedang berhadapan dengan Yelü Qi; identitas dan alasannya baru mulai diketahui.",
+          "summary": "Membantu penyelamatan Wushuang dan bertarung di sisi keluarga Yelü.",
           "fields": {
-            "Tingkat": "Belum terukur",
-            "Ilmu yang terlihat": "Koreksi tumpuan membantu mengembalikan pedang tanpa tubuh jatuh ke depan.",
-            "Bahaya teramati": "Bersenjata; keseimbangan dan pengendalian serangan masih bermasalah.",
             "Usia": "Sekitar 18–19 tahun",
-            "Kondisi": "Lengan tergores saat melawan Li Mochou.",
-            "Batas yang terlihat": "Masih tidak mampu menghindari seluruh serangan balik Li Mochou."
-          },
-          "key": 90114,
-          "chapter": 9,
-          "paragraph": "p-09-114",
-          "quote": "Wanyan Ping maju ketika Li Mochou hendak melewati meja. Pijakan belakangnya bertahan lebih lama kali ini; tebasannya tidak lagi membuat tubuhnya jatuh ke depan. Li Mochou harus membelokkan kebut untuk menepis pedang itu, tetapi balasannya tetap begitu cepat hingga lengan Wanyan Ping tergores."
-        },
-        {
-          "title": "Wanyan Ping",
-          "summary": "Perempuan muda yang sedang berhadapan dengan Yelü Qi; identitas dan alasannya baru mulai diketahui.",
-          "fields": {
             "Tingkat": "Belum terukur",
-            "Ilmu yang terlihat": "Koreksi tumpuan membantu mengembalikan pedang tanpa tubuh jatuh ke depan.",
-            "Bahaya teramati": "Bersenjata; keseimbangan dan pengendalian serangan masih bermasalah.",
-            "Usia": "Sekitar 18–19 tahun",
-            "Kondisi": "Lengan tergores saat melawan Li Mochou.",
-            "Batas yang terlihat": "Masih tidak mampu menghindari seluruh serangan balik Li Mochou.",
-            "Ikatan yang terlihat": "Mengakui pertolongan Yelü Qi; dendam keluarganya belum dinyatakan selesai."
+            "Ilmu yang terlihat": "Tebasan golok dengan tumpuan lebih terjaga.",
+            "Bahaya teramati": "Memaksa Li Mochou mengalihkan serangan sesaat.",
+            "Motif": "Dendam belum lenyap, tetapi ia tidak sanggup membunuh orang yang melindunginya.",
+            "Batas yang terlihat": "Perbaikan teknik dasar belum menutup selisih kemampuan.",
+            "Kondisi": "Lengan tersayat serangan balasan."
           },
-          "key": 90141,
+          "key": 90108,
           "chapter": 9,
-          "paragraph": "p-09-141",
-          "quote": "“Hari ini aku bertarung di sisimu,” kata Wanyan Ping kepada Yelü Qi. “Itu tidak berarti persoalan keluargaku selesai. Tetapi pertolonganmu tidak akan kupungkiri.”"
+          "paragraph": "p-09-108",
+          "quote": "Wanyan Ping menebas dari sisi pintu. Pijakan belakangnya bertahan sebagaimana diajarkan Dani. Bilahnya memaksa Li Mochou mengubah arah, tetapi balasan perempuan itu tetap menyayat lengannya. Ia tersentak mundur; Dani menarik bahunya sebelum serangan kedua datang."
         }
       ],
       "portraits": [
         {
-          "key": 90020,
+          "key": 90031,
           "image": {
             "file": "bab-09-ilustrasi-01.webp",
             "width": 1536,
@@ -2957,16 +2895,15 @@
       "stages": [
         {
           "title": "Kuda-kuda dan tumpuan",
-          "summary": "Dasar keseimbangan yang memungkinkan tenaga dan senjata bergerak tanpa menyeret tubuh sendiri.",
+          "summary": "Dasar keseimbangan agar gerak senjata tidak menyeret tubuh sendiri.",
           "fields": {
-            "Cara kerja": "Tumpuan belakang mendorong sebelum berat tubuh dipindahkan sepenuhnya ke depan.",
-            "Akibat kesalahan": "Tekanan kecil pada senjata dapat membuat pengguna kehilangan keseimbangan.",
-            "Batas": "Koreksi Dani bukan jurus baru dan tidak otomatis menghapus selisih kemampuan."
+            "Fungsi": "Menjaga tumpuan saat menyerang dan menarik kembali senjata.",
+            "Dampak": "Memperbaiki kendali gerak; bukan kenaikan tingkat seketika."
           },
-          "key": 90036,
+          "key": 90044,
           "chapter": 9,
-          "paragraph": "p-09-036",
-          "quote": "“Kalau begitu, terimalah satu pengamatan tentang kakimu.” Dani menunjuk tanah di depan sepatunya. “Tadi bahumu sudah maju sebelum kaki belakangmu mendorong. Karena berat tubuhmu terlanjur jatuh ke depan, Saudara Yelü cukup menekan pedangmu untuk merusak keseimbangan.”"
+          "paragraph": "p-09-044",
+          "quote": "“Karena Nona belum dapat menandinginya, jangan membantu dia menjatuhkanmu.” Dani menggeser kaki belakangnya. “Tadi bahumu berangkat sebelum tumpuanmu siap. Begitu golok ditekan, seluruh tubuhmu ikut tertarik.”"
         }
       ],
       "portraits": []
@@ -2982,15 +2919,15 @@
       "stages": [
         {
           "title": "Topeng penyamaran",
-          "summary": "Alat penyamaran yang dipinjamkan Cheng Ying kepada Dani dan Wanyan Ping untuk mendekati tawanan.",
+          "summary": "Dipinjamkan oleh penolong berjubah hijau agar Dani mendekati tawanan tanpa dikenali.",
           "fields": {
-            "Kegunaan": "Mengubah penampilan wajah saat memasuki kedai.",
-            "Batas": "Tidak mengubah suara, ukuran tubuh, atau kemampuan silat; dapat dilepaskan."
+            "Kegunaan": "Mengubah rupa pipi dan hidung.",
+            "Batas": "Tidak mengubah suara, tinggi tubuh, atau ilmu silat."
           },
-          "key": 90075,
+          "key": 90078,
           "chapter": 9,
-          "paragraph": "p-09-075",
-          "quote": "Pagi berikutnya, jejak mereka berakhir di sebuah kedai. Cheng Ying meminjamkan topeng penyamarannya kepada Dani dan Wanyan Ping. Sebelum masuk, Dani membagikan apa yang diamatinya semalam: Hong Lingbo menjaga tawanan, sementara Li Mochou mengawasi setiap orang yang mendekat."
+          "paragraph": "p-09-078",
+          "quote": "Pagi hari, sebelum mendekati Wuguan, gadis berjubah hijau mengeluarkan topeng tipis. Setelah ditempelkan pada wajah Dani, bentuk pipi dan hidungnya tampak berbeda. Kini ia mengerti mengapa wajah penolongnya tidak pernah mengikuti kelembutan suaranya."
         }
       ],
       "portraits": []
@@ -3004,15 +2941,27 @@
       "stages": [
         {
           "title": "Klan Pengemis",
-          "summary": "Dua anggotanya mencoba menghalangi kekerasan terhadap Wushuang di kedai.",
+          "summary": "Nama klan dipakai Wushuang dalam siasat untuk menunda pembunuhan dirinya.",
           "fields": {
-            "Yang diketahui": "Dikenali sebagai anggota Klan Pengemis.",
-            "Kekuatan perguruan": "Belum diperlihatkan dalam pertemuan ini; kemampuan dua orang tidak mewakili seluruh klan."
+            "Yang diketahui": "Wushuang mengaku kitab berada di tangan klan. Ini belum terbukti.",
+            "Kekuatan perguruan": "Belum diperlihatkan."
           },
-          "key": 90081,
+          "key": 90072,
           "chapter": 9,
-          "paragraph": "p-09-081",
-          "quote": "Dua anggota Klan Pengemis menghadang Li Mochou ketika perempuan itu hendak menarik buntalan dari pangkuan Wushuang."
+          "paragraph": "p-09-072",
+          "quote": "“Jangan mengejar dengan terburu-buru, Tuan Dani. Wushuang masih hidup. Ia mengatakan kitab yang dicurinya jatuh ke tangan Klan Pengemis. Selama kitab itu belum ditemukan, Li Mochou memerlukannya.”"
+        },
+        {
+          "title": "Klan Pengemis",
+          "summary": "Dua anggotanya dibunuh Li Mochou setelah menyangkal mengetahui kitab.",
+          "fields": {
+            "Yang diketahui": "Dua anggota yang ditemui tidak mengetahui urusan kitab.",
+            "Kekuatan perguruan": "Kematian dua anggota tidak menunjukkan batas kekuatan seluruh klan."
+          },
+          "key": 90085,
+          "chapter": 9,
+          "paragraph": "p-09-085",
+          "quote": "Kebut menyapu sebelum ia selesai mengangkat tangan. Serat putih menghantam leher orang pertama; gagangnya menyusul ke dada temannya. Keduanya jatuh. Qi berlutut memeriksa, kemudian berdiri dengan wajah mengeras."
         }
       ],
       "portraits": []
@@ -3021,23 +2970,24 @@
       "id": "kitab-wushuang",
       "type": "benda",
       "aliases": [
+        "Kitab Lima Racun",
         "kitab racun",
         "kitab milik Li Mochou"
       ],
       "stages": [
         {
-          "title": "Kitab yang dibawa Wushuang",
-          "summary": "Kitab milik Li Mochou yang dibawa Wushuang dan dituntut kembali di kedai.",
+          "title": "Kitab Lima Racun",
+          "summary": "Kitab racun milik Li Mochou yang dibawa Wushuang dan menjadi alasan pengejaran.",
           "fields": {
-            "Nama resmi": "Belum diungkap dalam cerita",
-            "Isi": "Belum diketahui",
-            "Dampak": "Menjadi alasan pengejaran dan tuntutan Li Mochou.",
-            "Pembedaan": "Belum ada bukti bahwa kitab ini sama dengan Sutra Hati Gadis Giok."
+            "Nama resmi": "Kitab Lima Racun",
+            "Isi": "Pengetahuan racun; rincian resep belum dibuka dalam bab ini.",
+            "Dampak": "Menjadikan Wushuang sasaran penangkapan dan pemaksaan.",
+            "Pembedaan": "Benda berbeda dari Sutra Hati Gadis Giok, warisan Makam Kuno."
           },
-          "key": 90086,
+          "key": 90087,
           "chapter": 9,
-          "paragraph": "p-09-086",
-          "quote": "“Anak muda, aku tidak sedang meminta penilaianmu.” Li Mochou merapikan serat kebutnya, kemudian menghadap Wushuang. “Serahkan kitab yang kauambil. Jangan biarkan orang lain menanggung akibat kebandelanmu.”"
+          "paragraph": "p-09-087",
+          "quote": "“Supaya orang yang mengetahui urusanku tidak lagi berpura-pura lupa.” Li Mochou menoleh kepada Wushuang. “Sekarang katakan di mana Kitab Lima Racun itu.”"
         }
       ],
       "portraits": []
@@ -3051,15 +3001,15 @@
       "stages": [
         {
           "title": "Sepasang rajawali keluarga Guo",
-          "summary": "Sepasang rajawali yang menyertai kedatangan Guo Fu dan Wu bersaudara.",
+          "summary": "Dua burung keluarga Guo yang dikenali Li Mochou.",
           "fields": {
-            "Dampak kehadiran": "Li Mochou menghubungkannya dengan keluarga Guo dan menanyakan keberadaan orang tua Guo Fu.",
-            "Kemampuan": "Kemampuan bertarung belum diperlihatkan dalam bab ini."
+            "Dampak": "Menimbulkan dugaan bahwa Guo Jing dan Huang Rong berada di sekitar.",
+            "Pembedaan": "Sepasang burung keluarga Guo; bukan rajawali yang kelak menemani Dani."
           },
-          "key": 90124,
+          "key": 90115,
           "chapter": 9,
-          "paragraph": "p-09-124",
-          "quote": "Dua bayangan besar melintas di depan jendela. Li Mochou menahan serangannya setengah jalan, lalu berpaling ke atap serambi."
+          "paragraph": "p-09-115",
+          "quote": "Li Mochou memandang jalan di belakang mereka. Sepasang rajawali keluarga Guo lebih menggentarkannya daripada tiga remaja yang baru tiba. Guo Jing dan Huang Rong dapat berada tidak jauh dari putri mereka; ia tidak berniat mempertaruhkan nyawa untuk memastikan dugaan itu."
         }
       ],
       "portraits": []
@@ -3493,7 +3443,7 @@
           "key": 80071,
           "chapter": 8,
           "paragraph": "p-08-071",
-          "quote": "Ia sendiri tidak memahami apa yang sedang terjadi pada tubuhnya. Pikiran yang biasanya tajam mulai terputus-putus. Kekhawatiran, kemarahan, dan rasa lega datang bercampur, makin sulit dipisahkan. Xiaolongnü menyuruhnya duduk dan memeriksa napasnya dengan pengetahuan yang dimilikinya; ia mengira ketegangan pertarungan belum reda."
+          "quote": "Pikiran Dani mulai terputus-putus. Panas yang dianggapnya sisa pertarungan ternyata pengaruh obat Ouyang Feng: ramuan itu membangkitkan dorongan nafsu sekaligus mengaburkan kesadarannya. Ia tidak memahami perubahan tersebut. Xiaolongnü menyuruhnya duduk dan memeriksa napasnya dengan pengetahuan yang dimilikinya; ia pun menyangka tubuh Dani masih menanggung ketegangan setelah perkelahian."
         },
         {
           "title": "Obat dari Ouyang Feng",
@@ -3565,6 +3515,138 @@
           "quote": "Dani memeriksa pegangan, mengubah sudut, lalu melepaskan ujung kayu tanpa menyentak. Hong mengangguk, sedangkan Ouyang Feng mendengus seolah keberhasilan itu sudah seharusnya terjadi sejak awal."
         }
       ]
+    },
+    {
+      "id": "gadis-hijau",
+      "type": "tokoh",
+      "aliases": [
+        "gadis berjubah hijau",
+        "perempuan berjubah hijau",
+        "gadis bertopeng"
+      ],
+      "stages": [
+        {
+          "title": "Gadis berjubah hijau",
+          "summary": "Penolong asing yang mengalihkan perhatian Li Mochou dan Hong Lingbo.",
+          "fields": {
+            "Tingkat": "Belum diketahui",
+            "Ilmu yang terlihat": "Pengalihan perhatian dan gerak cepat; nama jurus belum diketahui.",
+            "Bahaya teramati": "Belum dapat dinilai",
+            "Identitas": "Nama, asal perguruan, dan hubungan keluarga belum diungkap."
+          },
+          "key": 90017,
+          "chapter": 9,
+          "paragraph": "p-09-017",
+          "quote": "Seekor keledai tiba-tiba meringkik di halaman. Seorang gadis berjubah hijau menarik kekangnya menjauhi pintu, lalu melontarkan sesuatu ke arah Hong Lingbo. Murid Li Mochou menghindar. Saat perhatian mereka pecah, gadis itu menunjuk lorong samping kepada Dani."
+        },
+        {
+          "title": "Gadis berjubah hijau",
+          "summary": "Menggunakan wajah samaran dan meminjamkan topeng kepada Dani.",
+          "fields": {
+            "Tingkat": "Belum diketahui",
+            "Ilmu yang terlihat": "Pengalihan perhatian dan gerak cepat; nama jurus belum diketahui.",
+            "Bahaya teramati": "Belum dapat dinilai",
+            "Identitas": "Wajahnya merupakan penyamaran. Nama asli dan perguruan masih belum diungkap."
+          },
+          "key": 90078,
+          "chapter": 9,
+          "paragraph": "p-09-078",
+          "quote": "Pagi hari, sebelum mendekati Wuguan, gadis berjubah hijau mengeluarkan topeng tipis. Setelah ditempelkan pada wajah Dani, bentuk pipi dan hidungnya tampak berbeda. Kini ia mengerti mengapa wajah penolongnya tidak pernah mengikuti kelembutan suaranya."
+        },
+        {
+          "title": "Gadis berjubah hijau",
+          "summary": "Membebaskan Wushuang dari penjagaan Hong Lingbo.",
+          "fields": {
+            "Tingkat": "Belum terukur",
+            "Ilmu yang terlihat": "Menepis totokan dan mengendalikan siku untuk membuka jalan.",
+            "Bahaya teramati": "Berhasil mengganggu penjagaan Hong Lingbo; tidak membuktikan unggul atas Li Mochou.",
+            "Identitas": "Wajahnya merupakan penyamaran. Nama asli dan perguruan masih belum diungkap."
+          },
+          "key": 90102,
+          "chapter": 9,
+          "paragraph": "p-09-102",
+          "quote": "Di dekat dinding, gadis berjubah hijau menyelipkan diri antara Hong Lingbo dan tawanan. Ia menepis tangan yang hendak menotoknya, memaksa siku Hong Lingbo mengarah keluar, lalu menarik Wushuang dari bangku."
+        }
+      ],
+      "portraits": []
+    },
+    {
+      "id": "yelu-zhu",
+      "type": "tokoh",
+      "aliases": [
+        "Yelü Zhu"
+      ],
+      "stages": [
+        {
+          "title": "Yelü Zhu",
+          "summary": "Pejabat Mongol, putra Yelü Chucai. Rombongannya menjadi jalan pertemuan Dani dengan keluarga Yelü.",
+          "fields": {
+            "Tingkat": "Belum terukur",
+            "Ilmu yang terlihat": "Serangan cakar; berhasil ditundukkan Dani.",
+            "Bahaya teramati": "Kemampuan maksimum belum diketahui.",
+            "Kondisi": "Ancaman racun Dani ternyata gertakan."
+          },
+          "key": 90022,
+          "chapter": 9,
+          "paragraph": "p-09-022",
+          "quote": "Pejabat itu bernama Yelü Zhu, putra Yelü Chucai. Dani belum pernah mendengar namanya. Sesudah memperoleh tumpangan bagi dirinya dan Wushuang, ia mengakui bahwa ancaman racun tadi hanyalah tipu daya. Zhu marah, tetapi lega; lebih mudah memperlakukan pemuda berbahaya itu sebagai tamu daripada mengakui dirinya telah dipermainkan."
+        }
+      ],
+      "portraits": []
+    },
+    {
+      "id": "yelu-chucai",
+      "type": "tokoh",
+      "aliases": [
+        "Yelü Chucai"
+      ],
+      "stages": [
+        {
+          "title": "Yelü Chucai",
+          "summary": "Ayah pejabat Yelü Zhu; baru disebut dalam perkenalan rombongan.",
+          "fields": {
+            "Tingkat": "Belum diketahui",
+            "Ilmu yang terlihat": "Belum diperlihatkan",
+            "Bahaya teramati": "Belum dapat dinilai"
+          },
+          "key": 90022,
+          "chapter": 9,
+          "paragraph": "p-09-022",
+          "quote": "Pejabat itu bernama Yelü Zhu, putra Yelü Chucai. Dani belum pernah mendengar namanya. Sesudah memperoleh tumpangan bagi dirinya dan Wushuang, ia mengakui bahwa ancaman racun tadi hanyalah tipu daya. Zhu marah, tetapi lega; lebih mudah memperlakukan pemuda berbahaya itu sebagai tamu daripada mengakui dirinya telah dipermainkan."
+        },
+        {
+          "title": "Yelü Chucai",
+          "summary": "Pejabat Khitan yang bekerja untuk Mongol; membawa keluarganya menjauh dari perselisihan istana.",
+          "fields": {
+            "Tingkat": "Belum diketahui",
+            "Ilmu yang terlihat": "Belum diperlihatkan",
+            "Bahaya teramati": "Belum dapat dinilai",
+            "Kedudukan": "Ayah Yelü Zhu, Yelü Qi, dan Yelü Yan.",
+            "Motif perjalanan": "Penugasan ke selatan dipakai untuk menghindari bahaya politik."
+          },
+          "key": 90026,
+          "chapter": 9,
+          "paragraph": "p-09-026",
+          "quote": "Keluarga tersebut sedang menjauh dari perselisihan istana. Chucai, pejabat Khitan yang mengabdi kepada Mongol, memakai penugasan ke selatan untuk menyelamatkan keluarganya dari kemurkaan penguasa. Dani belum mengetahui urusan itu; baginya mereka baru sebuah keluarga yang bepergian dengan pengawalan terlalu ketat."
+        },
+        {
+          "title": "Yelü Chucai",
+          "summary": "Menjadi sasaran dendam Wanyan Ping atas kehancuran keluarga dan negeri Jin.",
+          "fields": {
+            "Tingkat": "Belum diketahui",
+            "Ilmu yang terlihat": "Belum diperlihatkan",
+            "Bahaya teramati": "Belum dapat dinilai",
+            "Kedudukan": "Ayah Yelü Zhu, Yelü Qi, dan Yelü Yan.",
+            "Motif perjalanan": "Penugasan ke selatan dipakai untuk menghindari bahaya politik.",
+            "Konflik": "Wanyan menuduhnya turut bertanggung jawab; Qi melindungi ayahnya."
+          },
+          "key": 90031,
+          "chapter": 9,
+          "paragraph": "p-09-031",
+          "quote": "Wanyan Ping menjawab dengan tebasan. Ia keturunan keluarga bangsawan Jin; kehancuran negerinya membawa kematian orang tuanya, dan ia membebankan dendam itu kepada Chucai yang membantu pihak Mongol. Malam ini bukan awal permusuhan mereka."
+        }
+      ],
+      "portraits": []
     }
   ]
 }

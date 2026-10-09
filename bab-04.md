@@ -88,7 +88,7 @@ Huang Rong menatapnya. Kali ini tidak ada senyum. Dani menegakkan punggung, mera
 
 “Justru karena engkau tinggal dalam tanggungan kami, Bibi harus berhati-hati memilih pelajaranmu,” jawab Huang Rong.
 
-Ia membuka buku kembali. Dani menatap baris yang ditunjuk, tetapi pertanyaannya belum terjawab. Kepada kedua saudara Wu, Guo Jing memperlihatkan bagaimana menangkis; kepada dirinya, Bibi Guo memperlihatkan bagaimana seseorang seharusnya bersikap. Ia belum dapat menjelaskan mengapa perbedaan itu terasa memalukan.
+Dani membuka buku, tetapi pikirannya tetap di halaman latihan. Kedua saudara Wu diajari menangkis; dirinya terus diajari menjadi anak baik. *Apakah Bibi mengira aku akan memakai ilmu untuk mencelakakan orang?* Ia belum sanggup menanyakan itu. Huang Rong memang menahan kepercayaan: kemiripan Dani dengan Kang Moan membangkitkan kewaspadaan lama, dan kecerdikannya membuat perempuan itu ingin menguji wataknya sebelum memberinya kekuatan.
 
 “Saya pun bisa belajar tanpa mencari orang untuk dipukul, Bibi,” kata Dani.
 
@@ -106,9 +106,9 @@ Sore itu Guo Fu menemukannya di tepi tempat latihan. Dani menonton dari kejauhan
 
 “Karena aku hanya hendak menonton. Apa itu pun harus meminta izinmu?” jawab Dani.
 
-Pipi Guo Fu memerah. Ia sudah bersedia meluangkan waktu, dan anak itu bahkan tidak membalikkan badan sepenuhnya. Wu Dunru menghentikan latihan.
+Pipi Guo Fu memerah. Ia mengira ajakannya akan disambut dengan senang hati, sebagaimana kedua saudara Wu selalu menyambutnya. Dani bahkan tidak membalikkan badan sepenuhnya. Penolakan itu melukai harga dirinya; semakin ia ingin diperhatikan, semakin keras nada yang dipakainya. Wu Dunru menghentikan latihan.
 
-“Fu-mei sedang membantumu. Kau bisa menjawab lebih baik,” kata Dunru.
+“Adik Fu sedang membantumu. Kau bisa menjawab lebih baik,” kata Dunru.
 
 “Aku sudah menolak dengan jelas. Mengapa kalian masih memaksaku?” balas Dani.
 
@@ -124,7 +124,7 @@ Dani akhirnya menoleh. Adik keluarga Wu itu berusaha tersenyum, tetapi tangannya
 
 Dani bisa mengatakan bahwa ia malu diajari anak yang lebih muda, terlebih setelah pembicaraan dengan Huang Rong. Ia malah menendang kerikil di dekat sepatunya. “Karena aku tidak suka disuruh-suruh.”
 
-Wu Dunru melangkah menutup jalan ketika ia hendak pergi. “Minta maaf dulu kepada Fu-mei.”
+Wu Dunru melangkah menutup jalan ketika ia hendak pergi. “Minta maaf dulu kepada Adik Fu.”
 
 “Beri aku jalan, Dunru,” balas Dani.
 
@@ -136,7 +136,7 @@ Wu Dunru melangkah menutup jalan ketika ia hendak pergi. “Minta maaf dulu kepa
 
 Ia mendorong Xiuwen menjauh. Dunru langsung menangkap pergelangan tangannya dan memutarnya ke bawah. Dani mengenali gerakan yang dilihatnya pagi tadi, tetapi mengetahui bentuknya tidak membuat ia sanggup melepaskan diri. Lututnya membentur tanah.
 
-“Mintalah maaf kepada Fu-mei. Sesudah itu baru kulepaskan tanganmu,” desak Dunru.
+“Mintalah maaf kepada Adik Fu. Sesudah itu baru kulepaskan tanganmu,” desak Dunru.
 
 Dani menyikut ke belakang. Pegangan Dunru longgar sesaat; ia menyentakkan tangannya bebas dan mundur. Xiuwen, yang merasa dipermalukan di depan Guo Fu, maju dengan pukulan lurus. Dani berhasil menghindari yang pertama. Yang kedua mengenai bahunya.
 
@@ -204,7 +204,7 @@ Dani memandang telapaknya. Ia menggeleng.
 
 “Kalau pukulan itu lebih kuat, Xiuwen bisa kehilangan nyawanya,” ujar Guo Jing.
 
-Kemarahannya tidak hilang, tetapi mendadak tidak cukup untuk menutupi apa yang baru saja terjadi. Ia masih merasa berhak membalas. Ia juga masih mendengar suara Xiuwen yang gagal menarik napas.
+Kemarahannya belum hilang. Ia masih ingat dipaksa berlutut dan merasa berhak membalas. Tetapi suara Xiuwen yang gagal menarik napas membuat pembelaan itu tersangkut di tenggorokan. Dani hanya ingin mereka berhenti memukulnya. Ia tidak pernah membayangkan bahwa satu dorongan tangannya dapat membuat orang lain takut akan mati.
 
 “Saya hanya hendak membuatnya mundur, Paman. Saya tidak berniat melukainya seperti itu,” kata Dani.
 
@@ -272,7 +272,7 @@ Ruang itu sunyi. Dani menatap keduanya bergantian. Orang-orang dewasa tersebut t
 
 “Benar. Tetapi tanggung jawabku kepadanya tidak menunggu sampai semua orang merasa tenang,” kata Guo Jing.
 
-Ia meminta Huang Rong memeriksa Xiuwen kembali. Perempuan itu menatap Dani sebelum pergi; ada kecemasan nyata dalam wajahnya, tetapi anak itu sudah tidak sanggup membedakannya dari ketidaksukaan.
+Guo Jing meminta Huang Rong memeriksa Xiuwen kembali. Perempuan itu menatap Dani sebelum pergi; ia mencemaskan ilmu yang keluar tanpa kendali dan anak-anak yang dapat terluka olehnya. Dani menangkap tatapan itu sebagai bukti bahwa dirinya tidak dikehendaki. Rasa takut dibuang membuatnya sulit mendengar alasan lain.
 
 Guo Jing menarik sebuah kursi, lalu menyuruh Dani duduk menghadapnya. “Paman akan membawamu ke Quanzhen. Di sana engkau dapat memperoleh dasar latihan yang tertib. Paman akan mengantarmu sendiri dan meminta mereka membimbingmu.”
 

@@ -58,7 +58,7 @@ Ouyang Feng menuruni batu dengan kedua lengan terbuka. Rambutnya kusut oleh angi
 
 “Ayah, hati-hati. Ada es di bawah kaki—”
 
-Tangan tua sudah menjepit pundaknya. Dani menjatuhkan kayu. Ia merasakan kegembiraan yang memalukan datang bersamaan dengan amarah yang belum selesai sejak malam di gubuk.
+Tangan tua sudah menjepit pundaknya. Dani menjatuhkan kayu. Ia masih marah karena obat Ouyang Feng telah mengacaukan malam di gubuk, namun kegembiraan bertemu ayah angkatnya datang tanpa dapat ditahan. Ia ingin memperoleh jawaban dan tetap ingin orang ini memanggilnya anak. Kedua keinginan itu membuat suaranya lebih sukar dijaga.
 
 “Engkau meninggalkan aku! Aku menyuruhmu menunggu. Tidak, aku yang menunggu. Siapa yang menyembunyikanmu?” desak Ouyang Feng.
 
@@ -106,7 +106,7 @@ Tidak ada tangan yang sekadar bergerak cepat. Setiap langkah menutup tempat berd
 
 Ouyang Feng tidak menoleh. Hong Qigong hanya sempat memberi isyarat agar ia tetap di belakang batu.
 
-Dani menemukan celah ketika keduanya mundur mengambil napas. Ia meletakkan tubuh di jalur mereka, kedua tangan terbuka.
+Dani menemukan celah ketika keduanya mundur mengambil napas. *Kalau Ayah mengira aku terancam, mungkin ia mau berhenti,* pikirnya. Ia meletakkan tubuh di jalur mereka, kedua tangan terbuka. Ia mengambil risiko itu sebagai seorang anak yang ketakutan, bukan karena telah menghitung dirinya sanggup menahan pukulan kedua tetua.
 
 “Aku sudah melihatnya, Ayah. Aku tahu Ayah kuat. Tidak perlu membuktikan lagi dengan membunuh orang yang menolongku.”
 
@@ -182,7 +182,7 @@ Ouyang Feng hendak membalas, kemudian memandang ranting patah di tangannya. Ia m
 
 Hong Qigong membiarkan percakapan itu selesai. Setelah Dani kembali menghadap, ia baru berkata, “Mengingat bentuk belum berarti menguasai ilmu. Engkau akan membawa banyak pertanyaan turun dari gunung ini.”
 
-Hari-hari berikutnya Dani mempelajari rangkaian gerak dan jawaban atasnya. Makanan serta kayu dikumpulkan pada sela istirahat; ketika ia kembali, kedua tetua sering masih menatap bekas garis yang sama di tanah. Pencarian Xiaolongnü tertahan, tetapi setiap melihat tangan ayahnya gemetar saat meraih air, ia tak sanggup berangkat.
+Hari-hari berikutnya Dani mempelajari rangkaian gerak dan jawaban atasnya. Ia mengumpulkan makanan serta kayu di sela istirahat. Setiap kali hendak kembali mencari Xiaolongnü, tangan ayahnya gemetar ketika meraih cawan. Dani tidak sanggup meninggalkan kedua tetua dalam keadaan itu. Ia memilih merawat mereka, dengan rasa bersalah karena perempuan yang dicarinya mungkin masih mengira dirinya tidak dikehendaki.
 
 Pada sebuah latihan, ujung tongkat Dani tertahan di celah batu. Ia memaksa menariknya. Getaran menusuk pergelangan yang baru pulih, dan gagang hampir terlepas.
 
@@ -202,7 +202,7 @@ Gerakan terakhir membuat Ouyang Feng diam sepanjang malam.
 
 Ia tak menjawab ketika Dani menyodorkan air. Kadang jarinya bergerak di atas lutut, kadang ia menggertakkan gigi dan menarik napas seolah sesuatu menindih dadanya. Hong Qigong sendiri bersandar pada batu, mata terpejam, tetapi kelopak matanya bergerak setiap kali ujung jari lawannya mengetuk.
 
-Dani tidak tidur. Ia menambah kayu ke api dan mendengarkan dua napas yang semakin lemah.
+Dani tidak tidur. Ia menambah kayu ke api dan mendengarkan dua napas yang semakin lemah. Ilmu yang diwariskan bertambah banyak, tetapi ia tidak menemukan satu gerakan pun yang dapat mengembalikan tenaga kedua gurunya. Untuk pertama kalinya sejak latihan dimulai, ia berharap tidak ada lagi jurus yang perlu dijawab pagi nanti.
 
 Menjelang pagi, Ouyang Feng tiba-tiba meraih lengannya.
 
@@ -240,7 +240,7 @@ Jari-jari dingin menyentuh pipinya. Tatapan itu masih lelah, tetapi untuk pertam
 
 Dani mengangguk, terlalu cepat. “Aku anak Ayah. Dani Moan. Aku ada di sini.”
 
-Ia hendak mengatakan banyak hal: bahwa dirinya pernah mencari Ouyang Feng di jalan, bahwa ia masih marah tentang obat itu, bahwa ia tidak ingin ditinggalkan lagi. Semua kalimat berebut sebelum sempat memperoleh suara.
+Banyak hal masih hendak dikatakan Dani: bahwa ia pernah mencari ayahnya di jalan, bahwa ia marah tentang obat itu, dan bahwa ia tidak ingin ditinggalkan lagi. Lalu ia merasakan dingin jari di pipinya. *Dengarlah aku sekali ini saja, Ayah.* Ia tidak menghapus kesalahan Ouyang Feng; ia hanya takut sisa waktu mereka habis untuk pertanyaan yang tak akan sempat dijawab.
 
 Hong Qigong mengulurkan tangan kepada musuh lamanya.
 

@@ -723,7 +723,7 @@
             "width": 1536,
             "height": 1024
           },
-          "anchor": "Zhen Zhibing mengalihkan mata.",
+          "anchor": "Zhen mengalihkan mata. Darah turun dari bibirnya",
           "alt": "Dani menahan Zhen Zhibing di depan gubuk; Xiaolongnü duduk di ambang dan pedang lawan terlepas di tanah.",
           "caption": "Nama yang harus diingat, batas yang tidak boleh dilanggar."
         },
@@ -747,8 +747,8 @@
       "source": "bab-09.md",
       "title": "Di Hadapan Iblis Merah",
       "accent": "#95563E",
-      "description": "Di tengah pencarian Xiaolongnü, Dani bertemu kembali dengan Wushuang. Penyamaran dan pertolongan mempertemukan enam anak muda dengan ancaman Li Mochou.",
-      "quote": "Kali ini satu orang telah berhasil ia bawa keluar.",
+      "description": "Pencarian Xiaolongnü membawa Dani kepada Wushuang dan dendam keluarga Wanyan. Seorang penolong tanpa nama membuka jalan menghadapi Li Mochou.",
+      "quote": "Jangan hanya melihat nama keluarganya.",
       "cover": {
         "file": "bab-09-pembuka.webp",
         "width": 1024,
@@ -761,9 +761,9 @@
             "width": 1536,
             "height": 1024
           },
-          "anchor": "Yelü Qi mengembalikan hormat Dani dan memberi jalan.",
+          "anchor": "Di halaman, Dani mengatupkan tangan kepada Qi.",
           "alt": "Dani memberi hormat kepada Yelü Qi, disaksikan Yelü Yan dan Wanyan Ping di halaman tempat singgah.",
-          "caption": "Seseorang harus memberi jalan untuk berhenti tanpa kehilangan harga diri."
+          "caption": "Perkenalan dimulai setelah sebuah dendam memilih berhenti."
         },
         {
           "image": {
@@ -824,6 +824,21 @@
             0.633,
             0.441
           ]
+        },
+        {
+          "name": "Yelü Zhu",
+          "age": "Belum diungkap dalam bab ini.",
+          "description": "Pejabat Mongol, putra Yelü Chucai. Rombongannya menjadi jalan pertemuan Dani dengan keluarga Yelü."
+        },
+        {
+          "name": "Yelü Chucai",
+          "age": "Belum diungkap dalam bab ini.",
+          "description": "Ayah pejabat Yelü Zhu; baru disebut dalam perkenalan rombongan."
+        },
+        {
+          "name": "Gadis berjubah hijau",
+          "age": "Belum diungkap dalam bab ini.",
+          "description": "Penolong asing yang mengalihkan perhatian Li Mochou dan Hong Lingbo."
         }
       ]
     },
@@ -872,5 +887,10 @@
       ]
     }
   ],
-  "edition": "2026-10-revision"
+  "edition": "2026-10-polish",
+  "mainCover": {
+    "file": "saga-dani-moan-cover.webp",
+    "width": 1024,
+    "height": 1536
+  }
 }

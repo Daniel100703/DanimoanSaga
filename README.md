@@ -12,14 +12,21 @@ Novel wuxia berilustrasi karya Daniel Halomoan Siregar.
 - Sapaan memakai bahasa Indonesia. Dialog mengalir melalui atribusi naratif tanpa format `Nama: ucapan`.
 - Bab 10: **Dua Nama di Bawah Salju**, dengan satu pembuka dan dua ilustrasi peristiwa. Pertemuan serta warisan dua tetua selesai dalam satu arc.
 - Semua 33 ilustrasi lama dipertahankan. Empat ilustrasi baru ditambahkan: rekonsiliasi hujan dan tiga gambar Bab 10.
-- Wiki berisi 49 catatan dengan 174 tahap informasi. Kartu mengikuti paragraf bacaan; penguasaan ilmu Dani dibedakan dari kekuatan gurunya.
+- Wiki berisi 52 catatan dengan 178 tahap informasi. Kartu mengikuti paragraf bacaan; penguasaan ilmu Dani dibedakan dari kekuatan gurunya.
 - Penanda baca edisi lama dipetakan ke adegan terdekat dalam pembagian baru. Tema dan ukuran huruf tetap tersimpan. Salinan posisi sebelum revisi tetap disimpan di peramban.
+
+## Pembaruan narasi dan Bab 9
+
+Bab 9 ditulis ulang untuk memulihkan latar dendam Wanyan Ping, perkenalan keluarga Yelü, dan identitas penolong yang masih dirahasiakan. Bab 1–8 serta 10 mendapat revisi terarah pada motivasi dan pikiran langsung tokoh. Sampul utama kini menggunakan ilustrasi konseptual tersendiri; semua 37 ilustrasi cerita tetap dipertahankan.
+
+- [Catatan revisi](editorial/revisi-2026-10-08.md)
+- [Peta Bab 11 untuk persetujuan penulis](https://daniel100703.github.io/DanimoanSaga/peta-bab-11.html) — belum menjadi bab terbit.
 
 ## Membaca
 
 Gunakan daftar bab untuk berpindah, tombol A−/A+ untuk ukuran huruf, dan tombol tema untuk beralih antara tampilan krem dan gelap. Posisi baca tersimpan pada peramban yang dipakai.
 
-Ketuk istilah bergaris bawah untuk membuka kartu lore. Kartu mengikuti pengetahuan pada paragraf itu, termasuk ketika membaca kembali bab lama. Wiki menyediakan pencarian, filter jenis, dan pilihan batas informasi. Memilih akhir bab yang lebih jauh akan membuka informasi sampai bab tersebut.
+Ketuk istilah **tebal bergaris bawah** untuk membuka kartu lore. Kartu mengikuti pengetahuan pada paragraf itu, termasuk ketika membaca kembali bab lama. Wiki menyediakan pencarian, filter jenis, dan pilihan batas informasi. Memilih akhir bab yang lebih jauh akan membuka informasi sampai bab tersebut.
 
 Potret tokoh diambil dari ilustrasi adegan yang sudah ada. Gambar, font, CSS, dan JavaScript berada sejajar dengan `index.html`; struktur ini aman untuk alamat proyek `/DanimoanSaga/`.
 
@@ -31,7 +38,7 @@ Repositori ini adalah situs statis; Python dipakai hanya saat menyusun halaman. 
 python3 build.py
 ```
 
-Perintah itu membangun `index.html`, `wiki.html`, dan semua `bab-XX.html` dari `book.json`, `bab-XX.md`, serta `lore-data.json`. Catatan kontinuitas penulis tetap di Markdown dan tidak masuk ke halaman bacaan.
+Perintah itu membangun `index.html`, `wiki.html`, peta editorial `peta-bab-11.html`, dan semua `bab-XX.html` dari `book.json`, `bab-XX.md`, serta `lore-data.json`. Catatan kontinuitas penulis tetap di Markdown dan tidak masuk ke halaman bacaan.
 
 Untuk satu berkas HTML yang dapat dibaca tanpa internet:
 

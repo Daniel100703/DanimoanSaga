@@ -28,7 +28,7 @@ Dani menurut, menyisakan baju dalam berlengan panjang. Ia mengeluarkan alat jahi
 
 “Jarum dan bidalnya. Benangnya sudah berkali-kali kuganti.” Dani menyentuh tepi lipatan kain. “Aku membawanya sejak meninggalkan rumah, tetapi rupanya keterampilan Ibu tidak ikut terbawa.”
 
-Xiaolongnü duduk dan membentangkan jubah di pangkuan. Ia menyambung kedua sisinya dengan kain biru tua yang dibeli Dani. Pemuda itu membantu menahan kain, kemudian menyaksikan bidal ibunya berada di jari orang lain.
+Xiaolongnü duduk dan membentangkan jubah di pangkuan. Ia menyambung kedua sisinya dengan kain biru tua yang dibeli Dani. Pemuda itu membantu menahan kain, menyaksikan bidal ibunya berada di jari orang lain. Biasanya ia akan segera memeriksa letak jarum setelah dipakai. Kali ini ia ingin pekerjaan itu berlangsung lebih lama; bersama Xiaolongnü, kenangan tentang ibunya tidak lagi harus disimpannya seorang diri.
 
 “Mengapa engkau memandang tanganku terus?”
 
@@ -114,7 +114,7 @@ Dani membalas dengan caranya sendiri. Ia menghafal tempat tumbuh bunga yang dipe
 
 Xiaolongnü menarik ujung bajunya agar duduk. “Kalau engkau sudah di sini, tanyakan langsung kepadaku.”
 
-Dani duduk di tepi dipan. Gadis itu menyandarkan kepala pada bahunya, ringan pada mulanya, kemudian tanpa ragu. Dani tetap di sana sampai api tungku mengecil.
+Dani duduk di tepi dipan. Xiaolongnü menyandarkan kepala pada bahunya, ringan pada mulanya, kemudian tanpa ragu. Ia menahan keinginan untuk merangkul lebih erat, khawatir gadis itu hanya sedang lelah. Namun ketika ia bergeser, tangan Xiaolongnü mengikuti dan menahannya. Dani membiarkan bahunya kembali dekat. Kehangatan itu membuatnya berharap api tungku tidak lekas padam.
 
 ***
 
@@ -150,7 +150,7 @@ Ia mengatakan itu dengan begitu terus terang hingga Dani yang biasanya pandai me
 
 Mereka pulang sebelum gelap. Ketika melewati jalan bercabang, Xiaolongnü bertanya ke mana jalan yang lain menuju. Dani menjawab bahwa ia belum mengetahuinya. Untuk pertama kalinya, gadis itu mengatakan ingin melihat ujungnya suatu hari nanti.
 
-Perubahan itu membawa ketakutan yang belum dikenali Xiaolongnü.
+Bagi Xiaolongnü, keinginan melihat dunia tumbuh bersama rasa takut kehilangan Dani di dalamnya. Di makam, hidup mereka hampir tidak bersinggungan dengan orang lain. Di luar, Dani dapat memilih jalan, kawan, dan tempat tinggal. Ia belum belajar mempercayai bahwa kebebasan memilih juga memungkinkan pemuda itu tetap memilih dirinya.
 
 Dani mulai lebih sering turun ke dusun untuk membeli kebutuhan. Setiap kembali, ia membawa cerita: permainan catur di warung, pedagang yang berselisih soal timbangan, jalan menuju kota yang ramai. Ia ingin Xiaolongnü ikut melihatnya. Gadis itu mendengarkan, tetapi makin lama lebih memperhatikan kegembiraan Dani ketika menyebut orang-orang yang tidak dikenalnya.
 
@@ -188,13 +188,13 @@ Ia menunggu jawaban yang akan membuatnya tetap berdiri di sana. Xiaolongnü mena
 
 “Aku tidak pernah mengatakan hendak meninggalkanmu.” Suara Dani meninggi. “Setiap kali ingin melihat dunia, mengapa aku harus membuktikan bahwa aku masih ingin pulang?”
 
-Xiaolongnü memalingkan wajah. Dani mengambil jubahnya dan keluar sebelum mengatakan sesuatu yang lebih menyakitkan. Ia tidak membawa buntalan. Pintu ditutup terlalu keras, membuat jarum di meja bergetar.
+Xiaolongnü memalingkan wajah. Dani mengambil jubah dan keluar sebelum amarah membuatnya melukai dengan kata-kata. *Aku hanya perlu menenangkan diri,* pikirnya; buntalan tetap ditinggalkan karena ia berniat pulang. Tetapi pintu ditutupnya terlalu keras. Bagi Xiaolongnü yang menunggu ia berbalik, bunyi itu terdengar seperti jawaban atas usirannya.
 
 ***
 
 Zhen Zhibing bertemu Xiaolongnü di jalan kecil sebelum senja.
 
-Ia sudah beberapa kali mencari jejak di sekitar makam sejak pintunya tertutup. Hari itu ia mengikuti arah yang dilihatnya dilalui Dani dari kejauhan. Ketika Xiaolongnü muncul, Zhen berhenti dan memberi hormat lebih dalam daripada yang diperlukan.
+Zhen sudah beberapa kali mencari jejak di sekitar makam sejak pintunya tertutup. Obsesinya kepada Xiaolongnü membuatnya mencari alasan untuk mendekati tempat itu, meski ia tahu perempuan tersebut tidak pernah memintanya datang. Hari itu ia mengikuti arah Dani dari kejauhan. Ketika Xiaolongnü muncul, ia berhenti dan memberi hormat lebih dalam daripada yang diperlukan.
 
 “Nona Long. Saya tidak menyangka akan bertemu di sini.”
 
@@ -202,7 +202,7 @@ Xiaolongnü mengenalinya. “Pendeta Zhen. Apakah engkau melihat Dani turun?”
 
 “Saya melihatnya tadi. Apakah ia membuat Nona khawatir?”
 
-Ia tidak menjawab segera. Zhen menunggu, berusaha mempertahankan wajah tenang. Sejak malam latihan yang terganggu, ia mengingat darah di bibir Xiaolongnü dan tatapan Dani yang mengusirnya. Kini perempuan itu berbicara kepadanya tanpa pedang di antara mereka.
+Xiaolongnü tidak segera menjawab. Zhen mempertahankan wajah tenang, tetapi ia diam-diam lega melihat gadis itu datang tanpa Dani. Ia masih mengingat tatapan pemuda yang mengusirnya dari tempat latihan. Kini Xiaolongnü meminta kabar kepadanya; kesopanan biasa itu ingin sekali dianggapnya sebagai kedekatan yang istimewa.
 
 “Ia marah kepadaku,” kata Xiaolongnü akhirnya. “Aku menanyakan terlalu banyak hal.”
 
@@ -234,7 +234,7 @@ Lelaki tua itu tersenyum. “Kalau setiap perkataan marah kuturuti, sejak muda a
 
 Perempuan tua kembali dengan dua cawan. “Jangan mengajari anak orang menjadi suami yang lupa waktu. Kau masih harus membetulkan pintu sebelum malam.”
 
-Suaminya menerima cawan sambil memegang tangannya. Tidak ada sumpah besar dalam gerakan itu, tetapi Dani tiba-tiba teringat jemari Xiaolongnü yang mencengkeram sambungan jubah ketika ia pulang terlambat.
+Suaminya menerima cawan sambil memegang tangannya. Dani teringat jemari Xiaolongnü yang mencengkeram sambungan jubah ketika ia pulang terlambat. *Ia takut aku tidak kembali. Aku malah pergi tanpa mengatakan kapan pulang,* pikirnya. Pertanyaan-pertanyaan itu tetap membuatnya sesak, tetapi membiarkannya menunggu tidak akan menyelesaikan apa pun. Ia harus pulang dan mengatakan keduanya: ia menyayanginya, dan ia ingin dipercaya.
 
 Ia berdiri sebelum airnya habis diminum.
 
@@ -280,7 +280,7 @@ Di dalam, mereka mengganti pakaian dan menyalakan tungku. Xiaolongnü menceritak
 
 “Ia menyuruhku menunggu sampai amarahmu reda. Aku tidak mengajaknya masuk.”
 
-Dani memandang pintu. Ia ingat bagaimana Zhen memandang gurunya, tetapi malam itu Xiaolongnü sedang mengeringkan ujung rambut dengan tangan yang masih sedikit gemetar. Ia memilih duduk di sisinya.
+Dani memandang pintu. Kehadiran Zhen mengusiknya; ia ingat tatapan pendeta itu ketika latihan mereka terganggu. Namun ia belum tahu apa yang dicari Zhen di sekitar gubuk. Xiaolongnü sedang mengeringkan rambut dengan jemari gemetar, dan Dani memilih meminta gadis itu berhati-hati sebelum mencari pertengkaran baru. Ia duduk di sisinya.
 
 “Kalau ia datang lagi, jangan menemuinya sendirian. Aku belum mempercayainya.”
 

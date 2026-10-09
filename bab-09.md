@@ -2,349 +2,289 @@
 
 Dani mengenali langkah pincang itu sebelum mengenali wajahnya.
 
-Gadis berbaju merah kesemek berdiri di pinggir jalan. Sebilah pedang tergantung pada pinggangnya; tangan kirinya menahan buntalan, sedangkan kaki kirinya diletakkan agak menyamping untuk mengurangi beban. Ketika ia menoleh, Dani kembali melihat anak yang dahulu mengulurkan tangan dari pelukan Li Mochou.
+Gadis berbaju merah kesemek sedang bertengkar dengan seorang pemilik warung. Ia menolak disebut pencuri hanya karena meminta air sebelum mengeluarkan uang. Tangan kirinya memeluk buntalan; kaki yang dahulu terluka masih diletakkannya menyamping.
 
-Empat tahun telah mengubah wajah Lu Wushuang. Cara ia mengangkat dagu ketika merasa terancam ternyata masih sama.
+Lu Wushuang. Empat tahun lalu Dani melihatnya dibawa Li Mochou, dengan tangan terulur kepada orang-orang yang tidak sanggup menolongnya.
 
-“Kalau hendak lewat, lewatlah. Apa yang kautatap?” tanya Wushuang.
+“Kalau hendak menonton, carilah pertunjukan lain,” kata Wushuang ketika melihatnya. “Di sini tidak ada yang patut ditertawakan.”
 
-Dani menarik tepi tudung lusuhnya. Debu dan arang yang diusapkan pada alis serta pipi menyamarkan wajahnya; sejak meninggalkan gunung, ia belum ingin seorang pendeta Quanzhen mengenalinya sebelum pencariannya dimulai.
+“Aku justru hendak bertanya jalan, Nona. Pernahkah engkau melihat perempuan berbaju putih, membawa pedang, dan berjalan seorang diri?” tanya Dani.
 
-“Aku sedang mencari seorang perempuan berpakaian putih, Nona. Rambutnya panjang, dan biasanya ia membawa pedang. Apakah engkau berpapasan dengannya?” tanya Dani.
+“Aku tidak mengikuti setiap perempuan yang melintas.” Pandangan Wushuang turun ke jubah biru Dani. “Mengapa wajahmu sekotor itu?”
 
-“Aku tidak menghitung setiap perempuan yang lewat.” Wushuang memandang jubah birunya. “Mengapa bertanya kepadaku?”
+Dani merapatkan tudung. Debu dan arang menyamarkan alis serta pipinya; ia belum ingin dikenali pendeta Quanzhen selama mencari Xiaolongnü. “Barangkali karena jalan ini tidak menyediakan air bagi orang yang belum membayar.”
 
-“Karena engkau tampaknya memperhatikan jalan lebih baik daripada aku,” jawab Dani.
+Ia meletakkan uang di meja. Wushuang mengambil cangkir, tetapi menatapnya dengan curiga. “Jangan mengira secangkir air memberimu hak mengikutiku.”
 
-Gadis itu menyipitkan mata. Dani menahan pertanyaan tentang Li Mochou. Ia belum mengetahui apakah Wushuang sedang bepergian atas perintah perempuan itu atau melarikan diri darinya.
+“Kalau jalan kita searah, izinkan aku berjalan di depan. Nona boleh mengatakan akulah yang diikuti,” jawab Dani.
 
-Ketika Wushuang melangkah, ujung sarung pedangnya menyentuh batu. Ia kehilangan keseimbangan sesaat. Dani mengulurkan tangan, tetapi segera dihentikan oleh pandangan tajam.
+“Dasar orang bodoh. Mulutmu lebih sibuk daripada kakimu,” dengus Wushuang.
 
-“Aku tidak meminta dituntun,” kata Wushuang.
+Dani membiarkan panggilan itu tinggal. Ia belum menyebut namanya. Wushuang terus menoleh ke belakang, dan ia perlu tahu apakah gadis itu masih mengabdi kepada Li Mochou atau sedang melarikan diri darinya.
 
-“Kalau begitu, izinkan aku berjalan di sebelahmu. Seandainya aku tersandung, Nona dapat membalas pertolonganku yang belum jadi tadi,” sahut Dani.
+Jawabannya datang sebelum malam. Di penginapan tempat mereka mencari kamar, Wushuang mendadak menariknya menjauhi jendela. Dari halaman terdengar suara lembut yang pernah menyertai kehancuran keluarga Lu.
 
-“Kau ini bodoh atau sengaja berpura-pura?” tanya Wushuang.
+“Anak manis, keluarlah. Jangan membuat gurumu menunggu sampai pemilik rumah ikut mendapat kesulitan.”
 
-“Kalau harus memilih sekarang, berpura-pura tampaknya lebih terhormat,” balas Dani.
+Li Mochou berada di depan pintu bersama Hong Lingbo. Dani mencari jalan belakang, tetapi kebut putih telah menyapu kisi jendela. Wushuang mundur sambil menghunus pedang; ujung bilahnya bergetar meskipun mulutnya masih berani membalas.
 
-Wushuang mendengus. “Si Bodoh. Itu panggilan yang pantas untukmu.”
+“Guru mengajar murid berjalan sendiri. Mengapa sekarang perjalanan murid dianggap kesalahan?” tuntut Wushuang.
 
-Dani mengangkat kedua tangan, menyerah. Ia tidak memberitahukan namanya. Ketika mereka berangkat searah, Wushuang beberapa kali menoleh ke belakang; setiap bunyi langkah membuat tangannya merapat pada buntalan. Dani memperoleh jawaban yang lebih jelas daripada yang mungkin diberikan mulutnya.
+“Berjalanlah sejauh yang kausuka. Kembalikan dahulu barang yang bukan milikmu,” jawab Li Mochou.
 
-***
+Seekor keledai tiba-tiba meringkik di halaman. Seorang gadis berjubah hijau menarik kekangnya menjauhi pintu, lalu melontarkan sesuatu ke arah Hong Lingbo. Murid Li Mochou menghindar. Saat perhatian mereka pecah, gadis itu menunjuk lorong samping kepada Dani.
 
-Menjelang petang, bunyi pedang mempertemukan mereka dengan tiga orang di halaman sebuah tempat singgah.
+Wajah penolong tersebut tampak kaku, hampir tanpa perubahan ketika ia bergerak. Dani tidak sempat mengamatinya. Ia membawa Wushuang melewati dapur, memanjat tembok rendah, dan baru berhenti setelah suara kejaran tertinggal.
 
-Seorang pemuda berjubah kelabu gelap menghindari tebasan tanpa membalas ke bagian tubuh yang terbuka. Gadis di belakangnya melangkah maju, tetapi dihentikan oleh tangannya. Lawan mereka, seorang perempuan muda dengan wajah pucat dan alis tegang, kembali mengangkat pedang meskipun napasnya sudah tersengal.
+“Siapa perempuan tadi?” tanyanya.
 
-“Kakak, ia menyerang lagi,” kata gadis yang ditahan itu.
-
-“Aku melihatnya, Adik Yan.” Pemuda tersebut tetap memandang lawannya. “Nona Wanyan, hentikan dahulu. Tanganmu mulai gemetar.”
-
-“Yelü Qi, jangan perlakukan aku seperti anak kecil. Selama dendam keluargaku belum terbalas, aku tidak akan berhenti!” seru lawannya.
-
-Wanyan Ping menerjang. Yelü Qi memutar pergelangan, menekan sisi datar pedang lawannya ke bawah dengan telapak, lalu mundur sebelum gadis itu kehilangan keseimbangan. Justru pengendalian tersebut membuat wajah Wanyan Ping semakin pucat.
-
-“Kau sengaja membiarkanku hidup untuk mempermalukanku?” tuntut Wanyan Ping.
-
-“Aku tidak memandang nyawa Nona sebagai permainan,” jawab Yelü Qi. “Aku pun tidak akan membunuhmu hanya agar pertemuan ini segera selesai.”
-
-Dani sudah bergerak mendekat. Ia mengenal kemarahan orang yang lebih sanggup menerima pukulan daripada belas kasihan.
-
-“Saudara Yelü, izinkan dia pergi bersamaku.” Dani memberi hormat. “Melanjutkan pertarungan sekarang hanya akan memperbanyak luka.”
-
-Yelü Yan memandang wajahnya yang kotor. “Dan siapa engkau sampai berani menjamin dia tidak kembali menyerang kakakku?”
-
-“Aku tidak menjamin sesuatu yang berada di luar kuasaku, Nona. Aku hanya menawarkan jalan untuk berhenti hari ini,” jawab Dani.
-
-“Jangan membuat keputusan untukku,” potong Wanyan Ping.
-
-Dani berpaling kepadanya. “Kalau pedangmu patah, apakah engkau akan terus mengayunkannya? Tubuhmu pun memerlukan kesempatan untuk dipulihkan.”
-
-Gadis itu menggenggam gagang sampai buku jarinya memutih. Lama kemudian, ujung pedangnya turun.
-
-Yelü Qi mengembalikan hormat Dani dan memberi jalan. Wushuang mengikuti tanpa diminta; baru setelah halaman tertinggal ia berbisik, “Kau bahkan tidak mengetahui seluruh persoalannya. Mengapa ikut campur?”
-
-“Karena aku melihat dia tidak lagi mampu berhenti tanpa merasa kehilangan harga diri,” jawab Dani.
+“Kalau tahu, aku sudah memanggilnya,” balas Wushuang. Napasnya terputus-putus. “Si Bodoh, jangan berhenti di tempat yang mudah dilihat!”
 
 ***
 
-Di bawah pepohonan, Wanyan Ping berbalik kepada Dani.
+Mereka membutuhkan perlindungan untuk melewati jalan besar. Dani menemukannya dalam rombongan pejabat Mongol yang bermalam di sebuah perkampungan. Ia menyelinap ke kamar pemimpinnya, menundukkan serangan cakar lelaki itu, lalu menggertaknya dengan luka kecil pada bahu yang dikatakan terkena racun. Ketakutan membuka jalan yang tidak akan diberikan permohonan baik-baik.
 
-“Aku tidak memerlukan orang untuk mengasihaniku,” kata Wanyan Ping.
+Pejabat itu bernama Yelü Zhu, putra Yelü Chucai. Dani belum pernah mendengar namanya. Sesudah memperoleh tumpangan bagi dirinya dan Wushuang, ia mengakui bahwa ancaman racun tadi hanyalah tipu daya. Zhu marah, tetapi lega; lebih mudah memperlakukan pemuda berbahaya itu sebagai tamu daripada mengakui dirinya telah dipermainkan.
 
-“Kalau begitu, terimalah satu pengamatan tentang kakimu.” Dani menunjuk tanah di depan sepatunya. “Tadi bahumu sudah maju sebelum kaki belakangmu mendorong. Karena berat tubuhmu terlanjur jatuh ke depan, Saudara Yelü cukup menekan pedangmu untuk merusak keseimbangan.”
+Di Longju, rombongan berhenti untuk beristirahat. Seorang lelaki berjanggut panjang datang bersama putra dan putrinya. Dani melihat Zhu membungkuk kepada ayahnya, kemudian menyambut kedua adiknya.
 
-Ia memperagakan langkah itu dengan tangan kosong, berhenti sebelum tubuhnya condong. Wanyan Ping mengikutinya. Pada percobaan kedua, pedangnya kembali tanpa menarik seluruh bahunya.
+“Qi, Yan, mengapa kalian ikut? Bukankah Ayah masih bertugas di ibu kota?” tanya Zhu.
 
-“Apakah pijakanku sudah benar seperti ini?” tanya Wanyan Ping.
+Yelü Chucai meminta pengiring keluar. Dani dan Wushuang kembali ke kamar mereka tanpa diperkenalkan kepada kedua pendatang muda itu.
 
-“Pertahankan tumpuan belakang sampai langkah depan selesai. Itu tidak akan membuatmu tiba-tiba mengalahkan Yelü Qi, tetapi setidaknya pedangmu tidak lagi menarikmu jatuh,” kata Dani.
+Keluarga tersebut sedang menjauh dari perselisihan istana. Chucai, pejabat Khitan yang mengabdi kepada Mongol, memakai penugasan ke selatan untuk menyelamatkan keluarganya dari kemurkaan penguasa. Dani belum mengetahui urusan itu; baginya mereka baru sebuah keluarga yang bepergian dengan pengawalan terlalu ketat.
 
-Wanyan Ping menurunkan senjata. “Engkau menolongku pergi, lalu mengajariku agar dapat melawan orang yang membiarkanku pergi?”
+Malamnya, bunyi kayu pecah membuat Dani membuka jendela. Seorang perempuan menyusup ke ruangan Chucai dengan golok terangkat.
 
-“Aku membetulkan pijakanmu. Keputusan memakai pedang itu tetap harus kautanggung sendiri.” Dani menatapnya. “Aku pernah memukul ketika tidak memahami tenaga tanganku. Orang lain yang menanggung akibatnya.”
+“Yelü Chucai! Hutang darah ayah dan ibuku harus kaubayar malam ini!”
 
-Wanyan Ping mengamatinya lebih saksama. Wajah yang tadi ditutup kemarahan mulai memperlihatkan kelelahan.
+Zhu menyambar bangku, tetapi penyerang itu menepisnya. Adiknya yang perempuan maju menghadang sebelum pemuda berjubah kelabu menariknya ke samping.
 
-“Keluargaku sudah tidak ada. Setiap kali berhenti mengejar dendam, aku merasa sedang meninggalkan mereka,” aku Wanyan Ping.
+“Adik Yan, jagalah Ayah.” Pemuda itu menghadap penyerang. “Nona Wanyan, engkau sudah mencoba beberapa kali. Mengapa masih hendak mempertaruhkan nyawamu?”
 
-“Orang yang telah pergi tidak menjadi kurang berarti karena kita masih bernapas,” kata Dani. “Tetapi aku tidak akan berpura-pura bahwa mengingat mereka selalu mudah.”
+Wanyan Ping menjawab dengan tebasan. Ia keturunan keluarga bangsawan Jin; kehancuran negerinya membawa kematian orang tuanya, dan ia membebankan dendam itu kepada Chucai yang membantu pihak Mongol. Malam ini bukan awal permusuhan mereka.
 
-Wanyan Ping menyarungkan pedang, kemudian memberi hormat. “Aku berutang pertolongan dan petunjuk kepadamu. Namaku Wanyan Ping.”
+Dani dan Wushuang mengamati dari luar. Dani baru memahami mengapa penjagaan begitu rapat. Ia tidak mengenal perempuan itu, tetapi mengenali keputusasaan yang membuat seseorang menyerang sesudah tahu dirinya akan kalah.
 
-“Panggil saja dia Si Bodoh,” sela Wushuang. “Untuk orang yang menyembunyikan nama, nasihatnya banyak sekali.”
+Yelü Qi hanya memakai tangan kanan. Ia menyisihkan sisi golok, mengunci sesaat pergelangan lawan, lalu melepaskannya sebelum sendi itu cedera. Wanyan Ping terhuyung. Yelü Yan hendak maju, namun kakaknya kembali menahannya.
 
-Wanyan Ping memandang Dani dengan kagum yang masih bercampur curiga. Dani membalas hormatnya. Ia menerima panggilan itu tanpa menerangkan lebih jauh.
+“Kakak selalu membiarkannya pergi!” Yelü Yan mengerutkan alis. “Bila ia menyelinap ketika kita tidak berada di sini, siapa yang melindungi Ayah?”
 
-Ketika Wanyan Ping berjalan lebih dahulu, Wushuang memperlambat langkah.
+“Karena itu aku tidak akan meninggalkan Ayah tanpa penjagaan,” jawab Qi. “Tetapi membunuh orang yang sudah kehilangan senjatanya bukan jalan yang kupilih.”
 
-“Keluargamu juga sudah tidak ada?” tanya Wushuang.
+Golok Wanyan Ping tergeletak di bawah meja. Chucai memandangnya tanpa tersenyum.
 
-Dani mengangguk. “Ayah dan ibuku telah meninggal.”
+“Keluargaku pun pernah kehilangan negeri kepada bangsa Jin,” kata lelaki tua itu. “Jika keturunan kita hanya mewarisi daftar orang yang harus dibunuh, kapan mereka memperoleh hidupnya sendiri?”
 
-Gadis itu tidak segera menjawab. Tangannya yang biasanya siap menepis kini hanya menggenggam ujung lengan sendiri.
+“Mudah bagi Tuan berkata demikian. Anak-anak Tuan masih berdiri di samping Tuan,” balas Wanyan Ping.
 
-“Kalau begitu, seharusnya kau tahu bahwa orang tidak senang dikasihani,” kata Wushuang.
+Chucai terdiam. Qi mengambil golok itu dan meletakkannya di ambang pintu. “Jika Nona dapat memaksaku memakai tangan kiri, aku bersedia menyerahkan nyawaku. Hanya satu permintaanku: hentikan perburuan terhadap ayahku.”
 
-“Aku memahami perasaan itu. Karena itulah aku tidak hendak memaksamu bercerita,” jawab Dani.
-
-Wushuang menatapnya sebentar. “Besok jangan berjalan terlalu jauh di depanku. Aku tidak suka memanggil orang hanya untuk menyuruhnya menunggu.”
-
-Dani menyesuaikan langkah. Kali ini ia tidak mencari balasan yang lucu.
+Wanyan Ping mengambil senjatanya, lalu pergi. Dani menyusul setelah memberi isyarat kepada Wushuang. Ia belum sanggup menerima bahwa perempuan itu harus berjalan sendirian membawa kekalahan yang demikian telanjang.
 
 ***
 
-Mereka bermalam di penginapan yang sama. Dani baru selesai membasuh arang pada wajahnya ketika ketukan ringan terdengar di jendela kamar.
+“Engkau datang untuk menertawakan aku?” Wanyan Ping mengangkat golok ketika mendengar langkah di belakangnya.
 
-Seorang perempuan bertopeng berdiri di bawahnya, berjubah hijau pucat.
+Dani berhenti di luar jangkauan. “Kalau hendak menertawakan Nona, aku tidak perlu meninggalkan tempat yang aman. Aku melihat kesalahan pada pijakanmu. Bolehkah aku menunjukkannya?”
 
-“Kakanda Dani, bangunkan Wushuang. Li Mochou sudah berada di jalan depan,” kata perempuan itu.
+“Apa gunanya?” Wanyan Ping menurunkan bilahnya sedikit. “Engkau melihat sendiri betapa jauh kemampuanku di bawahnya.”
 
-Panggilan itu menahannya sejenak. Perempuan tersebut mengangkat tepi topeng, memperlihatkan wajah yang lebih dewasa daripada dalam ingatannya.
+“Karena Nona belum dapat menandinginya, jangan membantu dia menjatuhkanmu.” Dani menggeser kaki belakangnya. “Tadi bahumu berangkat sebelum tumpuanmu siap. Begitu golok ditekan, seluruh tubuhmu ikut tertarik.”
 
-“Engkaukah itu, Cheng Ying?” ucap Dani.
+Wanyan Ping mencoba gerakan itu. Dani membetulkan jaraknya dengan ujung ranting, tanpa menyentuh kakinya. Pada percobaan berikut, bilahnya kembali sementara keseimbangannya bertahan.
 
-“Wushuang tidak datang sendirian tanpa sebab. Aku mengikuti jejaknya sejak mengetahui ia sedang dikejar.” Cheng Ying memasang kembali topengnya. “Kita bicarakan pertemuan ini setelah keluar.”
+“Siapa gurumu?” tanya Wanyan Ping, untuk pertama kali tanpa kemarahan.
 
-Dani meraih tudung dan buntalannya. Di lorong, Wushuang sudah berdiri dengan pedang terhunus.
+“Seorang yang sedang kucari. Aku mengecewakannya karena terlambat memahami perkataannya.” Dani membuang ranting. “Tetapi jangan keliru: pijakan yang benar belum cukup untuk mengalahkan Yelü Qi.”
 
-“Kak Ying? Mengapa Kakak—” seru Wushuang.
+“Aku tidak perlu mengalahkannya. Aku hanya perlu membuat tangan kirinya bergerak,” ujar Wanyan Ping.
 
-“Lewat halaman belakang,” kata Cheng Ying. “Nona Wanyan sedang turun melalui tangga samping. Tadi aku bertemu dengannya di bawah dan sudah memperingatkannya. Kita menyusul.”
+Dani teringat bagaimana Qi selalu mendahulukan keselamatan orang lain. Ia menerangkan satu tipu gerak: ancam sisi kanan, pindahkan serangan, lalu putar golok seolah hendak melukai diri ketika jalan tertutup. Orang yang menolak membunuh lawan sering membuka pertahanan untuk menyelamatkannya.
 
-Mereka hampir mencapai pintu ketika kebut putih menyapu palangnya.
+Wanyan Ping menatap bilahnya. “Engkau mengajariku memakai belas kasihnya untuk mengambil nyawanya.”
 
-Wushuang berbalik terlalu cepat. Kaki kirinya tersangkut undakan; Hong Lingbo masuk dari sisi lain dan menekan lengan yang memegang pedang. Dani menyambar pergelangannya, tetapi kibasan kebut memaksanya menarik tangan sebelum seratnya membelit.
+Ucapan itu membuat Dani menahan napas. Ia tadi memikirkan celah gerakan, bukan harga dari kemenangan tersebut. *Aku marah melihat dia dikalahkan. Apakah itu berarti aku berhak menentukan siapa yang pantas mati?*
 
-“Wushuang, jauh sekali engkau membawa barang milik gurumu,” ujar Li Mochou. “Sudah waktunya pulang.”
+“Aku menunjukkan celahnya,” jawab Dani akhirnya. “Tetapi bila dia masih berusaha menyelamatkanmu, lihatlah orang yang berdiri di hadapanmu. Jangan hanya melihat nama keluarganya.”
 
-“Barang yang mana, Guru? Murid hanya membawa pakaian.” Suara Wushuang meninggi meskipun bibirnya berusaha tersenyum.
+Wushuang muncul dari jalan setapak. Ia telah mendengar bagian terakhir percakapan mereka.
 
-“Kelak engkau akan belajar berbohong tanpa memegang buntalan seerat itu,” ujar Li Mochou.
+“Engkau bicara seolah mengerti kehilangan orang tua,” katanya kepada Dani ketika Wanyan Ping berjalan menjauh.
 
-Cheng Ying mendorong pintu samping, menarik Dani keluar sebelum kebut kembali menyambar. Di seberang halaman Wanyan Ping mengangkat pedang, tetapi Li Mochou sudah menempatkan Wushuang di depan tubuhnya.
+“Ayahku meninggal ketika aku masih kecil. Ibuku menyusul beberapa tahun kemudian,” jawab Dani.
 
-“Si Bodoh, jangan mendekat!” teriak Wushuang.
+Wushuang menatapnya lebih lama. “Lalu siapa yang menunggumu pulang?”
 
-Hong Lingbo menahan siku gadis itu. Mereka mundur melalui jalan depan, sementara Cheng Ying harus mencengkeram lengan Dani agar ia tidak menerjang sendirian.
+Dani menyentuh sambungan jubah di rusuknya. “Aku sedang mencari orang itu.”
 
-“Kakanda Dani, ia sedang menunggu engkau maju tanpa pertimbangan. Kita harus menyelamatkan Wushuang, bukan menyerahkan seorang lagi kepadanya,” kata Cheng Ying.
+Wushuang menunduk. Ia hendak mengatakan bahwa dirinya pun tidak mempunyai rumah, tetapi kata-kata tersebut terasa seperti meminta dikasihani. “Kalau begitu, jangan mati karena mencampuri urusan orang. Perempuan yang kaucari tentu tidak memintamu melakukan kebodohan sebanyak ini.”
 
-Dani berhenti menarik lengannya. Ia telah melihat satu jalan keluar terbuka terlambat dahulu; kali ini ia harus tetap mampu bertindak ketika kesempatan berikut datang.
+Wushuang masih mengompres kakinya di kamar ketika, pagi berikutnya, Wanyan Ping kembali menantang Qi. Ketika goloknya berputar ke arah tubuh sendiri, tangan kiri pemuda itu bergerak menyelamatkannya. Qi mengetahui dirinya masuk perangkap; ia tetap berdiri menunggu pelaksanaan janjinya.
+
+Wanyan Ping tidak mampu mengangkat senjata. Lelaki yang hendak dibunuhnya baru saja memilih melindunginya meskipun mengetahui akibatnya. Dendam tidak lenyap, tetapi untuk pertama kali ia tidak dapat memakai dendam itu sebagai jawaban bagi segala sesuatu.
+
+“Aku tidak akan menyentuh ayahmu lagi,” kata Wanyan Ping. “Jangan minta aku mengucapkan lebih daripada itu hari ini.”
+
+Di halaman, Dani mengatupkan tangan kepada Qi. “Aku yang menunjukkan celah pertahananmu. Engkau berhak marah kepadaku.”
+
+“Saudara sudah mendengar namaku semalam,” jawab Qi setelah menerima hormat itu. “Aku Yelü Qi. Ini adikku, Yelü Yan. Dengan siapa kami berbicara?”
+
+“Panggil aku Dani.” Pemuda itu belum membuka tudung. “Aku sedang mengantar seorang kawan menjauhi orang yang mengejarnya.”
+
+Yelü Yan melirik Wanyan Ping, lalu Dani. “Kalian berdua mempunyai cara berkenalan yang menyusahkan orang.”
+
+“Adik Yan,” tegur Qi pelan. Kepada Dani ia berkata, “Aku tidak menyukai tipu itu. Tetapi Nona Wanyan telah memilih berhenti. Biarlah perkenalan kita dimulai dari pilihannya.”
+
+Wanyan Ping membungkuk kepada Dani setelah mereka meninggalkan halaman. “Namaku Wanyan Ping. Terima kasih karena semalam engkau tidak memperlakukan aku sebagai perempuan gila yang patut diusir.”
+
+Dani membalas hormatnya. Kekaguman dalam mata gadis itu membuatnya teringat tatapan Xiaolongnü ketika meminta jawaban darinya. Kali ini ia tidak membiarkan kerinduan mengaburkan siapa yang sedang dihadapinya.
 
 ***
 
-Pagi berikutnya, jejak mereka berakhir di sebuah kedai. Cheng Ying meminjamkan topeng penyamarannya kepada Dani dan Wanyan Ping. Sebelum masuk, Dani membagikan apa yang diamatinya semalam: Hong Lingbo menjaga tawanan, sementara Li Mochou mengawasi setiap orang yang mendekat.
+Mereka berpisah di jalan menuju Shangzhou. Dani dan Wushuang mencari tempat beristirahat, sementara Wanyan Ping mengambil barangnya dari penginapan lain. Namun menjelang malam, Li Mochou menemukan muridnya lebih dahulu.
 
-“Aku akan menarik perhatian Li Mochou,” kata Dani. “Cheng Ying, engkau mendekati sepupumu. Nona Wanyan, tolong jaga jalan agar mereka dapat keluar.”
+Dani turun membeli obat untuk kaki Wushuang ketika pintu kamar dibobol. Hong Lingbo menotok lengan adik seperguruannya. Gadis berjubah hijau yang pernah menolong mereka datang mengejar, tetapi Li Mochou menahan leher Wushuang dan memaksanya berhenti.
 
-“Jangan mengira aku akan membiarkanmu menanggung semuanya,” jawab Wanyan Ping.
+Ketika Dani kembali, kamar itu kosong. Perempuan berjubah hijau menunggunya di lorong; wajahnya masih kaku seperti saat pertemuan pertama.
 
-“Aku justru memerlukan bantuanmu supaya kami tidak terperangkap. Menjaga jalan keluar bukan pekerjaan yang lebih ringan,” jawab Dani.
+“Jangan mengejar dengan terburu-buru, Tuan Dani. Wushuang masih hidup. Ia mengatakan kitab yang dicurinya jatuh ke tangan Klan Pengemis. Selama kitab itu belum ditemukan, Li Mochou memerlukannya.”
 
-Cheng Ying mengangguk. “Aku mengenal cara Wushuang bergerak. Begitu ada celah, aku akan membawanya menjauh.”
+“Nona yang menolong kami di penginapan kemarin.” Dani memberi hormat, lalu bertanya, “Dari mana Nona mengetahui namaku?”
 
-Di dalam kedai, Yelü Qi dan adiknya duduk tidak jauh dari tangga. Mereka belum mengenali ketiga pendatang itu. Wushuang berada di bangku dekat dinding, dengan Hong Lingbo berdiri di sisi bahu kanannya.
+“Aku mendengar perkenalanmu di halaman keluarga Yelü. Maafkan aku karena belum dapat menyebutkan namaku sendiri.” Tuturnya lembut, tetapi ia tidak menawarkan penjelasan lain. “Jika Tuan masih bersedia mempercayaiku, aku mengetahui jalan yang mereka ambil.”
 
-Dua anggota Klan Pengemis menghadang Li Mochou ketika perempuan itu hendak menarik buntalan dari pangkuan Wushuang.
+Dani memandang pintu kamar. *Aku meninggalkannya karena mengira ia sudah aman. Sekarang jangan sampai penyesalanku membuat orang lain ikut tertangkap.*
 
-“Bibi, ada banyak mata di tempat ini,” ujar salah seorang. “Mengapa tidak membiarkan gadis itu menjelaskan—”
+“Tunjukkan jalannya, Nona. Kali ini aku akan mendengarkan sebelum bergerak,” kata Dani.
 
-Kebut bergerak sebelum kalimatnya selesai. Orang pertama terempas ke tiang; ketika temannya maju menangkapnya, gagang gelap menyentuh dadanya dengan bunyi tumpul. Kedua tubuh itu jatuh dan tidak bangkit lagi.
+Wanyan Ping menyusul ketika mengetahui penculikan itu. “Aku ikut. Jangan menyuruhku pergi dengan alasan hendak melindungiku. Kawanmu menemaniku ketika aku tidak mempunyai siapa-siapa.”
 
-Yelü Qi segera berlutut memeriksa mereka. Wajahnya mengeras. Ia meletakkan tangan orang yang terakhir diperiksa dengan hati-hati, lalu berdiri menghadap Li Mochou.
+Pagi hari, sebelum mendekati Wuguan, gadis berjubah hijau mengeluarkan topeng tipis. Setelah ditempelkan pada wajah Dani, bentuk pipi dan hidungnya tampak berbeda. Kini ia mengerti mengapa wajah penolongnya tidak pernah mengikuti kelembutan suaranya.
 
-“Nyawa mereka sudah lepas. Bahkan pertanyaan pun tidak engkau izinkan selesai?” tanya Yelü Qi.
+“Li Mochou mengenali wajahmu,” kata gadis itu. “Biarkan ia melihat orang asing sampai kita cukup dekat. Nona Wanyan dapat menutupi wajah dengan tudung; perhatian mereka akan tertuju kepada tawanan.”
 
-“Anak muda, aku tidak sedang meminta penilaianmu.” Li Mochou merapikan serat kebutnya, kemudian menghadap Wushuang. “Serahkan kitab yang kauambil. Jangan biarkan orang lain menanggung akibat kebandelanmu.”
+“Aku akan mendekati gurunya,” ujar Dani. “Tolong keluarkan Wushuang ketika Hong Lingbo berpaling. Nona Wanyan, jagalah pintu belakang. Kita datang untuk membawa seorang kawan pulang, bukan memenangi nama.”
 
-Wushuang menatap kedua tubuh di lantai. Hong Lingbo mengencangkan pegangan ketika gadis itu bergerak, tetapi matanya sendiri tidak berani menetap pada mereka.
+***
 
-“Saya kira Bibi datang untuk mencari murid,” kata Dani dari meja terdekat. “Rupanya kitab lebih dahulu membuat Bibi bersedia berbicara.”
+Yelü Qi dan Yan ternyata telah singgah di kedai yang sama. Mereka berpamitan kepada ayah serta kakak mereka pagi itu dan mengambil jalan ke selatan. Dani melihat bawaan perjalanan di sisi bangku; ia tidak menyapa. Topengnya masih diperlukan.
 
-Li Mochou menoleh. “Lepaskan penutup wajahmu jika hendak memberi petuah.”
+Wushuang duduk di dekat dinding. Hong Lingbo berdiri di belakangnya. Li Mochou sedang memanggil dua pengemis yang melintas, masing-masing membawa kantong tanda keanggotaan klan.
+
+“Sampaikan kepada orang kalian,” kata Li Mochou manis, “bahwa barang milikku harus dikembalikan. Anak ini mengatakan kitabnya telah kalian ambil.”
+
+“Kami tidak mengenal gadis itu,” jawab salah seorang pengemis. “Apalagi kitab yang Tuan maksudkan.”
+
+Kebut menyapu sebelum ia selesai mengangkat tangan. Serat putih menghantam leher orang pertama; gagangnya menyusul ke dada temannya. Keduanya jatuh. Qi berlutut memeriksa, kemudian berdiri dengan wajah mengeras.
+
+“Mereka tidak mengetahui urusanmu. Mengapa kaubunuh?” tuntut Qi.
+
+“Supaya orang yang mengetahui urusanku tidak lagi berpura-pura lupa.” Li Mochou menoleh kepada Wushuang. “Sekarang katakan di mana Kitab Lima Racun itu.”
+
+Wushuang menatap dua tubuh di lantai. Kebohongannya dimaksudkan untuk membeli waktu; Li Mochou telah menjadikan orang lain pembayar harganya. Gadis itu tetap merapatkan mulut, karena jawaban apa pun dapat menjadi alasan pembunuhan berikutnya.
+
+Dani menggeser bangkunya. “Bibi mencari kitab racun, tetapi rupanya sudah tidak memerlukannya. Lidah Bibi saja cukup untuk membunuh orang yang tidak bersalah.”
+
+Li Mochou memandangnya. “Anak muda, aku lebih menyukai orang yang berani memperlihatkan wajah saat mengajarkan sopan santun.”
 
 Dani menarik topeng itu.
 
-Wushuang membeku. Mulutnya terbuka sedikit, tetapi nama yang hampir keluar tertahan oleh telapak Hong Lingbo pada bahunya.
+“Kakanda Dani?” Wushuang terlepas menyebut namanya. Keterkejutan segera berubah menjadi kemarahan karena telah dikelabui, tetapi Hong Lingbo menekan bahunya sebelum ia dapat berdiri.
 
-“Dani Moan,” ujar Li Mochou. “Di mana adik seperguruanku? Di makam engkau melekat padanya seolah tidak mempunyai kaki sendiri.”
+Li Mochou tersenyum. “Di mana adik seperguruanku? Di makam engkau tidak sudi terpisah darinya. Apakah sekarang ia sudah bosan memelihara murid kesayangan?”
 
-“Urusan Bibi sekarang denganku,” jawab Dani. “Lepaskan Wushuang. Ia tidak akan kubiarkan dibawa pergi untuk kedua kalinya di depan mataku.”
+“Lepaskan Wushuang,” kata Dani. “Urusan Bibi denganku dapat kita selesaikan setelah ia keluar.”
 
-“Berani sekali setelah dibesarkan adik seperguruanku di tempat sunyi.” Senyum Li Mochou melembut. “Seorang guru yang tidak menjaga batas dan seorang murid yang tidak mengenal malu. Apa yang hendak kalian ajarkan kepada dunia?”
+“Murid yang gagah sekali,” ujar Li Mochou. “Seorang perempuan muda menyembunyikan lelaki di makam, lalu menuntut orang menghormatinya sebagai guru. Kalian hendak mengajari dunia tentang ilmu silat atau tentang hubungan yang tidak tahu malu?”
 
-Dani merasakan kuku menekan telapaknya. Sambungan kain biru tua bergesek pada rusuk. Ia teringat Xiaolongnü berdiri dalam hujan, kemudian pergi karena perkataan yang tak mampu dijelaskannya. Perempuan di hadapannya tidak mengetahui malam itu; ia hanya melihat kedekatan mereka di makam dan hendak menjadikannya senjata.
+Dani merasakan rahangnya mengeras. Li Mochou tidak mengetahui malam di gubuk; ia memakai kedekatan yang dilihatnya di makam untuk melukai. Namun hinaan itu mengenai rasa bersalah yang belum reda. *Aku tidak akan membiarkan namanya diinjak perempuan ini.*
 
-“Jangan bawa namanya untuk menutupi dua nyawa yang baru kaurenggut,” kata Dani.
-
-“Kau marah karena aku berdusta, atau karena orang lain mendengar kebenarannya?” tanya Li Mochou.
-
-Dani melangkah maju. Cheng Ying yang sudah bergeser ke sisi ruangan melihat perubahan itu: ia bergerak lebih cepat daripada isyarat yang mereka sepakati.
+Ia maju sebelum memberi isyarat kepada kedua kawannya.
 
 ***
 
-Kibasan pertama membelah udara di tempat leher Dani berada sesaat sebelumnya. Ia merendahkan tubuh dan memutar ke sisi meja, mencari jarak dekat yang menyulitkan kebut dibentangkan. Li Mochou tidak memberinya kesempatan. Gagangnya menyentuh lengan Dani, membuat jari-jarinya kebas sampai siku.
+Kebut menghantam lengan Dani ketika ia berusaha masuk ke sisi gagang. Jarinya kebas. Ia melompat melewati bangku, tetapi Li Mochou sudah memutar serat putih menuju pelipisnya.
 
-Meja di antara mereka terseret dan pecah pada satu kaki. Dani terhuyung, lalu sebuah lengan menahan pundaknya sebelum ia kembali masuk ke jangkauan serat putih.
+Yelü Qi menahan sisi gagang dengan telapak miring. Tubuhnya terdorong, memberi Dani ruang untuk mundur.
 
-“Saudara Dani, jaga jarakmu,” kata Yelü Qi. “Aku akan menahan sisi kirinya.”
+“Saudara Dani, jangan menyerahkan lehermu karena marah. Kita harus membawa mereka keluar,” kata Qi.
 
-Dani mengatupkan gigi, mengangguk. Rasa sakit memaksanya kembali mengingat alasan mereka datang.
+Dani mengatupkan gigi. Rasa sakit memulihkan pikirannya. Ia kembali menyerang pergelangan Li Mochou, kali ini mengikuti pergeseran Qi, bukan mendahuluinya.
 
-Yelü Qi menyambut pukulan berikut dengan telapak miring. Ia tidak menahannya lurus; kakinya berpindah, mengalihkan arah tenaga sambil tetap terdorong setapak. Dani masuk dari sisi seberang, menyerang pergelangan yang memegang kebut, lalu mundur ketika Li Mochou berputar.
+Di dekat dinding, gadis berjubah hijau menyelipkan diri antara Hong Lingbo dan tawanan. Ia menepis tangan yang hendak menotoknya, memaksa siku Hong Lingbo mengarah keluar, lalu menarik Wushuang dari bangku.
 
-“Enak sekali kalian membagi pekerjaanku,” ujar perempuan itu. Napasnya belum berubah. “Yang satu hendak menjadi pahlawan, yang lain belum pandai menahan amarah.”
+“Nona Lu, pedangmu di sebelah kanan,” kata penolong berjubah hijau itu.
 
-Di belakangnya, Cheng Ying telah mencapai Hong Lingbo.
+Wushuang meraih senjata dan menangkis pengejarnya. Ia tidak sempat menanyakan siapa penolong itu. Kaki kirinya nyeri, tetapi tangan yang menopangnya tidak memaksa tubuhnya bergerak lebih cepat daripada kemampuannya.
 
-“Wushuang, tundukkan kepala,” kata Cheng Ying.
+Li Mochou melihat tawanan lepas. Kebutnya berbalik. Yelü Yan mendorong bangku ke jalur serangan; kayu itu terbelit dan pecah sebelum mencapai lantai.
 
-Sepupunya menurut. Cheng Ying menangkap lengan Hong Lingbo yang terulur, menekannya ke arah dinding, lalu menyelipkan bahu di antara penjaga dan tawanan. Wushuang menyentakkan siku bebas dan meraih pedangnya yang diletakkan di meja.
+“Adik Yan, lepaskan!” seru Qi.
 
-“Kak Ying, sebelah kanan!” seru Wushuang.
+“Aku tidak hendak berebut bangku dengannya, Kakak!” Yan sudah mundur, memberi jalan kepada Wushuang.
 
-Hong Lingbo menarik senjata. Cheng Ying menyambutnya dengan bilah sendiri, cukup lama untuk memindahkan Wushuang ke belakang bahunya. Kedua pedang beradu dekat kusen, sementara Wanyan Ping menjaga celah menuju pintu.
+Wanyan Ping menebas dari sisi pintu. Pijakan belakangnya bertahan sebagaimana diajarkan Dani. Bilahnya memaksa Li Mochou mengubah arah, tetapi balasan perempuan itu tetap menyayat lengannya. Ia tersentak mundur; Dani menarik bahunya sebelum serangan kedua datang.
 
-Li Mochou melihatnya. Kebutnya meninggalkan Dani dan menyambar ke arah mereka.
+Enam anak muda itu akhirnya berkumpul di ambang pintu. Qi dan Dani menahan tekanan utama, sementara empat perempuan menutup celah serta bergantian melindungi Wushuang. Kerja sama mereka membuat jalan keluar mungkin dipertahankan. Tidak seorang pun sanggup memaksa Li Mochou berhenti sendirian.
 
-Yelü Yan mendorong bangku melintasi jalur serangan. Serat putih membelit sandarannya, merobek kayu dan menarik bangku itu keluar dari tangannya. Gadis tersebut terpaksa berlindung di balik tiang.
+“Anak-anak baik,” ujar Li Mochou. “Kalian sudah belajar saling menolong. Sekarang siapa yang bersedia tinggal agar yang lain boleh pergi?”
 
-“Adik Yan, jangan menahan tarikannya!” seru Yelü Qi.
+Kebutnya menyambar kaki Wushuang. Gadis berjubah hijau merendah untuk menangkis, membuka bahu sendiri. Dani maju; tangan yang kebas terlambat menutup pertahanannya.
 
-“Aku sudah melepaskannya, Kakak! Bawa mereka ke sini!” jawab Yelü Yan.
-
-Wanyan Ping maju ketika Li Mochou hendak melewati meja. Pijakan belakangnya bertahan lebih lama kali ini; tebasannya tidak lagi membuat tubuhnya jatuh ke depan. Li Mochou harus membelokkan kebut untuk menepis pedang itu, tetapi balasannya tetap begitu cepat hingga lengan Wanyan Ping tergores.
-
-Dani menangkap sikunya dan menariknya keluar dari jangkauan.
-
-“Pedangmu sudah kembali dengan benar,” kata Dani terengah. “Sekarang jangan biarkan dia memaksamu bertahan seorang diri.”
-
-Wushuang menyabet rendah dari balik Cheng Ying, memaksa Hong Lingbo menghentikan pengejaran. Gadis itu menumpukan berat pada kaki kanannya; keringat muncul di pelipis, tetapi kali ini pedangnya memberi Cheng Ying waktu untuk mundur bersama.
-
-Enam orang itu akhirnya berkumpul di dekat pintu. Dani baru memahami betapa sempit keberhasilan mereka: Wushuang telah bebas, tetapi tidak seorang pun mempunyai jalan aman untuk membelakangi Li Mochou.
-
-Yelü Qi menahan serangan ke tengah. Dani mengganggu sisi senjata. Cheng Ying menjaga Wushuang, sementara Yelü Yan dan Wanyan Ping menutup celah yang ditinggalkan keduanya. Mereka harus terus saling menggantikan hanya untuk mempertahankan beberapa langkah ruang.
-
-Li Mochou masih dapat memilih orang yang hendak ditekan.
-
-“Rukun sekali,” kata Li Mochou. “Mari kita lihat siapa yang lebih dahulu takut tertinggal.”
-
-Ia memutar kebut ke arah kaki kiri Wushuang. Cheng Ying segera turun menangkis; gerakan itu membuka bahunya. Dani maju, tetapi tangan kirinya yang kebas terlambat terangkat.
-
-Dari luar terdengar pekik rajawali.
+Pekik rajawali memotong udara.
 
 ***
 
-Dua bayangan besar melintas di depan jendela. Li Mochou menahan serangannya setengah jalan, lalu berpaling ke atap serambi.
+Dua burung besar melintas di depan serambi. Li Mochou menahan kibasan. Di jalan, Guo Fu datang bersama Wu Dunru dan Wu Xiuwen, ketiganya bersenjata dan belum memahami mengapa ruangan di depan mereka porak-poranda.
 
-“Burung-burungku tidak pernah ribut tanpa sebab. Ada apa di dalam?” terdengar suara seorang gadis.
+“Mengapa burung-burung itu ribut?” Guo Fu berhenti ketika melihat jenazah. “Siapa yang melakukan ini?”
 
-Suara gadis itu diikuti langkah tiga orang. Guo Fu muncul bersama Wu Dunru dan Wu Xiuwen. Ia telah tumbuh menjadi remaja dengan dagu yang tetap terangkat; melihat kebut putih dan ruangan yang porak-poranda, tangannya langsung bergerak ke gagang pedang.
+Li Mochou memandang jalan di belakang mereka. Sepasang rajawali keluarga Guo lebih menggentarkannya daripada tiga remaja yang baru tiba. Guo Jing dan Huang Rong dapat berada tidak jauh dari putri mereka; ia tidak berniat mempertaruhkan nyawa untuk memastikan dugaan itu.
 
-Dani mengenali mereka sebelum sempat menyiapkan wajah.
+“Nona Guo rupanya. Apakah ayah dan ibumu turut bepergian?” tanya Li Mochou.
 
-Li Mochou memandang kedua rajawali, kemudian jalan di belakang Guo Fu. Ada sesuatu yang untuk pertama kali menyerupai perhitungan tergesa di matanya.
+Guo Fu mengerutkan alis. “Apa hubungan pertanyaanmu dengan orang-orang yang mati ini?”
 
-“Putri keluarga Guo rupanya. Apakah ayah dan ibumu berada di dekat sini?” tanya Li Mochou.
+Li Mochou tidak menunggu jawaban lain. Ia menyuruh Hong Lingbo mengikuti, menyapu gagang kebut untuk menahan Qi, lalu mengambil jalan serambi yang masih terbuka.
 
-Guo Fu mengerutkan alis. “Mengapa engkau menanyakan orang tuaku? Siapa yang membunuh orang-orang di lantai itu?”
+“Wushuang, jangan sampai kitab itu hilang lagi,” katanya sebelum menghilang. “Gurumu akan menanyakan kabarnya.”
 
-Li Mochou tidak menjawab. Dani melihat ujung kebutnya turun, kemudian segera terangkat lagi untuk menahan Yelü Qi yang hendak mendekat.
+Tak seorang pun mengejar. Li Mochou mundur karena memperhitungkan pendekar yang belum hadir, bukan karena enam anak muda itu berhasil mengalahkannya. Dani menekan tangan yang berdarah dan baru merasakan betapa gemetar lututnya.
 
-“Lingbo, ikut aku,” perintah Li Mochou.
+Qi dan Yan menolong pemilik kedai mengurus kedua jenazah. Wanyan Ping berdiri sebentar di samping Qi sebelum mengambil kain penutup.
 
-“Guru, Wushuang masih—” kata Hong Lingbo.
+“Hari ini aku mengetahui untuk apa tanganmu digunakan,” kata Wanyan Ping lirih.
 
-“Apakah engkau tidak mendengar perintahku?” tanya Li Mochou.
+Qi menerima kain itu. Ia tidak meminta pengampunan kedua kali.
 
-Nada Li Mochou tetap manis. Hong Lingbo justru memucat dan bergerak lebih cepat. Gurunya mundur melalui sisi serambi yang belum tertutup; tak seorang pun mengejar ke dalam jangkauan kebutnya.
+Di serambi, Guo Fu mengamati Dani. “Engkau Dani Moan? Mengapa tidak menyapa sejak tadi? Ayah mengira engkau masih belajar dengan baik di Quanzhen.”
 
-Sebelum berbalik, Li Mochou memandang Wushuang.
+“Aku harus menjelaskan banyak hal kepada Paman Guo.” Dani membungkuk. “Tetapi sekarang ada orang yang harus kutemukan.”
 
-“Simpan kitab itu baik-baik, anak manis. Aku akan datang mengambilnya bersamamu,” ujar Li Mochou.
+Wushuang menunggu Guo Fu berpaling sebelum mencengkeram lengan jubahnya. “Sejak kapan Kakanda tahu siapa aku?”
 
-Sesudah kedua perempuan itu menghilang, Yelü Qi masih menunggu beberapa saat sebelum menurunkan tangan. Darah merembes dari sela jari Dani. Wanyan Ping menekan lukanya sendiri; Wushuang akhirnya membiarkan Cheng Ying menopang berat tubuhnya.
+“Sejak di warung,” jawab Dani. “Aku meminta maaf karena tidak segera mengaku. Aku belum tahu apakah engkau masih memihak gurumu.”
 
-Mereka selamat. Kedua anggota Klan Pengemis di dekat tiang tetap tidak bergerak.
+“Perempuan itu membunuh keluargaku.” Mata Wushuang memerah, tetapi suaranya tidak merendah. “Bertahun-tahun aku menurut agar tetap hidup. Jangan menyamakan keduanya lagi.”
 
-***
+Dani menunduk. “Aku mengerti. Kesalahanku.”
 
-Yelü Qi dan adiknya mengurus kedua jenazah itu sebelum meninggalkan kedai. Wanyan Ping mendekati mereka dengan pedang sudah tersarung.
+Gadis berjubah hijau menyerahkan kain pembebat kepadanya. Ketika Dani kembali menanyakan namanya, ia hanya memberi hormat.
 
-“Hari ini aku bertarung di sisimu,” kata Wanyan Ping kepada Yelü Qi. “Itu tidak berarti persoalan keluargaku selesai. Tetapi pertolonganmu tidak akan kupungkiri.”
+“Nama dapat menunggu, Tuan Dani,” ujar gadis itu. “Orang yang Tuan cari tentu tidak dapat menunggu selamanya.”
 
-“Aku tidak meminta Nona menukar pertolongan dengan pengampunan,” jawab Yelü Qi. “Setidaknya hari ini kita telah memilih untuk tidak menambah orang yang mati.”
+Ia memilih tetap menyembunyikan wajah dan asalnya. Dani menghormati batas itu. Selesai membebat luka ringannya, ia berpamitan dan mengambil jalan pegunungan, membawa sambungan jubah biru yang masih utuh meskipun ternoda darah.
 
-Di bawah serambi, Guo Fu menatap Dani dari kepala sampai kaki.
-
-“Jadi engkau Dani. Mengapa tidak segera menyapa kami? Apakah setelah bertahun-tahun, rumah ayahku sudah kaulupakan?” tanya Guo Fu.
-
-Dani mengatupkan tangan. “Aku tidak melupakan Paman dan Bibi Guo. Tadi belum ada kesempatan berbicara. Bagaimana keadaan mereka?”
-
-“Mereka baik.” Guo Fu melihat darah pada tangannya, lalu cepat-cepat mengalihkan pandangan. “Engkau masih pandai mencari keributan.”
-
-Wu Xiuwen tidak menyela. Matanya sempat berhenti pada telapak Dani sebelum mengikuti kakaknya ke dekat jalan.
-
-Wushuang menunggu sampai Guo Fu menjauh beberapa langkah, lalu memukul pelan lengan Dani yang tidak terluka.
-
-“Si Bodoh, sejak kapan kau tahu siapa aku?” tanya Wushuang.
-
-“Sejak melihatmu di jalan,” jawab Dani.
-
-“Lalu kau membiarkan aku memperkenalkan diri kepada orang yang sudah mengenalku?” tuntut Wushuang.
-
-“Aku belum tahu apakah engkau masih menurut kepada Li Mochou.” Dani merendahkan suara. “Dahulu aku melihatmu dibawanya dan tidak dapat berbuat apa-apa. Aku tidak ingin salah langkah lagi.”
-
-Wushuang mengangkat wajah untuk membalas. Kata-katanya tidak segera keluar.
-
-“Aku bukan lagi anak yang hanya bisa menunggu diangkat orang,” ujar Wushuang akhirnya. “Lain kali, tanyakan kepadaku.”
-
-“Engkau benar. Aku meminta maaf,” jawab Dani.
-
-Cheng Ying merapikan kain pembebat pada tangan Dani. “Kakanda Dani, terima kasih telah membantu membawa sepupuku kembali.”
-
-“Kak Ying juga tidak perlu berterima kasih seolah aku barang kiriman,” gerutu Wushuang. Namun ia tidak melepaskan tangan sepupunya.
-
-Dani tersenyum kecil. Ketika Cheng Ying menanyakan perempuan yang dicarinya, senyum itu perlahan surut.
-
-“Namanya Xiaolongnü. Aku harus menemukannya dan menjelaskan sesuatu yang seharusnya sudah kukatakan ketika kami masih bersama,” kata Dani.
-
-Cheng Ying mengikat simpul terakhir. “Kami akan mengingat nama itu, Kakanda Dani. Kalau mendengar kabarnya, kami akan berusaha menyampaikannya.”
-
-Dani memberi hormat kepada mereka semua. Sebelum mengambil jalan menuju pegunungan, ia membetulkan jubahnya; sambungan biru tua pada rusuk masih bertahan di antara debu pertarungan.
-
-Kali ini satu orang telah berhasil ia bawa keluar. Masih ada seorang lagi yang harus ditemukannya.
+Kali ini ia telah menolong Wushuang keluar. Kepada perempuan yang menjahit jubahnya, masih ada jawaban yang belum sempat disampaikan.
 
 ---
 
 ## Catatan Kontinuitas — Bab 9
 
-- Jalur A, Babak VI poin 1–17: pertemuan sekutu, penculikan, penyamaran, dan penyelamatan Wushuang diselesaikan dalam satu bab; pegunungan salju menjadi arc berikutnya.
-- Dani masih 18; Wushuang dan Cheng Ying telah melewati jeda empat tahun. Kaki kiri Wushuang tetap cedera permanen; sapaan dan suara mengikuti kedewasaan saat ini.
-- Wushuang tidak mengenali Dani hingga topeng dibuka di kedai; Cheng Ying mengenalinya lebih dahulu. Kedekatan tumbuh melalui bantuan dan keterbukaan, tanpa menetapkan angka ikatan baru.
-- Nama dan isi kitab yang dibawa Wushuang belum diungkap. Dendam Wanyan Ping terhadap keluarga Yelü belum selesai; koreksi kuda-kuda bukan jurus baru atau bukti kenaikan tingkat.
-- Enam anak muda bekerja sama untuk membebaskan Wushuang. Li Mochou mundur karena mengkhawatirkan kehadiran Guo Jing dan Huang Rong setelah melihat putri mereka serta dua rajawali; kedua orang tua itu tidak hadir di adegan.
-- Dani tetap mencari Xiaolongnü, membawa alat jahit ibu dan jubah bersambung biru tua. Pedang yang hilang belum tergantikan; ia bertarung dengan tangan kosong. Lukanya di kedai ringan dan dibebat Cheng Ying.
+- Jalur A, Babak VI poin 1–17 tetap satu arc. Latar keluarga Yelü dan sasaran dendam Wanyan dipulihkan dari kanon; sasaran Chucai sesuai Matriks Tokoh bagian H, Qi melindungi ayahnya.
+- Dani 18; Wushuang sekitar 17. Dani mengenali Wushuang sejak awal, Wushuang baru mengenalinya ketika topeng dibuka. Qi dan Yan diperkenalkan secara nyata setelah konflik keluarga.
+- Penolong berjubah hijau belum membuka nama, wajah, perguruan, atau hubungannya dengan Wushuang. Kartu wiki menggunakan identitas sementara, tanpa membocorkan identitas sebenarnya.
+- Urutan bantuan di penginapan dan penculikan dipadatkan mengikuti Babak VI lorebook. Kisah Yelü Zhu menjadi penghubung kanon singkat; tipu racun adalah gertakan, bukan jurus baru Dani.
+- Kitab Lima Racun dibedakan dari Sutra Hati Gadis Giok yang diincar Li Mochou di makam. Pernyataan Wushuang tentang Klan Pengemis adalah siasat menunda kematian.
+- Semua ilustrasi Bab 9 dipertahankan. Li Mochou mundur karena dua rajawali menandakan kemungkinan hadirnya Guo Jing–Huang Rong; bukan kalah dari para pemuda. Dani menuju gunung dengan luka ringan dan tanpa pedang baru.

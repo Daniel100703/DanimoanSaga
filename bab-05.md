@@ -45,9 +45,10 @@ Guo Jing memeriksa tempat tinggal Dani sebelum berangkat. Di tangga ia membetulk
 “Tentu. Paman ingin melihat apa yang kaupelajari, bukan hanya mendengar siapa yang berhasil kaukalahkan.”
 
 Dani mengangguk dan menunggu sampai jubah pamannya hilang di balik gerbang. Zhao memanggilnya tanpa senyum.
+
 ***
 
-Beberapa pekan berlalu dalam hafalan yang bertambah panjang, sementara pelajaran gerak tidak kunjung dimulai. Zhao menyuruh Dani mengulang bait-bait dasar; bila ia bertanya tentang penerapannya, jawabannya selalu sama: hafalkan dahulu, baru engkau boleh bertanya. Murid lain berlatih di halaman saat Dani masih disuruh duduk menghadap kitab.
+Pekan-pekan berlalu dalam hafalan; gerakannya tidak pernah diajarkan. Zhao sengaja menahan pelajaran itu. Ia menyimpan malu karena dipatahkan Guo Jing di gerbang dan kini menuntut kepatuhan mutlak dari anak yang dititipkan kepadanya. Dani belum memahami dendam gurunya. Ia terus mengulang bait, berharap hafalan yang sempurna akhirnya membuka pintu latihan.
 
 Pada suatu pagi Dani menyelesaikan hafalan tanpa satu kesalahan dan meminta diajari gerakannya. Zhao hanya membalik halaman.
 
@@ -75,11 +76,11 @@ Lu lebih dahulu menjawab. “Murid sedang mengingatkannya tentang tata krama, Gu
 
 Zhao melihat kitab yang tertutup dan bangku yang bergeser. “Duduk kembali, Dani. Seorang murid yang menghormati saudara seperguruannya tidak akan membuat perkara sekecil ini menjadi pertengkaran.”
 
-Dani tidak segera bergerak. Kulit kepalanya berdenyut, tetapi yang paling sulit ditahannya adalah cara Zhao kembali berjalan tanpa sekali pun bertanya kepada Lu mengapa ia memukul. Setelah gurunya menghilang, Dani duduk. Ia membuka kitab pada halaman yang salah dan lama tidak menyadarinya.
+Kulit kepala Dani berdenyut. Zhao pergi tanpa menanyai Lu mengapa ia memukul. *Kalau Guru tidak mau mendengar, kepada siapa aku harus mengadu?* Dani duduk kembali; kitab terbuka pada halaman yang salah, dan ia lama tidak menyadarinya.
 
 Sejak itu Lu tidak perlu menunggu Dani membantah untuk mencari persoalan. Ia memotong giliran Dani mengambil air, menyenggol bahunya ketika berpapasan, atau memaksanya memberi hormat berulang-ulang. Dani mula-mula mengadu, lalu berhenti setelah setiap pengaduan berakhir dengan teguran kepada dirinya sendiri.
 
-Ia belajar mengenali waktu Lu berada di halaman. Ia juga belajar menyimpan buntalan di dekat pintu kamarnya, siap diambil apabila suatu hari ia benar-benar tidak tahan. Yang tidak bertambah adalah kemampuannya menangkis pukulan.
+Dani mulai menghindari jam latihan Lu dan menyimpan buntalan dekat pintu, siap diambil ketika tak tahan lagi. Ia belajar mengelak dari perundungan, tetapi belum diajari menangkis pukulan.
 
 Hari itu Zhao memanggilnya ke tempat latihan. Dani mendekat dengan harapan yang hampir membuatnya lupa pada perlakuan sebelumnya. Gurunya berdiri di tepi halaman bersama Lu Qingdu.
 
@@ -239,7 +240,7 @@ Jari-jari keriput bergerak di lengan bajunya. Dani menunduk begitu dekat hingga 
 
 Langkah ringan terdengar dari arah hutan. Gadis berbaju putih tadi telah menyusul mereka. Ia berlutut di sisi Nenek Sun, memegang pergelangan tangannya, lalu menatap Hao Datong.
 
-Zhen yang tadi hendak memberi penjelasan mendadak kehilangan kata-kata. Ia mengenali pakaian perguruan tetangganya, tetapi baru kali ini berdiri sedekat itu dengan pewaris Makam Kuno. Pandangannya tertahan sampai Zhao menyentuh sikunya. Zhen menunduk terlambat.
+Zhen kehilangan kata-kata ketika melihat pewaris Makam Kuno dari dekat. Nenek Sun sedang sekarat, tetapi perhatiannya tertawan wajah gadis berbaju putih itu. Ia menunduk saat Zhao menyentuh sikunya, malu karena lalai. Keterpukauan yang disembunyikannya di balik sikap tertib itulah awal obsesi yang kelak dipeliharanya sendiri.
 
 “Apakah Tetua yang memukul Nenek Sun?” tanya gadis berbaju putih itu.
 
@@ -253,7 +254,7 @@ Gadis itu sudah kembali menghadap perempuan tua di pangkuan Dani. Nenek Sun memb
 
 “Jangan tinggalkan anak ini seorang diri, Nona,” pinta Nenek Sun.
 
-Gadis itu diam. Dani tidak memandangnya; seluruh perhatiannya tertuju pada dada Nenek Sun yang bergerak semakin dangkal. Ia menunggu tarikan napas berikut seolah dapat membantunya hanya dengan ikut menahan napas.
+Gadis itu diam. Dani menatap dada Nenek Sun yang bergerak semakin dangkal. *Aku akan menurut, asal Nenek jangan pergi,* pintanya dalam hati. Seperti saat kehilangan ibunya, ia mencari kesalahan pada dirinya sendiri, berharap masih ada sesuatu yang dapat diperbaiki untuk menahan kematian.
 
 “Aku akan menjaganya, Nenek Sun. Aku berjanji kepadamu,” kata gadis itu.
 
