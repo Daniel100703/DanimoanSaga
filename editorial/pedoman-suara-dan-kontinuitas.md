@@ -37,3 +37,12 @@ Pikiran langsung Dani memakai huruf miring dan jangkar sudut pandang yang jelas.
 ## Batas terakhir yang telah dibangun
 
 Sesudah Bab 11: Dani 19 dan Xiaolongnü 21 pergi bersama setelah menyatakan ingin menikah. Guo Jing mengangkat tangan dalam amarah lalu urung memukul; ia belum memberi restu. Guo Fu terluka harga dirinya, kedua Wu mengetahui kebohongan perjodohan Dani. Huang Rong sudah mengetahui kematian Hong Qigong dan asal ilmu tongkat Dani. Jinlun terluka oleh Guo Jing. Dani membawa tongkat latihan, buntalan, dan jubah bersambung; ia tidak memiliki pedang baru. Identitas penolong berjubah hijau dari Bab 9 belum terungkap kepada Dani.
+
+
+## Pembaruan 10 Oktober 2026 — visual dan hubungan
+
+- Bab penting boleh memuat 4–6 gambar termasuk pembuka, sesuai permintaan terakhir penulis. Bab 11 kini enam gambar; tiga gambar lama tidak dihapus. Bab biasa tetap satu pembuka dan dua peristiwa utama.
+- Saat ilustrasi baru memperlihatkan tokoh dengan jelas, perbarui potret kartu untuk fase yang sesuai. Jangan mengganti potret bab anak-anak dengan versi dewasa, atau membuka wajah samaran sebelum narasi mengungkapkannya.
+- Kartu tokoh memuat status hubungan dengan Dani dan penjelasan sikap/perasaan yang sudah terlihat. Status mengikuti adegan; bukan label watak tetap, persentase rekaan, atau bocoran cinta masa depan. Sifat posesif-protektif Xiaolongnü dan gengsi Guo Fu dijelaskan melalui tindakan yang sudah terjadi.
+- Sesudah Bab 12: Dani terluka berat dan dibawa penolong bertopeng yang suaranya dikenal; identitasnya belum diungkap. Xiaolongnü pergi meskipun masih percaya cinta Dani. Huang Rong telah menerima pesan bahwa Dani masih mencari. Tongkat kayu patah, bambu pinjaman dilepas, pedang Dunru sudah dikembalikan, alat jahit tetap di buntalan.
+- Jangan menyajikan kematian Hong sebagai kabar baru bagi Huang Rong atau kerja sama pedang pasangan sebagai penemuan pertama lagi. Peta sebelum arc selanjutnya tetap diperlukan; Bab 12 sudah mendapat persetujuan.

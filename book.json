@@ -1,6 +1,6 @@
 {
   "title": "Saga Dani Moan",
-  "description": "Novel wuxia berilustrasi karya Daniel Halomoan Siregar. Bab 1–11, dengan Wiki Persilatan yang mengikuti cerita.",
+  "description": "Novel wuxia berilustrasi karya Daniel Halomoan Siregar. Bab 1–12, dengan Wiki Persilatan yang mengikuti cerita.",
   "chapters": [
     {
       "id": 1,
@@ -903,6 +903,16 @@
       "plates": [
         {
           "image": {
+            "file": "bab-11-ilustrasi-04.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "anchor": "Ia berlari dan memeluknya sebelum sempat memikirkan puluhan pasang mata. Xiaolongnü memegang punggungnya erat-erat. Jemarinya menemukan sambungan jubah yang pernah dijahitnya, lalu naik ke tengkuk Dani.",
+          "alt": "Dani memeluk Xiaolongnü di hadapan para pendekar; Daerba bergada berada di kiri dan Huodu berkipas di kanan.",
+          "caption": "Pertemuan kembali yang tidak lagi dapat disembunyikan dari dunia persilatan."
+        },
+        {
+          "image": {
             "file": "bab-11-ilustrasi-01.webp",
             "width": 1536,
             "height": 1024
@@ -920,38 +930,192 @@
           "anchor": "Dua ujung pedang mengapit roda Jinlun.",
           "alt": "Dani dan Xiaolongnü mengisi celah pertahanan satu sama lain dengan dua pedang melawan roda Jinlun di aula.",
           "caption": "Dua pedang menutup celah yang tidak dapat dijaga seorang diri."
+        },
+        {
+          "image": {
+            "file": "bab-11-ilustrasi-03.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "anchor": "“Aku tidak mengatakan keberatan.” Pipi Guo Fu memerah. Ia kesal karena Dani masih belum menjawab; bukankah pemuda itu sendiri yang menggodanya di jalan sungai?",
+          "alt": "Guo Fu dalam busana merah, Wu Dunru, Wu Xiuwen, dan Wu Santong menyaksikan pembicaraan perjodohan di aula.",
+          "caption": "Harapan Guo Fu dan kegelisahan kedua Wu bertemu di meja yang sama."
+        },
+        {
+          "image": {
+            "file": "bab-11-ilustrasi-05.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "anchor": "“Aku memikirkannya setiap hari sejak kami berpisah,” jawab Xiaolongnü. Jemarinya mengerat di tangan Dani. “Aku ingin dia hidup baik. Aku juga ingin hidup bersamanya. Mengapa yang satu harus meniadakan yang lain?”",
+          "alt": "Xiaolongnü menggenggam tangan Dani ketika keduanya menghadapi Guo Jing yang menentang hubungan mereka.",
+          "caption": "Tangan yang tetap digenggam ketika restu belum diberikan."
         }
       ],
       "cast": [
         {
-          "name": "Lu Guanying",
-          "age": "Dewasa.",
-          "description": "Tuan rumah Pertemuan Pahlawan."
+          "name": "Dani Moan",
+          "age": "19 tahun",
+          "description": "Memilih meninggalkan pertemuan bersama Xiaolongnü setelah penolakan Guo Jing."
         },
         {
-          "name": "Lu Youjiao",
-          "age": "Dewasa.",
-          "description": "Calon ketua Klan Pengemis."
+          "name": "Xiaolongnü",
+          "age": "21 tahun",
+          "description": "Menyatakan cintanya di hadapan pertemuan dan pergi bersama Dani."
+        },
+        {
+          "name": "Guo Fu",
+          "age": "17 tahun",
+          "description": "Harga dirinya terluka setelah kebohongan perjodohan dibuka dan Dani menolak rencana pernikahan."
+        },
+        {
+          "name": "Wu Dunru",
+          "age": "",
+          "description": "Mendengar pengakuan terbuka bahwa restu pernikahan Dani–Guo Fu adalah kebohongan."
+        },
+        {
+          "name": "Wu Xiuwen",
+          "age": "",
+          "description": "Mendengar pengakuan terbuka bahwa restu pernikahan Dani–Guo Fu adalah kebohongan."
         },
         {
           "name": "Wu Santong",
-          "age": "Dewasa.",
-          "description": "Ayah Wu Dunru dan Wu Xiuwen."
+          "age": "",
+          "description": "Ayah Wu Dunru dan Wu Xiuwen; datang ketika perselisihan mereka hampir merenggut nyawa."
+        },
+        {
+          "name": "Guo Jing",
+          "age": "",
+          "description": "Menurunkan tangan tanpa memukul Dani; kasihnya sebagai orang tua bertentangan dengan penolakannya terhadap hubungan guru–murid."
+        },
+        {
+          "name": "Huang Rong",
+          "age": "",
+          "description": "Menerima pertolongan Dani saat lemas dan mengakui ketulusannya."
+        },
+        {
+          "name": "Huodu",
+          "age": "",
+          "description": "Dikalahkan Dani dan menyerahkan penawar atas perintah gurunya."
+        },
+        {
+          "name": "Daerba",
+          "age": "",
+          "description": "Mengalah karena mengira Dani adalah kelahiran kembali kakak seperguruannya."
         },
         {
           "name": "Jinlun Guoshi",
-          "age": "Dewasa.",
-          "description": "Guru Huodu dan Daerba."
+          "age": "",
+          "description": "Mundur setelah terluka oleh Guo Jing, sementara Dani dan Xiaolongnü kembali berpasangan."
+        },
+        {
+          "name": "Lu Guanying",
+          "age": "",
+          "description": "Tuan rumah Pertemuan Pahlawan yang diprakarsai Guo Jing dan Huang Rong."
+        },
+        {
+          "name": "Lu Youjiao",
+          "age": "",
+          "description": "Berlatih menggerakkan tongkat di bawah petunjuk Huang Rong."
         },
         {
           "name": "Zhu Ziliu",
-          "age": "Dewasa.",
-          "description": "Pendekar dari lingkungan Yideng."
+          "age": "",
+          "description": "Penawar diperoleh dari Huodu setelah kemenangan Dani."
         },
         {
           "name": "Diancang Yuyin",
-          "age": "Dewasa.",
-          "description": "Sesama murid Yideng."
+          "age": "",
+          "description": "Sesama murid Yideng yang kalah setelah senjatanya dipatahkan gada Daerba."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "slug": "bab-12",
+      "han": "十二",
+      "source": "bab-12.md",
+      "title": "Harga Sebuah Pertolongan",
+      "accent": "#46645b",
+      "description": "Dani dan Xiaolongnü melangkah keluar dari pertemuan. Ancaman terhadap keluarga Guo menguji pilihan mereka dan harga sebuah pertolongan.",
+      "quote": "Aku berjalan bersamamu karena itulah keinginanku.",
+      "cover": {
+        "file": "bab-12-pembuka.webp",
+        "width": 1024,
+        "height": 1536
+      },
+      "plates": [
+        {
+          "image": {
+            "file": "bab-12-ilustrasi-01.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "anchor": "Huang Rong menunduk sesaat. Ia tidak membenci Xiaolongnü. Ia bahkan berutang nyawa kepadanya. Namun ia tetap memilih menekan ketakutan perempuan itu, berharap perpisahan dapat menyelesaikan pertentangan yang tidak berhasil diselesaikan Guo Jing dengan amarah. Ia menyebutnya perlindungan bagi Dani, sambil tidak memberinya kesempatan menjawab.",
+          "alt": "Xiaolongnü dan Huang Rong berbicara berhadapan di kamar penginapan yang diterangi lampu minyak.",
+          "caption": "Sebuah nasihat menyentuh ketakutan yang paling sulit diakui."
+        },
+        {
+          "image": {
+            "file": "bab-12-ilustrasi-02.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "anchor": "Ia menekan titik di sisi tubuh Dani untuk menahan gerakan yang memperburuk nyeri. Huang Rong membantu membuka kerahnya. Napas Dani tetap pendek; pertolongan pertama tidak menghapus luka di dalam dadanya.",
+          "alt": "Di antara bebatuan, penolong berjubah hijau dengan wajah bertopeng dan Huang Rong memeriksa Dani yang kelelahan.",
+          "caption": "Pertolongan datang; luka Dani belum berakhir."
+        }
+      ],
+      "cast": [
+        {
+          "name": "Dani Moan",
+          "age": "19 tahun",
+          "description": "Memilih meninggalkan pertemuan bersama Xiaolongnü setelah penolakan Guo Jing."
+        },
+        {
+          "name": "Xiaolongnü",
+          "age": "21 tahun",
+          "description": "Menyatakan cintanya di hadapan pertemuan dan pergi bersama Dani."
+        },
+        {
+          "name": "Huang Rong",
+          "age": "",
+          "description": "Menerima pertolongan Dani saat lemas dan mengakui ketulusannya."
+        },
+        {
+          "name": "Guo Fu",
+          "age": "17 tahun",
+          "description": "Harga dirinya terluka setelah kebohongan perjodohan dibuka dan Dani menolak rencana pernikahan."
+        },
+        {
+          "name": "Wu Dunru",
+          "age": "",
+          "description": "Mendengar pengakuan terbuka bahwa restu pernikahan Dani–Guo Fu adalah kebohongan."
+        },
+        {
+          "name": "Wu Xiuwen",
+          "age": "",
+          "description": "Mendengar pengakuan terbuka bahwa restu pernikahan Dani–Guo Fu adalah kebohongan."
+        },
+        {
+          "name": "Jinlun Guoshi",
+          "age": "",
+          "description": "Mundur setelah terluka oleh Guo Jing, sementara Dani dan Xiaolongnü kembali berpasangan."
+        },
+        {
+          "name": "Huodu",
+          "age": "",
+          "description": "Dikalahkan Dani dan menyerahkan penawar atas perintah gurunya."
+        },
+        {
+          "name": "Daerba",
+          "age": "",
+          "description": "Mengalah karena mengira Dani adalah kelahiran kembali kakak seperguruannya."
+        },
+        {
+          "name": "Gadis berjubah hijau",
+          "age": "",
+          "description": "Membebaskan Wushuang dari penjagaan Hong Lingbo."
         }
       ]
     }

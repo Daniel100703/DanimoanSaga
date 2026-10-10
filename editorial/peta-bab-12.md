@@ -1,6 +1,6 @@
 # Peta Bab 12 — Harga Sebuah Pertolongan
 
-Status: usulan untuk persetujuan penulis; Bab 12 belum ditulis atau diterbitkan sebagai cerita. Peta memakai lorebook Jalur A di sumber proyek dan keadaan terakhir Bab 11 yang telah direvisi. Judul masih tentatif.
+Status: disetujui penulis dan diadaptasi menjadi Bab 12 pada 10 Oktober 2026. Peta memakai lorebook Jalur A di sumber proyek serta keadaan terakhir Bab 11. Catatan ini mengandung bocoran.
 
 ## Lima pijakan lorebook
 
@@ -35,7 +35,7 @@ Target awal sekitar 3.500 kata, dengan ruang tambahan bila percakapan dan sebab-
 
 ## Visual dan kartu lore
 
-Satu pembuka: perjalanan pasangan sesudah penolakan dunia persilatan. Dua adegan penting: percakapan Huang Rong–Xiaolongnü dan puncak pertahanan bebatuan. Visual lama tetap dipakai di bab asalnya. Potret baru hanya memakai potongan gambar adegan yang benar-benar menampilkan tokoh; penolong bertopeng tidak diberi potret tanpa topeng sebelum identitasnya terbuka.
+Satu pembuka: perjalanan pasangan sesudah penolakan dunia persilatan. Dua adegan penting: percakapan Huang Rong–Xiaolongnü dan pertolongan sesudah pertahanan bebatuan pecah. Visual lama tetap dipakai di bab asalnya. Potret baru hanya memakai potongan gambar adegan yang benar-benar menampilkan tokoh; penolong bertopeng tidak diberi potret tanpa topeng sebelum identitasnya terbuka.
 
 Kartu mengikuti kemajuan bacaan: kondisi luka, batas kerja sama pedang, penerapan tongkat, dan bahaya Jinlun. Tidak memberi angka ikatan atau tingkat baru tanpa dasar. Perubahan Guo Fu diperlihatkan lewat keputusan dan ucapan, bukan sekadar menempelkan label cemburu pada kartunya.
 

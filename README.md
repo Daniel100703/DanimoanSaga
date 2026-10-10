@@ -1,4 +1,4 @@
-# Saga Dani Moan — Bab 1–11
+# Saga Dani Moan — Bab 1–12
 
 Novel wuxia berilustrasi karya Daniel Halomoan Siregar.
 
@@ -12,7 +12,7 @@ Novel wuxia berilustrasi karya Daniel Halomoan Siregar.
 - Sapaan memakai bahasa Indonesia. Dialog mengalir melalui atribusi naratif tanpa format `Nama: ucapan`.
 - Bab 10: **Dua Nama di Bawah Salju**, dengan satu pembuka dan dua ilustrasi peristiwa. Pertemuan serta warisan dua tetua selesai dalam satu arc.
 - Semua 33 ilustrasi lama dipertahankan. Empat ilustrasi baru ditambahkan: rekonsiliasi hujan dan tiga gambar Bab 10.
-- Wiki berisi 65 catatan dengan 239 tahap informasi. Kartu mengikuti paragraf bacaan; penguasaan ilmu Dani dibedakan dari kekuatan gurunya.
+- Wiki berisi 66 catatan dengan 288 tahap informasi dan 98 pembaruan hubungan. Kartu mengikuti paragraf bacaan; penguasaan ilmu Dani dibedakan dari kekuatan gurunya.
 - Penanda baca edisi lama dipetakan ke adegan terdekat dalam pembagian baru. Tema dan ukuran huruf tetap tersimpan. Salinan posisi sebelum revisi tetap disimpan di peramban.
 
 ## Pembaruan narasi dan Bab 9
@@ -35,9 +35,20 @@ Tiga ilustrasi baru dimasukkan langsung ke halaman. Total 40 ilustrasi cerita da
 
 Dialog Dani ditinjau di Bab 1–11. Kepada keluarga Guo, teman, dan orang dekat, ia memakai aku; sapaan hormat tetap mengikuti hubungan tokoh. Revisi dilakukan pada ucapan yang memerlukan perbaikan, bukan mengganti semua kata saya dari setiap pembicara. Bab 11 memberi ruang pada gengsi dan kecemburuan Guo Fu, perselisihan kedua Wu, penolakan hubungan guru–murid, serta ancaman pukulan Guo Jing yang akhirnya dibatalkan.
 
-- [Peta Bab 12 — Harga Sebuah Pertolongan](https://daniel100703.github.io/DanimoanSaga/peta-bab-12.html): usulan alur, belum naskah; memuat bocoran.
+- [Peta Bab 12 — Harga Sebuah Pertolongan](https://daniel100703.github.io/DanimoanSaga/peta-bab-12.html): peta yang disetujui dan telah diadaptasi; memuat bocoran.
 - [Catatan revisi 9 Oktober](editorial/revisi-suara-2026-10-09.md).
 - [Pedoman suara dan kontinuitas untuk penulisan berikutnya](editorial/pedoman-suara-dan-kontinuitas.md).
+
+## Bab 12 dan kartu hubungan
+
+[Baca Bab 12 — Harga Sebuah Pertolongan](https://daniel100703.github.io/DanimoanSaga/bab-12.html). Bab ini menuntaskan arc penyelamatan keluarga Guo, percakapan yang memicu perpisahan, dan akibat pertarungan di bebatuan, sesuai peta yang disetujui.
+
+Bab 11 kini memuat enam ilustrasi; Bab 12 tiga. Total 46 ilustrasi cerita dan satu sampul utama. Semua aset lama dipertahankan. Potret Guo Fu, Wu bersaudara, Wu Santong, Huodu, Daerba, pasangan utama, Guo Jing, dan Huang Rong mengikuti gambar serta fase baru. Penolong bertopeng tetap memakai wajah samaran.
+
+Kotak **Hubungan dengan Dani** tampil pada kartu tokoh, bersama kondisi dan kemampuan. Potret serta informasi hubungan mengikuti batas paragraf, termasuk ketika membaca kembali bab terdahulu.
+
+- [Kontinuitas Bab 12 dan rujukan kanon](editorial/bab-12-kontinuitas.md).
+- [Enam gambar baru dan arahan produksinya](editorial/bab-11-12-visual.md).
 
 ## Membaca
 
@@ -73,8 +84,8 @@ Buka `http://localhost:8000` setelah server berjalan. Tekan Ctrl+C untuk menghen
 
 ## Menambahkan bab berikutnya
 
-1. Tulis `bab-XX.md`, lalu tambahkan metadata bab, gambar, posisi ilustrasi, dan tokoh baru pada `book.json`.
-2. Perbarui panjang bab dan tahap informasi di `lore-data.json`. Setiap tahap harus menunjuk paragraf yang benar; jangan memuat rahasia masa depan pada kartu awal.
+1. Tulis `bab-XX.md`, lalu tambahkan metadata bab, gambar, posisi ilustrasi, dan tokoh yang hadir pada `book.json`.
+2. Perbarui panjang bab, tahap informasi, `relationships`, serta `portraits` di `lore-data.json`; urutkan semua riwayat menurut `key`. Setiap tahap harus menunjuk paragraf yang benar; jangan memuat rahasia masa depan pada kartu awal.
 3. Jalankan `python3 build.py`; periksa gambar, navigasi, wiki, serta tampilan ponsel dan desktop.
 4. Commit seluruh berkas yang berubah beserta aset baru ke `main`. GitHub Pages menerbitkan situs dari cabang yang sudah dikonfigurasi.
 

@@ -16,6 +16,7 @@
   const esc = value => String(value).replace(/[&<>"']/g, ch => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[ch]));
   const href = (page, anchor = '') => single ? '#' + page + (anchor ? '/' + anchor : '') : (page === 'beranda' ? 'index' : page) + '.html' + (anchor ? '#' + anchor : '');
   const stage = (e, key) => e.stages.filter(s => s.key <= key).at(-1);
+  const relationship = (e, key) => (e.relationships || []).filter(r => r.key <= key).at(-1);
   const endKey = c => Number(c) * 10000 + Number(data.chapterLengths[c] || 0);
   const keyOf = id => { const m = /^p-(\d+)-(\d+)$/.exec(id || ''); return m ? Number(m[1])*10000 + Number(m[2]) : 0; };
   try {
@@ -48,17 +49,25 @@
     return `<div class="portrait" style="--iw:${dw}px;--ih:${dh}px;--ix:${dx}px;--iy:${dy}px" aria-hidden="true"><img src="${esc(window.DANI_ASSETS?.[p.image.file] || p.image.file)}" width="${iw}" height="${ih}" alt="" loading="lazy"></div>`;
   };
   const types = {tokoh:'Tokoh',ilmu:'Ilmu & jurus',senjata:'Senjata',perguruan:'Perguruan',kondisi:'Kondisi',istilah:'Istilah',benda:'Benda bermakna'};
+  function bond(e,key) {
+    const r=relationship(e,key); if(!r)return '';
+    return `<section class="lore-bond" aria-label="${e.id==='dani'?'Hubungan utama':'Hubungan dengan Dani'}"><p class="lore-bond-label">${e.id==='dani'?'Hubungan utama':'Hubungan dengan Dani'}</p><p class="lore-bond-status">${esc(r.status)}</p><p>${esc(r.explanation)}</p></section>`;
+  }
   function card(e, key, detailed = false) {
     const s = stage(e,key); if (!s) return '';
     const fields = Object.entries(s.fields);
     const limit = detailed ? fields : fields.filter(([k]) => ['Tingkat','Ilmu yang terlihat','Bahaya teramati','Kondisi','Dampak teramati','Dampak','Risiko terbukti'].includes(k)).slice(0,3);
     const heading = detailed ? 'h2' : 'h3';
-    return `<div class="lore-card-head">${portrait(e,key)}<div><p class="eyebrow">${esc(types[e.type])}</p><${heading}${detailed?' id="lore-title"':''}>${esc(s.title)}</${heading}></div></div><p class="lore-summary">${esc(s.summary)}</p>${limit.length?'<dl class="lore-stats">'+limit.map(([k,v])=>`<div><dt>${esc(k)}</dt><dd>${esc(v)}</dd></div>`).join('')+'</dl>':''}${detailed?evidence(e,key):`<button type="button" class="lore-open" data-lore="${e.id}" data-at="${key}" aria-haspopup="dialog">Buka catatan ${esc(s.title)}</button>`}`;
+    const age=s.fields['Usia sekarang'] || s.fields['Usia'] || (s.fields['Usia saat diperkenalkan']?'Saat diperkenalkan: '+s.fields['Usia saat diperkenalkan']:'');
+    return `<div class="lore-card-head">${portrait(e,key)}<div><p class="eyebrow">${esc(types[e.type])}</p><${heading}${detailed?' id="lore-title"':''}>${esc(s.title)}</${heading}>${age?`<p class="lore-age">${esc(age)}</p>`:''}</div></div><p class="lore-summary">${esc(s.summary)}</p>${bond(e,key)}${limit.length?'<dl class="lore-stats">'+limit.map(([k,v])=>`<div><dt>${esc(k)}</dt><dd>${esc(v)}</dd></div>`).join('')+'</dl>':''}${detailed?evidence(e,key):`<button type="button" class="lore-open" data-lore="${e.id}" data-at="${key}" aria-haspopup="dialog">Buka catatan ${esc(s.title)}</button>`}`;
   }
   function evidence(e,key) {
     const stages=e.stages.filter(s=>s.key<=key);
     const current=stages.at(-1), first=stages[0];
     const list = current===first ? [first] : [first,current];
+    const r=relationship(e,key);
+    if(r && !list.some(s=>s.key===r.key))list.push(r);
+    list.sort((a,b)=>a.key-b.key);
     return '<details class="lore-evidence"><summary>Lihat dasar dalam cerita</summary>'+list.map(s=>`<blockquote>${esc(s.quote)}</blockquote><a class="lore-evidence-link" href="${href('bab-'+String(s.chapter).padStart(2,'0'),s.paragraph)}">Baca adegan · Bab ${s.chapter}</a>`).join('')+'</details>';
   }
   function openCard(button) {
@@ -98,7 +107,7 @@
     });
     section.querySelectorAll('[data-lore-chapter]').forEach(el=>{
       const relevant=entries.filter(e=>e.type!=='tokoh' && e.stages.some(s=>s.chapter===c));
-      const people=entries.filter(e=>e.type==='tokoh' && e.stages.some(s=>s.chapter===c));
+      const people=entries.filter(e=>e.type==='tokoh' && (e.stages.some(s=>s.chapter===c) || (e.relationships||[]).some(r=>r.chapter===c)));
       el.innerHTML=(relevant.length?'':'<p class="lore-note">Belum ada ilmu baru pada bab ini.</p>')+
         [...relevant,...people].map(e=>`<article class="wiki-card">${card(e,key)}</article>`).join('');
     });
@@ -108,7 +117,7 @@
     const key=boundary.value==='reading'?progress:endKey(boundary.value);
     const query=document.getElementById('wiki-search').value.trim().toLocaleLowerCase('id');
     const kind=document.getElementById('wiki-kind').value;
-    const visible=entries.map(e=>({e,s:stage(e,key)})).filter(({e,s})=>s && (kind==='all'||e.type===kind) && (!query || (s.title+' '+s.summary+' '+Object.values(s.fields).join(' ')).toLocaleLowerCase('id').includes(query)));
+    const visible=entries.map(e=>({e,s:stage(e,key),r:relationship(e,key)})).filter(({e,s,r})=>s && (kind==='all'||e.type===kind) && (!query || (s.title+' '+s.summary+' '+Object.values(s.fields).join(' ')+' '+(r?r.status+' '+r.explanation:'')).toLocaleLowerCase('id').includes(query)));
     document.getElementById('wiki-scope').textContent=context(key)+' · '+visible.length+' catatan terbuka';
     document.getElementById('wiki-list').innerHTML=visible.length?visible.map(({e})=>`<article class="wiki-card">${card(e,key)}</article>`).join(''):
       `<div class="wiki-empty"><h2>${key?'Belum ada catatan yang cocok':'Mulai dari cerita'}</h2><p>${key?'Coba kata lain atau lihat batas informasi yang dipilih.':'Kartu akan terbuka ketika kamu membaca. Kamu juga dapat memilih akhir suatu bab pada Batas informasi.'}</p><a href="${href('bab-01')}">Baca Bab 1</a></div>`;
