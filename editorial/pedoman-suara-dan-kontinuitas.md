@@ -46,3 +46,10 @@ Sesudah Bab 11: Dani 19 dan Xiaolongnü 21 pergi bersama setelah menyatakan ingi
 - Kartu tokoh memuat status hubungan dengan Dani dan penjelasan sikap/perasaan yang sudah terlihat. Status mengikuti adegan; bukan label watak tetap, persentase rekaan, atau bocoran cinta masa depan. Sifat posesif-protektif Xiaolongnü dan gengsi Guo Fu dijelaskan melalui tindakan yang sudah terjadi.
 - Sesudah Bab 12: Dani terluka berat dan dibawa penolong bertopeng yang suaranya dikenal; identitasnya belum diungkap. Xiaolongnü pergi meskipun masih percaya cinta Dani. Huang Rong telah menerima pesan bahwa Dani masih mencari. Tongkat kayu patah, bambu pinjaman dilepas, pedang Dunru sudah dikembalikan, alat jahit tetap di buntalan.
 - Jangan menyajikan kematian Hong sebagai kabar baru bagi Huang Rong atau kerja sama pedang pasangan sebagai penemuan pertama lagi. Peta sebelum arc selanjutnya tetap diperlukan; Bab 12 sudah mendapat persetujuan.
+
+
+## Koreksi 10 Oktober 2026 — emosi dalam narasi
+
+Pada titik yang mengubah tindakan atau hubungan, terangkan perasaan tokoh dan penyebabnya melalui narasi, disertai reaksi tubuh bila sesuai. Contohnya, Fu menyusul karena cemburu dan merasa dipermalukan; kedua Wu dapat takut gagal melindungi sambil tetap bersaing. Aturan ini berlaku bagi semua tokoh yang sedang diikuti narator, bukan hanya Dani. Jangan mengulang penjelasan emosi pada setiap gerak, menyamakan suara mereka, atau membuka rahasia yang belum waktunya. Pikiran langsung Dani tetap diberi huruf miring dan penanda sudut pandang.
+
+Bab 12 telah disetujui penulis; revisi terakhir hanya menambah narasi pada tujuh paragraf. Bab 13 baru berupa peta dan belum boleh ditulis sebelum disetujui.

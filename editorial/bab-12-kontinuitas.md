@@ -42,3 +42,8 @@ Urutan dan mekanisme adegan diperiksa pada terjemahan novel Jin Yong di WuxiaSoc
 Bab 12 memakai satu pembuka dan dua ilustrasi adegan. Adegan terakhir memperlihatkan pertolongan sesudah pertarungan. Bab 11 mendapat tiga tambahan sehingga totalnya enam gambar, tanpa menghapus tiga gambar lama.
 
 Wiki memisahkan perkembangan kemampuan dari perkembangan hubungan. Masing-masing memakai batas paragraf dan bukti adegan. Informasi lama tetap berlaku ketika membaca ulang bab lama. Potret hanya diperbarui dari ilustrasi baru yang benar-benar menampilkan tokoh, melalui area wajah dari berkas adegan yang sama. Tingkat yang belum terukur tetap belum terukur; status hubungan tidak diberi persentase rekaan.
+
+
+## Revisi ringan setelah pembacaan penulis
+
+10 Oktober 2026: tujuh paragraf mendapat penjelasan emosi—kecemburuan dan gengsi Fu, kecemasan kedua Wu, kepedulian Xiaolongnü, serta ketakutan Huang Rong melihat akibat pertolongan Dani. Dialog, urutan kejadian, 172 penanda paragraf, ilustrasi, dan bukti kartu tetap sama.

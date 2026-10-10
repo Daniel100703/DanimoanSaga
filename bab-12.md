@@ -22,7 +22,7 @@ Xiaolongnü mengangguk, meski bagian pertama jawaban itu tinggal lebih lama di h
 
 ***
 
-Di kediaman Lu, Guo Fu mendengar seorang tamu memuji kesetiaan perempuan Makam Kuno. Ia meninggalkan serambi sebelum orang itu selesai bicara.
+Di kediaman Lu, Guo Fu mendengar seorang tamu memuji kesetiaan perempuan Makam Kuno. Ia meninggalkan serambi sebelum orang itu selesai bicara. Pujian itu membuat telinganya panas. Dani menolaknya di hadapan banyak orang, tetapi perempuan yang dipilihnya malah dikagumi. Fu ingin menyusul mereka dan menuntut jawaban, terlalu marah untuk mengakui kecemburuannya.
 
 “Fu, engkau hendak ke mana?” Wu Dunru menyusulnya ke kandang.
 
@@ -34,7 +34,7 @@ Xiuwen tiba dari halaman. “Guru sedang menenangkan para tetua. Jangan membuat 
 
 Sebenarnya ia belum tahu apa yang akan dikatakannya. Ia membayangkan Dani menoleh, melihatnya datang, lalu menyadari ada sesuatu yang telah disia-siakan. Keinginan itu membuat penolakan di aula terasa seperti penghinaan yang masih dapat dibalas.
 
-Kedua Wu saling memandang. Kali ini Dunru tidak memperebutkan siapa yang boleh berada paling dekat. Ia menyuruh adiknya memberi tahu Huang Rong sementara dirinya mengikuti Fu.
+Kedua Wu saling memandang. Kali ini Dunru tidak memperebutkan siapa yang boleh berada paling dekat. Ia menyuruh adiknya memberi tahu Huang Rong sementara dirinya mengikuti Fu. Xiuwen ingin membantah, tetapi kecemasan akan keselamatan Fu mengalahkan keinginannya untuk mendahului kakaknya.
 
 Di tikungan sebelum kedai tepi jalan, seorang lelaki berkipas menghadang kuda mereka. Huodu tersenyum ketika mengenali putri Guo Jing. Kekalahan di aula telah membuatnya kehilangan muka; menemukan seseorang yang dapat dipakai gurunya merupakan kesempatan memulihkannya.
 
@@ -48,7 +48,7 @@ Fu berusaha menghantam sikunya. Dua jari menyentuh dekat bahunya; tenaga yang he
 
 “Pedangmu boleh terus maju,” kata Jinlun. “Tetapi putri gurumu berdiri lebih dekat kepadaku daripada engkau.”
 
-Dunru menahan bilah. Satu keputusan yang terlambat telah membuat semua keberaniannya tidak berguna.
+Dunru menahan bilah. Satu keputusan yang terlambat telah membuat semua keberaniannya tidak berguna. Ia takut mencelakai Fu justru ketika hendak membuktikan bahwa dirinya mampu melindunginya.
 
 Huang Rong datang bersama Xiuwen sesaat kemudian. Ia sempat melihat Fu meninggalkan halaman, lalu menerima kabar dari pemuda itu. Guo Jing masih menangani perselisihan para perguruan; Wu Santong membantu merawat orang yang terluka. Ia menyangka hanya perlu membawa anak-anak pulang sebelum kemarahan mereka menimbulkan perkara baru.
 
@@ -68,7 +68,7 @@ Dani dan Xiaolongnü berhenti di kedai yang sama untuk membeli bekal. Dari halam
 
 “Ibu, jangan menyerahkan tongkatmu kepadanya!”
 
-Dani menoleh kepada Xiaolongnü. Perempuan itu sudah meletakkan buntalan mereka di bangku.
+Dani menoleh kepada Xiaolongnü. Perempuan itu sudah meletakkan buntalan mereka di bangku. Ia mencemaskan luka Dani, tetapi tahu meninggalkan keluarga Guo akan menyiksanya lebih lama.
 
 “Naiklah. Aku di belakangmu,” katanya.
 
@@ -122,7 +122,7 @@ Dunru menerimanya dengan wajah kaku. “Aku belum melupakan kebohonganmu.”
 
 Dunru membuka mulut, lalu hanya mengangguk. Ucapan terima kasih terasa tersangkut bersama harga dirinya.
 
-Guo Fu mendatangi Dani setelah Xiaolongnü mengambil air. Ia berdiri cukup lama sampai pemuda itu menyingkirkan buntalan dari tempat duduk di sampingnya. Fu tetap berdiri.
+Guo Fu mendatangi Dani setelah Xiaolongnü mengambil air. Ia berdiri cukup lama sampai pemuda itu menyingkirkan buntalan dari tempat duduk di sampingnya. Fu tetap berdiri. Ia ingin berterima kasih; mengucapkannya terasa seperti menyerahkan sisa harga dirinya kepada Dani.
 
 “Aku tidak menyuruhmu datang menolong,” katanya.
 
@@ -132,7 +132,7 @@ Guo Fu mendatangi Dani setelah Xiaolongnü mengambil air. Ia berdiri cukup lama 
 
 Dani berhenti menggulung balutan. Ia melihat bekas merah pada pergelangan Fu dan amarah yang dipakainya untuk menutupi ketakutan. “Kalau hendak membalas, jangan berangkat seorang diri untuk mengejar orang yang membuatmu kesal. Hari ini Bibi Guo hampir ikut tertangkap.”
 
-“Aku tidak mengejarmu!” Guo Fu menjawab terlalu cepat. Matanya berpindah kepada Xiaolongnü yang kembali membawa baskom. “Dan aku tidak takut kepadanya.”
+“Aku tidak mengejarmu!” Guo Fu menjawab terlalu cepat. Matanya berpindah kepada Xiaolongnü yang kembali membawa baskom. “Dan aku tidak takut kepadanya.” Melihat perhatian Xiaolongnü, ia merasa tersisih bahkan sebelum perempuan itu berbicara.
 
 “Tidak ada yang menyuruhmu takut,” kata Xiaolongnü. Ia duduk di sisi Dani, lalu mengambil tangan yang hendak dibalutnya. “Tetapi dia perlu beristirahat.”
 
@@ -304,7 +304,7 @@ Batu yang tadi terlepas jatuh mengenai punggung Jinlun. Sang guru terhuyung, mel
 
 Dani mencoba bangkit. Darah memenuhi mulutnya.
 
-“Jangan bergerak!” Huang Rong merangkak mendekat, sementara Guo Fu berdiri di depannya dengan pedang gemetar.
+“Jangan bergerak!” Huang Rong merangkak mendekat, sementara Guo Fu berdiri di depannya dengan pedang gemetar. Huang Rong ngeri melihat darah Dani. Pemuda itu telah kehilangan kekasihnya, kini hampir kehilangan nyawa demi dirinya.
 
 “Aku masih bisa menahan jalan,” kata Fu. Suaranya hampir pecah. “Dunru, bawa Ibu!”
 

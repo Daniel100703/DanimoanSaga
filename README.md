@@ -50,6 +50,12 @@ Kotak **Hubungan dengan Dani** tampil pada kartu tokoh, bersama kondisi dan kema
 - [Kontinuitas Bab 12 dan rujukan kanon](editorial/bab-12-kontinuitas.md).
 - [Enam gambar baru dan arahan produksinya](editorial/bab-11-12-visual.md).
 
+## Revisi emosi Bab 12 dan peta Bab 13
+
+Bab 12 mendapat tambahan singkat pada tujuh paragraf agar emosi serta alasan tindakan tokoh lebih jelas. Alur, dialog, gambar, dan posisi baca tetap dipertahankan.
+
+[Peta Bab 13 — Bayang Ayah, Benih Dendam](https://daniel100703.github.io/DanimoanSaga/peta-bab-13.html) tersedia sebagai usulan yang menunggu persetujuan penulis. **Naskah Bab 13 belum terbit.** Peta mencakup Babak VII.5 poin 8–14 dan mencatat penjahitan kanon dengan lore.
+
 ## Membaca
 
 Gunakan daftar bab untuk berpindah, tombol A−/A+ untuk ukuran huruf, dan tombol tema untuk beralih antara tampilan krem dan gelap. Posisi baca tersimpan pada peramban yang dipakai.
@@ -66,7 +72,7 @@ Repositori ini adalah situs statis; Python dipakai hanya saat menyusun halaman. 
 python3 build.py
 ```
 
-Perintah itu membangun `index.html`, `wiki.html`, peta editorial `peta-bab-11.html` dan `peta-bab-12.html`, dan semua `bab-XX.html` dari `book.json`, `bab-XX.md`, serta `lore-data.json`. Catatan kontinuitas penulis tetap di Markdown dan tidak masuk ke halaman bacaan.
+Perintah itu membangun `index.html`, `wiki.html`, peta editorial `peta-bab-11.html`, `peta-bab-12.html`, dan `peta-bab-13.html`, dan semua `bab-XX.html` dari `book.json`, `bab-XX.md`, serta `lore-data.json`. Catatan kontinuitas penulis tetap di Markdown dan tidak masuk ke halaman bacaan.
 
 Untuk satu berkas HTML yang dapat dibaca tanpa internet:
 
