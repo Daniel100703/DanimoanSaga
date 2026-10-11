@@ -1,6 +1,6 @@
 # Peta Bab 13 — Bayang Ayah, Benih Dendam
 
-Status: **usulan alur, menunggu persetujuan penulis**. Naskah Bab 13 belum ditulis. Peta ini mengandung bocoran; dasar utamanya lorebook Jalur A dan keadaan akhir Bab 12.
+Status: **disetujui penulis dan telah diadaptasi menjadi Bab 13**. Peta ini mengandung bocoran; dasar utamanya lorebook Jalur A dan keadaan akhir Bab 12.
 
 ## Lima pijakan lorebook
 
@@ -24,7 +24,7 @@ Target sekitar **3.500–4.000 kata** untuk menuntaskan pemulihan, ancaman Li Mo
 
 ## Penjahitan kanon dan batas kontinuitas
 
-- **Kang Moan:** rincian lengkap kematiannya tidak ada di lorebook. Usulan memakai mekanisme kesaksian kanon—serangan ayah Dani mengenai perlindungan beracun Huang Rong—dengan waktu kematian mengikuti lore, ketika Dani berusia lima tahun. Pertobatan dan kenangan keluarga tidak dibatalkan. Kesaksian Shagu belum menjelaskan seluruh pertikaian; tuduhan bahwa keluarga Guo sengaja membunuh ayahnya adalah kesimpulan Dani, bukan kepastian narator. Motif yang belum terungkap tidak diisi dengan sejarah rekaan.
+- **Kang Moan:** rincian lengkap kematiannya tidak ada di lorebook. Adaptasi memakai mekanisme kesaksian kanon—serangan ayah Dani mengenai perlindungan beracun Huang Rong—dengan waktu kematian mengikuti lore, ketika Dani berusia lima tahun. Pertobatan dan kenangan keluarga tidak dibatalkan. Kesaksian Shagu belum menjelaskan seluruh pertikaian; tuduhan bahwa keluarga Guo sengaja membunuh ayahnya adalah kesimpulan Dani, bukan kepastian narator. Motif yang belum terungkap tidak diisi dengan sejarah rekaan.
 - **Huang Yaoshi dan Feng:** bantuan mereka berlangsung pada tahap berbeda. Huang tidak berdiri menonton saat Feng terdesak. Pelajaran yang ditinggalkannya menjelaskan mengapa Li Mochou tetap gentar sesudah pertarungan dengan Feng. Shagu kuat dalam gerakan terbatas; keberhasilannya menahan serangan pertama tidak membuatnya kebal terhadap serangan susulan.
 - **Pemulihan dan ilmu:** beberapa hari perawatan serta bantuan Huang mendahului kemampuan Dani bergerak kembali. Luka dada, bahu, dan tangan diperhitungkan. Ilmu Huang baru dipelajari dasarnya. Nasihat Jinlun menjadi benih pencarian gaya sendiri, **belum kelahiran atau penguasaan Tapak Melankolis**.
 - **Hubungan dan benda:** sapaan tetap Bibi, Kakanda, Adik atau Sepupu sesuai kedudukan; Dani memakai aku kepada orang dekat. Cheng Ying bukan pengganti Xiaolongnü. Jubah biru yang dijahit Xiaolongnü serta jarum Mu Nianci tetap milik Dani; perawatan pakaian oleh Cheng Ying tidak menghapus peninggalan itu. Senjata atau tunggangan baru harus jelas asalnya.
@@ -34,11 +34,11 @@ Target sekitar **3.500–4.000 kata** untuk menuntaskan pemulihan, ancaman Li Mo
 
 Pembuka memperlihatkan Dani dalam perawatan gadis yang masih bertopeng. Dua ilustrasi peristiwa: Feng Mofeng melindungi kelompok di tempat penempaan, lalu kesaksian Shagu yang mengguncang Dani dengan reaksi Cheng Ying dan Wushuang. Wajah dewasa Cheng Ying baru ditampilkan sesudah samaran terbuka. Semua visual lama tetap berada di bab asalnya.
 
-Potret diperbarui dari gambar adegan yang menampilkan tokoh. Kartu mencatat identitas, kondisi luka, hubungan, dan kemampuan sesuai paragraf pengungkapan. Jurus baru ditandai baru dipelajari, bukan otomatis dikuasai. Ancaman Li Mochou dan keterbatasan Shagu dijelaskan melalui bukti pertarungan; pengetahuan yang belum terlihat tetap belum diketahui. Tidak membuat gambar baru sebelum petanya disetujui.
+Potret diperbarui dari gambar adegan yang menampilkan tokoh. Kartu mencatat identitas, kondisi luka, hubungan, dan kemampuan sesuai paragraf pengungkapan. Jurus baru ditandai baru dipelajari, bukan otomatis dikuasai. Ancaman Li Mochou dan keterbatasan Shagu dijelaskan melalui bukti pertarungan; pengetahuan yang belum terlihat tetap belum diketahui. Ketiga gambar dibuat setelah persetujuan peta.
 
 ## Rujukan pemeriksaan kanon
 
-Diperiksa 10 Oktober 2026 pada terjemahan novel Jin Yong di WuxiaSociety. Rujukan dipakai untuk urutan dan sebab-akibat; naskah Saga akan ditulis dengan prosa tersendiri mengikuti lore.
+Diperiksa 10 Oktober 2026 pada terjemahan novel Jin Yong di WuxiaSociety. Rujukan dipakai untuk urutan dan sebab-akibat; naskah Saga ditulis dengan prosa tersendiri mengikuti lore.
 
 - [Bab 15 bagian 3](https://wuxiasociety.com/return-of-the-condor-heroes-chapter-15-part-3/) — identitas Cheng Ying dan kembalinya Wushuang.
 - [Bab 15 bagian 5](https://wuxiasociety.com/return-of-the-condor-heroes-chapter-15-part-5/) — bantuan Shagu dan Huang Yaoshi.

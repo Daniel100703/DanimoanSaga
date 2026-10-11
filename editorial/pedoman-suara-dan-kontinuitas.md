@@ -52,4 +52,9 @@ Sesudah Bab 11: Dani 19 dan Xiaolongnü 21 pergi bersama setelah menyatakan ingi
 
 Pada titik yang mengubah tindakan atau hubungan, terangkan perasaan tokoh dan penyebabnya melalui narasi, disertai reaksi tubuh bila sesuai. Contohnya, Fu menyusul karena cemburu dan merasa dipermalukan; kedua Wu dapat takut gagal melindungi sambil tetap bersaing. Aturan ini berlaku bagi semua tokoh yang sedang diikuti narator, bukan hanya Dani. Jangan mengulang penjelasan emosi pada setiap gerak, menyamakan suara mereka, atau membuka rahasia yang belum waktunya. Pikiran langsung Dani tetap diberi huruf miring dan penanda sudut pandang.
 
-Bab 12 telah disetujui penulis; revisi terakhir hanya menambah narasi pada tujuh paragraf. Bab 13 baru berupa peta dan belum boleh ditulis sebelum disetujui.
+Bab 12 telah disetujui penulis; revisi terakhir hanya menambah narasi pada tujuh paragraf. Peta Bab 13 kemudian disetujui penulis dan telah diadaptasi.
+
+
+## Batas sesudah Bab 13
+
+Samaran Cheng Ying telah terbuka kepada Dani; masa kecil bersama tidak diulang sebagai perkenalan pertama. Dani telah menerima dasar Jentikan Jari Sakti dan Pedang Seruling Giok dari Huang Yaoshi. Feng Mofeng menolong mengusir Li Mochou. Kesaksian Shagu membangkitkan dendam Dani terhadap keluarga Guo, tetapi dugaan pembunuhan berencana belum terbukti. Ia berjanji memastikan kesalahan sebelum membalas. Di akhir bab ia mengikuti Jinlun dengan batas tidak menyakiti rakyat. Kublai dan Lembah Tanpa Cinta belum muncul. Keadaan luka, benda, dan hubungan selengkapnya dicatat dalam `bab-13-kontinuitas.md`.

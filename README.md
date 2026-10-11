@@ -1,4 +1,4 @@
-# Saga Dani Moan — Bab 1–12
+# Saga Dani Moan — Bab 1–13
 
 Novel wuxia berilustrasi karya Daniel Halomoan Siregar.
 
@@ -12,7 +12,7 @@ Novel wuxia berilustrasi karya Daniel Halomoan Siregar.
 - Sapaan memakai bahasa Indonesia. Dialog mengalir melalui atribusi naratif tanpa format `Nama: ucapan`.
 - Bab 10: **Dua Nama di Bawah Salju**, dengan satu pembuka dan dua ilustrasi peristiwa. Pertemuan serta warisan dua tetua selesai dalam satu arc.
 - Semua 33 ilustrasi lama dipertahankan. Empat ilustrasi baru ditambahkan: rekonsiliasi hujan dan tiga gambar Bab 10.
-- Wiki berisi 66 catatan dengan 288 tahap informasi dan 98 pembaruan hubungan. Kartu mengikuti paragraf bacaan; penguasaan ilmu Dani dibedakan dari kekuatan gurunya.
+- Wiki berisi 74 catatan dengan 338 tahap informasi dan 123 pembaruan hubungan. Kartu mengikuti paragraf bacaan; penguasaan ilmu Dani dibedakan dari kekuatan gurunya.
 - Penanda baca edisi lama dipetakan ke adegan terdekat dalam pembagian baru. Tema dan ukuran huruf tetap tersimpan. Salinan posisi sebelum revisi tetap disimpan di peramban.
 
 ## Pembaruan narasi dan Bab 9
@@ -54,7 +54,16 @@ Kotak **Hubungan dengan Dani** tampil pada kartu tokoh, bersama kondisi dan kema
 
 Bab 12 mendapat tambahan singkat pada tujuh paragraf agar emosi serta alasan tindakan tokoh lebih jelas. Alur, dialog, gambar, dan posisi baca tetap dipertahankan.
 
-[Peta Bab 13 — Bayang Ayah, Benih Dendam](https://daniel100703.github.io/DanimoanSaga/peta-bab-13.html) tersedia sebagai usulan yang menunggu persetujuan penulis. **Naskah Bab 13 belum terbit.** Peta mencakup Babak VII.5 poin 8–14 dan mencatat penjahitan kanon dengan lore.
+[Peta Bab 13 — Bayang Ayah, Benih Dendam](https://daniel100703.github.io/DanimoanSaga/peta-bab-13.html) telah disetujui dan diadaptasi menjadi naskah. Peta mencakup Babak VII.5 poin 8–14 dan mencatat penjahitan kanon dengan lore.
+
+## Bab 13 — Bayang Ayah, Benih Dendam
+
+[Baca Bab 13](https://daniel100703.github.io/DanimoanSaga/bab-13.html). Pemulihan Dani, terbukanya samaran Cheng Ying, pertolongan Huang Yaoshi dan Feng Mofeng, kesaksian Shagu, serta keputusan mengikuti Jinlun selesai dalam satu arc. Narator membedakan kesaksian terbatas dari tuduhan Dani terhadap keluarga Guo.
+
+Tiga ilustrasi baru membawa jumlah gambar cerita menjadi 49, ditambah satu sampul utama. Seluruh naskah Bab 1–12 dan aset lama dipertahankan. Kartu Cheng Ying beralih dari samaran ke identitas asli tepat sesudah pengungkapan; membaca bab lama tetap menampilkan informasi saat itu. Potret, hubungan, luka, serta batas penguasaan ilmu diperbarui dari adegan Bab 13.
+
+- [Kontinuitas dan penjahitan kanon Bab 13](editorial/bab-13-kontinuitas.md).
+- [Arahan dan aset ilustrasi Bab 13](editorial/bab-13-visual.md).
 
 ## Membaca
 

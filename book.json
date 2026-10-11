@@ -1,6 +1,6 @@
 {
   "title": "Saga Dani Moan",
-  "description": "Novel wuxia berilustrasi karya Daniel Halomoan Siregar. Bab 1–12, dengan Wiki Persilatan yang mengikuti cerita.",
+  "description": "Novel wuxia berilustrasi karya Daniel Halomoan Siregar. Bab 1–13, dengan Wiki Persilatan yang mengikuti cerita.",
   "chapters": [
     {
       "id": 1,
@@ -1116,6 +1116,90 @@
           "name": "Gadis berjubah hijau",
           "age": "",
           "description": "Membebaskan Wushuang dari penjagaan Hong Lingbo."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "slug": "bab-13",
+      "han": "十三",
+      "source": "bab-13.md",
+      "title": "Bayang Ayah, Benih Dendam",
+      "accent": "#856249",
+      "description": "Dalam perawatan seorang penolong lama, Dani menemukan kehangatan dan kabar yang mengguncang kepercayaannya. Ancaman Li Mochou membawa mereka ke sebuah bengkel.",
+      "quote": "Aku ingin engkau kembali dengan jawaban, bukan membawa penyesalan yang tidak dapat ditarik lagi.",
+      "cover": {
+        "file": "bab-13-pembuka.webp",
+        "width": 1024,
+        "height": 1536
+      },
+      "plates": [
+        {
+          "image": {
+            "file": "bab-13-ilustrasi-01.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "anchor": "“Engkau boleh pergi dari bengkelnya orang miskin ini,” katanya. “Mereka tinggal.”",
+          "alt": "Feng Mofeng berdiri di depan Dani, Cheng Ying, dan Wushuang, menghadapi Li Mochou di bengkel.",
+          "caption": "Seorang murid yang diusir tetap memilih melindungi nama gurunya."
+        },
+        {
+          "image": {
+            "file": "bab-13-ilustrasi-02.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "anchor": "Shagu menyusut ketika Dani berpaling. Amarah dalam tatapan pemuda itu menghidupkan kembali wajah yang ditakutinya. Cheng Ying segera berdiri di antara mereka, dan Wushuang masuk untuk memegangi selimut Shagu.",
+          "alt": "Shagu ketakutan di pembaringan ketika Dani mendengar kesaksiannya; Cheng Ying dan Wushuang berusaha menenangkan keadaan.",
+          "caption": "Satu kesaksian membuka luka yang belum mempunyai jawaban lengkap."
+        }
+      ],
+      "cast": [
+        {
+          "name": "Dani Moan",
+          "age": "19 tahun",
+          "description": "Memilih ikut menemui rombongan Jinlun dengan syarat tidak membantu penindasan rakyat."
+        },
+        {
+          "name": "Cheng Ying",
+          "age": "Sekitar 18–19 tahun",
+          "description": "Merawat Shagu dan meminta Dani memastikan tuduhan sebelum membalas."
+        },
+        {
+          "name": "Lu Wushuang",
+          "age": "Sekitar 18 tahun",
+          "description": "Menegur Dani memakai pengalamannya sendiri kehilangan keluarga."
+        },
+        {
+          "name": "Huang Yaoshi",
+          "age": "",
+          "description": "Mengajar dasar ilmu lalu berangkat dengan menitipkan obat serta peringatan."
+        },
+        {
+          "name": "Shagu",
+          "age": "",
+          "description": "Menceritakan fragmen malam kematian Kang Moan."
+        },
+        {
+          "name": "Feng Mofeng",
+          "age": "",
+          "description": "Bertahan sampai Li Mochou pergi, lalu menerima pertolongan kedua sepupu."
+        },
+        {
+          "name": "Li Mochou",
+          "age": "",
+          "description": "Mundur dari bengkel setelah kebut terbakar dan pengetahuannya tentang lawan berubah."
+        },
+        {
+          "name": "Jinlun Guoshi",
+          "age": "",
+          "description": "Membujuk Dani memakai peluang dendam dan keinginan memperdalam ilmu."
+        },
+        {
+          "name": "Daerba",
+          "age": "",
+          "description": "Menjaga gurunya yang terluka dan memohon kepada Dani."
         }
       ]
     }

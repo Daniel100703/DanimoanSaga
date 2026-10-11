@@ -16,6 +16,8 @@
   const esc = value => String(value).replace(/[&<>"']/g, ch => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[ch]));
   const href = (page, anchor = '') => single ? '#' + page + (anchor ? '/' + anchor : '') : (page === 'beranda' ? 'index' : page) + '.html' + (anchor ? '#' + anchor : '');
   const stage = (e, key) => e.stages.filter(s => s.key <= key).at(-1);
+  // Samaran baru terhubung dengan identitas asli sesudah adegan pengungkapan.
+  const resolveEntry = (e, key) => e.revealedAs && key >= e.revealedAs.key ? (byId.get(e.revealedAs.id) || e) : e;
   const relationship = (e, key) => (e.relationships || []).filter(r => r.key <= key).at(-1);
   const endKey = c => Number(c) * 10000 + Number(data.chapterLengths[c] || 0);
   const keyOf = id => { const m = /^p-(\d+)-(\d+)$/.exec(id || ''); return m ? Number(m[1])*10000 + Number(m[2]) : 0; };
@@ -54,6 +56,7 @@
     return `<section class="lore-bond" aria-label="${e.id==='dani'?'Hubungan utama':'Hubungan dengan Dani'}"><p class="lore-bond-label">${e.id==='dani'?'Hubungan utama':'Hubungan dengan Dani'}</p><p class="lore-bond-status">${esc(r.status)}</p><p>${esc(r.explanation)}</p></section>`;
   }
   function card(e, key, detailed = false) {
+    e = resolveEntry(e, key);
     const s = stage(e,key); if (!s) return '';
     const fields = Object.entries(s.fields);
     const limit = detailed ? fields : fields.filter(([k]) => ['Tingkat','Ilmu yang terlihat','Bahaya teramati','Kondisi','Dampak teramati','Dampak','Risiko terbukti'].includes(k)).slice(0,3);
@@ -107,7 +110,7 @@
     });
     section.querySelectorAll('[data-lore-chapter]').forEach(el=>{
       const relevant=entries.filter(e=>e.type!=='tokoh' && e.stages.some(s=>s.chapter===c));
-      const people=entries.filter(e=>e.type==='tokoh' && (e.stages.some(s=>s.chapter===c) || (e.relationships||[]).some(r=>r.chapter===c)));
+      const people=entries.filter(e=>resolveEntry(e,key)===e && e.type==='tokoh' && (e.stages.some(s=>s.chapter===c) || (e.relationships||[]).some(r=>r.chapter===c)));
       el.innerHTML=(relevant.length?'':'<p class="lore-note">Belum ada ilmu baru pada bab ini.</p>')+
         [...relevant,...people].map(e=>`<article class="wiki-card">${card(e,key)}</article>`).join('');
     });
@@ -117,7 +120,7 @@
     const key=boundary.value==='reading'?progress:endKey(boundary.value);
     const query=document.getElementById('wiki-search').value.trim().toLocaleLowerCase('id');
     const kind=document.getElementById('wiki-kind').value;
-    const visible=entries.map(e=>({e,s:stage(e,key),r:relationship(e,key)})).filter(({e,s,r})=>s && (kind==='all'||e.type===kind) && (!query || (s.title+' '+s.summary+' '+Object.values(s.fields).join(' ')+' '+(r?r.status+' '+r.explanation:'')).toLocaleLowerCase('id').includes(query)));
+    const visible=entries.filter(e=>resolveEntry(e,key)===e).map(e=>({e,s:stage(e,key),r:relationship(e,key)})).filter(({e,s,r})=>s && (kind==='all'||e.type===kind) && (!query || (s.title+' '+s.summary+' '+Object.values(s.fields).join(' ')+' '+(r?r.status+' '+r.explanation:'')).toLocaleLowerCase('id').includes(query)));
     document.getElementById('wiki-scope').textContent=context(key)+' · '+visible.length+' catatan terbuka';
     document.getElementById('wiki-list').innerHTML=visible.length?visible.map(({e})=>`<article class="wiki-card">${card(e,key)}</article>`).join(''):
       `<div class="wiki-empty"><h2>${key?'Belum ada catatan yang cocok':'Mulai dari cerita'}</h2><p>${key?'Coba kata lain atau lihat batas informasi yang dipilih.':'Kartu akan terbuka ketika kamu membaca. Kamu juga dapat memilih akhir suatu bab pada Batas informasi.'}</p><a href="${href('bab-01')}">Baca Bab 1</a></div>`;
