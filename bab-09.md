@@ -86,7 +86,7 @@ Wanyan Ping mengambil senjatanya, lalu pergi. Dani menyusul setelah memberi isya
 
 “Engkau datang untuk menertawakan aku?” Wanyan Ping mengangkat golok ketika mendengar langkah di belakangnya.
 
-Dani berhenti di luar jangkauan. “Kalau hendak menertawakan Nona, aku tidak perlu meninggalkan tempat yang aman. Aku melihat kesalahan pada pijakanmu. Bolehkah aku menunjukkannya?”
+Dani berhenti di luar jangkauan. “Kalau hendak menertawakanmu, aku bisa melakukannya dari jendela. Untuk apa mempertaruhkan leher di depan golok Nona yang cantik? Turunkan sedikit. Aku tahu cara membuat tangan kiri pemuda itu keluar.”
 
 “Apa gunanya?” Wanyan Ping menurunkan bilahnya sedikit. “Engkau melihat sendiri betapa jauh kemampuanku di bawahnya.”
 
@@ -96,7 +96,7 @@ Wanyan Ping mencoba gerakan itu. Dani membetulkan jaraknya dengan ujung ranting,
 
 “Siapa gurumu?” tanya Wanyan Ping, untuk pertama kali tanpa kemarahan.
 
-“Seorang yang sedang kucari. Aku mengecewakannya karena terlambat memahami perkataannya.” Dani membuang ranting. “Tetapi jangan keliru: pijakan yang benar belum cukup untuk mengalahkan Yelü Qi.”
+“Guruku? Kalau Nona melihatnya, mungkin lupa bertanya tentang ilmu silat.” Senyum Dani timbul, lalu mengabur. “Aku sedang mencarinya. Tetapi untuk menghadapi Yelü Qi, yang perlu kauingat sekarang ialah pijakan itu.”
 
 “Aku tidak perlu mengalahkannya. Aku hanya perlu membuat tangan kirinya bergerak,” ujar Wanyan Ping.
 
@@ -104,9 +104,9 @@ Dani teringat bagaimana Qi selalu mendahulukan keselamatan orang lain. Ia menera
 
 Wanyan Ping menatap bilahnya. “Engkau mengajariku memakai belas kasihnya untuk mengambil nyawanya.”
 
-Ucapan itu membuat Dani menahan napas. Ia tadi memikirkan celah gerakan, bukan harga dari kemenangan tersebut. *Aku marah melihat dia dikalahkan. Apakah itu berarti aku berhak menentukan siapa yang pantas mati?*
+Dani menatapnya, kemudian golok di tangannya. Tadi ia begitu senang menemukan akal yang dapat mengalahkan janji Qi sampai hampir lupa bahwa yang dipertaruhkan bukan sekadar harga diri. Namun melihat kesedihan Wanyan Ping, ia tetap tidak ingin menarik pelajarannya.
 
-“Aku menunjukkan celahnya,” jawab Dani akhirnya. “Tetapi bila dia masih berusaha menyelamatkanmu, lihatlah orang yang berdiri di hadapanmu. Jangan hanya melihat nama keluarganya.”
+“Bukankah Nona sendiri yang ingin menang?” Dani menyilangkan tangan. “Aku hanya menunjukkan jalan. Nanti kalau dia masih lebih suka menyelamatkanmu daripada menjaga nyawanya sendiri, Nona yang memutuskan apakah jalan itu harus diteruskan.”
 
 Wushuang muncul dari jalan setapak. Ia telah mendengar bagian terakhir percakapan mereka.
 
@@ -126,7 +126,7 @@ Wanyan Ping tidak mampu mengangkat senjata. Lelaki yang hendak dibunuhnya baru s
 
 “Aku tidak akan menyentuh ayahmu lagi,” kata Wanyan Ping. “Jangan minta aku mengucapkan lebih daripada itu hari ini.”
 
-Di halaman, Dani mengatupkan tangan kepada Qi. “Aku yang menunjukkan celah pertahananmu. Engkau berhak marah kepadaku.”
+Di halaman, Dani mengatupkan tangan kepada Qi. “Saudara Yelü, kalau hendak memukul orang yang mengajarkan tipu itu, aku ada di sini. Tetapi jangan gunakan kedua tangan sekaligus. Aku belum berjanji menanggungnya.”
 
 “Saudara sudah mendengar namaku semalam,” jawab Qi setelah menerima hormat itu. “Aku Yelü Qi. Ini adikku, Yelü Yan. Dengan siapa kami berbicara?”
 
@@ -138,7 +138,7 @@ Yelü Yan melirik Wanyan Ping, lalu Dani. “Kalian berdua mempunyai cara berken
 
 Wanyan Ping membungkuk kepada Dani setelah mereka meninggalkan halaman. “Namaku Wanyan Ping. Terima kasih karena semalam engkau tidak memperlakukan aku sebagai perempuan gila yang patut diusir.”
 
-Dani membalas hormatnya. Kekaguman dalam mata gadis itu membuatnya teringat tatapan Xiaolongnü ketika meminta jawaban darinya. Kali ini ia tidak membiarkan kerinduan mengaburkan siapa yang sedang dihadapinya.
+Dani membalas hormatnya. “Kalau setiap ucapan terima kasih disampaikan semanis ini, orang bisa ketagihan mencampuri urusan Nona.” Wanyan Ping menunduk; baru ketika melihat matanya dari dekat, Dani teringat Xiaolongnü. Senyumnya tertahan. Ia hendak melanjutkan gurauan, tetapi yang terbayang justru orang yang belum diketemukannya.
 
 ***
 
@@ -156,7 +156,7 @@ Ketika Dani kembali, kamar itu kosong. Perempuan berjubah hijau menunggunya di l
 
 Dani memandang pintu kamar. *Aku meninggalkannya karena mengira ia sudah aman. Sekarang jangan sampai penyesalanku membuat orang lain ikut tertangkap.*
 
-“Tunjukkan jalannya, Nona. Kali ini aku akan mendengarkan sebelum bergerak,” kata Dani.
+“Kalau Nona berniat memperdayaku, sejak kemarin tentu sudah berhasil.” Dani mengangkat buntalannya. “Mari. Jangan sampai Wushuang mengira aku hanya pandai membelikan air.”
 
 Wanyan Ping menyusul ketika mengetahui penculikan itu. “Aku ikut. Jangan menyuruhku pergi dengan alasan hendak melindungiku. Kawanmu menemaniku ketika aku tidak mempunyai siapa-siapa.”
 
@@ -164,7 +164,7 @@ Pagi hari, sebelum mendekati Wuguan, gadis berjubah hijau mengeluarkan topeng ti
 
 “Li Mochou mengenali wajahmu,” kata gadis itu. “Biarkan ia melihat orang asing sampai kita cukup dekat. Nona Wanyan dapat menutupi wajah dengan tudung; perhatian mereka akan tertuju kepada tawanan.”
 
-“Aku akan mendekati gurunya,” ujar Dani. “Tolong keluarkan Wushuang ketika Hong Lingbo berpaling. Nona Wanyan, jagalah pintu belakang. Kita datang untuk membawa seorang kawan pulang, bukan memenangi nama.”
+“Aku akan membuat gurunya sibuk memarahiku,” ujar Dani. “Nona keluarkan Wushuang saat Hong Lingbo berpaling. Nona Wanyan, jagalah pintu belakang. Kalau berhasil, jangan menunggu aku memberi hormat dahulu—larilah.”
 
 ***
 
@@ -194,7 +194,7 @@ Dani menarik topeng itu.
 
 Li Mochou tersenyum. “Di mana adik seperguruanku? Di makam engkau tidak sudi terpisah darinya. Apakah sekarang ia sudah bosan memelihara murid kesayangan?”
 
-“Lepaskan Wushuang,” kata Dani. “Urusan Bibi denganku dapat kita selesaikan setelah ia keluar.”
+“Kalau Bibi merindukan omelanku, aku bersedia tinggal sebentar. Lepaskan Wushuang dahulu. Menghadapi seorang yang tangannya ditahan orang lain tentu kurang membanggakan ilmu Bibi.”
 
 “Murid yang gagah sekali,” ujar Li Mochou. “Seorang perempuan muda menyembunyikan lelaki di makam, lalu menuntut orang menghormatinya sebagai guru. Kalian hendak mengajari dunia tentang ilmu silat atau tentang hubungan yang tidak tahu malu?”
 
@@ -260,15 +260,15 @@ Qi menerima kain itu. Ia tidak meminta pengampunan kedua kali.
 
 Di serambi, Guo Fu mengamati Dani. “Engkau Dani Moan? Mengapa tidak menyapa sejak tadi? Ayah mengira engkau masih belajar dengan baik di Quanzhen.”
 
-“Aku harus menjelaskan banyak hal kepada Paman Guo.” Dani membungkuk. “Tetapi sekarang ada orang yang harus kutemukan.”
+“Baru bertemu sudah menyuruhku menjawab begitu banyak perkara, Fu. Paman Guo saja belum sempat bertanya.” Dani tersenyum, lalu melirik jalan keluar. “Katakan aku akan mencarinya. Sekarang aku harus menemukan seseorang dahulu.”
 
 Wushuang menunggu Guo Fu berpaling sebelum mencengkeram lengan jubahnya. “Sejak kapan Kakanda tahu siapa aku?”
 
-“Sejak di warung,” jawab Dani. “Aku meminta maaf karena tidak segera mengaku. Aku belum tahu apakah engkau masih memihak gurumu.”
+“Sejak di warung. Orang lain boleh berubah wajah, tetapi omelanmu sulit keliru.” Dani mencoba tersenyum. “Aku belum tahu apakah kau masih bersama gurumu. Itu sebabnya aku menahan nama.”
 
 “Perempuan itu membunuh keluargaku.” Mata Wushuang memerah, tetapi suaranya tidak merendah. “Bertahun-tahun aku menurut agar tetap hidup. Jangan menyamakan keduanya lagi.”
 
-Dani menunduk. “Aku mengerti. Kesalahanku.”
+Senyum Dani lenyap. “Aku salah, Wushuang. Omongan tadi pun tidak patut.” Ia tidak mencoba menutupi kesalahan itu dengan gurauan kedua.
 
 Gadis berjubah hijau menyerahkan kain pembebat kepadanya. Ketika Dani kembali menanyakan namanya, ia hanya memberi hormat.
 

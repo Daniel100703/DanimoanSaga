@@ -25,7 +25,7 @@ assert.strictEqual(api.resolveEntry(helper,130016),helper);
 assert.strictEqual(api.resolveEntry(helper,130017).id,'cheng-ying');
 const beforeReveal=api.card(helper,130016,true),afterReveal=api.card(helper,130017,true);
 assert(beforeReveal.includes('bab-13-pembuka.webp'));assert(!beforeReveal.includes('Cheng Ying'));
-assert(afterReveal.includes('Cheng Ying'));assert(afterReveal.includes('bab-13-ilustrasi-01.webp'));
+assert(afterReveal.includes('Cheng Ying'));assert(afterReveal.includes('bab-13-ilustrasi-03.webp'));
 assert(!afterReveal.includes('bab-02-ilustrasi-01.webp'));
 assert(!api.card(byId('shagu'),130042));assert(api.card(byId('shagu'),130043).includes('Shagu'));
 assert(!api.card(byId('feng-mofeng'),130088));assert(api.card(byId('feng-mofeng'),130089).includes('Feng Mofeng'));

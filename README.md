@@ -105,3 +105,8 @@ Buka `http://localhost:8000` setelah server berjalan. Tekan Ctrl+C untuk menghen
 4. Commit seluruh berkas yang berubah beserta aset baru ke `main`. GitHub Pages menerbitkan situs dari cabang yang sudah dikonfigurasi.
 
 Jangan menghapus aset lama yang masih dipakai bab atau potret tokoh. Jika revisi mengubah nomor bab atau paragraf, perbarui pemetaan `edition-migration.json` dan kutipan bukti wiki. Jangan memasukkan hasil HTML luring yang besar ke repositori; halaman situs sudah memakai aset bersama.
+
+
+### Pembaruan 11 Oktober 2026
+
+Revisi suara Dani dan Xiaolongnü pada Bab 1–13, sebab perpisahan Bab 12, pembukaan topeng oleh Wushuang, serta permainan Dani untuk menggali kesaksian Shagu. Seluruh gambar lama tetap ada; Bab 13 sekarang empat gambar. Bukti dan status kartu mengikuti naskah revisi, tanpa menggeser ID paragraf atau posisi baca. Peta Bab 14 tersedia di `peta-bab-14.html`; naskah Bab 14 belum ditulis. Rincian editorial: `editorial/revisi-karakter-2026-10-11.md`.

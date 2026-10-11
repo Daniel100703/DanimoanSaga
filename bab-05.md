@@ -52,7 +52,7 @@ Pekan-pekan berlalu dalam hafalan; gerakannya tidak pernah diajarkan. Zhao senga
 
 Pada suatu pagi Dani menyelesaikan hafalan tanpa satu kesalahan dan meminta diajari gerakannya. Zhao hanya membalik halaman.
 
-“Murid belum mengerti cara memakai yang sudah dihafal, Guru.”
+“Murid sudah hafal, Guru. Tetapi kalau orang memukul, bagian mana dari kitab ini yang harus murid pakai untuk menangkis?”
 
 “Itu berarti belajarmu belum cukup. Duduk dan lanjutkan.”
 
@@ -60,11 +60,11 @@ Di ambang pintu, Lu Qingdu mendengar percakapan itu. Murid bertubuh lebih besar 
 
 “Guru sudah memberimu jawaban. Apakah kau masih hendak membantah beliau?” kata Lu Qingdu.
 
-“Tolong angkat tanganmu dari kitab. Aku hendak melaksanakan perintah Guru,” jawab Dani.
+“Kakak Lu, tanganmu menutupi pelajaranku. Apakah Guru menyuruhku menghafal garis telapakmu juga?”
 
 Lu tidak mengangkatnya. Ia membungkuk sampai bayangannya menutupi halaman. “Saat bicara kepadaku, panggil Kakak Lu. Kau mengerti kedudukanmu di sini?”
 
-Dani memandang tangan yang menekan kitab, kemudian wajah pemiliknya. “Aku memahami kedudukan Kakak Lu. Kalau demikian, bolehkah kitabnya dikembalikan supaya aku dapat belajar?”
+Dani memandang tangan yang menekan kitab, kemudian wajah pemiliknya. “Tentu aku tahu Kakak lebih dahulu masuk perguruan. Itulah sebabnya aku heran: mengapa orang yang sudah pandai masih berebut kitab dengan orang bodoh sepertiku?”
 
 Suara itu patuh, tetapi pandangannya tidak. Lu menampar belakang kepalanya. Dani menahan sisi bangku agar tidak tersungkur; ketika ia berdiri, Zhao sudah kembali ke pintu.
 
@@ -90,7 +90,7 @@ Dani menatap Lu yang sudah mengambil posisi. “Guru belum pernah menunjukkan ca
 
 “Bukankah kau sendiri mengatakan semua baitnya sudah kauhafal?” tanya Zhao Zhijing.
 
-“Murid hafal bunyinya, Guru, tetapi belum pernah diajari cara menggerakkan tubuh,” jawab Dani.
+“Bunyinya murid tahu. Kalau hafalan dapat memukul orang, sejak tadi Kakak Lu tentu sudah tergeletak.” Dani masih mencoba tersenyum, meski telapak tangannya mulai dingin.
 
 “Kalau begitu, gunakan pikiranmu.” Zhao memberi isyarat kepada Lu. “Jangan sampai ia mengatakan tidak diberi kesempatan.”
 
@@ -136,7 +136,7 @@ Suara perempuan tua datang dari samping. Dani berbalik terlalu cepat dan hampir 
 
 “Siapa yang memukulmu sampai bibirmu pecah begitu?” tanya perempuan tua itu.
 
-“Nenek tak perlu mencampuri urusanku. Aku hanya hendak lewat,” jawab Dani.
+“Nenek, aku bisa berjalan sendiri.” Dani mencoba meluruskan badan dan gagal. “Hanya tanahnya yang kurang bersahabat hari ini.”
 
 Perempuan itu tidak tersinggung. Ia mengamati jalan di belakang Dani, lalu menyuruhnya duduk di batu rendah. Dani tidak menurut sampai kedua kakinya mulai gemetar.
 
@@ -170,7 +170,7 @@ Tatapan gadis itu singgah pada luka Dani. “Nenek Sun, anak ini bukan anggota p
 
 Dani melepaskan tangan Nenek Sun. Ia belum meminta menjadi murid, tetapi penolakan itu sudah diucapkan sebelum ia sempat menyebut namanya. Ia memungut buntalan yang diletakkan di kaki batu.
 
-“Aku bisa mencari tempat lain. Nona tak perlu merasa terbebani,” kata Dani.
+“Kalau Nona keberatan, aku pergi saja.” Ia mengangkat buntalan terlalu cepat hingga bahunya berdenyut. “Aku sudah biasa mencari atap. Tidak semua atap mempunyai pemilik segalak pendeta tadi.”
 
 Nenek Sun menahan lengannya. “Tunggulah sebentar, Dani.” Kepada gadis itu ia berkata lebih pelan, “Ia masih anak-anak, Nona. Setidaknya dengarkan dahulu bagaimana wajahnya sampai terluka.”
 
@@ -332,7 +332,7 @@ Dani berlutut. Kali ini tidak ada tangan yang menekan kepalanya atau suara yang 
 
 “Bangunlah, Dani. Panggil saja aku Bibi,” kata Xiaolongnü. Sebutan itu menjadi penghormatan kepada gurunya, bukan hubungan darah di antara mereka.
 
-“Murid akan mengingatnya, Bibi,” jawab Dani.
+“Baik, Bibi. Tetapi kalau aku lambat mengerti, jangan langsung bosan kepadaku.”
 
 Xiaolongnü mengangkat lampu dan berjalan menuju lorong. Dani memungut buntalan, lalu berhenti untuk memandang tubuh Nenek Sun sekali lagi. Ia memberi hormat dalam-dalam sebelum menyusul cahaya kecil itu.
 

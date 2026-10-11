@@ -100,7 +100,7 @@ Guo Fu menunggu di jalan sungai. “Katamu segera menyusul. Mereka berdua menaha
 
 “Siapa yang menyuruhmu berdiri di belakang?” Guo Fu menunduk, merapikan ujung lengan bajunya. “Kau sendiri yang selalu pergi sebelum orang sempat bicara.”
 
-Dani terdiam. Ia mengenali harapan yang baru saja disentuhnya. *Aku mencari Bibi, tetapi masih memakai perasaan orang lain untuk meloloskan diri.* Ia menarik napas.
+Dani melihat pipi Guo Fu yang memerah dan baru menyadari betapa mudah gurauannya menyalakan harapan. Sebagian dirinya masih senang telah membuat gadis yang galak itu menunduk malu. Namun bayangan Xiaolongnü segera menyela; ia menggaruk belakang kepala, mencari jalan keluar yang tidak membuat Fu merasa dipermalukan.
 
 “Fu, jangan terlalu percaya pada mulutku. Kadang ia berjalan lebih cepat daripada pikiranku.”
 
@@ -172,17 +172,17 @@ Dani tidak sanggup segera menjawab. Ia mengangguk di dekat rambutnya.
 
 Seorang pelayan menunjukkan ruang tamu kecil di sisi aula. Dani menutup pintunya tanpa menyelak. Baru setelah suara keramaian meredup, Xiaolongnü mundur sedikit untuk melihat wajahnya.
 
-“Dani, aku tidak ingin pulang bersamamu hanya untuk mendengar jawaban yang sama besok pagi.”
+“Dani, engkau benar-benar mencariku?” Xiaolongnü memeriksa wajahnya seolah jawaban itu dapat ditemukan di sana. “Aku menunggu di banyak tempat. Kupikir engkau sudah tidak mau bertemu.”
 
 Ia mengucapkannya lembut, tetapi tangannya gemetar. Dani menutup tangan itu dengan kedua telapaknya.
 
-“Aku masih memanggilmu Bibi karena itulah panggilan yang paling dekat denganku. Tetapi kau bukan hanya guruku. Aku mencintaimu. Jika kau masih menghendakiku, aku ingin menikah denganmu.”
+“Kalau tidak mencarimu, untuk apa aku berkeliling sampai seperti pengemis begini?” Dani tersenyum, lalu menggenggam tangannya lebih erat. “Bibi, waktu itu aku bodoh. Aku mencintaimu. Aku ingin engkau menjadi istriku. Sekarang sudah jelas? Atau harus kuucapkan sekali lagi?”
 
 Xiaolongnü menatapnya tanpa berkedip.
 
-“Bukan karena engkau mengasihani aku?”
+“Sekali lagi,” jawab Xiaolongnü segera. Ia tidak menangkap tawarannya sebagai gurauan. “Aku ingin mendengarnya.”
 
-“Bukan. Sejak kau pergi, setiap jalan hanya kupakai untuk mencarimu.” Dani menelan rasa sesak. “Tentang malam itu, ada bagian yang tidak kuingat dengan jernih. Obat Ayah mengacaukan tubuhku. Aku tidak ingin menjawabmu dengan kepastian palsu lagi.”
+“Aku ingin menikah denganmu.” Kali ini Dani mengucapkannya tanpa senyum. “Malam itu obat Ayah membuatku tidak ingat dengan jelas. Tetapi ini kukatakan dengan kepala terang. Jangan ragu lagi kepadaku, Bibi.”
 
 “Aku mengira engkau mengerti mengapa aku menyerahkan diri kepadamu,” katanya. “Ketika engkau tetap menyuruhku menjadi bibimu, kupikir engkau tidak menginginkan aku sebagai istri.”
 
@@ -198,11 +198,11 @@ Xiaolongnü meraba sambungan kain di pinggangnya. Benang yang dahulu ditariknya 
 
 Dani menahan jarinya agar tidak menjauh. “Aku masih menyimpan jarum Ibu. Setiap kali membukanya, aku teringat kau duduk menjahit sambil menyuruhku jangan bergerak. Aku ingin mengalami hari seperti itu lagi. Makan bersamamu, mencari kayu, mendengar kau memanggilku pulang.”
 
-“Aku juga akan bertanya ke mana engkau pergi,” ujar Xiaolongnü. Matanya basah, tetapi suaranya mulai mantap. “Hanya saja, kali ini aku akan mendengarkan jawabannya sampai selesai.”
+“Kalau engkau pergi mencari kayu terlalu lama, aku tetap akan menyusul,” ujar Xiaolongnü. Air mata belum kering di pipinya, tetapi senyumnya kembali. “Jadi jangan sengaja bersembunyi supaya aku mencarimu.”
 
 Air mata menggenang di mata Xiaolongnü. Kehilangan keperawanan telah dipahaminya sebagai ikatan yang tak dapat dipisahkan dari kesetiaan; ia juga telah menanggung takut bahwa ikatan itu hanya diakuinya seorang diri. Kini Dani menyatakan pilihannya dengan sadar, tanpa berlindung di balik sapaan lama.
 
-“Kalau begitu, jangan lepaskan tanganku ketika orang lain bertanya,” ujarnya. “Aku dapat menunggu upacara. Aku tidak sanggup menunggu sambil mengira engkau malu mengakuiku.”
+“Kalau orang-orang di luar bertanya, katakan juga begitu,” ujarnya, masih memegang bajunya. “Aku senang sekali mendengarnya. Mengapa mereka tidak boleh tahu?”
 
 Dani mengecup punggung jarinya. “Aku tidak akan menyembunyikanmu.”
 
@@ -356,7 +356,7 @@ Ketenangannya justru memperbesar kegemparan. Bagi Xiaolongnü, menjawab dengan j
 
 “Nona Long,” ujar Guo Jing, “budimu kepada anak ini tidak akan kulupakan. Tetapi engkau gurunya. Tidakkah engkau memikirkan akibatnya bagi dia?”
 
-“Aku memikirkannya setiap hari sejak kami berpisah,” jawab Xiaolongnü. Jemarinya mengerat di tangan Dani. “Aku ingin dia hidup baik. Aku juga ingin hidup bersamanya. Mengapa yang satu harus meniadakan yang lain?”
+“Aku ingin dia senang,” jawab Xiaolongnü. Ia memandang Guo Jing dengan kebingungan yang jujur. “Tadi dia sedih ketika tidak bersamaku. Sekarang kami sudah bertemu, mengapa Paman hendak memisahkan lagi?”
 
 Guo Fu memalingkan muka. Ia ingin menganggap kedekatan itu sebagai keburukan perempuan asing tersebut, tetapi suara Xiaolongnü terlalu tenang untuk dijadikan kebohongan. Di belakangnya, Dunru berbisik bahwa Dani tak pantas diberi hati. Fu segera membentak, “Siapa yang memberinya hati? Jaga ucapanmu!”
 
@@ -378,7 +378,7 @@ Zhao mencabut pedang ketika Dani bergerak mendekat. Dani menghindari ujungnya, m
 
 Guo Jing melepaskan pergelangan itu. “Engkau masih tidak mau mengaku salah?”
 
-“Karena aku tidak menganggap mencintai Bibi sebagai kejahatan. Kami tidak merampas istri orang, tidak menipu orang untuk menjadi pasangan kami. Siapa yang harus kami korbankan agar mereka merasa adatnya telah dijaga?”
+“Kalau mencintai Bibi suatu kesalahan, katakan siapa yang sudah kusakiti!” Dani menyapu wajah-wajah di sekelilingnya. “Aku tidak merebut istri siapa pun. Kami saling menyayangi. Mengapa semua orang merasa harus lebih berhak menentukan daripada kami sendiri?”
 
 “Dani!” Guo Jing menyambar kerahnya. Xiaolongnü bergerak, tetapi sapuan lengan pendekar itu menutup jalannya. Tangan kirinya terangkat di atas kepala Dani.
 
@@ -392,7 +392,7 @@ Dani dapat merasakan kain menekan lehernya. Kakinya tidak mundur. *Paman mengira
 
 Xiaolongnü sudah kembali ke sisi Dani. Ia tidak mencabut pedang; ia memegang lengan yang mencengkeram kerah pemuda itu dan mendongak kepada Guo Jing.
 
-“Lepaskan dia. Dia tidak memaksaku, dan aku tidak hendak diselamatkan dengan cara kehilangan dirinya.”
+“Jangan pukul Dani.” Xiaolongnü memegang lengan Guo Jing erat-erat. “Aku yang ingin menjadi istrinya. Kalau itu membuat Paman marah, marahilah aku juga.”
 
 Huang Rong menyentuh lengan suaminya. “Kakanda Jing, lihat siapa yang ada di hadapanmu.”
 

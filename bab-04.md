@@ -100,17 +100,17 @@ Sore itu Guo Fu menemukannya di tepi tempat latihan. Dani menonton dari kejauhan
 
 “Kalau hendak belajar, berdirilah di sebelahku. Kuda-kuda semudah itu bisa kuajarkan kepadamu,” kata Guo Fu.
 
-“Terima kasih, tetapi aku tidak meminta diajari sekarang,” balas Dani.
+Dani menoleh dengan senyum miring. “Baru sehari aku di sini, kau sudah ingin menjadi guruku? Cepat sekali naik pangkatnya.”
 
 “Aku bahkan belum mulai mengajarmu. Mengapa kau sudah menolak?” kata Guo Fu.
 
-“Karena aku hanya hendak menonton. Apa itu pun harus meminta izinmu?” jawab Dani.
+“Aku belum minta diajari, kau sudah mengatur tempatku berdiri. Kalau benar menjadi muridmu, jangan-jangan bernapas pun harus menunggu izin.”
 
 Pipi Guo Fu memerah. Ia mengira ajakannya akan disambut dengan senang hati, sebagaimana kedua saudara Wu selalu menyambutnya. Dani bahkan tidak membalikkan badan sepenuhnya. Penolakan itu melukai harga dirinya; semakin ia ingin diperhatikan, semakin keras nada yang dipakainya. Wu Dunru menghentikan latihan.
 
 “Adik Fu sedang membantumu. Kau bisa menjawab lebih baik,” kata Dunru.
 
-“Aku sudah menolak dengan jelas. Mengapa kalian masih memaksaku?” balas Dani.
+“Baru satu calon guru, pembelanya sudah dua.” Dani melirik mereka bergantian. “Kalau kelak aku salah melangkah, yang memarahiku siapa dahulu?”
 
 “Barangkali ia takut kita melihat betapa sedikit yang diketahuinya,” tanya Xiuwen.
 
@@ -122,11 +122,11 @@ Dani akhirnya menoleh. Adik keluarga Wu itu berusaha tersenyum, tetapi tangannya
 
 “Kalau begitu, apa alasanmu menolak bantuanku?” desak Guo Fu.
 
-Dani bisa mengatakan bahwa ia malu diajari anak yang lebih muda, terlebih setelah pembicaraan dengan Huang Rong. Ia malah menendang kerikil di dekat sepatunya. “Karena aku tidak suka disuruh-suruh.”
+Dani bisa saja mengaku malu diajari anak yang lebih muda, terlebih setelah percakapannya dengan Huang Rong. Ia justru menyepak kerikil dan tersenyum lebih lebar. “Aku takut. Kalian berdua saja begitu patuh, apalagi aku yang baru datang.” Gurauan itu melindungi harga dirinya, sekaligus menusuk harga diri orang lain.
 
 Wu Dunru melangkah menutup jalan ketika ia hendak pergi. “Minta maaf dulu kepada Adik Fu.”
 
-“Beri aku jalan, Dunru,” balas Dani.
+“Kalau pelajarannya sudah selesai, beri jalan. Atau berdiri di sini juga bagian dari ilmu keluarga Wu?”
 
 “Kakakku bicara baik-baik.” Xiuwen meraih lengan Dani. Dani mengibaskan tangannya; bahu mereka bertabrakan. Ia masih bisa berhenti saat itu, membiarkan mereka merasa menang dan kembali ke kamarnya. Namun Guo Fu berada tepat di depannya, dengan tatapan seolah seluruh kejadian ini adalah kesalahannya karena tidak menuruti perintah pertama.
 

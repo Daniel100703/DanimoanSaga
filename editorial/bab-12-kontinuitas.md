@@ -1,6 +1,6 @@
 # Bab 12 — Harga Sebuah Pertolongan
 
-Disusun 10 Oktober 2026 berdasarkan peta yang telah disetujui penulis. Satu arc mencakup pertolongan di kedai, perpisahan kedua, pertahanan bebatuan, dan akibat langsung bagi Dani. Bab 11 tidak dirombak lagi; penambahannya berupa ilustrasi dan kartu.
+Disusun 10 Oktober 2026 berdasarkan peta yang telah disetujui penulis. Satu arc mencakup pertolongan di kedai, perpisahan kedua, pertahanan bebatuan, dan akibat langsung bagi Dani. Pada 11 Oktober, suara Dani dan Xiaolongnü ditinjau kembali pada Bab 1–13 sesuai koreksi terbaru penulis.
 
 ## Cakupan dan prioritas
 
@@ -12,7 +12,7 @@ Guo Fu ingin menuntut jawaban setelah penolakan perjodohan, lalu tertangkap. Hua
 
 - Dani 19 tahun, Xiaolongnü 21, Guo Fu 17, Wu Dunru 17, Wu Xiuwen 16. Guo Xiang sudah berusia 10 tahun dalam Saga; kehamilan Huang Rong tidak mengulang kelahiran Xiang versi kanon.
 - Pasangan telah menyatakan cinta dan keinginan menikah. Mereka belum menikah. Sapaan Bibi tetap sapaan hubungan perguruan, bukan penolakan cinta atau hubungan darah.
-- Xiaolongnü pergi kali ini karena takut mempersempit masa depan Dani setelah percakapan yang diarahkan Huang Rong. Ia tidak kembali salah paham mengenai sapaan atau melupakan percakapan Bab 11. Narator menjelaskan mekanisme pengaruh itu secara terbuka.
+- Xiaolongnü pergi kali ini karena takut Dani akan dihina seumur hidup karena menikahi gurunya, setelah percakapan yang diarahkan Huang Rong. Ia tidak kembali salah paham mengenai sapaan atau melupakan percakapan Bab 11. Narator menjelaskan mekanisme pengaruh itu secara terbuka.
 - Huang Rong sudah mengetahui kematian Hong Qigong. Kepercayaan pada ketulusan Dani tidak otomatis membuatnya merestui hubungan guru–murid.
 - Tangan dan bahu Dani belum pulih; Jinlun masih menanggung luka dari Guo Jing. Kedua luka memengaruhi pilihan dan hasil pertarungan.
 - Pedang Dani masih hilang di jalur air bawah makam. Pedang Dunru dipinjam ketika di kedai dan dikembalikan di penginapan. Tongkat latihan patah di hutan. Bambu biasa milik Huang Rong berbeda dari tongkat jabatan Klan Pengemis, yang tetap bersama Lu Youjiao.
@@ -47,3 +47,7 @@ Wiki memisahkan perkembangan kemampuan dari perkembangan hubungan. Masing-masing
 ## Revisi ringan setelah pembacaan penulis
 
 10 Oktober 2026: tujuh paragraf mendapat penjelasan emosi—kecemburuan dan gengsi Fu, kecemasan kedua Wu, kepedulian Xiaolongnü, serta ketakutan Huang Rong melihat akibat pertolongan Dani. Dialog, urutan kejadian, 172 penanda paragraf, ilustrasi, dan bukti kartu tetap sama.
+
+## Koreksi 11 Oktober 2026
+
+Xiaolongnü menanyakan kehidupan di makam, mula-mula percaya pada kebahagiaan mereka, kemudian mendengar hinaan dan jawaban Dani tentang keluar bersama. Ia terbangun sebelum fajar, menangis melihatnya tidur, lalu pergi dengan pesan. Ia belum menikah dan tetap mempercayai cinta Dani. Lihat `revisi-karakter-2026-10-11.md`; catatan revisi tujuh paragraf di atas merupakan riwayat edisi sebelumnya.

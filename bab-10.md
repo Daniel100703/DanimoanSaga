@@ -46,7 +46,7 @@ Hong Qigong mengangguk. Sesudah mendengar nama Guo Jing disebut, ia menanyakan k
 
 Hong Qigong memandangnya tanpa tertawa. “Nyali untuk menghadapi Li Mochou kaupikul sampai ke kedai, tetapi untuk mengucapkan isi hati kaukehilangan jalan.” Hong menghela napas. “Bila kelak bertemu, jangan menunggu perpisahan kedua untuk menyelesaikan kalimatmu.”
 
-Dani menyentuh sambungan kain di rusuknya. “Itulah yang ingin kulakukan, Tetua.”
+Dani meraba jahitan di rusuknya. “Menghadapi Li Mochou aku masih tahu ke mana harus mengelak. Kalau Bibi menatapku sambil menangis, seluruh kepandaianku hilang, Tetua.”
 
 ***
 
@@ -126,11 +126,11 @@ Pada hari ketiga Dani melihat bekas darah pada salju yang tadi diduduki Hong Qig
 
 “Jangan menatapku seperti penjual obat melihat kantong uang. Aku mengetahui keadaan tubuhku.”
 
-“Mengetahui tidak membuat lukanya berhenti bertambah.”
+“Kalau tahu, mengapa masih ditambah? Guru Hong, jangan semua nasihat baik disisakan untuk murid.”
 
 Hong memandang Ouyang Feng yang sedang mencoba meluruskan jari-jarinya. “Benar. Dan tetap saja, setelah sepanjang hidup saling mengalahkan, kami masih sukar membiarkan pertanyaan terakhir tidak terjawab.”
 
-Dani berjongkok di sisinya. “Kalau pertanyaannya dapat dijawab dengan kata-kata, pakailah tangan murid untuk memperagakan. Jangan lagi memakai tubuh kalian untuk membayar setiap jawaban.”
+Dani berjongkok di sisinya. “Pakai tanganku saja. Guru menyuruh, Ayah membantah; aku yang bolak-balik. Kalian masih bisa bertengkar sepuasnya, asal tubuh kalian berhenti saling menghantam.”
 
 Hong tidak langsung menyetujui. Namun sesudah pertukaran berikutnya menghabiskan sisa tenaga mereka, ia mengingat permintaan tersebut.
 
@@ -176,7 +176,7 @@ Hong Qigong menatap tangan pemuda itu yang dibalut. “Aku yang menyuruhmu memeg
 
 “Ayah sudah mengajarinya!” potong Ouyang Feng. “Ilmuku tidak kalah. Katakan kepadanya, Nak!”
 
-Dani berpaling kepada ayahnya. “Aku tidak melupakan pelajaran Ayah. Tetapi tadi Ayah juga memikirkan cara menjawab gerakan yang baru. Mengapa aku tidak boleh belajar dari keduanya?”
+Dani berpaling kepada ayahnya. “Kalau aku tidak mempelajari gerakan Tetua Hong, siapa yang akan Ayah suruh memperagakannya? Masa Ayah menunggu beliau mengajari batu?”
 
 Ouyang Feng hendak membalas, kemudian memandang ranting patah di tangannya. Ia melemparkannya dan menyuruh Dani mengulang langkah pertama.
 
@@ -192,7 +192,7 @@ Hong Qigong menyuruhnya berhenti.
 
 Dani memeriksa pegangan, mengubah sudut, lalu melepaskan ujung kayu tanpa menyentak. Hong mengangguk, sedangkan Ouyang Feng mendengus seolah keberhasilan itu sudah seharusnya terjadi sejak awal.
 
-“Aku mulai mengerti, Tetua,” kata Dani. “Di kedai aku terus mencoba memasuki jangkauan Li Mochou. Aku melihat celah, tetapi tidak memikirkan apakah masih mempunyai jalan keluar.”
+“Sekarang aku tahu kesalahanku di kedai,” kata Dani sambil mengusap pergelangan. “Mulutku sudah membuat Li Mochou marah, tetapi kakiku belum pandai membawaku keluar.”
 
 “Simpan pengertian itu lebih baik daripada pujian dariku,” jawab Hong Qigong.
 

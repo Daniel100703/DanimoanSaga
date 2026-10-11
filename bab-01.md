@@ -6,7 +6,7 @@ Dani lupa melakukannya. Bahunya membentur papan, dan rumah yang kosong itu menya
 
 Ia mundur setapak, mengusap bahu, lalu memandang pintu dengan mata menyipit.
 
-“Bahkan pintu rumah sendiri sudah enggan menerimaku rupanya,” gerutu Dani.
+“Aku belum pergi sehari penuh, kau sudah lupa kepada tuanmu?” Dani mendorong pintu dengan bahu. “Baiklah. Kita lihat siapa lebih keras kepala.”
 
 Papan bawahnya mengganjal tanah. Hujan sejak pagi telah membuat kayunya mengembang; di tepi ambang, air masih menggenang dalam cekungan bekas tumit. Dani menyelipkan ujung sepatu, mengangkat daun pintu dengan kedua tangan, lalu mendorongnya. Engselnya menjerit.
 
@@ -74,11 +74,11 @@ Dani menarik siku dari tepi meja. “Aku hanya bertanya, Bu. Kali ini belum kuse
 
 “Siapa yang memakainya untuk menangkap katak?” tanya Mu Nianci.
 
-“Mangkukku terlalu kecil, Bu. Aku hanya meminjam punya Ibu sebentar,” bantah Dani.
+“Kataknya juga ingin melihat rumah kita, Bu. Masa tamu disuruh berdesakan di mangkuk sekecil itu?”
 
 Mu Nianci berhenti mengusap mangkuk. “Kalau kataknya melompat dan mangkuk ini pecah, apakah ia yang akan mencari penggantinya?”
 
-“Aku yang akan menggantinya,” jawab Dani, lebih pelan. “Tetapi aku belum mempunyai uang sebanyak itu.”
+“Nanti kuganti. Yang lebih besar.” Dani melirik wajah ibunya, lalu buru-buru menambahkan, “Kalau aku sudah punya uang.”
 
 Ia melihat alis ibunya terangkat dan buru-buru memeriksa kolong meja, seolah ada urusan mendesak di sana.
 
@@ -128,7 +128,7 @@ Ia pernah mencoba mengembalikan jarum itu tanpa ketahuan. Mu Nianci menemukannya
 
 Jarum besar itu terjepit di antara dua jari ibunya. Dani mengangkat dagu sedikit.
 
-“Aku meminjamnya, Bu, bukan mengambil untuk kusimpan sendiri. Lihatlah, sudah kukembalikan,” bantah Dani.
+“Bukan kuambil, Bu. Kupinjam. Kalau aku hendak mencuri, tentu tidak kutunjukkan kepada Ibu.” Dani menyodorkan benda itu dengan wajah seolah penjelasannya tak mungkin dibantah.
 
 “Apa yang kaujahit sampai perlu jarum sebesar ini?” tanya Mu Nianci.
 
@@ -170,7 +170,7 @@ Ia mendekatkannya ke mata.
 
 Masih terlalu kecil.
 
-“Mengapa dahulu Ibu memilih jarum sekecil ini?” tanya Dani.
+“Ibu, jarum sekecil ini pun bisa menundukkanku. Mengapa tidak Ibu ajarkan jurus untuk melawannya?”
 
 Benangnya melengkung setiap kali hendak masuk. Dani membasahi ujungnya, memilinnya, lalu mencoba lagi. Setelah percobaan berikutnya gagal, kedua alisnya bertaut. Ia menekan bibir begitu rapat sampai warnanya memucat, lalu menurunkan kedua tangan dan memandang ke luar dengan rahang mengeras.
 
@@ -180,7 +180,7 @@ Ia mengambil jarum yang lebih besar.
 
 Benang masuk pada percobaan kedua.
 
-“Dengan jarum ini benangnya bisa masuk. Barangkali yang kecil tadi memang sudah rusak,” gumam Dani.
+“Nah, yang ini mau menurut.” Ia mendekatkan jarum ke cahaya. “Yang kecil tadi terlalu sombong untuk menerima benangku.”
 
 Ia mulai menjahit.
 
@@ -314,7 +314,7 @@ Ia tetap membukanya.
 
 Bagian dalamnya bersih.
 
-“Aku sudah tahu tidak ada berasnya, tetapi tanganku masih saja membuka penutupnya,” gumam Dani.
+“Kalau kutatap cukup lama, barangkali kau akan malu dan mengeluarkan beras,” gumam Dani kepada tempayan. Tidak ada sahutan. Ia memasang penutupnya kembali, kali ini tanpa senyum.
 
 Ia memasang penutupnya dengan gerakan lebih keras daripada yang diperlukan.
 

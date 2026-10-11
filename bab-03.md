@@ -28,7 +28,7 @@ Teriakannya membuat burung-burung terbang dari pepohonan. Dani menelan sisa bant
 
 Ia melirik jalan di belakang lelaki itu.
 
-“Kalau Tetua tidak membutuhkan bantuan, aku hendak melanjutkan perjalanan,” kata Dani.
+“Kalau Tetua memang sedang bersenang-senang, aku tidak berani mengganggu.” Dani bergeser sedikit. “Aku hanya ingin lewat. Tanah selebar ini tentu masih menyisakan tempat untuk kakiku.”
 
 “Rumahmu di mana?” tanya lelaki tua itu.
 
@@ -102,11 +102,11 @@ Ia mengulang nama itu, mengangguk, lalu tersenyum lebar seolah persoalannya tela
 
 “Bagus. Anakku bernama Dani,” kata lelaki tua itu.
 
-Dani menunduk pada ubi di tangannya. Semula ia berniat mengangguk saja agar memperoleh makanan dan pelajaran. Kini niat itu membuatnya malu. Lelaki ini sungguh takut ditinggalkan, dan sudah memberinya bagian terbesar sebelum meminta apa pun. Dani mengenali kesepian itu meskipun keluar dari mulut yang terus membentak. “Kalau Tetua bersedia menjadi ayah angkatku, aku akan menerimanya. Tetapi aku tidak hendak melupakan ayah yang telah meninggal.”
+Dani memandangi ubi di tangannya. Tadi ia hendak mengangguk saja demi makanan dan ilmu. Namun orang tua itu sudah memberinya bagian terbesar dan kini menunggu dengan mata yang sungguh-sungguh cemas. Dani mendadak tak tega meneruskan akalnya. “Kalau aku memanggil Tetua Ayah, jangan besok berpura-pura tidak mengenalku. Aku juga tidak akan melupakan ayahku yang sudah meninggal. Bolehkah begitu?”
 
 “Boleh, boleh! Panggil!” seru lelaki tua itu.
 
-“Aku menerima kebaikan Ayah,” ucap Dani.
+“Ayah.” Dani mengucapkannya pelan, lalu menggigit ubi untuk menyembunyikan bibirnya yang gemetar. “Besok bagian Ayah jangan lebih kecil lagi.”
 
 Suara itu keluar kecil. Lelaki tua tersebut tertawa sampai matanya basah, lalu mengusap kepala Dani dengan telapak yang masih berabu. Dani biasanya akan mengelak. Kali ini ia hanya memiringkan wajah supaya abu tidak masuk ke matanya.
 
@@ -126,11 +126,11 @@ Dani mengulang nama itu dalam hati. Ketika Ouyang Feng bertanya apakah ia masih 
 
 Tiga hari berikutnya mereka tinggal di sekitar tempat pemujaan itu. Ouyang Feng kadang membangunkan Dani sebelum terang, lalu lupa hendak mengajarinya apa. Pernah ia menyuruh Dani berjongkok, pergi mencari kayu, dan baru kembali setelah kedua paha anak itu gemetar. Dani menyambutnya dengan muka masam.
 
-“Ayah tadi menyuruhku menunggu sebentar. Kakiku sudah tidak kuat menahan tubuh,” seru Dani.
+“Ayah, sebentar bagi Ayah rupanya panjang sekali! Kakiku sudah mau meninggalkan aku.”
 
 “Kau masih di sini?” tanya Ouyang Feng.
 
-“Aku tetap menunggu perintah Ayah. Sekarang hendak berdiri pun kakiku gemetar,” keluh Dani.
+“Aku tidak berani melanggar perintah Ayah. Tetapi kalau kakiku roboh, marahilah mereka, jangan aku!”
 
 Ia jatuh terduduk. Ouyang Feng tertawa, tetapi menariknya bangun dengan hati-hati. Nyeri di dada Dani belum hilang; gerakan mendadak masih membuat napasnya tersangkut. Pelajaran mereka berlangsung pendek-pendek, diselingi istirahat dan pertengkaran soal apakah Dani sudah boleh mencoba lagi.
 
@@ -144,7 +144,7 @@ Mulut Dani terbuka. Ia segera mengambil posisi yang sama.
 
 “Belum kuajari!”
 
-“Aku sudah memperhatikan tangan Ayah. Izinkan aku mencoba sekali dahulu,” jawab Dani.
+“Sekali saja, Ayah. Kalau salah, barulah Ayah boleh memarahiku. Dari tadi aku sudah dimarahi sebelum sempat mencoba.”
 
 Telapak Dani menghantam tanah. Lumpur memercik ke dagu; lengannya kesemutan. Bekas tangannya jauh lebih dangkal daripada milik Ouyang Feng. Ia lekas menaruh telapak sekali lagi di tempat yang sama.
 
@@ -240,7 +240,7 @@ Dani mengendurkan pegangannya sedikit. Orang ini tahu sesuatu yang tidak mungkin
 
 Guo Jing terdiam. Dani menatap lelaki tua itu; panas mulai merayap ke telinganya.
 
-“Tetua, aku tidak meminta diakui sebagai siapa pun. Aku hanya sedang mencari seseorang,” kata Dani.
+“Tetua belum tahu siapa aku, tetapi sudah tidak menyukaiku. Sayang sekali, padahal aku belum sempat berbuat apa-apa.” Dani mengangkat dagu. “Aku hanya mencari seseorang.”
 
 “Guru Paman bernama Ke Zhen'e. Beliau khawatir Paman keliru. Duduklah dulu, Dani. Dadamu sakit?” ujar Guo Jing.
 

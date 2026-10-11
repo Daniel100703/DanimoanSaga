@@ -4,7 +4,7 @@ Xiaolongnü sedang membetulkan ikatan rambut Dani ketika sebatang ranting patah 
 
 Pemuda itu menoleh, tetapi gurunya menahan sanggul yang belum selesai. “Jangan bergerak dahulu. Kalau tali ini kembali lepas, nanti engkau menyalahkan angin.”
 
-“Aku tidak pernah menyalahkan angin, Bibi. Biasanya aku menyalahkan orang yang menyuruhku berdiri diam terlalu lama.”
+“Kalau aku diam terus, Bibi akan mengikatku seperti orang hendak dibawa ke pengadilan.” Dani meliriknya. “Sudah rapi belum? Aku ingin melihat apakah murid Bibi ini masih enak dipandang.”
 
 Tawanya berhenti ketika sesosok tubuh melompat turun dari pohon. Lelaki tua berambut kusut itu mendarat dengan kedua tangan, berputar, lalu berdiri tepat di depannya.
 
@@ -30,7 +30,7 @@ Xiaolongnü mengambil cawan dari ambang. Dani memperkenalkannya sebagai guru yan
 
 “Guru? Anakku sudah mempunyai guru!”
 
-“Saya tidak mengambilnya dari Tetua,” kata Xiaolongnü. “Dani sering menceritakan ayah angkatnya. Duduklah; ia senang bertemu kembali.”
+“Dia muridku,” jawab Xiaolongnü tenang. “Dia juga anak angkatmu. Mengapa tidak boleh keduanya?” Ia menyodorkan cawan lagi, tidak mengerti mengapa soal sesederhana itu membuat orang tua tersebut marah.
 
 Ouyang Feng menarik Dani ke belakangnya. Xiaolongnü menahan pergelangan itu ketika Dani meringis. Gerakan mereka beradu: lengan putih mengalihkan tarikan, tubuh tua berputar masuk, lalu dua jari mengenai bahu dan sisi tubuhnya.
 
@@ -196,7 +196,7 @@ Dani mengira ia kembali ketakutan. Ia meraih tangan gadis itu, tetapi Xiaolongn�
 
 “Bibi?” Dani memandang wajahnya. “Apakah aku mengatakan sesuatu yang salah?”
 
-“Semalam aku mengira engkau sudah memilih memandangku sebagai perempuan yang akan mendampingimu.” Suaranya pelan, tetapi utuh. “Aku bukan hanya gurumu lagi, Dani.”
+“Semalam engkau begitu dekat denganku.” Suara Xiaolongnü sangat pelan. “Kupikir setelah itu engkau akan memanggilku istrimu. Mengapa masih Bibi?”
 
 Dani menahan napas. Ia mulai menduga maksud Xiaolongnü, tetapi tidak menemukan ingatan yang dapat menegaskannya. Ia takut mengatakan sesuatu yang keliru tentang malam yang begitu berarti bagi gadis itu. Kebingungan tersebut menahan jawaban yang paling dibutuhkannya: apakah Dani mencintainya dan hendak hidup bersamanya.
 
@@ -204,7 +204,7 @@ Dani menahan napas. Ia mulai menduga maksud Xiaolongnü, tetapi tidak menemukan 
 
 Xiaolongnü menarik tangannya sedikit. “Mengapa harus kututurkan kembali? Engkau ada bersamaku.”
 
-“Aku ingat sebagian. Selebihnya—” Ia menekan pelipis. “Obat Ayah membuat kepalaku kacau. Aku tidak ingin menjawab sesuatu yang belum dapat kuingat.”
+“Aku ingat sampai Ayah memberiku obat. Sesudah pulang… ada yang hilang.” Dani menekan pelipis. “Bibi, kepalaku sakit sekali. Aku sungguh tidak mengerti apa yang kaukatakan.”
 
 Bagi Xiaolongnü, permintaan penjelasan itu terdengar seperti langkah mundur. Ajaran Makam Kuno membuatnya memandang penyerahan keperawanan sebagai keputusan yang tidak akan diberikan kepada lelaki lain. Ia telah memilih Dani sebagai suami. Karena belum memahami pengaruh obat itu, ia mengira pemuda tersebut mengingat pilihan yang sama, lalu hendak menghindari akibatnya.
 
@@ -212,15 +212,15 @@ Bagi Xiaolongnü, permintaan penjelasan itu terdengar seperti langkah mundur. Aj
 
 Dani terdiam. Ia mencintainya dan menghendaki hari-hari mereka tetap bersama. Namun sebutan suami memaksanya mengakui bahwa perempuan yang dirindukannya itu bukan sekadar guru. Selama ini ia berlindung dalam panggilan Bibi karena panggilan tersebut tidak menuntutnya menjelaskan perasaannya. Kini perlindungan itu justru melukai Xiaolongnü.
 
-“Engkau guruku, Bibi. Selama empat tahun aku menghormatimu dengan panggilan itu. Aku tidak tahu bahwa pagi ini—”
+“Tetapi… bukankah engkau Bibiku?” Dani menatapnya, bingung oleh pertanyaan yang mendadak mengubah seluruh kebiasaan mereka. “Kalau tidak memanggilmu begitu, aku harus memanggilmu apa?”
 
-“Aku tidak bertanya berapa lama engkau menjadi muridku.” Xiaolongnü menatapnya, mata mulai basah. “Aku bertanya apakah engkau menghendaki aku menjadi istrimu.”
+“Istrimu,” jawab Xiaolongnü. Jawaban itu mudah sekali baginya; justru karena mudah, kebingungan Dani membuat matanya basah. “Aku ingin menjadi istrimu. Engkau tidak mau?”
 
 “Aku tidak ingin kehilanganmu.”
 
 “Lalu mengapa engkau tidak menjawab?”
 
-“Aku tidak sedang mempermainkanmu,” kata Dani. Ia mencari-cari ingatan yang tidak datang. “Kalau semalam aku menjanjikan sesuatu, katakan kepadaku. Aku ingin mendengarnya dengan jelas.”
+“Aku tidak mempermainkanmu!” Dani buru-buru meraih tangannya lagi. “Bibi, jangan menangis. Ceritakan dahulu. Kalau aku tahu apa yang terjadi, tentu aku tidak bertanya begini.”
 
 “Haruskah aku mengulangi sesuatu yang kaulakukan sendiri supaya engkau bersedia mengakuinya?”
 
@@ -228,15 +228,15 @@ Dani terdiam. Ia mencintainya dan menghendaki hari-hari mereka tetap bersama. Na
 
 Xiaolongnü menatapnya seakan dua kalimat itu tidak mempunyai perbedaan. Dani melihat air mata mulai turun, dan ketakutannya membuat ia semakin berhati-hati memilih kata. Justru kehati-hatian itu terdengar dingin di telinga perempuan yang menunggu satu jawaban sederhana.
 
-Dani membuka mulut. *Aku ingin bersamamu. Mengapa setiap jawaban malah membuatmu semakin jauh?* Ia hendak meminta waktu sampai pikirannya jernih, takut sebuah janji tergesa hanya menambah luka. Ia belum menyadari bahwa Xiaolongnü tidak sedang mengujinya mengingat urutan kejadian; gadis itu menunggu pengakuan cinta yang dapat diberikannya saat itu juga.
+Dani membuka mulut dan kehilangan kalimatnya. *Aku ingin dia tetap di sini. Mengapa dia terus bertanya seolah aku hendak mengusirnya?* Ia yang bisa memperdaya lawan di tengah serangan kini tak sanggup memahami satu kata yang baru saja diucapkan gurunya: istri. Cinta itu sudah lama tumbuh, tetapi belum pernah berani dinamainya demikian.
 
-“Jangan minta aku memutuskan sekarang. Aku masih belum mengerti, Bibi.”
+“Tunggu dahulu, Bibi. Aku… jangan pergi. Aku belum mengerti.”
 
 Xiaolongnü melepaskan tangannya.
 
 Xiaolongnü merasa telah menyerahkan seluruh hidupnya, lalu diminta kembali ke tempat seorang guru. Itulah yang didengarnya, meskipun Dani tidak bermaksud demikian. Malu dan takut ditolak bercampur dengan cinta yang belum surut. Ia bangkit, merapikan lengan jubah dengan gerakan terlalu hati-hati, berusaha menyembunyikan betapa keras ia masih berharap Dani akan menahannya sebagai kekasih.
 
-“Aku mengerti,” katanya. “Engkau masih ingin mempunyai seorang guru. Aku yang mengira engkau telah menghendaki seorang istri.”
+“Jadi engkau hanya menginginkan bibimu.” Xiaolongnü menatap tangan mereka sebelum menariknya. “Aku yang salah mengira.”
 
 “Bukan begitu maksudku.” Dani berdiri menghalangi pintu. “Dengarkan dahulu. Aku menyayangimu.”
 

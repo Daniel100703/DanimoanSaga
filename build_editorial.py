@@ -27,4 +27,5 @@ def render():
  render_one(11, 'PETA DISETUJUI · BAB 11 TELAH TERBIT', True)
  render_one(12, 'PETA DISETUJUI · BAB 12 TELAH TERBIT · MENGANDUNG BOCORAN', True)
  render_one(13, 'PETA DISETUJUI · BAB 13 TELAH TERBIT · MENGANDUNG BOCORAN', True)
+ render_one(14, 'USULAN UNTUK PENULIS · BAB 14 BELUM DITULIS · MENGANDUNG BOCORAN')
 if __name__=='__main__':render()

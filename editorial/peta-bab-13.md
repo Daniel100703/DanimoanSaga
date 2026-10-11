@@ -14,7 +14,7 @@ Status: **disetujui penulis dan telah diadaptasi menjadi Bab 13**. Peta ini meng
 
 | Bagian | Peristiwa dan perubahan emosi |
 | --- | --- |
-| 1 · Wajah di balik topeng | Dani sadar dalam perawatan penolongnya, masih terluka dan merindukan Xiaolongnü. Wushuang kembali; samaran Cheng Ying dibuka melalui percakapan dan ingatan bersama tentang keluarga Lu. Cheng Ying merawat dengan kasih yang mulai terbaca, sedangkan Wushuang menutupi cemas dengan teguran. Dani tersentuh oleh kelembutan yang mengingatkannya pada Xiaolongnü, tanpa melupakan siapa yang dicintainya. |
+| 1 · Wajah di balik topeng | Dani sadar dalam perawatan penolongnya, masih terluka dan merindukan Xiaolongnü. Wushuang kembali; Wushuang membuka topeng Cheng Ying sambil mengenalkannya, lalu ingatan bersama tentang keluarga Lu muncul. Cheng Ying merawat dengan kasih yang mulai terbaca, sedangkan Wushuang menutupi cemas dengan teguran. Dani tersentuh oleh kelembutan yang mengingatkannya pada Xiaolongnü, tanpa melupakan siapa yang dicintainya. |
 | 2 · Perlindungan yang sementara | Li Mochou melacak Wushuang karena Kitab Lima Racun; kedua sepupu memilih bertahan bersama Dani. Shagu dan Huang Yaoshi menggagalkan serangan. Selama jeda pemulihan, Dani kembali dekat dengan tetua yang pernah ditemuinya; cinta guru–muridnya mendapat tanggapan berbeda dari penolakan di pertemuan. Huang memberi dasar Jentikan Jari Sakti dan Pedang Seruling Giok. Ketulusan Cheng Ying, kerinduan Dani, dan penyesalan Huang atas murid lamanya mendapat percakapan. |
 | 3 · Api di tempat penempaan | Setelah Huang Yaoshi berpisah dari mereka, Li Mochou mencari celah dan melukai Shagu. Kebutuhan alat untuk melawan kebutannya membawa kelompok ke pandai besi Feng Mofeng. Penghinaan terhadap gurunya membangkitkan keberanian Feng; hubungan seperguruannya dengan Cheng Ying terungkap. Pertolongannya memaksa Li Mochou mundur, diperkuat pemahaman Dani tentang ilmu Huang yang dapat mematahkan andalannya. Ini puncak ancaman fisik, bukan kemenangan Dani seorang diri. |
 | 4 · Nama yang tidak ingin didengar | Shagu keliru mengenali Dani sebagai ayahnya. Pertanyaan Dani membuka kesaksian tentang kematian Kang Moan dan keterlibatan Huang Rong. Kenangan ayah yang hangat berbenturan dengan kasih Paman Guo serta pengorbanan Dani di Bab 12; luka batin itu berubah menjadi tuduhan dan dendam. Cheng Ying menahannya agar memastikan siapa yang bersalah sebelum membalas. Wushuang ikut bereaksi, bukan hanya menyaksikan. |
@@ -30,11 +30,11 @@ Target sekitar **3.500–4.000 kata** untuk menuntaskan pemulihan, ancaman Li Mo
 - **Hubungan dan benda:** sapaan tetap Bibi, Kakanda, Adik atau Sepupu sesuai kedudukan; Dani memakai aku kepada orang dekat. Cheng Ying bukan pengganti Xiaolongnü. Jubah biru yang dijahit Xiaolongnü serta jarum Mu Nianci tetap milik Dani; perawatan pakaian oleh Cheng Ying tidak menghapus peninggalan itu. Senjata atau tunggangan baru harus jelas asalnya.
 - **Batas alur:** keputusan menuju Mongol mengikuti lore. Kublai, Zhou Botong, Bunga Cinta, Gongsun Lü’e, dan reuni di lembah belum dimainkan dalam bab ini.
 
-## Tiga visual dan perkembangan kartu
+## Empat visual dan perkembangan kartu
 
 Pembuka memperlihatkan Dani dalam perawatan gadis yang masih bertopeng. Dua ilustrasi peristiwa: Feng Mofeng melindungi kelompok di tempat penempaan, lalu kesaksian Shagu yang mengguncang Dani dengan reaksi Cheng Ying dan Wushuang. Wajah dewasa Cheng Ying baru ditampilkan sesudah samaran terbuka. Semua visual lama tetap berada di bab asalnya.
 
-Potret diperbarui dari gambar adegan yang menampilkan tokoh. Kartu mencatat identitas, kondisi luka, hubungan, dan kemampuan sesuai paragraf pengungkapan. Jurus baru ditandai baru dipelajari, bukan otomatis dikuasai. Ancaman Li Mochou dan keterbatasan Shagu dijelaskan melalui bukti pertarungan; pengetahuan yang belum terlihat tetap belum diketahui. Ketiga gambar dibuat setelah persetujuan peta.
+Potret diperbarui dari gambar adegan yang menampilkan tokoh. Kartu mencatat identitas, kondisi luka, hubungan, dan kemampuan sesuai paragraf pengungkapan. Jurus baru ditandai baru dipelajari, bukan otomatis dikuasai. Ancaman Li Mochou dan keterbatasan Shagu dijelaskan melalui bukti pertarungan; pengetahuan yang belum terlihat tetap belum diketahui. Tiga gambar awal dibuat setelah persetujuan peta. Atas koreksi penulis 11 Oktober, ditambahkan satu adegan Wushuang membuka topeng Cheng Ying; ilustrasi lama tetap ada.
 
 ## Rujukan pemeriksaan kanon
 

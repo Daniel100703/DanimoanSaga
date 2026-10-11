@@ -252,11 +252,11 @@ Gadis itu mengusap pipinya. Huang Yaoshi menunggu tanpa memotong percakapan mere
 
 “Kakanda Dani,” kata Cheng Ying sebelum berangkat, “kalau kelak engkau mendengar kabar Wushuang, ingatlah bahwa aku juga sedang mencarinya.”
 
-“Aku akan mengingatnya. Kalau bertemu dengannya lebih dahulu, katakan bahwa aku belum lupa caranya memarahi orang yang meminta air.”
+“Kalau berjumpa dengannya lebih dahulu, katakan aku masih ingat omelannya. Susah mencari orang yang bisa membuat secangkir air terasa seperti utang seumur hidup.” Dani tersenyum, tetapi matanya kembali mengikuti jalan tempat Wushuang dibawa pergi.
 
 Cheng Ying menunduk. Senyum yang dicobanya tidak selesai. “Ia pasti akan memarahimu lagi.”
 
-“Biarkan saja. Aku ingin mendengarnya.”
+“Itulah yang kutunggu. Asalkan ia masih bisa memarahiku, biar kupinjamkan kedua telingaku.”
 
 Mereka berpisah setelah Dani menolak meninggalkan halaman sebelum semua alat jahit ditemukan. Huang Yaoshi menunjukkan arah jalan yang lebih aman dan berpesan agar ia tidak mengerahkan tenaga. Cheng Ying beberapa kali menoleh; Dani mengangkat tangan sampai jubah hijau mereka hilang dari pandangan.
 

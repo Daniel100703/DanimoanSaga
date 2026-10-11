@@ -60,7 +60,7 @@ Sesudah selesai, Xiaolongnü meminta Dani berdiri. Ia merapikan kerah dan menari
 
 “Bibi yang menjahitnya. Kalau separuhnya merah pun akan kupakai.”
 
-Ia mengatakannya sambil tersenyum, tetapi Xiaolongnü menatapnya sungguh-sungguh. “Kalau begitu, kelak aku akan memilih kain yang baik untukmu.”
+Xiaolongnü memandangnya sebentar, lalu tersenyum kecil. “Kalau kupilihkan, engkau harus memakainya. Jangan nanti berkata warnanya jelek setelah aku selesai menjahit.”
 
 Dani kehilangan gurauannya. Ia masih ingin mengatakan sesuatu ketika gadis itu berbalik menyimpan jarum.
 
@@ -92,9 +92,9 @@ Ketika mereka beristirahat, ia memegang bekas luka di pangkal ibu jari Dani, pen
 
 Dani tidak menarik tangannya. Ia tahu peristiwa mana yang dimaksud.
 
-“Jangan lakukan itu lagi, Bibi. Aku sudah cukup sering kehilangan orang. Aku tidak ingin keselamatanku sendiri harus kutakuti ketika bersamamu.”
+“Jangan lagi, Bibi.” Jemarinya mengerat. “Kalau Bibi tidak tahu cara membuatku tetap di sisimu, panggil saja namaku. Untuk apa memakai pedang?”
 
-Xiaolongnü mengangguk perlahan. “Waktu itu aku hanya memikirkan bagaimana tidak meninggalkanmu. Sekarang aku ingin kita mempunyai hari esok.”
+Xiaolongnü menyentuh bekas luka itu dengan ujung jari. “Waktu itu kupikir mati tidak begitu menakutkan. Sekarang aku takut. Kalau engkau mati, siapa yang akan berbicara denganku seperti ini?”
 
 Dani menggenggam jemarinya. “Kalau begitu, besok murid akan mencoba mengalahkanmu lagi.”
 
@@ -102,7 +102,7 @@ Dani menggenggam jemarinya. “Kalau begitu, besok murid akan mencoba mengalahka
 
 Ia tersenyum sebelum Dani sempat tertawa. Mereka duduk sampai bayangan pohon berpindah, dan tak seorang pun menganggap tangan yang masih bertaut itu perlu dilepaskan.
 
-Di gubuk Xiaolongnü mulai melakukan hal yang tidak pernah diajarkan oleh gurunya. Ia menyisihkan bagian makanan yang disukai Dani, menunggu sebelum makan jika pemuda itu belum pulang, dan membawa jubahnya ke dekat tungku ketika udara dingin. Bila Dani tertidur saat membaca, ia menutupkan kain pada bahunya, kemudian duduk lebih lama daripada yang diperlukan untuk memadamkan lampu.
+Di gubuk, Xiaolongnü mulai menyukai bunyi yang dahulu akan mengusik latihannya: nyanyian Dani ketika mencari kayu, gerutunya menghadapi jarum, bahkan langkahnya yang sengaja dibuat berat agar ia menoleh. Kadang ia menyembunyikan sepotong makanan kesukaan pemuda itu, menunggu Dani bertanya, lalu menyerahkannya dengan mata yang terang. Jika ada orang asing melintas, wajahnya kembali tenang dan suaranya pendek. Dani sudah mengenal perbedaannya; ia pun makin gemar mencari alasan untuk membuatnya tersenyum.
 
 Dani membalas dengan caranya sendiri. Ia menghafal tempat tumbuh bunga yang diperhatikan Xiaolongnü, membawakan buah yang belum pernah dicobanya, dan membetulkan celah dinding di dekat dipan gadis itu sebelum bagian lain. Suatu malam Xiaolongnü bertanya mengapa ia selalu bekerja di sisi tempat tidurnya dahulu.
 
@@ -110,9 +110,9 @@ Dani membalas dengan caranya sendiri. Ia menghafal tempat tumbuh bunga yang dipe
 
 “Mengapa?”
 
-“Aku akan terus bertanya-tanya apakah kainnya cukup.”
+“Kalau Bibi menggigil di sebelah sana, bagaimana aku bisa tidur nyenyak? Lagipula, menjaga Bibi jauh lebih menyenangkan daripada menjaga jendela.”
 
-Xiaolongnü menarik ujung bajunya agar duduk. “Kalau engkau sudah di sini, tanyakan langsung kepadaku.”
+Xiaolongnü menarik ujung bajunya supaya duduk. “Kalau begitu, duduklah di sini. Aku memang lebih suka ada engkau daripada jendela.” Ia mengatakannya tanpa malu, dan Dani tertawa karena justru dirinya yang kehabisan jawaban.
 
 Dani duduk di tepi dipan. Xiaolongnü menyandarkan kepala pada bahunya, ringan pada mulanya, kemudian tanpa ragu. Ia menahan keinginan untuk merangkul lebih erat, khawatir gadis itu hanya sedang lelah. Namun ketika ia bergeser, tangan Xiaolongnü mengikuti dan menahannya. Dani membiarkan bahunya kembali dekat. Kehangatan itu membuatnya berharap api tungku tidak lekas padam.
 
@@ -150,7 +150,7 @@ Ia mengatakan itu dengan begitu terus terang hingga Dani yang biasanya pandai me
 
 Mereka pulang sebelum gelap. Ketika melewati jalan bercabang, Xiaolongnü bertanya ke mana jalan yang lain menuju. Dani menjawab bahwa ia belum mengetahuinya. Untuk pertama kalinya, gadis itu mengatakan ingin melihat ujungnya suatu hari nanti.
 
-Bagi Xiaolongnü, keinginan melihat dunia tumbuh bersama rasa takut kehilangan Dani di dalamnya. Di makam, hidup mereka hampir tidak bersinggungan dengan orang lain. Di luar, Dani dapat memilih jalan, kawan, dan tempat tinggal. Ia belum belajar mempercayai bahwa kebebasan memilih juga memungkinkan pemuda itu tetap memilih dirinya.
+Dunia Xiaolongnü dahulu cukup berisi makam, pelajaran, dan Dani. Kini jalan di bawah bukit dapat membawa pemuda itu kepada begitu banyak orang yang pandai tertawa serta berbicara dengannya. Ia ingin melihat tempat-tempat itu juga, asalkan bersama Dani. Yang tidak dimengertinya ialah mengapa menunggu sendirian beberapa jam dapat terasa lebih panjang daripada bertahun-tahun tinggal di makam.
 
 Dani mulai lebih sering turun ke dusun untuk membeli kebutuhan. Setiap kembali, ia membawa cerita: permainan catur di warung, pedagang yang berselisih soal timbangan, jalan menuju kota yang ramai. Ia ingin Xiaolongnü ikut melihatnya. Gadis itu mendengarkan, tetapi makin lama lebih memperhatikan kegembiraan Dani ketika menyebut orang-orang yang tidak dikenalnya.
 
@@ -170,23 +170,23 @@ Ia mendengar ketakutan itu dan memegang tangannya. “Aku hanya turun membeli be
 
 Untuk malam tersebut jawaban itu cukup. Tetapi beberapa hari kemudian pertanyaannya datang lagi, satu mengikuti yang lain: siapa yang berbicara dengan Dani, mengapa percakapannya lama, apakah ia lebih suka berada di bawah daripada di gubuk.
 
-Dani mula-mula menjawab sambil menggoda. Setelah Xiaolongnü mengulang pertanyaan tentang seorang penjual kain, senyumnya habis.
+Mula-mula Dani menjawab sambil tersenyum. “Penjualnya menanyakan ukuran, Bibi. Masa kujawab dengan jurus pedang?” Tetapi ketika pertanyaan yang sama datang lagi, rasa geli itu berubah menjadi jengkel.
 
 “Bibi sendiri yang menyuruhku memilih kain tambahan. Aku harus berbicara dengan penjualnya.”
 
 “Aku tidak melarangmu membeli kain.”
 
-“Tetapi sejak aku pulang, rasanya aku sedang diperiksa karena melakukan kesalahan.” Dani meletakkan bungkusan di meja. “Aku senang berada di sini. Itu tidak berarti aku harus membenci semua yang ada di luar.”
+“Lalu mengapa terus ditanyakan?” Dani meletakkan bungkusan. “Aku sudah pulang. Kainnya juga kubawa. Apa aku harus menunduk dan diam setiap kali ada orang menyapa?”
 
-Wajah Xiaolongnü mengeras. “Kalau bersama orang lain engkau lebih senang, pergilah kepada mereka.”
+“Engkau tertawa ketika menyebutnya. Kepadaku sekarang engkau malah marah.” Xiaolongnü menahan bibir yang mulai bergetar. “Kalau begitu senang di bawah sana, mengapa tidak kembali saja?”
 
 Dani menatapnya. “Bibi sungguh menghendaki aku pergi?”
 
 Ia menunggu jawaban yang akan membuatnya tetap berdiri di sana. Xiaolongnü menahan jemari di balik lengan jubah supaya Dani tidak melihatnya gemetar.
 
-“Aku tidak dapat memaksamu tinggal.”
+Ia ingin berkata jangan, tetapi yang keluar justru, “Bukankah engkau tidak suka kutanyai?”
 
-“Aku tidak pernah mengatakan hendak meninggalkanmu.” Suara Dani meninggi. “Setiap kali ingin melihat dunia, mengapa aku harus membuktikan bahwa aku masih ingin pulang?”
+“Bibi ini!” Dani meraih jubahnya. “Aku membawa kain untukmu, malah berakhir seperti tertangkap mencuri. Baik, aku keluar sebentar. Biar kita tidak terus bertengkar.”
 
 Xiaolongnü memalingkan wajah. Dani mengambil jubah dan keluar sebelum amarah membuatnya melukai dengan kata-kata. *Aku hanya perlu menenangkan diri,* pikirnya; buntalan tetap ditinggalkan karena ia berniat pulang. Tetapi pintu ditutupnya terlalu keras. Bagi Xiaolongnü yang menunggu ia berbalik, bunyi itu terdengar seperti jawaban atas usirannya.
 
@@ -204,7 +204,7 @@ Xiaolongnü mengenalinya. “Pendeta Zhen. Apakah engkau melihat Dani turun?”
 
 Xiaolongnü tidak segera menjawab. Zhen mempertahankan wajah tenang, tetapi ia diam-diam lega melihat gadis itu datang tanpa Dani. Ia masih mengingat tatapan pemuda yang mengusirnya dari tempat latihan. Kini Xiaolongnü meminta kabar kepadanya; kesopanan biasa itu ingin sekali dianggapnya sebagai kedekatan yang istimewa.
 
-“Ia marah kepadaku,” kata Xiaolongnü akhirnya. “Aku menanyakan terlalu banyak hal.”
+“Dani pergi,” jawab Xiaolongnü. Ia masih memandang jalan, bukan wajah Zhen. “Tadi dia marah. Apakah kalau seseorang sudah marah, ia tidak mau kembali?”
 
 Zhen merasakan kesempatan yang membuatnya malu kepada jubahnya sendiri. “Anak muda mudah tertarik pada keramaian. Barangkali Nona terlalu berharap ia memahami kehidupan yang telah Nona pilih.”
 
@@ -230,11 +230,11 @@ Lelaki tua itu tersenyum. “Kalau setiap perkataan marah kuturuti, sejak muda a
 
 “Lalu bagaimana Kakek mengetahui perkataan mana yang sungguh-sungguh?”
 
-“Aku menanyakannya setelah kami tidak sedang berlomba menyakiti hati.” Ia meremas air dari lengan bajunya. “Tadi istriku menunggu sendirian. Aku pulang membawa keranjang penuh dan mengira itu cukup untuk menjawab ketakutannya.”
+“Kalau perut kosong dan badan letih, mulut memang suka mencari lawan.” Lelaki tua itu memeras lengan bajunya. “Istriku menunggu dari tadi. Apa gunanya keranjang penuh kalau aku pulang hanya untuk bertengkar dengannya?”
 
 Perempuan tua kembali dengan dua cawan. “Jangan mengajari anak orang menjadi suami yang lupa waktu. Kau masih harus membetulkan pintu sebelum malam.”
 
-Suaminya menerima cawan sambil memegang tangannya. Dani teringat jemari Xiaolongnü yang mencengkeram sambungan jubah ketika ia pulang terlambat. *Ia takut aku tidak kembali. Aku malah pergi tanpa mengatakan kapan pulang,* pikirnya. Pertanyaan-pertanyaan itu tetap membuatnya sesak, tetapi membiarkannya menunggu tidak akan menyelesaikan apa pun. Ia harus pulang dan mengatakan keduanya: ia menyayanginya, dan ia ingin dipercaya.
+Suaminya menerima cawan sambil memegang tangannya. Dani mendadak teringat wajah Xiaolongnü sebelum pintu ditutupnya. Ia tadi begitu ingin memenangkan pertengkaran sampai lupa bahwa di gubuk itu tak ada orang lain yang akan menemani gadis tersebut menunggu. *Bibi bahkan tidak tahu aku sudah makan atau belum.* Dani meletakkan cawan. Jalan pulang terasa kelewat jauh; ia ingin segera melihat apakah lampu mereka masih menyala.
 
 Ia berdiri sebelum airnya habis diminum.
 
@@ -258,7 +258,7 @@ Dani meraih kedua tangannya. Dingin sekali. “Aku tidak pergi untuk meninggalka
 
 “Aku yang menyuruhmu pergi.” Bibirnya bergetar. “Tetapi sesudah engkau tidak terlihat, aku ingin memanggilmu kembali. Aku tidak tahu apakah engkau masih bersedia mendengar.”
 
-“Aku akan mendengar.” Dani menariknya mendekat. “Aku marah karena merasa tidak dipercaya. Namun aku juga tahu Bibi belum terbiasa menunggu tanpa kepastian. Seharusnya aku mengatakan ke mana aku pergi.”
+“Aku pulang, Bibi. Marahi aku nanti, sesudah bajumu diganti.” Dani menariknya lebih dekat. “Aku memang kesal tadi. Tetapi hanya keluar sebentar, bukan hendak meninggalkanmu. Mengapa malah kau yang berhujan-hujan begini?”
 
 Xiaolongnü memegang bagian depan bajunya. “Aku tidak ingin engkau hanya pulang karena merasa berutang kepadaku.”
 
@@ -266,9 +266,9 @@ Xiaolongnü memegang bagian depan bajunya. “Aku tidak ingin engkau hanya pulan
 
 Ia memeluknya. Xiaolongnü membalas dengan kedua lengan, seakan baru sekarang ia dapat bernapas. Dani menundukkan kepala ke rambutnya dan membiarkan hujan mengalir di tengkuk.
 
-“Aku masih ingin melihat dunia,” katanya. “Tetapi aku ingin membawamu. Kalau suatu hari aku pergi sendiri, aku akan mengatakan kapan kembali. Kalau terlambat, aku akan mencari cara memberi kabar.”
+“Besok kalau hendak melihat keramaian, ikutlah denganku.” Dani menyibakkan rambut basah dari pipinya. “Kalau kita pergi berdua, Bibi boleh melihat sendiri siapa yang berbicara terlalu lama denganku. Tetapi jangan semua penjual kain ditakuti.”
 
-“Dan aku akan bertanya apakah engkau selamat sebelum bertanya siapa yang membuatmu terlambat.” Xiaolongnü mengangkat wajah. “Tetapi engkau harus benar-benar pulang, Dani.”
+“Aku tidak menakutinya.” Xiaolongnü mengangkat wajah, sungguh-sungguh membantah, lalu suaranya melunak. “Aku hanya ingin engkau lekas pulang. Kalau bersamamu, aku mau pergi ke mana saja.”
 
 Dani menyentuh pipinya. “Aku pulang kepada Bibi.”
 

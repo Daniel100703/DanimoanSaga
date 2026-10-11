@@ -6,13 +6,13 @@ Mereka baru kembali dari memakamkan Nenek Sun. Dani meletakkan buntalan di dekat
 
 “Apakah kita harus mulai berlatih sekarang, Bibi?” tanya Dani.
 
-“Menunggu esok belum tentu membuat lukamu lebih ringan. Kita dapat memulainya dengan gerakan yang tidak memberatkanmu,” jawab Xiaolongnü.
+“Kita mulai dari langkah yang ringan. Kalau terlalu sakit, katakan.” Xiaolongnü memandangnya tanpa mengerti mengapa hari esok akan berbeda dari hari ini.
 
 “Bukan luka di tubuh yang kumaksud, Bibi. Kita baru saja memakamkan Nenek Sun,” kata Dani.
 
 Xiaolongnü menurunkan pedang. Untuk sesaat Dani menyangka ia akan dimarahi. Gadis itu justru memandang kain terlipat di sebelah lampu.
 
-“Aku pun belum terbiasa mendapati tempat Nenek Sun kosong. Tetapi aku sudah berjanji akan menjagamu, dan aku hendak mulai menepatinya,” kata Xiaolongnü.
+“Nenek Sun sudah meninggal. Menunggu tidak akan membuatnya kembali.” Xiaolongnü terdiam ketika mata Dani memerah. Ia belum pandai menghibur; setelah berpikir sejenak, ia menggeser tempat duduknya lebih dekat. “Aku masih di sini. Engkau belajar denganku.”
 
 Mendengar pengakuan itu, Dani akhirnya mengambil pedang, menggenggam gagangnya terlalu keras. Xiaolongnü tidak menyuruhnya berhenti bersedih. Ia menunjukkan tempat berdiri, lalu meminta Dani mengangkat tangan.
 
@@ -48,21 +48,21 @@ Pada tahun pertama, Xiaolongnü mendapati Dani menyembunyikan pergelangan yang b
 
 “Ulurkan tanganmu, Dani. Aku hendak melihat pergelangan yang kausembunyikan itu,” kata Xiaolongnü.
 
-“Pergelangan ini sudah tidak terlalu sakit, Bibi. Aku masih dapat menggerakkannya,” jawab Dani.
+“Tangan ini masih sanggup memegang pedang, Bibi. Kalau ia mengadu, jangan langsung dipercaya.”
 
 Xiaolongnü menyentuhnya. Dani meringis.
 
-“Engkau meringis ketika kusentuh. Mengatakan bahwa lukamu sembuh tidak membuatnya sungguh-sungguh sembuh,” kata Xiaolongnü.
+“Tanganmu tidak mengadu. Engkau yang meringis.” Xiaolongnü memeriksa bengkaknya dengan sungguh-sungguh, tidak menyadari Dani sedang berusaha menggagalkan pemeriksaan.
 
 Ia menunduk saat gadis itu membebat pergelangannya. “Kalau setiap kali sakit aku harus berhenti, kapan aku dapat menyusul kepandaian Bibi?”
 
 “Engkau baru dapat maju setelah tanganmu pulih. Luka yang dipaksakan hanya akan menahanmu lebih lama,” jawab Xiaolongnü.
 
-“Aku mengerti, Bibi. Tetapi rasanya aku selalu tertinggal meskipun sudah berlatih lebih lama,” kata Dani.
+“Kalau beristirahat terus, kapan aku bisa menyusul Bibi? Atau Bibi sengaja supaya aku menjadi murid selamanya?”
 
 Xiaolongnü mengencangkan simpul, lalu menaruh pedang Dani di luar jangkauannya. “Besok kita melatih langkah kaki. Biarkan pergelangan ini beristirahat dahulu.”
 
-Dani menatap pedang itu. “Jadi Bibi tidak menyuruhku berhenti belajar sama sekali?”
+Dani menatap pedang yang dijauhkan itu. “Rupanya hanya tanganku yang mendapat libur. Kakiku tetap harus menanggung nasib buruk.”
 
 “Kakimu tidak terluka. Masih banyak yang dapat kaulatih bersamaku tanpa memakai tangan itu,” jawab Xiaolongnü.
 
@@ -138,7 +138,7 @@ Pertanyaan itu membuat tangannya berhenti. Dani merasakan seluruh tubuhnya dingi
 
 “Aku ingin hidup bersamamu,” katanya. “Bila Bibi ingin menepati janji, biarkan aku berusaha merawatmu dahulu.”
 
-Dani keluar sebelum Xiaolongnü menjawab. Di lorong ia duduk menempel pada dinding, marah dan ketakutan. Ia percaya gadis itu menyayanginya, dan justru karena itulah pedang tadi begitu melukainya: Xiaolongnü sempat menganggap kematian bersama lebih mudah daripada perpisahan. Dani bangkit mencari obat. Ia ingin mereka hidup, lalu membicarakan ketakutan itu ketika gurunya mampu mendengarkan.
+Dani keluar sebelum Xiaolongnü menjawab. Di lorong ia duduk menempel pada dinding, marah dan ketakutan. Bagi gadis yang dibesarkan di antara makam itu, mati bersama tadi tampak sebagai cara menepati sumpah kepada Nenek Sun. Dani justru merasa seolah orang yang paling dipercayainya hendak merampas hari-hari yang masih ingin dijalaninya. Ia mengusap muka dengan kasar, lalu bangkit mencari obat. *Aku tidak mau mati. Bibi juga tidak boleh mati. Dia boleh memarahiku nanti, sesudah sembuh.*
 
 Ketika kembali, ia mendengar suara perempuan lain menuntut Sutra Hati Gadis Giok.
 
@@ -228,7 +228,7 @@ Xiaolongnü meraih tangannya dan menempelkannya pada pipi. “Kalau ada perempua
 
 Xiaolongnü tersenyum di antara air mata. “Aku perlu mendengarnya darimu.”
 
-Dani merapat dan memeluk bahunya. Ia tidak mencari gurauan lain. “Engkau berbeda. Sejak tinggal di sini, aku tidak lagi bertanya setiap malam ke mana harus pergi besok.”
+Dani merapat dan memeluk bahunya. “Kalau semua orang sama saja, mengapa aku kembali ke tempat yang pintunya sedang ditutup? Bibi biasanya begitu pandai. Perkara semudah ini masih harus kuterangkan?” Suaranya menggoda, tetapi tangannya memeluk lebih erat daripada sebelumnya.
 
 Gadis itu bersandar kepadanya. Untuk pertama kalinya ia membiarkan keinginan untuk tetap dekat mengalahkan ajaran yang menyuruhnya menekan perasaan. Di balik pintu terdengar Li Mochou memeriksa dinding; mereka masih terancam, tetapi Dani tidak ingin mati sebelum sempat membawa Xiaolongnü melihat dunia yang selama ini hanya diceritakannya.
 
@@ -260,13 +260,13 @@ Perempuan itu menghitung jarak. Ia melihat Dani berdiri di sisi Xiaolongnü, kem
 
 Dani menunggu sampai langkah mereka hilang, baru duduk. Xiaolongnü menyandarkan kepala di bahunya. Cahaya fajar menembus pepohonan; mereka dapat melihat gunung yang sepanjang malam disangka tak akan ditemui lagi.
 
-“Tadi aku sungguh takut,” kata Dani.
+“Bibi tahu? Tadi kakiku gemetar sekali. Untung pintunya tidak sempat melihat.”
 
 Xiaolongnü mengangkat wajah. “Tetapi engkau tetap kembali.”
 
-“Aku takut mati sebelum Bibi sempat mengetahui mengapa.”
+Senyum Dani perlahan surut. “Aku takut mati di luar, sementara Bibi di dalam mengira aku sudah meninggalkanmu.”
 
-Ia menggenggam tangan pemuda itu. “Sekarang aku mengetahuinya. Bila engkau hendak pergi, bawalah aku bersamamu.”
+Xiaolongnü menggenggam tangannya. “Kalau begitu, sesudah ini kita bersama. Aku tidak suka engkau berada di tempat yang tidak bisa kulihat.” Ucapannya begitu terus terang hingga Dani yang biasanya cepat menjawab justru menunduk tersenyum.
 
 Dani menatap jalan di bawah, lalu pakaian mereka yang meneteskan air. Ia bangkit dan mengulurkan tangan.
 

@@ -4,11 +4,11 @@ Di luar kediaman Lu, Dani baru melepaskan napas ketika suara pertemuan tertingga
 
 “Paman belum membenci aku,” kata Dani setelah beberapa lama. “Itulah yang membuatku lebih sulit meninggalkannya.”
 
-“Aku tahu. Kalau dia membencimu, tangannya tadi sudah turun.” Xiaolongnü menoleh. “Tetapi aku tidak akan menyerahkanmu hanya supaya dia tidak marah.”
+Xiaolongnü menoleh hanya untuk memastikan Dani masih berjalan di sisinya. Suara orang-orang di belakang tidak membuatnya ingin kembali. Sesudah lama mencarinya, kini ia bisa menyentuh lengan Dani setiap kali menghendaki; kegembiraan sederhana itu belum sanggup dikalahkan oleh kemarahan orang asing.
 
-Dani berhenti, lalu merapikan sehelai rambut yang tersangkut di kerah putihnya. “Kau tidak perlu berebut aku dengan siapa pun, Bibi. Aku berjalan bersamamu karena itulah keinginanku.”
+Dani berhenti untuk merapikan sehelai rambut yang tersangkut di kerah putihnya. “Bibi memegang tanganku seerat ini, Paman tak mungkin membawaku kembali meskipun mengejar sampai ke sini.” Ia tersenyum ketika Xiaolongnü justru mengeratkan genggamannya.
 
-“Kalau begitu, kita pulang ke makam.”
+“Kalau mereka masih marah, biarkan saja,” kata Xiaolongnü. Ia mengayunkan sedikit tangan mereka yang bertaut. “Kita kembali ke makam. Di sana tidak ada yang menyuruhmu melepaskan tanganku.”
 
 Ia mengatakannya dengan kelegaan yang membuat Dani tersenyum. Makam berarti pintu yang dapat mereka tutup, pekerjaan yang mereka kenal, dan pagi tanpa orang asing menimbang kepantasan cinta mereka. Sesudah perjalanan panjang, Dani pun merindukan ketenangan itu.
 
@@ -68,9 +68,9 @@ Dani dan Xiaolongnü berhenti di kedai yang sama untuk membeli bekal. Dari halam
 
 “Ibu, jangan menyerahkan tongkatmu kepadanya!”
 
-Dani menoleh kepada Xiaolongnü. Perempuan itu sudah meletakkan buntalan mereka di bangku. Ia mencemaskan luka Dani, tetapi tahu meninggalkan keluarga Guo akan menyiksanya lebih lama.
+Xiaolongnü melihat perubahan pada wajah Dani ketika suara keluarga Guo terdengar. Ia sendiri tidak merindukan orang-orang yang baru saja memarahi mereka. Namun ia mengenal wajah itu: Dani tidak akan bisa terus berjalan sambil membayangkan Paman dan Bibi Guo terbunuh di belakangnya.
 
-“Naiklah. Aku di belakangmu,” katanya.
+“Engkau ingin menolong mereka, bukan?” Xiaolongnü menghunus pedang. “Mari. Tetapi jangan pergi terlalu jauh dariku.”
 
 Di atas, Huang Rong duduk dengan punggung lurus, tetapi telapak yang menekan pinggir meja tampak pucat. Daerba menjaga tangga; kedua Wu berdiri tanpa ruang untuk menyerang. Pedang Dunru tergeletak dekat tiang. Fu telah dilepaskan dari totokan, namun Huodu masih menutup jalan keluarnya.
 
@@ -126,97 +126,97 @@ Guo Fu mendatangi Dani setelah Xiaolongnü mengambil air. Ia berdiri cukup lama 
 
 “Aku tidak menyuruhmu datang menolong,” katanya.
 
-“Aku mendengar suaramu. Sukar berpura-pura tidak mengenalinya.”
+“Aku mengenal suaramu, Fu. Bahkan di tengah keributan begitu masih terdengar jelas.” Dani menahan senyum ketika alisnya naik. “Untung kali ini kau tidak sedang memarahiku.”
 
 “Aku akan membalas pertolonganmu. Jangan mengira dengan ini kau boleh menertawakanku lagi.”
 
-Dani berhenti menggulung balutan. Ia melihat bekas merah pada pergelangan Fu dan amarah yang dipakainya untuk menutupi ketakutan. “Kalau hendak membalas, jangan berangkat seorang diri untuk mengejar orang yang membuatmu kesal. Hari ini Bibi Guo hampir ikut tertangkap.”
+Dani melihat bekas merah pada pergelangannya, dan senyumnya mereda. “Lain kali jangan mengejar orang yang membuatmu kesal sampai sejauh ini. Kau bisa terluka. Bibi Guo pun tadi hampir tertangkap.”
 
 “Aku tidak mengejarmu!” Guo Fu menjawab terlalu cepat. Matanya berpindah kepada Xiaolongnü yang kembali membawa baskom. “Dan aku tidak takut kepadanya.” Melihat perhatian Xiaolongnü, ia merasa tersisih bahkan sebelum perempuan itu berbicara.
 
-“Tidak ada yang menyuruhmu takut,” kata Xiaolongnü. Ia duduk di sisi Dani, lalu mengambil tangan yang hendak dibalutnya. “Tetapi dia perlu beristirahat.”
+Xiaolongnü memandangnya sebentar, lalu duduk di samping Dani. “Tanganmu belum selesai kubebat. Mengapa sudah digerakkan lagi?” Ia tidak menganggap tatapan Guo Fu sebagai tantangan. Luka di telapak Dani jauh lebih menyita perhatiannya.
 
 Guo Fu berbalik. Ia ingin membenci kelembutan itu karena tidak menemukan kesombongan yang dapat dibalasnya. Dani tidak mengejarnya; dari belakang masih terdengar Xiaolongnü menegur pemuda itu agar berhenti menggerakkan jari.
 
-Sesudah makan, Dani tertidur dengan punggung bersandar pada dinding. Huang Rong menemui Xiaolongnü di kamar sebelah. Perempuan muda itu sedang merapikan rambut yang lepas ketika bertarung; jarum milik ibu Dani tersimpan bersama alat jahit di atas buntalan.
+Sesudah makan, Dani beristirahat di kamar dengan tangan yang sudah dibebat. Huang Rong menemui Xiaolongnü di ruang sebelah. Perempuan muda itu sedang merapikan rambutnya; mendengar Dani bersin di balik dinding, ia sempat tersenyum sebelum kembali memegang sisir.
 
 “Aku belum sempat berterima kasih kepadamu dengan patut,” kata Huang Rong.
 
-“Dani hendak menolong kalian. Aku tentu menolongnya.”
+“Dani ingin kalian selamat. Aku pun begitu.” Xiaolongnü mengatakannya tanpa basa-basi, kemudian bertanya, “Bibi Guo, tadi mengapa semua orang marah ketika dia hendak menikah denganku?”
 
-Jawaban itu begitu wajar bagi Xiaolongnü sehingga Huang Rong terdiam. Ia telah melihat dua pedang saling menjaga, juga tangan putih yang tidak meninggalkan Dani ketika orang-orang mencelanya. Cinta perempuan ini tidak perlu dibuktikan lagi. Justru karena itulah Huang Rong mengetahui bagian mana yang dapat disentuhnya.
+Huang Rong mengamati wajah yang sungguh-sungguh tidak mengerti itu. Xiaolongnü tidak sedang menantang adat untuk mencari kemenangan. Baginya, dua orang yang saling menyayangi tentu ingin tinggal bersama; kemarahan orang lain justru perkara yang sulit dipahami. Huang Rong teringat saat cintanya sendiri ditentang dahulu, tetapi ingatan itu tidak membuatnya berhenti.
 
-“Sesudah ini kalian hendak ke mana?”
+“Karena engkau gurunya. Di luar makam, orang menganggap hubungan itu tidak patut berubah menjadi suami istri. Mereka akan mencela kalian ke mana pun kalian pergi.”
 
-“Kembali ke makam. Jika dia ingin turun melihat tempat lain, aku akan menemaninya.”
+“Aku tidak mengenal mereka,” jawab Xiaolongnü. “Kalau mereka tidak menyukaiku, tidak mengapa. Dani menyukaiku.”
 
-“Dia akan ingin turun,” ujar Huang Rong perlahan. “Dani cerdik, berbakat, dan mudah tertarik kepada perkara yang belum dikenalnya. Engkau tentu lebih mengenalnya daripada aku.”
+“Engkau mungkin tidak peduli,” ujar Huang Rong perlahan. “Tetapi bagaimana dengan Dani? Ia akan menjadi bahan hinaan sepanjang hidupnya. Orang dapat melupakan jasanya hari ini, lalu hanya mengingat bahwa ia menikahi gurunya sendiri.”
 
-Xiaolongnü meletakkan sisir. “Apakah itu suatu kesalahan?”
+Sisir itu berhenti. Xiaolongnü dapat mengabaikan wajah-wajah asing yang membencinya. Namun ketika Huang Rong menyebut Dani hidup sampai tua dengan hinaan yang sama, ia teringat bekas kerah di leher pemuda itu dan tangan Guo Jing yang hampir memukulnya.
 
-“Bukan. Tetapi dunia yang ingin dilihatnya adalah dunia yang tadi mengusir kalian.”
+“Kalau begitu kami tinggal di makam saja,” katanya setelah berpikir. “Tidak usah bertemu mereka. Di sana Dani tidak pernah merasa malu kepadaku.”
 
-“Kalau mereka menghina, kami dapat pergi. Bukankah kalian pun pernah meninggalkan orang yang tidak menyukai pilihan kalian?”
+“Engkau dibesarkan di sana. Dani mengenal keramaian sejak kecil. Maukah ia terus tinggal di dalam makam selama puluhan tahun?”
 
-Pertanyaan itu mengenai bagian yang tidak ingin dibuka Huang Rong. Ia teringat ayahnya, Guo Jing, dan tahun-tahun ketika keinginannya sendiri lebih keras daripada nasihat siapa pun. Namun kini ia berbicara sebagai istri serta ibu, dan ia lebih mudah melihat bahaya pada cinta orang lain.
+Xiaolongnü justru tersenyum, seakan menemukan jawaban bagi semua kekhawatiran itu. Dahulu Dani meninggalkan jalan keluar untuk kembali kepadanya; baru tadi ia pun menyatakan cinta di hadapan semua orang. Tentu ia akan senang tinggal bersama. Huang Rong melihat keyakinan tersebut dan tidak ikut tersenyum.
 
-“Aku tidak menyangkal perasaanmu,” jawabnya. “Tetapi setiap kali nama gurunya disebut, orang akan mengingat hubungan kalian. Ia mungkin tidak memperdulikannya sekarang. Bagaimana setelah bertahun-tahun? Engkau dapat hidup tanpa mereka. Dapatkah engkau memastikan dia selalu sanggup melakukan hal yang sama?”
+“Jangan hanya menanyakan apakah dia mencintaimu,” katanya. “Tanyakan apakah kelak dia tidak akan bosan. Kalau suatu hari ia ingin kembali ke luar, celaan itu tetap menunggunya.”
 
-“Dia sudah mengatakan ingin menikah denganku.”
+“Akan kutanyakan sekarang.” Xiaolongnü bangkit dengan hati yang masih ringan. “Dia pasti mau. Bibi Guo belum tahu, Dani paling senang kalau aku menemaninya.”
 
-“Dan engkau mempercayainya. Aku pun percaya bahwa ia mengatakannya dengan sungguh-sungguh.” Huang Rong menahan jeda. “Yang kutanyakan bukan kesungguhannya hari ini. Aku bertanya apakah engkau rela ia kehilangan segala kemungkinan lain demi mempertahankan janji itu.”
+Huang Rong tidak menahannya. Ia tahu Dani menyayangi Xiaolongnü; ia juga tahu pemuda itu menyukai dunia yang lebih luas daripada dinding batu. Dengan membiarkan gadis itu membawa pertanyaan tersebut, Huang Rong berharap cinta yang tidak dapat dikalahkan oleh larangan akan digoyahkan oleh ketakutan menyusahkan orang yang dicintai.
 
-Xiaolongnü memandang pintu yang memisahkan mereka dari Dani. Ketika terjaga, ia selalu ingin berada dalam jangkauan suara pemuda itu. Ia ingin mengetahui ke mana Dani pergi, kapan kembali, siapa yang membuatnya tersenyum. Sesudah perpisahan yang menyiksa, keinginan tersebut semakin sulit ditenangkan.
+Xiaolongnü masuk dan duduk di sisi pembaringan. Dani membuka mata, lalu bergeser untuk memberinya tempat. Ia masih tersenyum ketika gadis itu bertanya, “Dani, kalau kita kembali ke makam dan tinggal bersama selamanya, engkau mau?”
 
-“Aku dapat melepaskan kedudukanku sebagai gurunya,” katanya.
+“Mengapa tidak? Asalkan Bibi tidak menyuruhku berlatih dari pagi sampai malam.” Dani menarik ujung lengan putihnya. “Kalau rambut kita sudah putih, apa Bibi masih akan memarahiku karena salah melangkah?”
 
-“Orang tidak melupakan bahwa engkau pernah mengajarinya hanya karena engkau berhenti menyebut diri guru.”
+“Kalau salah, tentu kubetulkan.” Xiaolongnü membayangkan rambut Dani memutih dan mendadak tertawa lirih. “Tetapi jangan sampai engkau tidak mengenaliku ketika aku sudah tua.”
 
-“Jadi yang engkau kehendaki ialah aku meninggalkannya.”
+“Kalau Bibi memanggil namaku, bagaimana mungkin aku keliru? Bahkan kalau gigimu sudah habis, aku tetap mendengarnya.” Dani menatap bibir yang masih tersenyum itu. “Kita tua bersama. Jangan seorang mendahului lalu menyuruh yang lain menunggu.”
 
-Huang Rong tidak segera menjawab. Xiaolongnü tidak pandai berbasa-basi, tetapi ia cukup jernih untuk mengenali ke mana percakapan itu dibawa.
+Xiaolongnü menggenggam tangannya dengan kedua tangan. Jawaban itu membuat dadanya hangat. Ia ingin segera memberitahu Huang Rong bahwa kekhawatirannya tidak benar, tetapi Dani menguap dan merapatkan kepalanya ke bantal. Ia memilih tinggal sebentar lagi untuk mendengar napasnya.
 
-“Aku menghendaki kalian memikirkan akibatnya sebelum terlambat.”
+Menjelang malam, dari halaman terdengar suara Wu Xiuwen. Ia sedang berbicara kepada kakaknya, cukup jauh untuk mengira percakapan mereka tidak sampai ke kamar. “Sesudah ditolong Guru, ia masih mempermalukan beliau. Guru sendiri hendak dijadikannya istri!”
 
-“Dia akan mencariku.”
+“Rendahkan suaramu,” kata Dunru. Namun ia tidak menyangkal adiknya. “Fu masih marah. Jangan membuatnya mendengar perkara itu lagi.”
 
-Kalimat itu diucapkan tanpa kebanggaan. Bagi Xiaolongnü, itulah janji yang membuat perjalanan hari ini mungkin dijalani.
+Guo Fu ternyata sudah berada di serambi. “Dia baru menolong Ibu dan kalian. Sekarang mudah sekali kalian menghinanya.” Suaranya keras, lebih marah daripada yang dikehendakinya. Ia sendiri terluka oleh pilihan Dani, tetapi tidak sudi kedua Wu memakai luka itu sebagai alasan merendahkannya.
 
-“Barangkali pada mulanya,” kata Huang Rong. “Tetapi ia masih muda.”
+Huang Rong memotong jawaban Xiuwen. “Sudah. Orang yang baru mempertaruhkan nyawa untuk kalian sedang beristirahat di dalam. Pergilah membantu menyiapkan keberangkatan.” Langkah-langkah menjauh. Bagi Xiaolongnü, yang tertinggal justru kata-kata yang tak sempat ditarik kembali.
 
-Xiaolongnü berdiri. “Aku tidak ingin dia melupakanku.”
+Ia memandang Dani yang sudah terlelap. Sejak di aula ia hanya mendengar orang melarang mereka menikah. Kini bahkan orang yang baru ditolong Dani masih menganggapnya memalukan. *Karena aku gurunya,* pikir Xiaolongnü. *Kalau dia tidak mengenalku, mereka tidak akan berkata begitu.*
 
-“Aku mengerti.”
+Saat diminta tidur bersama para perempuan, Xiaolongnü menunjuk kamar Dani. “Aku di sini saja.” Ia mengikat seutas tali melintang pada dua tiang yang kukuh, sebagaimana kebiasaannya beristirahat sejak di makam. Tidak terlintas padanya bahwa memilih kamar yang sama dapat membuat orang salah mengira; ia hanya ingin terbangun di dekat Dani.
 
-“Tidak. Engkau ingin aku rela dilupakan, lalu menyebutnya kebaikan baginya.”
+Huang Rong melihat pembaringan dan tali yang terpisah itu. Gadis yang oleh para tamu dianggap tidak tahu malu ternyata bahkan tidak berusaha menyembunyikan kebiasaannya yang sederhana. Ada rasa tidak enak dalam hati Huang Rong. Ia tetap keluar tanpa menarik perkataannya tadi.
 
-Huang Rong menunduk sesaat. Ia tidak membenci Xiaolongnü. Ia bahkan berutang nyawa kepadanya. Namun ia tetap memilih menekan ketakutan perempuan itu, berharap perpisahan dapat menyelesaikan pertentangan yang tidak berhasil diselesaikan Guo Jing dengan amarah. Ia menyebutnya perlindungan bagi Dani, sambil tidak memberinya kesempatan menjawab.
+Malam semakin sunyi. Dani sempat bangun untuk minum, lalu mendapati Xiaolongnü masih mengawasinya dari tali. “Bibi belum tidur? Kalau aku terus dipandangi begitu, bagaimana luka ini bisa malu dan sembuh sendiri?” Ia tersenyum mengantuk.
 
-“Aku sudah mengatakan apa yang kupikirkan,” ujarnya akhirnya. “Keputusan tetap milikmu.”
+Xiaolongnü tidak ikut tertawa. “Aku ingin bertanya lagi. Kalau di makam terus, tidak pernah turun melihat orang lain, apakah engkau tidak bosan?”
 
-Sesudah Huang Rong pergi, Xiaolongnü duduk di sebelah Dani. Pemuda itu terbangun ketika ia menyentuh dahinya.
+Dani menegakkan cawan di meja. Ia tidak tahu mengapa pertanyaan itu begitu penting malam ini. Membayangkan hidup bersama Xiaolongnü membuatnya senang; membayangkan puluhan tahun tanpa pernah meninggalkan lorong makam terasa lain. Keraguannya hanya sekejap, tetapi Xiaolongnü melihatnya.
 
-“Apakah tanganmu membuatmu sulit tidur?” tanyanya.
+“Kalau sampai bosan, kita keluar bersama,” jawab Dani terus terang. “Melihat sungai, membeli makanan, mendengar orang bercerita. Sesudah itu pulang lagi. Bibi tentu ikut denganku, bukan?”
 
-“Tidak. Kau yang belum tidur, Bibi. Ada apa?”
+“Jadi akhirnya engkau ingin keluar juga.” Suaranya nyaris tidak terdengar.
 
-“Aku sedang memikirkan makam.”
+“Bersamamu.” Dani mengulurkan tangan dan menyentuh ujung jarinya. “Aku ingin Bibi melihatnya juga. Mana ada gunanya tempat yang ramai kalau pulang-pulang aku tidak bisa menceritakannya kepadamu?”
 
-Dani menggeser tempat agar ia dapat bersandar. “Besok kita bicarakan lagi jalannya. Malam ini kau tidak perlu menjaga aku terus.”
+Xiaolongnü menunduk. Ia mendengar kasih dalam jawaban itu, tetapi pikirannya sudah terikat pada peringatan Huang Rong: dunia di luar akan menghina Dani seumur hidup. Menahannya di makam akan membuatnya bosan; membawanya keluar akan membuatnya dicela. Kepolosannya menjadikan kedua kemungkinan itu seolah tidak mempunyai jalan lain. Ia tidak terpikir bahwa Dani dapat memilih menanggung celaan tanpa menyesali cinta mereka.
 
-Xiaolongnü ingin bertanya apakah kelak ia akan menyesal. Tetapi begitu memandang wajah yang kelelahan itu, ia sudah mengetahui jawaban yang akan diberikan: Dani akan kembali memilih dirinya. Justru jawaban itulah yang kini ditakutinya. Ia mulai menganggap pengorbanan Dani sebagai sesuatu yang harus dicegah, meskipun Dani sendiri menghendakinya.
+“Tidurlah, Dani,” katanya sambil membetulkan selimut. “Tanganmu masih sakit.” Pemuda itu menutup mata setelah memastikan ia kembali berbaring di tali. Xiaolongnü ikut memejamkan mata, mencoba bertahan pada janji tentang hari tua. Namun ia hanya dapat tidur sebentar.
 
-“Aku ingin menjagamu,” katanya. “Biarkan aku duduk sebentar.”
+Sebelum fajar, ia terbangun lebih dahulu. Dani masih tidur dengan bibir sedikit terbuka, seperti ketika keletihan sesudah latihan di makam. Xiaolongnü turun dari tali dan berlutut di sisinya. Begitu melihat wajah yang tak lagi tersenyum kepadanya karena sedang terlelap itu, pertahanannya runtuh. Air mata jatuh pada bahu jubah biru, tepat di dekat jahitan yang dibuatnya sendiri.
 
-Dani meraih ujung lengan bajunya sebelum tidur lagi. Xiaolongnü tidak menariknya. Lama sekali ia memandangi jemari yang menahan kain putih itu, lalu menangis tanpa suara.
+*Aku ingin menjadi istrimu. Tetapi kalau karena aku seluruh hidupmu dihina orang…* Ia tidak sanggup menyelesaikan pikiran itu. Jemarinya hampir membangunkan Dani, lalu berhenti. Ia tahu Dani akan menahannya; justru karena percaya cintanya, Xiaolongnü merasa harus pergi sebelum mendengar permintaan untuk tinggal.
 
-Menjelang fajar ia melepaskan kain dari genggaman Dani dengan gerakan yang pernah dipakainya saat merawat luka: perlahan, agar tidak membuatnya terjaga. Ia membawa pedangnya. Jarum dan benang ditinggalkannya di dalam buntalan pemiliknya.
+Ia meninggalkan pesan singkat di meja: *Jaga dirimu baik-baik. Aku tidak ingin engkau dihina karena mencintaiku. Jangan menyalahkan dirimu.* Beberapa kali ia menoleh sewaktu mengambil pedang. Jarum dan benang tetap di buntalan Dani. Di pintu, ia menutup mulut supaya isaknya tidak terdengar, lalu memaksa kakinya melangkah sebelum keberaniannya habis.
 
-Kali ini ia tidak meragukan cinta Dani. Ia pergi karena telah diyakinkan bahwa cintanya sendiri akan mempersempit hidup orang yang ingin dimilikinya. Ketakutan itu membuatnya melakukan hal yang justru paling ditakutinya sejak semula: memisahkan mereka tanpa memberi Dani hak memilih.
+Xiaolongnü tidak pergi karena cinta mereka surut. Ia terlalu takut menjadi penyebab orang yang dicintainya menanggung malu sampai tua. Pengalaman hidupnya yang sempit membuat ketakutan itu tampak sebagai kepastian; kasihnya sendiri membuat perpisahan terasa seperti pengorbanan yang wajib dilakukannya. Dani tidak memperoleh kesempatan menjawab, sebab gadis itu takut jawaban yang paling diinginkannya justru akan membuatnya gagal pergi.
 
 ***
 
-Ketika Dani terbangun, sisi tempat tidurnya sudah dingin. Ia mencari sampai halaman, kemudian kembali kepada Huang Rong dengan napas tertahan.
+Dani terbangun oleh dingin pada bahunya. Ia menyentuh kain yang lembap, lalu melihat tali kosong dan pedang yang tak lagi di dekat pintu. Setelah membaca pesan di meja, ia berlari ke halaman tanpa sempat merapikan rambut. Tidak ada jubah putih di jalan. Ia berbalik menemui Huang Rong, kertas itu teremas dalam tangan.
 
 “Bibi Guo melihatnya pergi?”
 
@@ -224,15 +224,15 @@ Huang Rong menatap balutan tangannya. “Tidak ketika ia berangkat.”
 
 “Apakah semalam dia mengatakan sesuatu?”
 
-“Kami berbicara tentang masa depan kalian. Barangkali ia membutuhkan waktu untuk memikirkannya.”
+Huang Rong menatap kertas di tangannya. “Aku mengatakan orang akan mencela kalian sepanjang hidup. Dia ingin membawamu kembali ke makam. Aku bertanya apakah engkau akan betah selamanya di sana.”
 
-“Dia sudah memikirkannya selama mencariku.” Suara Dani meninggi, kemudian ia menahannya. “Apa yang Bibi katakan kepadanya?”
+“Dia percaya kepadaku. Setelah berbicara dengan Bibi, dia justru merasa harus pergi.” Dani mengangkat pesan yang teremas itu. “Mengapa tidak tanyakan kepadaku apakah aku takut dihina?”
 
-Huang Rong menyampaikan bahwa hidup bersama akan membawa celaan panjang. Ia tidak mengulangi kalimat tentang Dani yang masih muda dan kelak dapat melupakan. Dani mendengarkan dengan wajah yang perlahan kehilangan warna.
+“Ia takut engkau menanggung malu karena dirinya,” kata Huang Rong, lebih pelan. Ia berharap Dani dapat menerima alasan itu, tetapi mata pemuda tersebut justru semakin merah.
 
-*Dia meminta aku jangan melepaskan tangannya. Mengapa kini semua orang berbicara seolah perpisahan dapat diberikan kepadanya sebagai hadiah?*
+Dani teringat pertanyaan semalam dan caranya menjawab sambil mengantuk. *Bibi sedang menangis di dalam hatinya, aku malah membicarakan jalan-jalan.* Ia meremas kertas, lalu buru-buru meluruskannya kembali, takut merusak satu-satunya pesan yang ditinggalkan gadis itu.
 
-“Aku tidak memintanya melindungiku dari hidup bersamanya,” katanya.
+“Aku sudah mengatakan ingin menikah dengannya di hadapan semua orang. Apakah aku terlihat malu?” Suara Dani pecah. “Mereka boleh menertawakanku sampai puas, Bibi Guo. Mengapa Bibi justru membuatnya mengira aku akan lebih senang tanpa dirinya?”
 
 Huang Rong hendak menjawab, tetapi Dani sudah membungkuk singkat. Ia meminta arah jalan Zhongnan, mengambil buntalan serta tongkat, lalu meninggalkan penginapan dengan kuda yang dipinjamkan Huang Rong. Ia tidak menganggap pinjaman itu sebagai jawaban.
 
@@ -264,7 +264,7 @@ Ia masuk dengan napas memburu. Fu mencoba mengucapkan sesuatu, tetapi rahangnya 
 
 “Masih kucari.” Dani melihat matanya berubah. “Aku belum menemukannya, Bibi.”
 
-Huang Rong tidak sanggup menahan tatapannya lama-lama. Pemuda yang dikhawatirkannya akan kehilangan masa depan karena Xiaolongnü itu baru saja mempertaruhkan masa depannya sekali lagi demi keluarganya.
+Huang Rong ingin mengatakan sesuatu, tetapi melihat luka di wajah Dani ia kehilangan kata. Pemuda yang meninggalkan penginapan dengan hati terluka itu kembali mempertaruhkan diri bagi keluarganya. Ia tadi mengira perpisahan dapat melindungi masa depan Dani. Kini ketulusan yang hendak diaturnya sendiri membuatnya malu.
 
 ***
 
@@ -304,7 +304,7 @@ Batu yang tadi terlepas jatuh mengenai punggung Jinlun. Sang guru terhuyung, mel
 
 Dani mencoba bangkit. Darah memenuhi mulutnya.
 
-“Jangan bergerak!” Huang Rong merangkak mendekat, sementara Guo Fu berdiri di depannya dengan pedang gemetar. Huang Rong ngeri melihat darah Dani. Pemuda itu telah kehilangan kekasihnya, kini hampir kehilangan nyawa demi dirinya.
+Huang Rong meraih Dani yang kembali jatuh ketika mencoba bangkit. Pemuda yang menuduhnya memisahkan mereka baru saja menerima hantaman demi menyelamatkannya. Rasa bersalah menyusup lebih dalam: ia mengajari Xiaolongnü takut pada masa depan Dani, tetapi tidak memperhitungkan betapa besar pemuda itu mencintai gadis tersebut sekarang.
 
 “Aku masih bisa menahan jalan,” kata Fu. Suaranya hampir pecah. “Dunru, bawa Ibu!”
 
@@ -364,5 +364,5 @@ Yang membuatnya takut bukan rasa sakit itu. Ia telah berjanji tidak akan melepas
 - Dani 19, Xiaolongnü 21, Fu 17, Dunru 17, Xiuwen 16. Guo Xiang tetap bersama keluarga di kediaman Lu; Guo Jing dan Wu Santong tidak dipindahkan tanpa sebab ke pengejaran.
 - Kerja sama pedang bukan penemuan pertama; pedang Dunru dipinjam dan dikembalikan. Tongkat latihan Dani patah dalam pertolongan kedua. Bambu Huang Rong adalah tongkat biasa, bukan tongkat resmi Klan Pengemis; tidak diberi kepemilikan baru kepada Dani sesudah terluka.
 - Huang Rong sudah mengetahui kematian Hong. Petunjuk tongkat memperbaiki penerapan, tidak menaikkan tenaga atau memberi tingkat otomatis. Luka Jinlun dari Guo Jing serta tangan dan bahu Dani tetap membatasi mereka.
-- Xiaolongnü pergi karena manipulasi tentang masa depan Dani, bukan keraguan baru terhadap pengakuan cinta atau sapaan Bibi. Huang Rong mengakui percakapan itu kepada Dani tanpa mengulang seluruh isinya; Dani belum mengetahui setiap kalimatnya.
+- Xiaolongnü pergi karena takut Dani dihina seumur hidup, setelah terpengaruh peringatan Huang Rong, bukan keraguan baru terhadap pengakuan cinta atau sapaan Bibi. Huang Rong mengakui percakapan itu kepada Dani tanpa mengulang seluruh isinya; Dani belum mengetahui setiap kalimatnya.
 - Penyusunan batu, penghancuran pertahanan, dan bantuan penolong mengikuti mekanik kanon Bab 14–awal 15; motivasi Fu, urutan luka Jinlun, kontinuitas pedang pasangan, dan batas bab mengikuti lore serta peta yang disetujui. Gambar baru tidak membuka wajah asli penolong.

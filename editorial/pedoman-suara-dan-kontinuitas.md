@@ -58,3 +58,12 @@ Bab 12 telah disetujui penulis; revisi terakhir hanya menambah narasi pada tujuh
 ## Batas sesudah Bab 13
 
 Samaran Cheng Ying telah terbuka kepada Dani; masa kecil bersama tidak diulang sebagai perkenalan pertama. Dani telah menerima dasar Jentikan Jari Sakti dan Pedang Seruling Giok dari Huang Yaoshi. Feng Mofeng menolong mengusir Li Mochou. Kesaksian Shagu membangkitkan dendam Dani terhadap keluarga Guo, tetapi dugaan pembunuhan berencana belum terbukti. Ia berjanji memastikan kesalahan sebelum membalas. Di akhir bab ia mengikuti Jinlun dengan batas tidak menyakiti rakyat. Kublai dan Lembah Tanpa Cinta belum muncul. Keadaan luka, benda, dan hubungan selengkapnya dicatat dalam `bab-13-kontinuitas.md`.
+
+## Koreksi penulis 11 Oktober 2026 — berlaku untuk semua bab selanjutnya
+
+- Dani sebelum kehilangan lengan: lincah, genit, sarkastik, pandai mengelabui, mudah tersulut; tidak selalu menjaga jarak dan tidak selalu memahami akibat rayuannya. Kesetiaan kepada Xiaolongnü tidak menghapus kejahilan itu. Kesedihan dalam suatu adegan bukan perubahan permanen menjadi tokoh dingin. Perubahan besar sesudah kehilangan lengan tetap menunggu babaknya.
+- Xiaolongnü: polos, lugu dalam pergaulan, dingin kepada orang asing, ceria serta lembut terutama bersama Dani; sedikit ingin menguasai perhatian karena takut ditinggalkan. Cinta dalam dan kepolosan harus tampak lewat pilihan, bukan label yandere atau kegilaan. Koreksi ini mengatasi penafsiran lama yang berlebihan tentang sifat obsesif. Ia bukan istri yang hanya patuh; pernikahan belum berlangsung.
+- Bab 12: alasan pergi adalah takut Dani dihina seumur hidup karena pernikahan guru–murid. Ia bertanya tentang makam, terbangun lebih dahulu, menangis memandangi Dani tidur, lalu pergi. Jangan mengembalikannya ke alasan abstrak kehilangan kesempatan hidup atau tuntutan agar dilupakan.
+- Bab 13: Wushuang yang menarik topeng Cheng Ying. Shagu takut pada hantu Kang; Dani menggunakan senandung, permainan, serta peran hantu untuk memperoleh kesaksian. Amarahnya kemudian harus mempunyai akibat dan ditahan kedua sepupu.
+- Narasi menerangkan sebab dan emosi yang memang diperlukan. Dialog tidak diganti bahasa kantor, kalimat terapi, atau penjelasan sopan yang selalu sempurna. Jangan menambahkan lelucon modern atau gurauan pada setiap adegan duka hanya untuk menandai sifat baru.
+- Bab 14 baru berupa peta usulan. Ikuti persetujuan penulis sebelum menulis naskah dan membuat gambarnya.

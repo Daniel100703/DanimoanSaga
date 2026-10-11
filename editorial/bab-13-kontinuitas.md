@@ -4,7 +4,7 @@ Peta disetujui penulis sebelum penulisan. Sumber utama: Lorebook Jalur A, Babak 
 
 ## Arc dan batas pengetahuan
 
-- Dani pulih dalam perawatan penolong bertopeng. Wushuang kembali, lalu Cheng Ying membuka samaran pada p-13-017. Mereka mengingat pertemuan masa kecil; ini bukan perkenalan pertama.
+- Dani pulih dalam perawatan penolong bertopeng. Wushuang kembali, lalu Wushuang menarik topeng Cheng Ying ketika memperkenalkan sepupunya pada p-13-017. Mereka mengingat pertemuan masa kecil; ini bukan perkenalan pertama.
 - Li Mochou mengejar Kitab Lima Racun. Shagu dan Huang Yaoshi menolong pada serangan pertama. Delapan hari perawatan dan latihan dasar, disusul dua hari, memberi waktu pemulihan tanpa menghapus luka Dani.
 - Huang berangkat sebelum serangan susulan. Shagu terluka; kitab dan obat hanya menahan racun. Gagasan alat pemotong membawa mereka ke tempat penempaan. Feng Mofeng diperkenalkan pada p-13-089, kemudian melindungi mereka setelah gurunya dihina.
 - Feng memakai alat panas dan penyangga besi. Bantuan taktis Dani serta ancaman pengetahuan Huang memperkuat alasan Li mundur; Dani tidak mengalahkan Li sendirian.
@@ -17,7 +17,7 @@ Kang Moan tetap ayah yang pernah bertobat dan mengasuh Dani sampai usia lima tah
 
 Huang Yaoshi mengenal Dani sejak kecil. Dua ilmu barunya masih dasar, bukan penguasaan setara guru. Nasihat Jinlun tentang pemusatan ilmu belum melahirkan Tapak Melankolis. Shagu adalah perempuan dewasa dengan pemahaman dan gerakan terbatas, bukan anak kecil atau petarung tanpa kelemahan.
 
-Cheng Ying memperbaiki bagian pakaian yang rusak setelah meminta izin; jahitan Xiaolongnü dan jarum peninggalan ibu tetap terjaga. Dani mengakui kasih Cheng Ying tetapi tetap mencari Xiaolongnü. Cheng Ying dan Wushuang mempunyai keberatan serta kehendak sendiri. Bambu baru dipotong Wushuang; keledai milik Shagu; Dani tidak tiba-tiba memiliki pedang atau tunggangan.
+Cheng Ying memperbaiki bagian pakaian yang rusak setelah meminta izin; jahitan Xiaolongnü dan jarum peninggalan ibu tetap terjaga. Dani menikmati menggoda Cheng Ying, tetapi tetap mencari Xiaolongnü; ia belum selalu menyadari akibat rayuannya. Cheng Ying dan Wushuang mempunyai keberatan serta kehendak sendiri. Bambu baru dipotong Wushuang; keledai membawa Shagu; Dani tidak tiba-tiba memiliki pedang atau tunggangan.
 
 ## Keadaan akhir untuk bab berikutnya
 
@@ -27,7 +27,7 @@ Dani baru bersedia menemui rombongan Jinlun. Kublai, para petarung lain, Zhou Bo
 
 ## Visual dan wiki
 
-Satu pembuka bertopeng, ilustrasi penempaan setelah p-13-095, kesaksian setelah p-13-124. Potret dewasa Cheng Ying baru terbuka pada p-13-017. Alias penolong bertopeng bergabung ke kartu Cheng Ying hanya setelah ambang itu; sejarah bacaan sebelumnya tetap tersimpan. Shagu dan Feng baru memiliki kartu setelah diperkenalkan. Kartu Guo Jing/Huang Rong menerangkan tuduhan sebagai sudut pandang Dani.
+Empat gambar: pembuka bertopeng, pembukaan topeng oleh Wushuang setelah p-13-018, ilustrasi penempaan setelah p-13-095, kesaksian setelah p-13-124. Potret dewasa Cheng Ying baru terbuka pada p-13-017. Alias penolong bertopeng bergabung ke kartu Cheng Ying hanya setelah ambang itu; sejarah bacaan sebelumnya tetap tersimpan. Shagu dan Feng baru memiliki kartu setelah diperkenalkan. Kartu Guo Jing/Huang Rong menerangkan tuduhan sebagai sudut pandang Dani.
 
 ## Rujukan kanon yang diperiksa
 
@@ -38,3 +38,7 @@ Rangkaian terjemahan novel Jin Yong di WuxiaSociety, diperiksa 10 Oktober 2026. 
 - [Bab 16 bagian 1](https://wuxiasociety.com/return-of-the-condor-heroes-chapter-16/) dan [bagian 2](https://wuxiasociety.com/return-of-the-condor-heroes-chapter-16-part-2/): pertarungan Feng dan kelemahan Li.
 - [Bab 16 bagian 3](https://wuxiasociety.com/return-of-the-condor-heroes-chapter-16-part-3/): kesaksian Shagu dan nasihat Cheng Ying.
 - [Bab 16 bagian 4](https://wuxiasociety.com/return-of-the-condor-heroes-chapter-16-part-4/): Jinlun, penilaian ilmu, serta kerja sama terbatas.
+
+## Koreksi suara dan kesaksian, 11 Oktober 2026
+
+Shagu menyebut hantu ketika melihat Dani. Senandung dan permainan meredakan takutnya. Penggalian berlangsung dua tahap; di bengkel Dani berperan seolah dirinya Kang dan menanyakan penyebab kematiannya. Sesudah nama keluarga Guo dikenali, kemarahan merusak kelembutan pura-puranya dan kedua sepupu menghentikannya. Dani dan Huang Yaoshi kini bercakap sebagai sahabat lintas usia yang sama-sama menolak aturan cinta tersebut.
