@@ -1,6 +1,6 @@
 {
   "title": "Saga Dani Moan",
-  "description": "Novel wuxia berilustrasi karya Daniel Halomoan Siregar. Bab 1–13, dengan Wiki Persilatan yang mengikuti cerita.",
+  "description": "Novel wuxia berilustrasi karya Daniel Halomoan Siregar. Bab 1–14, dengan Wiki Persilatan yang mengikuti cerita.",
   "chapters": [
     {
       "id": 1,
@@ -1210,6 +1210,105 @@
           "name": "Daerba",
           "age": "",
           "description": "Menjaga gurunya yang terluka dan memohon kepada Dani."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "slug": "bab-14",
+      "han": "十四",
+      "source": "bab-14.md",
+      "title": "Bunga Cinta, Harga Sebuah Nyawa",
+      "accent": "#967146",
+      "description": "Di lembah yang memelihara bunga beracun, Dani menemukan perempuan yang dicarinya sedang bersiap menjadi pengantin orang lain.",
+      "quote": "Aku sudah mencoba membuat engkau bahagia tanpa diriku. Aku tidak ingin mencobanya lagi.",
+      "cover": {
+        "file": "bab-14-pembuka.webp",
+        "width": 1024,
+        "height": 1536
+      },
+      "plates": [
+        {
+          "image": {
+            "file": "bab-14-ilustrasi-01.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "anchor": "Gurauan berikutnya telah sampai di ujung lidah Dani ketika bayangan wajah putih muncul di benaknya. Rasa nyeri menusuk dari jari ke lengan. Ia terkejut, menarik napas, dan langsung memandang bunga itu dengan lebih hati-hati. Lü’e memberinya petunjuk memakan bagian tumbuhan yang dapat meredakan keluhan ringan, sambil mengingatkan bahwa itu bukan penawar bagi banyak tusukan.",
+          "alt": "Lü’e memeriksa jari Dani di antara Bunga Cinta.",
+          "caption": "Sebuah gurauan berakhir pada duri yang menyimpan bahaya."
+        },
+        {
+          "image": {
+            "file": "bab-14-ilustrasi-02.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "anchor": "Dani menatapnya, seolah takut satu kedipan akan mengembalikan perempuan asing tadi. Xiaolongnü merapatkan tangan pada pipinya. Ia telah sanggup membayangkan dirinya menderita sendirian selama bertahun-tahun. Melihat Dani menderita di depan matanya, ia tidak sanggup bertahan bahkan sampai tarikan napas berikutnya.",
+          "alt": "Xiaolongnü menopang Dani yang melemah; Gongsun menyaksikan penyangkalannya runtuh.",
+          "caption": "Ia sanggup merencanakan penderitaannya sendiri, tetapi tidak sanggup melihat Dani menderita."
+        },
+        {
+          "image": {
+            "file": "bab-14-ilustrasi-03.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "anchor": "“Setengah pil menghimpun racun, tidak menuntaskan penawarnya. Serangannya datang dua kali lebih cepat. Ambil bagian lainnya sebelum batas itu, maka ia sembuh.”",
+          "alt": "Qiu mengendalikan syarat penawar, dengan Lü’e membawa tatakan dan pasangan menunggu.",
+          "caption": "Setengah penawar datang bersama tenggat dan tuntutan kepala."
+        }
+      ],
+      "cast": [
+        {
+          "name": "Pangeran Kublai",
+          "age": "",
+          "description": "Pangeran Mongol yang menyambut Dani dan menghargai bakat untuk kepentingan rombongannya."
+        },
+        {
+          "name": "Xiaoxiangzi",
+          "age": "",
+          "description": "Petarung pucat dan kurus di meja Kublai."
+        },
+        {
+          "name": "Nimoxing",
+          "age": "",
+          "description": "Petarung dari jauh di barat daya yang tampak tidak sabar."
+        },
+        {
+          "name": "Yin Kexi",
+          "age": "",
+          "description": "Petarung berpenampilan saudagar dengan perhiasan mewah."
+        },
+        {
+          "name": "Ma Guangzuo",
+          "age": "",
+          "description": "Petarung bertubuh besar dalam rombongan Kublai."
+        },
+        {
+          "name": "Zhou Botong",
+          "age": "Tetua",
+          "description": "Orang tua jenaka yang mencari Guo Jing dan mengacaukan jamuan."
+        },
+        {
+          "name": "Gongsun Lü’e",
+          "age": "Remaja akhir; usia tepat belum disebut",
+          "description": "Putri penguasa lembah yang membantu menerima tamu dan memperingatkan Dani tentang bunga."
+        },
+        {
+          "name": "Gongsun Zhi",
+          "age": "Dewasa; usia tepat belum disebut",
+          "description": "Penguasa lembah yang tampak tertib dan sopan kepada para tamu."
+        },
+        {
+          "name": "Fan Yiweng",
+          "age": "",
+          "description": "Murid Gongsun dengan tubuh pendek dan janggut sangat panjang."
+        },
+        {
+          "name": "Qiu Qianchi",
+          "age": "Dewasa; usia tepat belum disebut",
+          "description": "Ibu Lü’e yang ternyata masih hidup di bawah tanah."
         }
       ]
     }

@@ -1,12 +1,12 @@
 # Peta Bab 14 — Bunga Cinta, Harga Sebuah Nyawa
 
-Status: **usulan untuk diperiksa penulis; Bab 14 belum ditulis**. Mengandung bocoran alur. Dasar: lorebook Jalur A, Babak VIII poin 1–8, dan akhir Bab 13 setelah revisi karakter.
+Status: **disetujui penulis pada 11 Oktober 2026; telah diadaptasi menjadi Bab 14**. Penekanan tambahan penulis: sebab Xiaolongnü sampai di lembah, pertolongan Gongsun, persetujuan nikah, penyangkalan, dan runtuhnya pertahanan saat Dani muntah darah. Mengandung bocoran alur. Dasar: lorebook Jalur A, Babak VIII poin 1–8, dan akhir Bab 13 setelah revisi karakter.
 
 ## Cakupan satu bab
 
 Usulan ini menuntaskan **kunjungan pertama ke Lembah Tanpa Cinta**, dari pertemuan rombongan Mongol sampai Dani keluar bersama Xiaolongnü dengan setengah penawar dan tuntutan membunuh Guo Jing. Perjalanan dipadatkan; perkenalan, reuni, dan pemerasan mendapat dialog utuh. Tidak membuat satu bab tersendiri hanya untuk jamuan Kublai atau perjalanan masuk lembah.
 
-Sasaran sekitar **4.500–5.500 kata** karena babak ini memuat beberapa konflik yang saling menyebabkan. Ini usulan pengecualian panjang untuk satu arc besar, bukan perubahan tetap terhadap tempo novel. Bagian berulang dari duel diringkas, sedangkan alasan Xiaolongnü, hubungan Lü’e dengan orang tuanya, dan pilihan Dani tidak dipotong menjadi ringkasan. Batas panjang serta cakupan ini menunggu penilaian penulis bersama petanya.
+Sasaran sekitar **4.500–5.500 kata** karena babak ini memuat beberapa konflik yang saling menyebabkan. Ini usulan pengecualian panjang untuk satu arc besar, bukan perubahan tetap terhadap tempo novel. Bagian berulang dari duel diringkas, sedangkan alasan Xiaolongnü, hubungan Lü’e dengan orang tuanya, dan pilihan Dani tidak dipotong menjadi ringkasan. Penulis telah menyetujui batas panjang serta cakupan ini.
 
 ## Urutan dan tujuan adegan
 
@@ -34,7 +34,7 @@ Dani boleh menikmati merayu Lü’e dan membalas keusilan Zhou. Ia juga dapat pa
 
 ## Rencana visual dan kartu
 
-Usulan **empat gambar termasuk pembuka**: rombongan di ambang lembah; percakapan Dani dan Lü’e di antara Bunga Cinta; Xiaolongnü menahan Dani yang muntah darah di aula; Qiu Qianchi menghadapkan setengah penawar kepada pasangan. Gambar Bab 14 baru dibuat setelah peta disetujui. Semua visual Bab 1–13 tetap ada.
+Usulan **empat gambar termasuk pembuka**: rombongan di ambang lembah; percakapan Dani dan Lü’e di antara Bunga Cinta; Xiaolongnü menahan Dani yang muntah darah di aula; Qiu Qianchi menghadapkan setengah penawar kepada pasangan. Empat gambar Bab 14 dibuat setelah peta disetujui. Semua visual Bab 1–13 tetap ada.
 
 Kartu Kublai, empat petarung, Zhou, Lü’e, Gongsun, dan Qiu dibuka saat diperkenalkan. Tingkat serta bahaya baru diisi setelah bukti tampak; reputasi dibedakan dari demonstrasi. Bunga Cinta, jaring, kekebalan titik tubuh, dan semburan biji kurma diberi penjelasan singkat sesuai tahap pengetahuan pembaca. Rahasia Qiu dan hubungan keluarga tidak dibocorkan pada kartu Gongsun sebelum terungkap. Potret mengikuti gambar adegan yang sudah dilihat pembaca.
 
@@ -48,3 +48,8 @@ Dasar lore: `Saga_Dani_Moan_Lorebook_1.md`, Jalur A Babak VIII serta matriks tok
 - [Bab 18 bagian 2](https://wuxiasociety.com/return-of-the-condor-heroes-chapter-18-part-2/) serta [bagian 3](https://wuxiasociety.com/return-of-the-condor-heroes-chapter-18-part-3/) — pengakuan bertahap, jaring, dan pertahanan Gongsun.
 - [Bab 19 bagian 5](https://wuxiasociety.com/return-of-the-condor-heroes-chapter-19-part-5/), [bagian 8](https://wuxiasociety.com/return-of-the-condor-heroes-chapter-19-part-8/), serta [bagian 9](https://wuxiasociety.com/return-of-the-condor-heroes-chapter-19-part-9/) — Qiu, Lü’e, jalan keluar, dan terungkapnya masa lalu.
 - [Bab 20 bagian 4](https://wuxiasociety.com/return-of-the-condor-heroes-chapter-20-part-4/) serta [bagian 5](https://wuxiasociety.com/return-of-the-condor-heroes-chapter-20-part-5/) — penawar, tekanan perjodohan, tuntutan kepala, dan keberangkatan pasangan.
+
+
+## Catatan pelaksanaan
+
+Bab terbit memakai sekitar 5.350 kata dan empat ilustrasi. Pengakuan Xiaolongnü ditempatkan pada saat Dani muntah darah sesuai lore dan instruksi penulis; duel lanjut dipadatkan. Rou’er dibunuh langsung oleh Qiu mengikuti matriks lore, sedangkan dalam kanon Gongsun yang membunuhnya di bawah paksaan Qiu. Kerusakan urat Qiu serta pembuangan ke bawah tanah tetap terjadi. Sasaran penawar ialah Guo Jing sesuai lore. Surat keluarga tidak mengubah versi Qiu Qianren yang buta dan menyendiri dalam lore. Penyerahan pedang pasangan melalui Lü’e dipadatkan ke kepulangan mereka ke aula; tidak ada senjata yang muncul tanpa asal. Qiu tampil dengan identitas sendiri karena Dani versi Saga tidak membawa topeng manusia dari Cheng Ying.

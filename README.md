@@ -1,4 +1,4 @@
-# Saga Dani Moan — Bab 1–13
+# Saga Dani Moan — Bab 1–14
 
 Novel wuxia berilustrasi karya Daniel Halomoan Siregar.
 
@@ -67,6 +67,15 @@ Tiga ilustrasi baru membawa jumlah gambar cerita menjadi 49, ditambah satu sampu
 
 ## Membaca
 
+[Bab 14 — Bunga Cinta, Harga Sebuah Nyawa](https://daniel100703.github.io/DanimoanSaga/bab-14.html) menuntaskan kunjungan pertama ke Lembah Tanpa Cinta. Alasan Xiaolongnü meninggalkan makam, ditolong Gongsun, menerima rencana perkawinan, dan berpura-pura tidak mengenali Dani dijelaskan melalui kejadian serta percakapan. Penyangkalannya runtuh ketika Dani muntah darah.
+
+Bab ini memuat empat ilustrasi: pembuka, taman Bunga Cinta, reuni, dan syarat penawar. Total 54 gambar cerita dan satu sampul utama. Naskah Bab 1–13 dan seluruh gambar sebelumnya dipertahankan. Kartu mengikuti pengungkapan tokoh, perubahan hubungan, dan kondisi racun pada paragraf terkait.
+
+- [Kontinuitas dan rujukan Bab 14](editorial/bab-14-kontinuitas.md).
+- [Arahan dan aset ilustrasi Bab 14](editorial/bab-14-visual.md).
+
+### Pengaturan pembaca
+
 Gunakan daftar bab untuk berpindah, tombol A−/A+ untuk ukuran huruf, dan tombol tema untuk beralih antara tampilan krem dan gelap. Posisi baca tersimpan pada peramban yang dipakai.
 
 Ketuk istilah **tebal bergaris bawah** untuk membuka kartu lore. Kartu mengikuti pengetahuan pada paragraf itu, termasuk ketika membaca kembali bab lama. Wiki menyediakan pencarian, filter jenis, dan pilihan batas informasi. Memilih akhir bab yang lebih jauh akan membuka informasi sampai bab tersebut.
@@ -81,7 +90,7 @@ Repositori ini adalah situs statis; Python dipakai hanya saat menyusun halaman. 
 python3 build.py
 ```
 
-Perintah itu membangun `index.html`, `wiki.html`, peta editorial `peta-bab-11.html`, `peta-bab-12.html`, dan `peta-bab-13.html`, dan semua `bab-XX.html` dari `book.json`, `bab-XX.md`, serta `lore-data.json`. Catatan kontinuitas penulis tetap di Markdown dan tidak masuk ke halaman bacaan.
+Perintah itu membangun `index.html`, `wiki.html`, peta editorial Bab 11–14, dan semua `bab-XX.html` dari `book.json`, `bab-XX.md`, serta `lore-data.json`. Catatan kontinuitas penulis tetap di Markdown dan tidak masuk ke halaman bacaan.
 
 Untuk satu berkas HTML yang dapat dibaca tanpa internet:
 
@@ -109,4 +118,4 @@ Jangan menghapus aset lama yang masih dipakai bab atau potret tokoh. Jika revisi
 
 ### Pembaruan 11 Oktober 2026
 
-Revisi suara Dani dan Xiaolongnü pada Bab 1–13, sebab perpisahan Bab 12, pembukaan topeng oleh Wushuang, serta permainan Dani untuk menggali kesaksian Shagu. Seluruh gambar lama tetap ada; Bab 13 sekarang empat gambar. Bukti dan status kartu mengikuti naskah revisi, tanpa menggeser ID paragraf atau posisi baca. Peta Bab 14 tersedia di `peta-bab-14.html`; naskah Bab 14 belum ditulis. Rincian editorial: `editorial/revisi-karakter-2026-10-11.md`.
+Revisi suara Dani dan Xiaolongnü pada Bab 1–13, sebab perpisahan Bab 12, pembukaan topeng oleh Wushuang, serta permainan Dani untuk menggali kesaksian Shagu. Seluruh gambar lama tetap ada; Bab 13 sekarang empat gambar. Bukti dan status kartu mengikuti naskah revisi, tanpa menggeser ID paragraf atau posisi baca. Peta Bab 14 tersedia di `peta-bab-14.html` dan sudah diadaptasi menjadi bab lengkap. Rincian revisi terdahulu: `editorial/revisi-karakter-2026-10-11.md`.

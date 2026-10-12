@@ -67,3 +67,7 @@ Samaran Cheng Ying telah terbuka kepada Dani; masa kecil bersama tidak diulang s
 - Bab 13: Wushuang yang menarik topeng Cheng Ying. Shagu takut pada hantu Kang; Dani menggunakan senandung, permainan, serta peran hantu untuk memperoleh kesaksian. Amarahnya kemudian harus mempunyai akibat dan ditahan kedua sepupu.
 - Narasi menerangkan sebab dan emosi yang memang diperlukan. Dialog tidak diganti bahasa kantor, kalimat terapi, atau penjelasan sopan yang selalu sempurna. Jangan menambahkan lelucon modern atau gurauan pada setiap adegan duka hanya untuk menandai sifat baru.
 - Bab 14 baru berupa peta usulan. Ikuti persetujuan penulis sebelum menulis naskah dan membuat gambarnya.
+
+## Keadaan sesudah Bab 14
+
+Peta Bab 14 disetujui 11 Oktober 2026 dan kini telah diadaptasi. Penekanan penulis: jelaskan sebab Xiaolongnü sampai di lembah, pertolongan Gongsun, alasan menerima lamaran, serta penyangkalan yang runtuh saat Dani muntah darah. Pasangan kembali bersama dan menuju Xiangyang; Dani keracunan dengan tenggat delapan belas hari setelah setengah pil. Qiu menahan sisanya untuk kepala Guo Jing. Kebenaran kematian Kang belum lengkap dan Dani belum bersumpah membunuh. Detail benda, luka, dan perbedaan kanon ada di bab-14-kontinuitas.md.
