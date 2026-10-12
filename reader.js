@@ -5,7 +5,7 @@
   'use strict';
   const root=document.documentElement, body=document.body;
   root.classList.add('js');
-  const book=JSON.parse(document.querySelector('#book-meta').textContent);
+  const book=window.DANI_DATA?.book ?? JSON.parse(document.querySelector('#book-meta').textContent);
   const single=body.dataset.mode==='single';
   const storageKey='dani-moan-webnovel-v1';
   const toolbar=document.querySelector('.topbar');
@@ -17,7 +17,7 @@
     if(!state.positions || typeof state.positions!=='object')state.positions={};
     localStorage.setItem(storageKey+'-check','1');localStorage.removeItem(storageKey+'-check');
   } catch(_){root.classList.add('no-storage');}
-  const migration=JSON.parse(document.getElementById('edition-migration').textContent);
+  const migration=window.DANI_DATA?.migration ?? JSON.parse(document.getElementById('edition-migration').textContent);
   if(state.edition!==migration.edition){
     const previous=state, positions={};
     const fromPrevious=previous.edition===migration.previousEdition || Boolean(migration.editionMaps?.[previous.edition]);

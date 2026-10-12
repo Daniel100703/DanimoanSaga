@@ -1,16 +1,16 @@
 /* Wiki statis: tahap informasi ditentukan oleh paragraf, bukan kemampuan masa depan.
- * Data tertanam agar edisi satu HTML juga bekerja tanpa server/internet.
+ * Situs memakai data bersama; edisi satu HTML tetap bekerja tanpa internet.
  */
 (() => {
   'use strict';
-  const data = JSON.parse(document.getElementById('lore-data').textContent);
+  const data = window.DANI_DATA?.lore ?? JSON.parse(document.getElementById('lore-data').textContent);
   const entries = data.entries, byId = new Map(entries.map(e => [e.id, e]));
   const dialog = document.getElementById('lore-dialog');
   const content = document.getElementById('lore-content');
-  const book = JSON.parse(document.getElementById('book-meta').textContent);
+  const book = window.DANI_DATA?.book ?? JSON.parse(document.getElementById('book-meta').textContent);
   const single = document.body.dataset.mode === 'single';
   const storageKey = 'dani-moan-lore-v1';
-  const migration=JSON.parse(document.getElementById('edition-migration').textContent);
+  const migration=window.DANI_DATA?.migration ?? JSON.parse(document.getElementById('edition-migration').textContent);
   const edition=migration.edition;
   let progress = 0, opener = null, savedY = 0, observer;
   const esc = value => String(value).replace(/[&<>"']/g, ch => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[ch]));

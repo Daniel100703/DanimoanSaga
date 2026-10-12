@@ -94,6 +94,8 @@ Perintah itu membangun `index.html`, `wiki.html`, peta editorial Bab 11–14, da
 
 Untuk satu berkas HTML yang dapat dibaca tanpa internet:
 
+Data wiki, metadata bab, dan pemetaan posisi kini dimuat satu kali dari `reader-data.js` yang dihasilkan otomatis. Halaman situs tidak lagi menggandakan seluruh data tersebut. Edisi satu berkas tetap menyertakannya agar berfungsi luring.
+
 ```bash
 python3 build.py --standalone Saga_Dani_Moan_Offline.html
 ```
@@ -114,6 +116,8 @@ Buka `http://localhost:8000` setelah server berjalan. Tekan Ctrl+C untuk menghen
 4. Commit seluruh berkas yang berubah beserta aset baru ke `main`. GitHub Pages menerbitkan situs dari cabang yang sudah dikonfigurasi.
 
 Jangan menghapus aset lama yang masih dipakai bab atau potret tokoh. Jika revisi mengubah nomor bab atau paragraf, perbarui pemetaan `edition-migration.json` dan kutipan bukti wiki. Jangan memasukkan hasil HTML luring yang besar ke repositori; halaman situs sudah memakai aset bersama.
+
+[Pegangan untuk melanjutkan penulisan dalam chat berikutnya](editorial/pegangan-chat-berikutnya.md) memuat posisi cerita, sumber yang perlu dibaca, standar mutu, dan cara menghindari pekerjaan teknis berulang.
 
 
 ### Pembaruan 11 Oktober 2026

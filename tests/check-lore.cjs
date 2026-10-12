@@ -4,6 +4,12 @@ const data=JSON.parse(fs.readFileSync(root+'lore-data.json','utf8'));
 const noop=()=>{},el={addEventListener:noop,dataset:{}};
 const doc={body:{dataset:{mode:'pages'}},getElementById:id=>['lore-data','book-meta','edition-migration'].includes(id)?{textContent:fs.readFileSync(root+({'lore-data':'lore-data.json','book-meta':'book.json','edition-migration':'edition-migration.json'}[id]),'utf8')}:['wiki-boundary','wiki-search','wiki-kind'].includes(id)?null:el,addEventListener:noop};
 const ctx={document:doc,localStorage:{getItem:()=>null,setItem:noop},window:{},console};
+// Jalankan juga dengan DANI_TEST_SHARED=1 untuk jalur data situs.
+if(process.env.DANI_TEST_SHARED){
+ vm.runInNewContext(fs.readFileSync(root+'reader-data.js','utf8'),ctx);
+ const get=doc.getElementById;
+ doc.getElementById=id=>['lore-data','book-meta','edition-migration'].includes(id)?null:get(id);
+}
 let source=fs.readFileSync(root+'lore.js','utf8').replace('observeReading();renderWiki();','globalThis.testAPI={card,stage,relationship,portrait,resolveEntry};');
 vm.runInNewContext(source,ctx);const api=ctx.testAPI,byId=id=>data.entries.find(e=>e.id===id);
 for(const e of data.entries)for(const r of e.relationships||[]){

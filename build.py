@@ -6,7 +6,7 @@ Edisi satu file: python build.py --standalone Nama_File.html
 Hanya menggunakan pustaka standar Python 3; tidak memerlukan npm atau server.
 """
 from pathlib import Path
-import argparse, base64, html, json, math, re
+import argparse, base64, hashlib, html, json, math, re
 import lore
 
 BASE=Path(__file__).resolve().parent
@@ -14,6 +14,9 @@ BOOK=json.loads((BASE/'book.json').read_text(encoding='utf-8'))
 CHAPTERS=BOOK['chapters']
 META=[{k:c[k] for k in ('id','slug','title')} for c in CHAPTERS]
 MIGRATION=json.loads((BASE/'edition-migration.json').read_text(encoding='utf-8'))
+# Satu salinan data bersama untuk situs; edisi luring tetap memuat data di HTML.
+READER_DATA='window.DANI_DATA='+json.dumps({'book':META,'migration':MIGRATION,'lore':lore.DATA},ensure_ascii=False,separators=(',',':')).replace('<','\\u003c')+';\n'
+DATA_VERSION=hashlib.sha256(READER_DATA.encode('utf-8')).hexdigest()[:12]
 ICONS={
  'menu':'<path d="M4 5h16M4 12h16M4 19h16"/>',
  'moon':'<path d="M20 15.3A8.3 8.3 0 018.7 4a8.4 8.4 0 1011.3 11.3z"/>',
@@ -87,12 +90,17 @@ def chapter(c,single):
     cn=c.get('han',str(c['id']))
     cast_section='<details class="extras"><summary>Tokoh dalam bab ini</summary><div class="extras-content">'+lore.cast_buttons(c['id'],c['cast'])+'</div></details>' if c['cast'] else ''
     return f'''<section data-view="{c['slug']}" id="{c['slug']}" class="chapter-view" style="--chapter:{c['accent']}"><header class="chapter-heading"><div class="chapter-kicker"><a href="{link('beranda','daftar-bab',single)}">← Daftar bab</a><span>BAB {c['id']:02} / {len(CHAPTERS):02}</span></div><span class="number" lang="zh">第{cn}章</span><h1>{esc(c['title'])}</h1><p class="epigraph">“{esc(c['quote'])}”</p><p class="byline">Daniel Halomoan Siregar</p><div class="read-start"><a href="{link(c['slug'],'cerita-'+c['slug'],single)}">Mulai membaca ↓</a><a class="resume-chapter" data-resume="{c['slug']}" href="{link(c['slug'],single=single)}">Lanjutkan posisi terakhir →</a></div></header><figure class="cover-plate">{image_tag(c['cover'],'Ilustrasi pembuka: '+c['title'],not single)}<figcaption>Bab {c['id']} · {esc(c['title'])}</figcaption></figure><p class="reading-hint"><strong>Istilah tebal bergaris bawah</strong> dapat diketuk untuk membuka kartu wiki. <em>Kalimat miring</em> menandai pikiran langsung tokoh.</p><article class="prose" id="cerita-{c['slug']}" aria-label="Cerita Bab {c['id']}">{''.join(parts)}</article><div class="end-seal" lang="zh" aria-label="Akhir Bab {c['id']}">{cn}</div><div class="after-story"><nav class="chapter-nav" aria-label="Baca bab lain">{navlink(prev)}{navlink(nextch,True)}</nav>{cast_section}{lore.end_lore(c['id'])}</div></section>'''
+def data_scripts(single):
+    if single:
+        return '<script type="application/json" id="book-meta">'+json.dumps(META,ensure_ascii=False).replace('<','\\u003c')+'</script><script type="application/json" id="edition-migration">'+json.dumps(MIGRATION,ensure_ascii=False,separators=(',',':')).replace('<','\\u003c')+'</script>'
+    return f'<script src="reader-data.js?v={DATA_VERSION}"></script>'
+
 def document(current='beranda',single=False):
     c=next((x for x in CHAPTERS if x['slug']==current),None)
     title=f'Bab {c["id"]} · {c["title"]} — Saga Dani Moan' if c else 'Saga Dani Moan · Novel berilustrasi'
     content=(home(single)+''.join(chapter(c,single) for c in CHAPTERS)+lore.wiki_view(CHAPTERS)) if single else (chapter(c,False) if c else lore.wiki_view(CHAPTERS) if current=='wiki' else home(False))
     return f'''<!doctype html>
-<html lang="id"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="color-scheme" content="light dark"><meta name="description" content="{esc(c['description'] if c else BOOK['description'])}"><meta name="author" content="Daniel Halomoan Siregar"><title>{esc(title)}</title><link rel="icon" type="image/svg+xml" href="favicon.svg"><link rel="stylesheet" href="reader.css?v=20261010cards"></head><body data-mode="{'single' if single else 'pages'}" data-page="{current}" data-current="{current}">{header(current,single)}<main>{content}</main><footer class="footer"><p>SAGA DANI MOAN · NOVEL BERILUSTRASI</p><p>Daniel Halomoan Siregar</p><a href="{link('beranda',single=single)}">Kembali ke beranda</a></footer><script type="application/json" id="book-meta">{json.dumps(META,ensure_ascii=False).replace('<','&lt;')}</script><script type="application/json" id="edition-migration">{json.dumps(MIGRATION,ensure_ascii=False,separators=(",",":")).replace("<","&lt;")}</script><script src="reader.js?v=20261010cards"></script>{lore.shell()}</body></html>'''
+<html lang="id"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="color-scheme" content="light dark"><meta name="description" content="{esc(c['description'] if c else BOOK['description'])}"><meta name="author" content="Daniel Halomoan Siregar"><title>{esc(title)}</title><link rel="icon" type="image/svg+xml" href="favicon.svg"><link rel="stylesheet" href="reader.css?v=20261010cards"></head><body data-mode="{'single' if single else 'pages'}" data-page="{current}" data-current="{current}">{header(current,single)}<main>{content}</main><footer class="footer"><p>SAGA DANI MOAN · NOVEL BERILUSTRASI</p><p>Daniel Halomoan Siregar</p><a href="{link('beranda',single=single)}">Kembali ke beranda</a></footer>{data_scripts(single)}<script src="reader.js?v=20261012shared"></script>{lore.shell(embed_data=single)}</body></html>'''
 def uri(path):
     mime={'.woff':'font/woff','.webp':'image/webp','.svg':'image/svg+xml'}[path.suffix]
     return 'data:'+mime+';base64,'+base64.b64encode(path.read_bytes()).decode()
@@ -101,8 +109,8 @@ def standalone(path):
     css=(BASE/'reader.css').read_text(encoding='utf-8')
     css=re.sub(r"url\('([^']+)'\)",lambda m:"url('"+uri(BASE/m[1])+"')",css)
     doc=doc.replace('<link rel="stylesheet" href="reader.css?v=20261010cards">','<style>'+css+'</style>')
-    doc=doc.replace('<script src="reader.js?v=20261010cards"></script>','<script>'+(BASE/'reader.js').read_text(encoding='utf-8')+'</script>')
-    doc=doc.replace('<script src="lore.js?v=20261010ch13"></script>','<script>'+(BASE/'lore.js').read_text(encoding='utf-8')+'</script>')
+    doc=doc.replace('<script src="reader.js?v=20261012shared"></script>','<script>'+(BASE/'reader.js').read_text(encoding='utf-8')+'</script>')
+    doc=doc.replace('<script src="lore.js?v=20261012shared"></script>','<script>'+(BASE/'lore.js').read_text(encoding='utf-8')+'</script>')
     cache={}
     def embed(m):
         name=m[2]
@@ -123,6 +131,7 @@ def main():
     from build_editorial import render
     render()
     ap=argparse.ArgumentParser(description=__doc__);ap.add_argument('--standalone',type=Path);args=ap.parse_args()
+    (BASE/'reader-data.js').write_text(READER_DATA,encoding='utf-8')
     (BASE/'wiki.html').write_text(document('wiki'),encoding='utf-8')
     (BASE/'index.html').write_text(document(),encoding='utf-8')
     for c in CHAPTERS:(BASE/(c['slug']+'.html')).write_text(document(c['slug']),encoding='utf-8')
