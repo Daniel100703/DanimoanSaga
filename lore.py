@@ -18,6 +18,9 @@ def annotate(text,c,n,seen):
     def replace(m):
         e=LOWER[m.group().lower()]
         if e['stages'][0]['key']>at:return html.escape(m.group())
+        # Di Bab 14, gadis hijau ialah Lü'e; sumpah yang dibahas bukan sumpah makam.
+        # Jangan menghubungkan deskripsi umum ini dengan tokoh/peristiwa bab lama.
+        if c==14 and e['id'] in ('gadis-hijau','sumpah-makam'):return html.escape(m.group())
         # Nama tidak menutupi setiap dialog. Pembaruan pada adegan tetap dapat diketuk.
         gap=14 if e['type']=='tokoh' else 5
         if n-seen.get(e['id'],-100)<gap:return html.escape(m.group())
