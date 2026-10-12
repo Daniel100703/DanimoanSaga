@@ -70,4 +70,6 @@ Samaran Cheng Ying telah terbuka kepada Dani; masa kecil bersama tidak diulang s
 
 ## Keadaan sesudah Bab 14
 
+Koreksi penulis 12 Oktober 2026: sapaan yang digunakan Dani kepada Xiaolongnü adalah **Bibi**, termasuk seruan ketika reuni. “Gugu!” yang tersisa pada Bab 14 telah dikoreksi menjadi “Bibi!”. Pertahankan pilihan ini pada bab selanjutnya; jangan mengembalikannya ke sapaan dari instruksi versi lama.
+
 Peta Bab 14 disetujui 11 Oktober 2026 dan kini telah diadaptasi. Penekanan penulis: jelaskan sebab Xiaolongnü sampai di lembah, pertolongan Gongsun, alasan menerima lamaran, serta penyangkalan yang runtuh saat Dani muntah darah. Pasangan kembali bersama dan menuju Xiangyang; Dani keracunan dengan tenggat delapan belas hari setelah setengah pil. Qiu menahan sisanya untuk kepala Guo Jing. Kebenaran kematian Kang belum lengkap dan Dani belum bersumpah membunuh. Detail benda, luka, dan perbedaan kanon ada di bab-14-kontinuitas.md.

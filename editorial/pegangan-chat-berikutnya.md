@@ -22,7 +22,7 @@ Dani sekarang 19 tahun, Xiaolongnü 21. Kedua lengan Dani utuh. Dani masih linca
 
 ## Posisi akhir Bab 14
 
-Bab 14: **Bunga Cinta, Harga Sebuah Nyawa**, 5.362 kata cerita, 199 paragraf, satu pembuka dan tiga ilustrasi adegan. Naskah dan semua ilustrasi Bab 1–13 dipertahankan.
+Bab 14: **Bunga Cinta, Harga Sebuah Nyawa**, 5.362 kata cerita, 199 paragraf, satu pembuka dan lima ilustrasi adegan setelah tambahan wajah kartu pada 12 Oktober 2026. Naskah dan semua ilustrasi Bab 1–13 dipertahankan.
 
 - Xiaolongnü sengaja menghindari makam setelah berpisah, mengalami gangguan tenaga karena rindu, lalu ditolong Gongsun. Ia menerima rencana nikah untuk memutus harapan Dani dan mencegah dirinya kembali. Penyangkalan runtuh saat Dani muntah darah. Pernikahan dengan Gongsun tidak terjadi.
 - Pil utuh yang diselipkan Zhou Botong diberikan Dani kepada Xiaolongnü. Ia sembuh dari racun; Dani tetap keracunan.
@@ -42,6 +42,12 @@ Arahan visual Bab 14 ada di `editorial/bab-14-visual.md`. Wajah dan usia mengacu
 Sumber: `bab-XX.md`, `book.json`, `lore-data.json`, dan `edition-migration.json`. Jalankan `python3 build.py`; unggah berkas yang berubah saja. `reader-data.js` dihasilkan otomatis sebagai satu salinan data bersama untuk seluruh halaman. Jangan menyisipkan kembali seluruh wiki ke setiap HTML. Edisi `--standalone` tetap menyertakan data dan gambar agar dapat dibaca luring.
 
 Jangan tampilkan HTML, JSON wiki, atau base64 gambar dalam percakapan. Baca bagian yang dibutuhkan, simpan hasil naskah dan ilustrasi, lalu lanjut dari hasil yang sudah ada jika tugas terputus. Sebelum menerbitkan, periksa naskah, ilustrasi, tautan, batas kartu, dan posisi baca. Cocokkan kepala `main` sebelum pembaruan; jangan menimpa perubahan lain. Satu akhir tugas harus meninggalkan catatan status yang bisa dibaca chat berikutnya.
+
+## Status tugas 12 Oktober 2026
+
+Enam kartu Bab 14 yang sebelumnya belum memiliki potret sudah dilengkapi: Kublai, Xiaoxiangzi, Nimoxing, Yin Kexi, Zhou Botong, dan Fan Yiweng. Dua ilustrasi tambahan memakai peristiwa yang sudah ada pada paragraf 5 dan 36; ID paragraf tidak bergeser. Atas koreksi penulis dalam sesi yang dilanjutkan, seruan “Gugu!” pada reuni Bab 14 diganti menjadi “Bibi!”. Tidak ada perubahan narasi lain. Sumber serta batas wajah dicatat di `bab-14-visual.md`. Sapaan berikutnya tetap Bibi, sesuai pedoman terbaru.
+
+`editorial/peta-bab-15.md` dan `peta-bab-15.html` memuat usulan **Nyawa yang Tak Jadi Ditagih**, seluruh Babak IX, dengan lima bagian. Usulan pengecualian panjang 4.500–5.500 kata dan enam ilustrasi belum disetujui. Bab 16 hanya dipetakan sebagai batas arc Tragedi; rencana rincinya belum dibuat. Jangan menulis naskah atau membuat gambar Bab 15 sebelum persetujuan. Perhatian khusus: syarat Qiu tetap kepala Guo Jing; tawaran kepala Huang Rong adalah pengganti yang belum dijamin diterima, Polu menggantikan bayi Xiang, kedua Wu sudah tahu penolakan perjodohan pada Bab 11, dan Wu Santong bukan orang baru.
 
 ## Pesan pembuka yang dapat dipakai
 

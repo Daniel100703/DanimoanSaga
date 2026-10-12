@@ -34,6 +34,26 @@ Lukisan digital wuxia yang konsisten dengan ilustrasi Saga sebelumnya: warna ala
 - Arahan: Qiu Qianchi kurus berambut jarang duduk di kiri, tubuh tidak mampu menopang diri. Lü’e di belakangnya memegang tatakan obat. Dani di tengah kanan, Xiaolongnü di kanan memegang tangannya; mereka menerima syarat yang menakutkan. Sorot tatakan dan ekspresi, bukan kekerasan. Qiu tetap duduk, bukan digambarkan berdiri atau pulih.
 - Potret: Qiu, Lü’e, Dani, Xiaolongnü. Potret Qiu tidak dibuka sebelum gambar ini, walaupun identitasnya telah diketahui lebih awal.
 
+## Tambahan 12 Oktober 2026 — melengkapi wajah kartu
+
+Atas permintaan penulis, dua ilustrasi adegan ditambahkan untuk enam kartu yang belum mempunyai wajah. Total Bab 14 kini enam gambar termasuk pembuka. Empat gambar semula dan seluruh naskah dipertahankan. Produksi memakai imagegen bawaan dengan gambar resmi Bab 14 sebagai rujukan; hasil dikonversi ke WebP, potret tetap memakai area wajah dari ilustrasi tanpa berkas potret terpisah.
+
+### Jamuan Kublai
+
+- Berkas: `bab-14-ilustrasi-04.webp`, 1536 × 1024; setelah `p-14-005`.
+- Tokoh dari kiri: Xiaoxiangzi, Nimoxing, Pangeran Kublai, Dani, Yin Kexi. Pembingkaian hanya menampilkan sebagian tamu di meja; Jinlun dan Ma berada di luar gambar.
+- Potret baru: Xiaoxiangzi, Nimoxing, Kublai, Yin Kexi; batas mulai `140005`.
+- Arahan: jamuan dalam tenda Mongol, lima wajah berbeda terlihat jelas dalam adegan utuh, Kublai menyambut dengan tenang tanpa mahkota, Xiaoxiangzi pucat dan kurus, Nimoxing bertubuh pendek dengan ekspresi tidak sabar, Yin seperti saudagar berhias permata. Dani mengikuti wajah dan jubah nila bertambal pada pembuka. Cahaya alami, kain nyata, tanpa teks atau efek sihir.
+
+### Kepergian Zhou dari aula
+
+- Berkas: `bab-14-ilustrasi-05.webp`, 1536 × 1024; setelah `p-14-036`.
+- Tokoh dari kiri: Fan Yiweng, Zhou Botong, Dani, Gongsun Zhi.
+- Potret baru: Fan Yiweng dan Zhou Botong; batas mulai `140036`.
+- Arahan: Zhou menepuk bahu Dani sambil melangkah pergi; obat tetap tersembunyi. Fan bertubuh pendek dengan janggut putih sangat panjang, sedangkan Zhou berambut berantakan dan berekspresi jenaka. Gongsun mengawasi dengan jengkel tertahan. Wajah Dani dan Gongsun mengacu pada ilustrasi reuni; belum ada darah atau Xiaolongnü pada adegan ini.
+
+Semua sepuluh tokoh baru Bab 14 mempunyai potret pada kartu akhir bab. Kartu yang dibuka sebelum ilustrasi sumber tetap mengikuti batas pengungkapan lama; tidak memakai ilustrasi masa depan pada bab terdahulu.
+
 ## Integrasi
 
 Ukuran asli, teks alternatif, caption, dan jangkar paragraf tersimpan di `book.json`. Batas pengungkapan dan area wajah tersimpan dalam `lore-data.json`. Ilustrasi diletakkan di sela adegan tanpa menghapus atau memecah paragraf. Semua potret mengikuti batas baca; membuka kartu pada bab terdahulu tetap memakai gambar yang sudah diketahui pada bab itu.

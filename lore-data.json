@@ -8460,6 +8460,22 @@
           "paragraph": "p-14-008",
           "quote": "Kublai menggeser hidangan untuk tamu barunya. Ia menanyakan guru-guru Dani, mendengarkan jawaban yang sengaja tidak lengkap, kemudian menawarkan kesempatan belajar dan kedudukan. Caranya tidak mendesak. Ia membuat tawaran itu terdengar seperti pintu yang kebetulan terbuka."
         }
+      ],
+      "portraits": [
+        {
+          "key": 140005,
+          "image": {
+            "file": "bab-14-ilustrasi-04.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "roi": [
+            0.414,
+            0.176,
+            0.555,
+            0.413
+          ]
+        }
       ]
     },
     {
@@ -8491,6 +8507,22 @@
           "chapter": 14,
           "paragraph": "p-14-005",
           "quote": "Di meja telah duduk empat orang dengan sikap berlainan. Xiaoxiangzi pucat dan kurus, menggenggam tongkat seperti orang menunggu pemakaman. Nimoxing, lelaki pendek dari jauh di barat daya, mengetukkan jemarinya dengan tak sabar. Yin Kexi berpakaian saudagar; batu permata menghiasi tubuhnya, dan senyumnya selalu tiba lebih dahulu daripada maksudnya. Ma Guangzuo bertubuh besar, makan tanpa menyembunyikan nikmatnya. Bersama Jinlun, mereka adalah lima petarung yang hendak dipakai Kublai."
+        }
+      ],
+      "portraits": [
+        {
+          "key": 140005,
+          "image": {
+            "file": "bab-14-ilustrasi-04.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "roi": [
+            0.05,
+            0.125,
+            0.183,
+            0.362
+          ]
         }
       ]
     },
@@ -8524,6 +8556,22 @@
           "paragraph": "p-14-005",
           "quote": "Di meja telah duduk empat orang dengan sikap berlainan. Xiaoxiangzi pucat dan kurus, menggenggam tongkat seperti orang menunggu pemakaman. Nimoxing, lelaki pendek dari jauh di barat daya, mengetukkan jemarinya dengan tak sabar. Yin Kexi berpakaian saudagar; batu permata menghiasi tubuhnya, dan senyumnya selalu tiba lebih dahulu daripada maksudnya. Ma Guangzuo bertubuh besar, makan tanpa menyembunyikan nikmatnya. Bersama Jinlun, mereka adalah lima petarung yang hendak dipakai Kublai."
         }
+      ],
+      "portraits": [
+        {
+          "key": 140005,
+          "image": {
+            "file": "bab-14-ilustrasi-04.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "roi": [
+            0.211,
+            0.218,
+            0.322,
+            0.425
+          ]
+        }
       ]
     },
     {
@@ -8556,6 +8604,22 @@
           "chapter": 14,
           "paragraph": "p-14-005",
           "quote": "Di meja telah duduk empat orang dengan sikap berlainan. Xiaoxiangzi pucat dan kurus, menggenggam tongkat seperti orang menunggu pemakaman. Nimoxing, lelaki pendek dari jauh di barat daya, mengetukkan jemarinya dengan tak sabar. Yin Kexi berpakaian saudagar; batu permata menghiasi tubuhnya, dan senyumnya selalu tiba lebih dahulu daripada maksudnya. Ma Guangzuo bertubuh besar, makan tanpa menyembunyikan nikmatnya. Bersama Jinlun, mereka adalah lima petarung yang hendak dipakai Kublai."
+        }
+      ],
+      "portraits": [
+        {
+          "key": 140005,
+          "image": {
+            "file": "bab-14-ilustrasi-04.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "roi": [
+            0.837,
+            0.164,
+            0.98,
+            0.427
+          ]
         }
       ]
     },
@@ -8723,6 +8787,22 @@
           "chapter": 14,
           "paragraph": "p-14-106",
           "quote": "Sebelum melangkah lebih jauh, Dani meraba bagian dalam jubahnya yang terasa mengganjal. Sebuah bungkusan kecil berada di sana; ia tidak pernah memasukkannya. Lü’e mengenali botol obat di dalamnya dan berseru tertahan. Benda yang dicari ayahnya dari Zhou ternyata berpindah kepada Dani. Ia teringat tepukan si tua sebelum meninggalkan aula, lalu menggeleng dengan kagum sekaligus kesal karena sama sekali tidak menyadarinya."
+        }
+      ],
+      "portraits": [
+        {
+          "key": 140036,
+          "image": {
+            "file": "bab-14-ilustrasi-05.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "roi": [
+            0.286,
+            0.07,
+            0.436,
+            0.346
+          ]
         }
       ]
     },
@@ -9181,6 +9261,22 @@
           "chapter": 14,
           "paragraph": "p-14-125",
           "quote": "Di jalan turun, Fan Yiweng yang mencari penyusup menghadang mereka. Biji kurma Qiu menghantam titik tubuhnya sebelum tongkat sempat diayunkan. Ia memerintahkan Dani membunuh murid Gongsun itu, tetapi Dani menolak. Fan masih membela gurunya tanpa mengetahui seluruh perbuatan lelaki tersebut; membunuh orang yang telah lumpuh tidak akan menolong Xiaolongnü. Mereka meninggalkannya hidup di tempat terlindung sampai totokan terurai."
+        }
+      ],
+      "portraits": [
+        {
+          "key": 140036,
+          "image": {
+            "file": "bab-14-ilustrasi-05.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "roi": [
+            0.118,
+            0.285,
+            0.248,
+            0.515
+          ]
         }
       ]
     },

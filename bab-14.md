@@ -78,7 +78,7 @@ Gongsun menutupi kemarahannya dengan mempersilakan rombongan duduk. Ia mengumumk
 
 Di serambi, seorang perempuan berpakaian putih berjalan dengan mata tertunduk.
 
-“Gugu!”
+“Bibi!”
 
 Xiaolongnü berhenti. Bahunya bergetar; wajahnya terangkat dengan harapan yang belum sempat ia larang. Dani telah berlari keluar, meninggalkan bambu di samping kursi. Ia meraih tangannya dengan kedua tangan sendiri, tertawa dan hampir menangis dalam tarikan napas yang sama.
 

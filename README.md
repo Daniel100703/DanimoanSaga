@@ -69,10 +69,11 @@ Tiga ilustrasi baru membawa jumlah gambar cerita menjadi 49, ditambah satu sampu
 
 [Bab 14 — Bunga Cinta, Harga Sebuah Nyawa](https://daniel100703.github.io/DanimoanSaga/bab-14.html) menuntaskan kunjungan pertama ke Lembah Tanpa Cinta. Alasan Xiaolongnü meninggalkan makam, ditolong Gongsun, menerima rencana perkawinan, dan berpura-pura tidak mengenali Dani dijelaskan melalui kejadian serta percakapan. Penyangkalannya runtuh ketika Dani muntah darah.
 
-Bab ini memuat empat ilustrasi: pembuka, taman Bunga Cinta, reuni, dan syarat penawar. Total 54 gambar cerita dan satu sampul utama. Naskah Bab 1–13 dan seluruh gambar sebelumnya dipertahankan. Kartu mengikuti pengungkapan tokoh, perubahan hubungan, dan kondisi racun pada paragraf terkait.
+Bab ini memuat enam ilustrasi: pembuka, jamuan Kublai, taman Bunga Cinta, kepergian Zhou dari aula, reuni, dan syarat penawar. Total 56 gambar cerita dan satu sampul utama. Enam potret baru melengkapi kartu Kublai, Xiaoxiangzi, Nimoxing, Yin Kexi, Zhou Botong, dan Fan Yiweng. Naskah Bab 1–13 dan seluruh gambar sebelumnya dipertahankan. Seruan reuni Bab 14 memakai “Bibi!” sesuai koreksi penulis. Kartu mengikuti pengungkapan tokoh, perubahan hubungan, dan kondisi racun pada paragraf terkait.
 
 - [Kontinuitas dan rujukan Bab 14](editorial/bab-14-kontinuitas.md).
 - [Arahan dan aset ilustrasi Bab 14](editorial/bab-14-visual.md).
+- [Usulan peta Bab 15 — Nyawa yang Tak Jadi Ditagih](https://daniel100703.github.io/DanimoanSaga/peta-bab-15.html): belum disetujui; memuat bocoran. Naskah Bab 15 belum diterbitkan.
 
 ### Pengaturan pembaca
 
