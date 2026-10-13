@@ -332,7 +332,7 @@ Nasihat itu menyentuh kekurangan yang baru dibuktikan tubuhnya sendiri. Dani men
 
 “Ikutlah rombonganku,” kata Jinlun. “Ada orang-orang berilmu yang dapat kautemui. Aku pun mempunyai urusan dengan Guo Jing.”
 
-“Kalau rombonganmu hendak merampas gandum orang, carilah pembantu lain.” Dani teringat gerobak di jalan. “Aku mempunyai urusan dengan keluarga Guo. Petani yang tidak mengenalku tidak berutang apa-apa kepadaku.”
+“Aku orang Han. Jangan mengira dendamku kepada keluarga Guo membuatku rela membantu Mongol menindas rakyat Song.” Dani teringat gerobak di jalan. “Jika rombonganmu hendak merampas gandum petani, carilah pembantu lain. Mereka tidak berutang nyawa kepadaku.”
 
 “Yang kubicarakan orang persilatan.”
 

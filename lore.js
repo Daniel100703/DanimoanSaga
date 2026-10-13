@@ -48,7 +48,8 @@
     const [l,t,r,b] = p.roi, iw=p.image.width, ih=p.image.height;
     const scale=Math.max(82/((r-l)*iw),96/((b-t)*ih)),dw=iw*scale,dh=ih*scale;
     const dx=-l*dw+(82-(r-l)*dw)/2,dy=-t*dh+(96-(b-t)*dh)/2;
-    return `<div class="portrait" style="--iw:${dw}px;--ih:${dh}px;--ix:${dx}px;--iy:${dy}px" aria-hidden="true"><img src="${esc(window.DANI_ASSETS?.[p.image.file] || p.image.file)}" width="${iw}" height="${ih}" alt="" loading="lazy"></div>`;
+    const src = window.DANI_ASSETS?.[p.image.file] || p.image.file + (p.image.version ? `?v=${p.image.version}` : '');
+    return `<div class="portrait" style="--iw:${dw}px;--ih:${dh}px;--ix:${dx}px;--iy:${dy}px" aria-hidden="true"><img src="${esc(src)}" width="${iw}" height="${ih}" alt="" loading="lazy"></div>`;
   };
   const types = {tokoh:'Tokoh',ilmu:'Ilmu & jurus',senjata:'Senjata',perguruan:'Perguruan',kondisi:'Kondisi',istilah:'Istilah',benda:'Benda bermakna'};
   function bond(e,key) {

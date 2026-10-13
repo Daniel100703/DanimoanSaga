@@ -242,7 +242,7 @@ Qiu hidup dari air dan buah yang tumbuh di rongga tersebut. Tangannya tidak dapa
 
 “Bawa aku keluar,” perintah Qiu. “Kalian ingin melihat Gongsun takut? Aku tahu bagaimana membuatnya takut.”
 
-“Kami akan menolong Qianbei,” kata Dani. “Tetapi kalau aku sedang memanjat, jangan mengujiku dengan biji kurma. Aku belum pandai menjadi buah.”
+“Kami akan menolong Tetua Qiu,” kata Dani. “Tetapi kalau aku sedang memanjat, jangan mengujiku dengan biji kurma. Aku belum pandai menjadi buah.”
 
 Lü’e tertawa pendek di tengah tangisnya. Qiu mendengus, tetapi membiarkan mereka bekerja. Kulit pohon dipilin menjadi tali dan diikat pada cabang yang dapat dikaitkan melintang pada mulut lubang. Mereka menghabiskan beberapa jam untuk menyiapkannya. Dani memanjat dengan kedua lengan yang berkali-kali harus berhenti, lalu mengangkat Qiu dan membantu Lü’e sesudah memperoleh pijakan di atas.
 
@@ -318,7 +318,7 @@ Qiu menanyakan kembali asal pil dalam botol Dani. Lü’e menceritakan temuan me
 
 Lü’e mengangkat wajah, malu dan terkejut. Harapan yang tidak berani disimpannya mendadak diumumkan di depan orang-orang. Dani memandangnya, dan kali ini menyadari bahwa gurauan di taman telah menyentuh hati yang belum terlindung oleh pengalaman.
 
-“Qianbei, Lü’e telah menyelamatkanku,” katanya. “Aku tidak akan membalasnya dengan janji palsu. Orang yang akan kunikahi sudah ada di sisiku.”
+“Tetua Qiu, Lü’e telah menyelamatkanku,” katanya. “Aku tidak akan membalasnya dengan janji palsu. Orang yang akan kunikahi sudah ada di sisiku.”
 
 “Putriku kurang baik untukmu?”
 

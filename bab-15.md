@@ -12,7 +12,7 @@ Guo Jing datang sendiri ke gerbang setelah menerima kabar penjaga. Sebelum Dani 
 
 “Kau sudah kembali. Baguslah, Dani. Bibi Guo mencemaskan lukamu.” Guo Jing memandang Xiaolongnü dan mengatupkan tangan. “Nona Long, terima kasih telah membawanya kemari. Kalian pasti lelah.”
 
-Dani telah menyiapkan pertanyaan sepanjang jalan. Sekarang lelaki yang hendak ditanyainya tersenyum dengan wajah kurang tidur, dan pertanyaan tentang kepala yang diminta Qiu terasa mengerikan bahkan sebelum diucapkan. Guo Jing mengambil buntalannya tanpa menunggu jawaban, persis seperti ketika Dani pertama kali dibawa ke rumahnya.
+Sepanjang jalan Dani telah membayangkan bagaimana menyembunyikan maksud kedatangannya. Namun sambutan tanpa curiga itu membuat senyum yang disiapkannya terasa kaku. Guo Jing mengambil buntalannya, lalu merangkul bahunya; Xiaolongnü berjalan di sisi kanan Dani. Kehangatan tangan sang paman sama seperti dahulu, ketika Dani masih seorang anak yang dibawa pulang.
 
 Di kediaman Guo, Huang Rong menyambut dari kursi dekat jendela. Kandungannya sudah besar. Ia memeriksa wajah Dani, kemudian mempersilakan Xiaolongnü duduk di sampingnya. Tidak ada teguran tentang hubungan guru dan murid itu; Dani tahu diam belum berarti restu, tetapi untuk sekali ini ia bersyukur tidak harus berkelahi hanya untuk duduk berdekatan.
 
@@ -26,19 +26,19 @@ Guo Xiang yang kini berumur sepuluh tahun mengintip dari belakang kakaknya. “K
 
 Fu hampir tersenyum, lalu melihat Xiaolongnü merapikan lengan jubah Dani. Ia berpaling kepada kedua Wu. Dunru menanyakan keadaan benteng; Xiuwen buru-buru menyebut pasukan yang harus dihadapi. Luka lama mereka sudah menutup, tetapi persaingan itu masih mencari tempat untuk tumbuh. Dani mengenali keinginan mereka tampak berguna di depan Fu—keinginan yang kadang membuat orang melupakan siapa yang harus ditolong.
 
-Sesudah makan, ia mengikuti Guo Jing ke serambi. “Paman Guo, aku bertemu seseorang yang mengenal Ayah.”
+Sesudah makan, Dani mengikuti Guo Jing ke serambi. Ia menjaga wajahnya tetap tenang, seolah pulang hanya untuk mencari tempat beristirahat. Dendam yang dibawanya tidak boleh terbaca sebelum ia sendiri tahu apa yang sanggup dilakukannya.
 
-Langkah Guo Jing terhenti. “Siapa yang kautemui?”
+“Kamarmu sudah disiapkan,” kata Guo Jing. “Bila masih ada yang diperlukan, mintalah. Jangan menanggung luka seorang diri hanya karena engkau merasa sudah dewasa.”
 
-“Shagu. Ia menyebut racun, dan Bibi Guo.” Dani mengangkat wajah. “Aku ingin mendengar apa yang sebenarnya terjadi.”
+“Kalau Paman terus memperlakukanku seperti anak kecil, aku boleh meminta tambahan selimut tanpa ditertawakan, bukan?” Dani menjawab dengan kelakar. Ia berhasil tersenyum, tetapi tidak sanggup lama-lama menatap mata pamannya.
 
-Kesedihan mengubah wajah Guo Jing. Ia tidak memarahi Dani karena bertanya. “Ada hal tentang ayahmu yang seharusnya sudah kubicarakan. Ada pula yang tidak kusaksikan sendiri. Paman tidak akan menjawab pertanyaanmu dengan kabar setengah.”
+Guo Jing menepuk bahunya. “Mintalah dua kalau satu belum cukup. Di rumah ini engkau tidak perlu berpura-pura kuat.” Dani menunduk merapikan ikat pinggang. Justru di hadapan orang yang berkata demikian ia sedang berpura-pura.
 
-Dani hendak mendesak ketika kentongan di menara berbunyi. Seorang penjaga datang membawa kabar: pengungsi di luar gerbang terjebak di antara pasukan Mongol dan parit. Guo Jing menoleh ke arah suara itu, lalu kembali memandang Dani.
+Kentongan di menara memutus percakapan. Seorang penjaga datang membawa kabar: pengungsi di luar gerbang terjebak di antara pasukan Mongol dan parit. Kehangatan wajah Guo Jing berganti ketegangan; orang-orang yang terlantar itu tidak mempunyai tembok lain untuk berlindung.
 
-“Paman harus pergi sekarang. Sesudah keadaan reda, kita duduk bersama Bibi Guo.”
+“Paman harus ke gerbang. Engkau beristirahatlah dahulu,” kata Guo Jing. Sebelum pergi ia masih menyuruh seorang pelayan menyiapkan air hangat untuk luka Dani.
 
-Ia sudah berlari sebelum Dani menjawab. Xiaolongnü muncul di ambang serambi, Pedang Perempuan di tangannya. Dani mengambil Pedang Budiman. Pertanyaan tadi belum terjawab, tetapi di luar tembok orang-orang bahkan tidak mempunyai kesempatan untuk menunggu.
+Dani mengawasi punggungnya sampai menghilang di tikungan. Xiaolongnü muncul di ambang serambi, Pedang Perempuan di tangannya. Dani mengambil Pedang Budiman dan mengikutinya. Ia belum mengucapkan sepatah pun tentang Shagu; di luar tembok rakyat menjerit, dan kaki sang paman sudah berlari menuju mereka.
 
 ***
 
@@ -68,7 +68,7 @@ Guo Jing menekan lengannya dengan hati-hati. “Paman berutang nyawa kepadamu.�
 
 “Itulah sebabnya aku harus berhati-hati.” Guo Jing memandang gerbang yang sedang ditutup. “Tetapi orang-orang itu datang karena percaya kita akan melindungi mereka. Bila pada saat sulit kita membiarkan mereka dibantai, untuk siapa kota ini kita pertahankan?”
 
-Dani tidak dapat menjawab. Kesaksian Shagu belum menjadi lebih jelas, namun ia baru saja menyaksikan sesuatu yang tidak memerlukan penjelasan orang lain. Xiaolongnü membalut lengannya tanpa berbicara. Ketika Dani menoleh, ia melihat rasa takut, bukan celaan, pada wajah perempuan itu.
+Dani tidak dapat menjawab. Ia datang membawa dendam yang disembunyikan, tetapi setiap kali kesempatan terbuka, kebaikan Guo Jing menghalangi tangannya. Xiaolongnü membalut lengannya tanpa berbicara. Ketika Dani menoleh, ia melihat rasa takut, bukan celaan, pada wajah perempuan itu.
 
 ***
 
@@ -102,7 +102,7 @@ Di tenda Kublai, kedua Wu dilepaskan sesuai janji setelah Guo Jing tiba. Guo Jin
 
 “Paman mengetahui para menterinya lebih baik daripada aku,” kata Kublai. “Mengapa seorang dengan kemampuan Paman harus binasa untuk orang-orang semacam itu?”
 
-“Aku menjaga orang yang rumahnya akan diinjak pasukanmu,” jawab Guo Jing. “Keburukan istana tidak memberi siapa pun hak untuk membakar rumah mereka.”
+“Aku orang Han, dan Xiangyang adalah benteng negeri Song,” jawab Guo Jing. “Tetapi yang kujaga bukan nama para menteri. Aku menjaga rakyat agar tidak hidup sebagai orang taklukan. Keburukan istana kami tidak memberi pasukanmu hak untuk membakar rumah mereka.”
 
 “Bila negeri disatukan, perang akan berakhir.”
 
@@ -114,7 +114,7 @@ Senyum Kublai bertahan, tetapi di sisi tenda Jinlun sudah bangkit. Dani merasaka
 
 Dani memandang Guo Jing. Pamannya tidak bertanya tentang maksud ucapan tersebut; ia hanya menggeser tubuh, menempatkan Dani lebih jauh dari roda di tangan Jinlun. Gerakan kecil itu membuat wajah Dani panas.
 
-“Urusanku akan kutanyakan ketika ia dapat menjawab,” katanya. “Kalian terlalu ramai untuk percakapan keluarga.”
+“Paman Guo datang menjemput muridnya. Aku datang bersamanya,” jawab Dani, menutupi gejolak hatinya dengan senyum miring. “Kalau kalian hendak menahannya, tentu aku pun harus kalian hadapi.”
 
 Ia menendang kaki meja ke jalur Jinlun. Cawan pecah, tirai tersibak, dan Guo Jing menerjang celah yang dibukanya. Tapak Penakluk Naga memaksa pengepung mundur, tetapi begitu mereka mencapai lapangan, Xiaoxiangzi dan Nimoxing datang dari sisi berbeda. Yin Kexi menutup jalan ke kuda.
 
@@ -182,7 +182,7 @@ Xiaolongnü menceritakan duri Bunga Cinta, pil yang diberikan Dani kepadanya, da
 
 Huang Rong diam cukup lama. Tadinya ia mengira sedang memeriksa dendam seorang anak terhadap orang tua yang belum dipercayainya. Sekarang ia menyadari bahwa setiap pertolongan Dani juga menjauhkan dirinya dari obat. Perhitungan yang biasanya memberinya jalan keluar berhenti di satu kenyataan: suaminya hidup karena pemuda itu memilih menanggung kematian.
 
-“Tentang ayahnya, Dani harus mendengar semuanya ketika keadaan memungkinkan,” kata Huang Rong. “Namun malam ini aku tidak akan memakai perkara itu untuk mengecilkan apa yang telah dilakukannya.”
+“Dani menyimpan banyak kepahitan terhadap keluarga kami,” kata Huang Rong. “Namun dalam bahaya ia tetap menolong suamiku. Aku tidak akan memakai kecurigaan untuk mengecilkan apa yang telah dilakukannya.”
 
 “Aku tidak membutuhkan alasan agar ia membenci kalian. Aku membutuhkan obatnya.”
 
@@ -218,7 +218,7 @@ Fu tidak membalas. Ia malu karena ibunya benar, dan semakin malu karena Xiaolong
 
 ***
 
-Sepanjang hari itu, Dani hanya dapat berjalan sebentar sebelum harus duduk lagi. Buntalan ibunya diletakkan di bawah ranjang, Pedang Budiman dalam jangkauan. Ia hendak bertanya kepada Guo Jing tentang Kang, tetapi mendengar napas berat dari kamar sebelah dan menunda. Pertanyaan itu tetap miliknya; ia tidak akan memaksakan jawaban dari orang yang belum sanggup duduk.
+Sepanjang hari itu, Dani hanya dapat berjalan sebentar sebelum harus duduk lagi. Buntalan ibunya diletakkan di bawah ranjang, Pedang Budiman dalam jangkauan. Dari kamar sebelah terdengar napas berat Guo Jing. Dani memejamkan mata; suara itu mengingatkannya pada tubuh yang melindunginya dari pukulan Jinlun. Ia tetap menyimpan perkara ayahnya dalam hati.
 
 Serangan datang menjelang malam. Api muncul di sisi atap, disusul bunyi roda memecahkan genting. Zhu Ziliu bersama penjaga menahan para penyerbu di halaman, sementara Jinlun mencari jalan ke kamar Guo Jing. Dari tempat tidur, Guo Jing mencoba bangkit. Huang Rong mendorongnya kembali dan mengambil tongkat.
 
@@ -404,7 +404,7 @@ Dani tidak mempunyai tenaga untuk menolak. Pedang Budiman tersandar dekat ranjan
 
 Enam hari telah berlalu sejak setengah pil ditelannya. Menurut hitungan lama, masih ada dua belas hari; racun baru membuatnya tidak tahu lagi apakah hitungan itu dapat dipercaya. Ia datang ke Xiangyang dengan tuntutan sebuah kepala. Kini ia telah memilih bahwa kepala itu tidak akan diambilnya sebagai harga nyawa sendiri.
 
-Pilihan tersebut tidak mengembalikan Feng Mofeng, tidak menemukan Polu, dan tidak mendatangkan Xiaolongnü ke sisi ranjang. Tetapi ketika Guo Jing memanggil namanya dari pintu, Dani tidak lagi memandang leher pamannya. Ia memandang wajahnya, lalu menyisakan tempat bagi jawaban yang masih harus mereka bicarakan.
+Pilihan tersebut tidak mengembalikan Feng Mofeng, tidak menemukan Polu, dan tidak mendatangkan Xiaolongnü ke sisi ranjang. Tetapi ketika Guo Jing memanggil namanya dari pintu, Dani tidak lagi memandang leher pamannya. Ia memandang wajahnya. Perkara ayahnya tetap tersimpan; hari itu ia hanya menggeser tubuh, memberi tempat bagi pamannya untuk duduk.
 
 ---
 

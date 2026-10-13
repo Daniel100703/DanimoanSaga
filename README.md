@@ -1,4 +1,4 @@
-# Saga Dani Moan — Bab 1–15
+# Saga Dani Moan — Bab 1–16
 
 Novel wuxia berilustrasi karya Daniel Halomoan Siregar.
 
@@ -133,3 +133,12 @@ Jangan menghapus aset lama yang masih dipakai bab atau potret tokoh. Jika revisi
 ### Pembaruan 11 Oktober 2026
 
 Revisi suara Dani dan Xiaolongnü pada Bab 1–13, sebab perpisahan Bab 12, pembukaan topeng oleh Wushuang, serta permainan Dani untuk menggali kesaksian Shagu. Seluruh gambar lama tetap ada; Bab 13 sekarang empat gambar. Bukti dan status kartu mengikuti naskah revisi, tanpa menggeser ID paragraf atau posisi baca. Peta Bab 14 tersedia di `peta-bab-14.html` dan sudah diadaptasi menjadi bab lengkap. Rincian revisi terdahulu: `editorial/revisi-karakter-2026-10-11.md`.
+
+## Bab 16 — Tangan yang Pernah Menolong
+
+[Baca Bab 16](https://daniel100703.github.io/DanimoanSaga/bab-16.html) · [Peta Bab 16](https://daniel100703.github.io/DanimoanSaga/peta-bab-16.html). Arc Tragedi diselesaikan dalam 2.975 kata dan 114 paragraf, disertai empat ilustrasi. Tahap tokoh serta potret mengikuti batas bacaan; tidak ada penambahan wiki Han/Song.
+
+Penerbitan ini juga memperbaiki sapaan Tetua Qiu pada Bab 14, susunan gambar pembuka Bab 15, serta sikap Dani yang menyembunyikan dendam dari Guo Jing. Rahasia lengkap Kang ditahan sesuai arahan penulis. Penyebutan rakyat Han/negeri Song diperjelas secara terbatas. ID paragraf bab lama tetap.
+
+- [Kontinuitas Bab 16](editorial/bab-16-kontinuitas.md)
+- [Ilustrasi dan prompt](editorial/bab-16-visual.md)

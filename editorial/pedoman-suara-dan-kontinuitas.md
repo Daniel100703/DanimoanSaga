@@ -77,3 +77,11 @@ Peta Bab 14 disetujui 11 Oktober 2026 dan kini telah diadaptasi. Penekanan penul
 ## Keadaan sesudah Bab 15 — 12 Oktober 2026
 
 Peta Bab 15 beserta pengecualian panjang dan enam ilustrasi telah disetujui dan diadaptasi. Dani menyelamatkan Guo Jing, Feng Mofeng gugur, Huang Rong menawarkan kepala pengganti tanpa kepastian Qiu menerima, dan Polu lahir lalu direbut Li Mochou. Xiaolongnü menerima penolakan Dani terhadap pertukaran bayi, tetapi kemudian pergi karena mendengar sebagian dusta restu baru untuk menghentikan duel Wu. Keduanya belum menikah; Pedang Perempuan belum diserahkan kepada Fu. Dani pulang setelah menolong kedua Wu dari racun, masih memiliki kedua lengan, dengan hitungan awal racun tersisa dua belas hari dan akibat racun tambahan belum pasti. Bab 16 belum mendapat rencana rinci atau persetujuan. Rincian benda, waktu, dan pengetahuan terdapat di `bab-15-kontinuitas.md` serta `pegangan-chat-berikutnya.md`.
+
+## Koreksi penulis 13 Oktober 2026 dan batas Bab 16
+
+- Sapaan kepada Qiu Qianchi: **Tetua Qiu** atau **Senior Qiu**, bukan Qianbei. Bab selanjutnya memakai sapaan Indonesia yang sesuai hubungan. Sapaan Xiaolongnü tetap **Bibi**.
+- Dani tidak menginterogasi Guo Jing tentang Shagu di Bab 15; ia menutupi dendam sambil memainkan sikap keluarga. Kebaikan Guo Jing menggoyahkan niat membunuh. Rahasia lengkap Kang baru dibuka kelak melalui Ke Zhen’e setelah lompatan waktu, dengan ruang dramatisasi yang akan ditentukan penulis.
+- **Rakyat Han dan negeri Song perlu disebutkan secara wajar**, untuk memperjelas perlawanan terhadap penjajahan Mongol. Konfirmasi penulis: tidak perlu membuat wiki khusus Han/Song sekarang.
+- Revisi dialog menyeluruh bab lama tidak diminta. Bab 16 dan seterusnya menjaga register cerita silat dan sebab percakapan kanon, dengan dialog baru yang tunduk kepada percabangan lore.
+- Bab 16 telah diminta langsung bersama petanya dan diselesaikan. Lengan kanan Dani putus di atas siku; kiri utuh. Ia keluar tanpa pedang, membawa buntalan/alat jahit. Xiaolongnü mengejar Zhen dan Zhao dengan Pedang Perempuan. Fu bersembunyi atas perlindungan Huang Rong; Guo Jing mencari Dani. Polu tetap bersama Li Mochou. Kondor dan latihan Dugu belum dimulai.

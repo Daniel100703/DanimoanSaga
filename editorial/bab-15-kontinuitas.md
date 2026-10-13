@@ -1,6 +1,6 @@
 # Bab 15 — Nyawa yang Tak Jadi Ditagih
 
-Peta disetujui 12 Oktober 2026 melalui “oke lanjutkan”, lalu ditegaskan “Lanjutkan tugas ini”. Pengecualian 4.500–5.500 kata dan enam ilustrasi termasuk pembuka disetujui bersama peta. Hasil: 5.251 kata cerita, 196 paragraf, seluruh Babak IX. Prosa, dialog, dan susunan adegan ditulis baru berdasarkan lorebook penulis.
+Peta disetujui 12 Oktober 2026 melalui “oke lanjutkan”, lalu ditegaskan “Lanjutkan tugas ini”. Pengecualian 4.500–5.500 kata dan enam ilustrasi termasuk pembuka disetujui bersama peta. Hasil awal: 5.251 kata cerita, 196 paragraf, seluruh Babak IX. Prosa, dialog, dan susunan adegan ditulis baru berdasarkan lorebook penulis.
 
 ## Dasar dan alur
 
@@ -11,7 +11,7 @@ Lorebook Jalur A Babak IX 1–17 menjadi sumber utama: sambutan Xiangyang, penye
 - Pil Bab 14 sebagai awal hitungan; kedatangan tiga hari kemudian menyisakan 15 hari. Hari keempat: penyelamatan kamp; malamnya percakapan Huang Rong–Xiaolongnü menyebut 14 hari. Hari kelima menjelang petang: Fu melaporkan Wu baru pergi berduel, sehingga tidak ada duel yang dibiarkan berlangsung sehari penuh. Serangan rumah, pengejaran, dan duel terjadi malam itu; pulang pada fajar hari keenam. Sisa 12 hari mengikuti hitungan awal, bukan kepastian sesudah paparan racun jarum.
 - Lengan kiri lecet karena tali; lengan kanan tersayat roda di kamp; Dani kehilangan darah dan pingsan. Guo Jing terkena pukulan saat melindunginya. Keduanya belum pulih saat rumah diserang. Tipuan menggantikan tenaga, bukan pemulihan ajaib. Tangan kanan dan kiri Dani tetap utuh pada p-15-194.
 - Dani membawa Pedang Budiman; Xiaolongnü membawa Pedang Perempuan dan sarung tangan. Buntalan serta jarum ibu diselamatkan dari rumah yang terbakar dan ada di kediaman perlindungan. Pedang Perempuan belum diberikan kepada Fu; niat itu disebut, keputusan pelaksanaannya tidak dimajukan.
-- Guo Jing mendengar bahwa Shagu menyebut kematian Kang. Ia menjanjikan jawaban lengkap, lalu keadaan perang memutus percakapan. Dani tidak menagih jawaban dari Guo Jing yang terluka. Memilih menyelamatkannya tidak sama dengan menuntaskan penyelidikan atau membatalkan janji kepada Cheng Ying.
+- Koreksi penulis 13 Oktober: Dani tidak menanyakan Shagu, racun, atau kematian ayahnya kepada Guo Jing. Ia menyembunyikan dendam dan bersikap seolah hanya pulang beristirahat; kebaikan yang dilihat dan dirasakannya menggoyahkan niat membunuh. Penyebab lengkap kematian Kang ditahan sampai pertemuan Ke Zhen’e setelah lompatan waktu. Janji kepada Cheng Ying tetap berlaku.
 - Huang Rong mengetahui racun dan tuntutan Qiu. Kepala yang diminta tetap kepala Guo Jing; tawaran Huang adalah pengganti yang belum pasti diterima dan belum dilaksanakan. Dani tidak mengetahui percakapan rahasia ini. Xiaolongnü memikirkan bayi sebagai jalan tanpa pemenggalan, lalu menyadari keberatan moral Dani dan menyetujui pengembalian.
 - Guo Polu baru lahir, Guo Xiang sepuluh tahun. Polu belum pernah direbut kembali dari Li Mochou. Dugaan bahwa bayi milik Dani–Xiaolongnü merupakan kesalahan Li, bukan fakta narator. Kedua Wu masih hidup dan dirawat; akibat campuran racun belum dipastikan, tidak ada klaim kebal atau sembuh penuh.
 
@@ -51,3 +51,7 @@ Rujukan digunakan untuk memeriksa sebab, tahap pengetahuan, dan mekanisme adegan
 ## Integrasi dan pemeriksaan
 
 Enam ilustrasi tercatat pada `book.json`. Guo Polu satu-satunya kartu tokoh baru; catatan tokoh lama diperbarui pada wiki serta ringkasan akhir bab. Wajah bayi baru terbuka sesudah ilustrasi sumber. Semua bukti, hubungan, dan potret baru memakai kunci Bab 15; kunci serta sumber Bab 1–14 dipertahankan. Tidak perlu migrasi posisi lama karena naskah lama dan ID paragrafnya tidak berubah.
+
+## Revisi 13 Oktober 2026
+
+Setelah revisi terarah: 5.353 kata, tetap 196 paragraf. Susunan pembuka dan potret diperbaiki; rincian di `bab-16-kontinuitas.md` serta `bab-16-visual.md`.

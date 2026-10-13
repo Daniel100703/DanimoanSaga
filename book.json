@@ -1344,7 +1344,8 @@
       "cover": {
         "file": "bab-15-pembuka.webp",
         "width": 1024,
-        "height": 1536
+        "height": 1536,
+        "version": "4cacb38dac37"
       },
       "plates": [
         {
@@ -1405,6 +1406,54 @@
           "description": "Putra Guo Jing dan Huang Rong yang lahir di tengah serangan."
         }
       ]
+    },
+    {
+      "id": 16,
+      "slug": "bab-16",
+      "han": "十六",
+      "source": "bab-16.md",
+      "title": "Tangan yang Pernah Menolong",
+      "accent": "#79594e",
+      "description": "Sebuah pembocoran mengusik nama baik, dan pertengkaran di rumah keluarga Guo meninggalkan akibat yang tak dapat ditarik kembali.",
+      "quote": "Bibi, aku belum menikahi siapa pun.",
+      "cover": {
+        "file": "bab-16-pembuka.webp",
+        "width": 1024,
+        "height": 1536
+      },
+      "plates": [
+        {
+          "anchor": "“Karena aku tidak akan membiarkanmu menyakiti Dani sekali lagi,” kata Xiaolongnü.",
+          "image": {
+            "file": "bab-16-ilustrasi-01.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "alt": "Xiaolongnü menghadapi Zhen dengan pedang setelah tuduhannya; Guo Fu mendengar di serambi.",
+          "caption": "Kisah yang dipotong Zhen berbalik memperlihatkan niatnya sendiri."
+        },
+        {
+          "anchor": "Guo Jing hendak bangkit, tetapi luka dalamnya memaksanya berpegangan pada kursi. Huang Rong meraih tongkat. Ia tidak menunggu suaminya mengatakan setuju; ketika melewati pintu, ia tahu dirinya sedang memilih sesuatu yang akan melukai kepercayaan di antara mereka.",
+          "image": {
+            "file": "bab-16-ilustrasi-02.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "alt": "Guo Jing menuntut pertanggungjawaban sementara Huang Rong bersiap menyusul putrinya.",
+          "caption": "Duka yang sama membawa mereka pada pilihan yang berlainan."
+        },
+        {
+          "anchor": "Ia mencoba meraih tali buntalan dengan tangan yang sudah tidak ada. Gerak yang tidak sampai itu membuatnya menunduk lama. Tangan yang mengayun pedang bersama Xiaolongnü, menarik Paman Guo dari tembok, dan menggenggam jari ayah angkatnya di Huashan tidak akan kembali hanya karena ia masih dapat mengingat beratnya.",
+          "image": {
+            "file": "bab-16-ilustrasi-03.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "alt": "Dani bertahan di luar Xiangyang; lengan kanan yang hilang tertutup pembalut dan lengan kirinya tetap utuh.",
+          "caption": "Tangan yang pernah menolong itu kini hanya dapat dirasakan dalam ingatan."
+        }
+      ],
+      "cast": []
     }
   ],
   "edition": "2026-10-voice",
