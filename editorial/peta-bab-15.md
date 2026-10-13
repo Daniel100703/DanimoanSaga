@@ -1,6 +1,6 @@
 # Peta Bab 15 — Nyawa yang Tak Jadi Ditagih
 
-Status: **usulan; belum disetujui penulis**. Disusun 12 Oktober 2026. Mengandung bocoran. Belum ada naskah atau ilustrasi Bab 15 yang diterbitkan.
+Status: **disetujui penulis 12 Oktober 2026** melalui pesan “oke lanjutkan”, kemudian ditegaskan “Lanjutkan tugas ini”. Mengandung bocoran. Peta telah diadaptasi menjadi Bab 15 lengkap dengan enam ilustrasi.
 
 ## Poin lorebook yang dipakai
 
@@ -37,9 +37,9 @@ Kedua lengan Dani tetap utuh sampai akhir Bab 15. Luka, racun, Pedang Budiman, P
 
 ## Panjang dan visual yang diusulkan
 
-Usulan pengecualian **4.500–5.500 kata** untuk menuntaskan seluruh Babak IX sambil memberi ruang pada dialog penentu hubungan. Ini memerlukan persetujuan peta dan tidak mengganti target umum 2.500–3.500 kata. Perjalanan serta putaran duel berulang dipadatkan. Percakapan penting diadaptasi dengan kalimat baru, menjaga maksud, pemicu, dan tahap pengetahuan tokoh.
+Pengecualian yang disetujui: **4.500–5.500 kata** untuk menuntaskan seluruh Babak IX sambil memberi ruang pada dialog penentu hubungan. Persetujuan ini tidak mengganti target umum 2.500–3.500 kata. Perjalanan serta putaran duel berulang dipadatkan. Percakapan penting diadaptasi dengan kalimat baru, menjaga maksud, pemicu, dan tahap pengetahuan tokoh.
 
-Usulan **enam ilustrasi termasuk pembuka**: kedatangan Xiangyang; penyelamatan di tembok; pengorbanan Feng; percakapan Huang Rong–Xiaolongnü; Guo Polu dalam perebutan; Xiaolongnü mendengar kebohongan perjodohan. Semua dibuat setelah peta disetujui. Potret kartu mengikuti adegan dan usia, sedangkan informasi akhir bab tetap tertutup pada bab sebelumnya.
+**Enam ilustrasi termasuk pembuka**: kedatangan Xiangyang; penyelamatan di tembok; pengorbanan Feng; percakapan Huang Rong–Xiaolongnü; Guo Polu dalam perebutan; Xiaolongnü mendengar kebohongan perjodohan. Keenamnya dibuat setelah peta disetujui. Potret kartu mengikuti adegan dan usia, sedangkan informasi akhir bab tetap tertutup pada bab sebelumnya.
 
 ## Rujukan pemeriksaan awal
 

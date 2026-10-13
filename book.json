@@ -1331,6 +1331,80 @@
           "description": "Ibu Lü’e yang ternyata masih hidup di bawah tanah."
         }
       ]
+    },
+    {
+      "id": 15,
+      "slug": "bab-15",
+      "han": "十五",
+      "source": "bab-15.md",
+      "title": "Nyawa yang Tak Jadi Ditagih",
+      "accent": "#8b6751",
+      "description": "Di Xiangyang yang dikepung, Dani harus memilih antara harga penawar dan orang-orang yang memanggilnya keluarga.",
+      "quote": "Paman pernah membawaku pulang. Sekarang giliranku.",
+      "cover": {
+        "file": "bab-15-pembuka.webp",
+        "width": 1024,
+        "height": 1536
+      },
+      "plates": [
+        {
+          "anchor": "Dani melilitkan ujung tali pada lengan kirinya dan menjatuhkan tubuh melewati bibir tembok. Tangan kanannya menangkap pergelangan Guo Jing. Sentakan itu membakar bahunya; di atas, Zhu Ziliu mengerahkan tenaga, dibantu Xiaolongnü yang menahan tali agar tidak menggesek sudut batu. Keduanya terayun menghantam dinding sebelum berhasil mencapai bibir tembok.",
+          "image": {
+            "file": "bab-15-ilustrasi-01.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "alt": "Dani bertaut pada tali dan meraih Guo Jing di bawahnya; Xiaolongnü membantu dari atas tembok.",
+          "caption": "Tangan yang dapat membiarkan Guo Jing jatuh justru meraih pergelangannya."
+        },
+        {
+          "anchor": "Palu dan penyangga memaksa dua lawan berpencar. Ketika Jinlun menyerang lagi, Feng menahan pukulan dengan besi panas, lalu menjatuhkan alatnya untuk memeluk tubuh lawan. Jinlun berusaha melepaskan diri. Feng bertahan meskipun pukulan mulai menghantam punggungnya.",
+          "image": {
+            "file": "bab-15-ilustrasi-02.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "alt": "Feng Mofeng menahan Jinlun agar Dani dapat membawa Guo Jing menuju kuda.",
+          "caption": "Feng membeli jalan keluar dengan nyawanya."
+        },
+        {
+          "anchor": "Xiaolongnü memandangi perempuan itu. Kepala yang sejak lembah dipikirkannya sebagai jalan keluar sekarang menjadi wajah seseorang yang sedang menahan sakit sambil memikirkan keluarganya. Ia tidak menjawab. Untuk pertama kalinya, memperoleh persetujuan tidak membuat pekerjaan itu terasa lebih mudah.",
+          "image": {
+            "file": "bab-15-ilustrasi-03.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "alt": "Huang Rong yang hamil tua menawarkan pengorbanannya kepada Xiaolongnü dalam percakapan malam.",
+          "caption": "Di balik tuntutan kepala, Xiaolongnü akhirnya melihat sebuah keluarga."
+        },
+        {
+          "anchor": "“Kalau begitu, tentu engkau tidak keberatan aku menjaganya sebentar.” Li Mochou memandang Dani yang segera maju. “Tetapi pemuda ini tampak terlalu cemas untuk seorang asing.”",
+          "image": {
+            "file": "bab-15-ilustrasi-04.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "alt": "Li Mochou menggendong Guo Polu yang baru direbut; Dani dan Xiaolongnü meminta bayi dikembalikan.",
+          "caption": "Bayi yang hendak dikembalikan jatuh ke tangan orang lain."
+        },
+        {
+          "anchor": "Xiaolongnü menunggu Dani menyebut namanya dan membatalkan semua itu. Sebaliknya, ia mendengar kelakar lain tentang calon mertua. Tangan yang menggenggam kendali mengendur. Ia menyangka Dani akhirnya menemukan kehidupan yang sebelumnya ia tolak.",
+          "image": {
+            "file": "bab-15-ilustrasi-05.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "alt": "Xiaolongnü mendengar dari balik pohon ketika Dani mengaku akan menikahi Fu di depan kedua Wu.",
+          "caption": "Dusta yang menghentikan satu pertengkaran melukai hati yang tidak terlihat."
+        }
+      ],
+      "cast": [
+        {
+          "name": "Guo Polu",
+          "age": "Bayi baru lahir",
+          "description": "Putra Guo Jing dan Huang Rong yang lahir di tengah serangan."
+        }
+      ]
     }
   ],
   "edition": "2026-10-voice",

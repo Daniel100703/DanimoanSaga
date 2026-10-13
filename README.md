@@ -1,4 +1,4 @@
-# Saga Dani Moan — Bab 1–14
+# Saga Dani Moan — Bab 1–15
 
 Novel wuxia berilustrasi karya Daniel Halomoan Siregar.
 
@@ -73,7 +73,16 @@ Bab ini memuat enam ilustrasi: pembuka, jamuan Kublai, taman Bunga Cinta, keperg
 
 - [Kontinuitas dan rujukan Bab 14](editorial/bab-14-kontinuitas.md).
 - [Arahan dan aset ilustrasi Bab 14](editorial/bab-14-visual.md).
-- [Usulan peta Bab 15 — Nyawa yang Tak Jadi Ditagih](https://daniel100703.github.io/DanimoanSaga/peta-bab-15.html): belum disetujui; memuat bocoran. Naskah Bab 15 belum diterbitkan.
+- [Peta Bab 15 yang telah disetujui](https://daniel100703.github.io/DanimoanSaga/peta-bab-15.html): telah diadaptasi; memuat bocoran.
+
+## Bab 15 — Nyawa yang Tak Jadi Ditagih
+
+[Baca Bab 15](https://daniel100703.github.io/DanimoanSaga/bab-15.html). Seluruh Babak IX diselesaikan dalam 5.251 kata cerita dan 196 paragraf: kedatangan Xiangyang, pilihan menyelamatkan Guo Jing, pengorbanan Feng Mofeng, tawaran Huang Rong, kelahiran dan penculikan Polu, serta akibat kebohongan perjodohan Dani.
+
+Enam ilustrasi baru termasuk pembuka membawa jumlah gambar cerita menjadi 62 ditambah satu sampul utama. Kartu baru Guo Polu memperoleh wajah dari ilustrasi adegan. Kondisi, hubungan, dan potret tokoh mengikuti paragraf; peristiwa akhir Bab 15 tidak terbuka pada bab sebelumnya. Naskah dan ilustrasi Bab 1–14 tidak diubah. Sapaan Dani kepada Xiaolongnü tetap Bibi.
+
+- [Kontinuitas, penyesuaian kanon, dan rujukan Bab 15](editorial/bab-15-kontinuitas.md).
+- [Arahan, prompt, dan aset ilustrasi Bab 15](editorial/bab-15-visual.md).
 
 ### Pengaturan pembaca
 
@@ -91,7 +100,7 @@ Repositori ini adalah situs statis; Python dipakai hanya saat menyusun halaman. 
 python3 build.py
 ```
 
-Perintah itu membangun `index.html`, `wiki.html`, peta editorial Bab 11–14, dan semua `bab-XX.html` dari `book.json`, `bab-XX.md`, serta `lore-data.json`. Catatan kontinuitas penulis tetap di Markdown dan tidak masuk ke halaman bacaan.
+Perintah itu membangun `index.html`, `wiki.html`, peta editorial Bab 11–15, dan semua `bab-XX.html` dari `book.json`, `bab-XX.md`, serta `lore-data.json`. Catatan kontinuitas penulis tetap di Markdown dan tidak masuk ke halaman bacaan.
 
 Untuk satu berkas HTML yang dapat dibaca tanpa internet:
 
