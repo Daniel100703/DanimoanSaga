@@ -17,7 +17,8 @@
     "13": 168,
     "14": 199,
     "15": 196,
-    "16": 114
+    "16": 114,
+    "17": 102
   },
   "entries": [
     {
@@ -1086,15 +1087,72 @@
           "fields": {
             "Usia sekarang": "19 tahun",
             "Kondisi": "Kehilangan darah, belum sanggup berdiri pada akhir bab; lengan kanan hilang dan kiri utuh.",
-            "Bekal": "Buntalan dan jarum ibu dibawa; Pedang Budiman tertinggal di kediaman.",
+            "Bekal": "Buntalan dan jarum ibu; keluar tanpa pedang. Kuda darurat sudah terlepas.",
             "Tenggat": "Masih hari keenam sejak setengah pil; hitungan awal dua belas hari, dampak racun campuran belum diketahui.",
             "Batas": "Belum bertemu Kondor, belum belajar warisan Dugu, dan Tapak Melankolis belum tercipta.",
-            "Pengetahuan": "Tidak menyaksikan pertengkaran Guo Jing–Huang Rong atau persembunyian Fu."
+            "Pengetahuan": "Tidak melihat kepanikan Fu di kamar orang tuanya atau persembunyian yang disiapkan Huang Rong."
           },
           "key": 160114,
           "chapter": 16,
           "paragraph": "p-16-114",
-          "quote": "Dengan telapak kiri menekan batu, ia mengangkat tubuh sedikit dan gagal. Ia menunggu sampai pandangannya kembali terang, kemudian mencobanya lagi. Untuk saat itu ia belum sanggup berdiri. Ia hanya berhasil menghadap jalan menuju pegunungan, dan bertahan agar matanya tidak tertutup terlalu lama."
+          "quote": "Dengan telapak kiri menekan batu, ia mengangkat tubuh sedikit dan gagal. Ia menunggu sampai pandangannya kembali terang, kemudian mencobanya lagi. Untuk saat itu ia belum sanggup berdiri. Ia hanya berhasil menghadap jalan menuju pegunungan, dan bertahan agar matanya tidak tertutup terlalu lama.\n"
+        },
+        {
+          "title": "Dani Moan",
+          "summary": "Menerima pertolongan Kondor dan mulai pulih.",
+          "fields": {
+            "Usia sekarang": "19 tahun",
+            "Kondisi": "Luka kanan mulai mengering; lengan kiri tetap utuh.",
+            "Pertolongan": "Empedu ular, makanan, istirahat serta pengaturan tenaga dalam.",
+            "Hubungan": "Menerima pendamping baru setelah pelarian."
+          },
+          "key": 170013,
+          "chapter": 17,
+          "paragraph": "p-17-013",
+          "quote": "Selama hari-hari berikutnya, burung itu membawa makanan dan empedu ular. Dani mengenalinya setelah melihat bangkai ular di dekat gua. Ia membalut kembali lukanya dengan kain yang dicuci, menerima pertolongan pahit itu, lalu memusatkan tenaga untuk memulihkan tubuh. Luka yang semula terus terbuka mulai mengering."
+        },
+        {
+          "title": "Dani Moan",
+          "summary": "Tetap hidup sesudah tenggat lama Qiu terlewati.",
+          "fields": {
+            "Usia sekarang": "19 tahun",
+            "Racun": "Nyeri Bunga Cinta masih muncul; racun jarum dan empedu mengubah keadaan tubuhnya.",
+            "Tenggat": "Hitungan delapan belas hari tidak lagi dapat dipakai sebagai kepastian.",
+            "Batas pengetahuan": "Belum memperoleh penawar akhir atau mengetahui nasib Xiaolongnü."
+          },
+          "key": 170018,
+          "chapter": 17,
+          "paragraph": "p-17-018",
+          "quote": "Pada hari ketika hitungan delapan belas hari Qiu seharusnya habis, Dani duduk di mulut gua sampai matahari tenggelam. Ia masih bernapas. Malam berikutnya pun berlalu. Ia tidak menganggap dirinya sembuh; ia hanya berhenti menghitung sisa umur menurut batas yang ternyata telah terlampaui."
+        },
+        {
+          "title": "Dani Moan",
+          "summary": "Menguasai pedang berat dengan kekuatan jauh meningkat.",
+          "fields": {
+            "Usia sekarang": "19 tahun",
+            "Kemampuan teramati": "Membelah jatuhan air sesaat, menghancurkan batu besar dan menahan sayap Kondor.",
+            "Jalur perkembangan": "Warisan Dugu dipadukan dengan dasar ilmu yang telah dipelajari. Potensi belum mencapai puncak.",
+            "Kondisi": "Lengan kanan hilang; semua ayunan dilakukan dengan kiri."
+          },
+          "key": 170048,
+          "chapter": 17,
+          "paragraph": "p-17-048",
+          "quote": "Kondor tidak mundur. Ia mendekat dan membenturkan sayap pada bidang pedang. Dani menyambutnya. Sekali ini burung besar itu harus menggeser kaki, sedangkan Dani mempertahankan tumpuannya di atas batu basah."
+        },
+        {
+          "title": "Dani Moan",
+          "summary": "Berangkat mencari Xiaolongnü setelah menyaksikan bentrokan keluarga Guo.",
+          "fields": {
+            "Usia sekarang": "19 tahun",
+            "Bekal": "Pedang Xuantie, buntalan dan jarum ibu; ditemani Kondor.",
+            "Hubungan": "Melepaskan kesempatan menyerang Fu, belum memaafkan atau berdamai.",
+            "Pengetahuan": "Kini menyaksikan pembelaan Guo Jing serta perlindungan Huang Rong; sebab kematian Kang belum dibuka.",
+            "Tujuan": "Zhongnan; menemui Xiaolongnü dan menjelaskan dusta restu."
+          },
+          "key": 170102,
+          "chapter": 17,
+          "paragraph": "p-17-102",
+          "quote": "Di depan mereka, jalan pegunungan menghilang ke dalam gelap. Dani melangkah lebih cepat. Masih ada seseorang yang harus ditemuinya sebelum dunia memberitahukan bahwa ia telah mati.\n"
         }
       ],
       "portraits": [
@@ -1350,6 +1408,36 @@
             0.477,
             0.306
           ]
+        },
+        {
+          "key": 170001,
+          "image": {
+            "file": "bab-17-pembuka.webp",
+            "width": 1024,
+            "height": 1536,
+            "version": "bfbaf1e89067"
+          },
+          "roi": [
+            0.195,
+            0.28,
+            0.412,
+            0.438
+          ]
+        },
+        {
+          "key": 170047,
+          "image": {
+            "file": "bab-17-ilustrasi-01.webp",
+            "width": 1536,
+            "height": 1024,
+            "version": "aadb8e08ca89"
+          },
+          "roi": [
+            0.319,
+            0.245,
+            0.413,
+            0.401
+          ]
         }
       ],
       "relationships": [
@@ -1503,7 +1591,7 @@
           "key": 150135,
           "chapter": 15,
           "paragraph": "p-15-135",
-          "quote": "“Aku akan ikut mencarinya.”"
+          "quote": "“Aku akan pergi bersama Bibi,” jawab Dani. “Kita cari jalan lain.”"
         },
         {
           "status": "Tipuan untuk menolong melukai kekasih",
@@ -1519,7 +1607,7 @@
           "key": 150196,
           "chapter": 15,
           "paragraph": "p-15-196",
-          "quote": "Pilihan tersebut tidak mengembalikan Feng Mofeng, tidak menemukan Polu, dan tidak mendatangkan Xiaolongnü ke sisi ranjang. Tetapi ketika Guo Jing memanggil namanya dari pintu, Dani tidak lagi memandang leher pamannya. Ia memandang wajahnya. Perkara ayahnya tetap tersimpan; hari itu ia hanya menggeser tubuh, memberi tempat bagi pamannya untuk duduk."
+          "quote": "Pilihan tersebut tidak mengembalikan Feng Mofeng, tidak menemukan Polu, dan tidak mendatangkan Xiaolongnü ke sisi ranjang. Tetapi ketika Guo Jing memanggil namanya dari pintu, Dani tidak lagi memandang leher pamannya. Ia memandang wajahnya. Perkara ayahnya tetap tersimpan; hari itu ia hanya menggeser tubuh, memberi tempat bagi pamannya untuk duduk.\n"
         },
         {
           "status": "Mengakui kesalahan terhadap Fu",
@@ -1543,7 +1631,15 @@
           "key": 160114,
           "chapter": 16,
           "paragraph": "p-16-114",
-          "quote": "Dengan telapak kiri menekan batu, ia mengangkat tubuh sedikit dan gagal. Ia menunggu sampai pandangannya kembali terang, kemudian mencobanya lagi. Untuk saat itu ia belum sanggup berdiri. Ia hanya berhasil menghadap jalan menuju pegunungan, dan bertahan agar matanya tidak tertutup terlalu lama."
+          "quote": "Dengan telapak kiri menekan batu, ia mengangkat tubuh sedikit dan gagal. Ia menunggu sampai pandangannya kembali terang, kemudian mencobanya lagi. Untuk saat itu ia belum sanggup berdiri. Ia hanya berhasil menghadap jalan menuju pegunungan, dan bertahan agar matanya tidak tertutup terlalu lama.\n"
+        },
+        {
+          "status": "Menahan balasan tanpa menghapus luka hati",
+          "explanation": "Kesungguhan Guo Jing menggoyahkan kebenciannya kepada seluruh keluarga; ia tidak menyerang Fu yang melarikan diri.",
+          "key": 170090,
+          "chapter": 17,
+          "paragraph": "p-17-090",
+          "quote": "Aku tidak akan membunuh orang yang sedang lari karena ketakutan, pikirnya. Tetapi aku belum memaafkanmu, Guo Fu."
         }
       ]
     },
@@ -2890,6 +2986,19 @@
         },
         {
           "title": "Guo Jing",
+          "summary": "Membuka kepungan dengan daya Tapak Penakluk Naga.",
+          "fields": {
+            "Tingkat": "4 · Grandmaster, mendekati 5 (rujukan Saga)",
+            "Daya teramati": "Mematahkan tombak dan pagar serta merobohkan barisan puluhan prajurit.",
+            "Keadaan tempur": "Tetap menghadapi beberapa pendekar tangguh sambil melindungi Dani."
+          },
+          "key": 150057,
+          "chapter": 15,
+          "paragraph": "p-15-057",
+          "quote": "Ia menendang kaki meja ke jalur Jinlun. Cawan pecah, tirai tersibak, dan Guo Jing menerjang celah yang dibukanya. Tapak Penakluk Naga menghantam barisan yang menutup pintu: tombak-tombak patah, pagar kayu jebol, dan puluhan prajurit terlempar saling menimpa. Getarannya merobohkan tiang tenda di belakang mereka. Akan tetapi, Xiaoxiangzi dan Nimoxing sudah menyambar dari sisi berbeda, sementara Yin Kexi memutar senjata untuk menutup jalan ke kuda."
+        },
+        {
+          "title": "Guo Jing",
           "summary": "Terluka oleh Jinlun ketika berbalik melindungi Dani di kamp.",
           "fields": {
             "Tingkat": "4 · Grandmaster, mendekati 5 (rujukan Saga)",
@@ -2918,16 +3027,44 @@
         },
         {
           "title": "Guo Jing",
-          "summary": "Mencari Dani dan menuntut putrinya bertanggung jawab atas cedera yang ditimbulkannya.",
+          "summary": "Murka setelah menemukan kamar Dani kosong dan berlumur darah.",
           "fields": {
-            "Kondisi": "Luka dari kamp belum pulih; tetap mengatur pencarian dan pertolongan.",
-            "Pendirian": "Kasih kepada Fu tidak boleh menjadi alasan mengabaikan darah Dani.",
-            "Batas": "Belum menemukan Dani atau berhadapan langsung dengan Fu."
+            "Kondisi": "Luka kamp belum pulih; segera mencari Dani meskipun tubuhnya masih sakit.",
+            "Pengetahuan": "Fu datang mengaku sesudah penebasan; Dani sudah meninggalkan kamar.",
+            "Pendirian": "Memerintahkan pertolongan dan meminta Fu dihadapkan sesudah Dani ditemukan.",
+            "Batas": "Belum terjadi bentrokan terbuka dengan Huang Rong."
           },
-          "key": 160092,
+          "key": 160088,
           "chapter": 16,
-          "paragraph": "p-16-092",
-          "quote": "“Jangan meminta aku menganggapnya lebih ringan karena pelakunya putriku.” Suara Guo Jing pecah pada kata terakhir. “Aku mencintainya. Itulah sebabnya aku tidak boleh membiarkannya percaya bahwa darah orang lain dapat dibayar dengan nama ayahnya.”"
+          "paragraph": "p-16-088",
+          "quote": "“Fu telah memutus lengannya!” Guo Jing berkata dengan suara bergetar, lalu menghantam tiang ranjang. Kayu keras itu pecah; kelambu jatuh menutupi kasur kosong. “Anak itu menyelamatkan ayahnya, dan ini balasan yang diberikannya!”"
+        },
+        {
+          "title": "Guo Jing",
+          "summary": "Hendak menghukum Fu setelah ia pulang dari persembunyian.",
+          "fields": {
+            "Kondisi": "Luka kamp telah pulih.",
+            "Pendirian": "Menuntut Fu menanggung akibat yang setimpal, meskipun ia putrinya sendiri.",
+            "Senjata": "Pedang Budiman yang tersimpan di kediaman.",
+            "Pengetahuan": "Belum tahu Dani hidup dan mengintai dari luar."
+          },
+          "key": 170076,
+          "chapter": 17,
+          "paragraph": "p-17-076",
+          "quote": "“Seandainya lenganku dapat menggantikan lengan Dani, Ayah tidak akan menyuruhmu mengulurkannya.” Suaranya pecah. “Tetapi yang berbuat adalah engkau. Yang harus menanggungnya pun engkau.”"
+        },
+        {
+          "title": "Guo Jing",
+          "summary": "Dihentikan Huang Rong dan berusaha membuka totokan.",
+          "fields": {
+            "Kondisi": "Tidak terluka oleh istrinya; tenaga tertahan sementara oleh totokan.",
+            "Perkara keluarga": "Huang Rong meloloskan Fu; Dani belum menampakkan diri.",
+            "Batas": "Belum ada perdamaian atau kepulangan Dani."
+          },
+          "key": 170096,
+          "chapter": 17,
+          "paragraph": "p-17-096",
+          "quote": "Guo Jing berusaha bangkit. Otot lehernya menegang; ia mulai mengerahkan tenaga untuk membuka totokan. Namun Huang Rong telah melewati halaman. Tidak ada kelakar yang dapat mengembalikan kelembutan kepada kamar itu."
         }
       ],
       "portraits": [
@@ -2975,17 +3112,18 @@
           ]
         },
         {
-          "key": 160095,
+          "key": 160079,
           "image": {
             "file": "bab-16-ilustrasi-02.webp",
             "width": 1536,
-            "height": 1024
+            "height": 1024,
+            "version": "bb10cb039eb8"
           },
           "roi": [
-            0.203,
-            0.089,
-            0.291,
-            0.272
+            0.155,
+            0.073,
+            0.281,
+            0.285
           ]
         }
       ],
@@ -3047,12 +3185,20 @@
           "quote": "“Itulah sebabnya aku harus berhati-hati.” Guo Jing memandang gerbang yang sedang ditutup. “Tetapi orang-orang itu datang karena percaya kita akan melindungi mereka. Bila pada saat sulit kita membiarkan mereka dibantai, untuk siapa kota ini kita pertahankan?”"
         },
         {
-          "status": "Paman yang berduka dan menuntut keadilan",
-          "explanation": "Mengingat pertolongan Dani kepada keluarganya dan menolak memperingan perbuatan Fu karena hubungan darah.",
-          "key": 160092,
+          "status": "Paman yang panik, berduka, dan murka",
+          "explanation": "Segera berlari menolong setelah pengakuan Fu; melihat darah Dani sebagai balasan keji atas pertolongannya kepada keluarga.",
+          "key": 160088,
           "chapter": 16,
-          "paragraph": "p-16-092",
-          "quote": "“Jangan meminta aku menganggapnya lebih ringan karena pelakunya putriku.” Suara Guo Jing pecah pada kata terakhir. “Aku mencintainya. Itulah sebabnya aku tidak boleh membiarkannya percaya bahwa darah orang lain dapat dibayar dengan nama ayahnya.”"
+          "paragraph": "p-16-088",
+          "quote": "“Fu telah memutus lengannya!” Guo Jing berkata dengan suara bergetar, lalu menghantam tiang ranjang. Kayu keras itu pecah; kelambu jatuh menutupi kasur kosong. “Anak itu menyelamatkan ayahnya, dan ini balasan yang diberikannya!”"
+        },
+        {
+          "status": "Kasih dan keadilan yang disaksikan Dani",
+          "explanation": "Bersedia menanggung sakit sebagai ayah demi mempertanggungjawabkan cedera Dani; ketulusannya mengguncang niat balas Dani.",
+          "key": 170076,
+          "chapter": 17,
+          "paragraph": "p-17-076",
+          "quote": "“Seandainya lenganku dapat menggantikan lengan Dani, Ayah tidak akan menyuruhmu mengulurkannya.” Suaranya pecah. “Tetapi yang berbuat adalah engkau. Yang harus menanggungnya pun engkau.”"
         }
       ]
     },
@@ -3308,7 +3454,7 @@
           "key": 150094,
           "chapter": 15,
           "paragraph": "p-15-094",
-          "quote": "“Namaku pun ada dalam permusuhannya. Aku akan meninggalkan surat. Bawa kepalaku sebagai pengganti dan mintalah obat itu.” Huang Rong berhenti sebentar. “Aku tidak dapat menjamin ia menerima. Tetapi aku tidak akan menawarkan nyawa suamiku setelah Dani menyelamatkannya.”"
+          "quote": "“Dani sudah mempertaruhkan hidup untuk suamiku. Mengapa aku tidak boleh berbuat demikian untuknya?” Huang Rong menjawab dengan suara rendah. “Qiu memang menuntut kepala Paman Guo. Aku belum tahu apakah ia akan menerima penggantinya, tetapi aku pun terlibat dalam permusuhan itu. Kita masih dapat memohon kepadanya.”"
         },
         {
           "title": "Huang Rong",
@@ -3342,29 +3488,56 @@
         },
         {
           "title": "Huang Rong",
-          "summary": "Meninggalkan Guo Jing untuk mencari Fu ketika tuntutan keadilan mengancam putrinya.",
+          "summary": "Diam-diam membawa Fu ke gubuk sementara Guo Jing mencari Dani.",
           "fields": {
             "Usia sekarang": "Sekitar 35–37 tahun",
             "Kondisi": "Baru melahirkan; Polu belum ditemukan.",
-            "Konflik": "Mengakui beratnya luka Dani, tetapi takut hukuman yang akan dijatuhkan suaminya."
+            "Pilihan": "Menyembunyikan putrinya karena takut menghadapi kemurkaan Guo Jing.",
+            "Batas": "Perlindungan masih dirahasiakan; belum ada pertengkaran terbuka suami-istri."
           },
           "key": 160095,
           "chapter": 16,
           "paragraph": "p-16-095",
-          "quote": "Guo Jing hendak bangkit, tetapi luka dalamnya memaksanya berpegangan pada kursi. Huang Rong meraih tongkat. Ia tidak menunggu suaminya mengatakan setuju; ketika melewati pintu, ia tahu dirinya sedang memilih sesuatu yang akan melukai kepercayaan di antara mereka."
+          "quote": "Ibu dan anak itu menyelinap keluar sementara pencarian berpusat pada jalan yang dilalui Dani. Huang Rong membawa Fu menuju sebuah gubuk penyimpan jerami di luar kota. Guo Jing belum mengetahui tempat itu. Setiap kali Fu hendak menanyakan ayahnya, Huang Rong hanya mempererat genggaman dan menyuruhnya berjalan."
         },
         {
           "title": "Huang Rong",
-          "summary": "Menyembunyikan Fu di gubuk lalu hendak mencari jejak Dani.",
+          "summary": "Kembali mencari Dani sambil menyimpan rahasia tempat Fu bersembunyi.",
           "fields": {
-            "Kondisi": "Melindungi tempat persembunyian putrinya; baru melahirkan.",
-            "Pendirian": "Tidak menyangkal kesalahan Fu, tetapi menunda pertemuannya dengan ayahnya.",
-            "Batas": "Polu tetap bersama Li Mochou; Dani belum ditemukan."
+            "Kondisi": "Baru melahirkan; meninggalkan Fu di gubuk dan kembali pada pencarian.",
+            "Benda": "Pedang Budiman disimpan di lemari kediaman.",
+            "Batas": "Guo Jing belum tahu tempat Fu; Polu masih diculik."
           },
           "key": 160109,
           "chapter": 16,
           "paragraph": "p-16-109",
-          "quote": "Fu meraih jubah itu seperti seorang anak. Huang Rong membiarkannya memeluk sebentar sebelum berdiri. Ia telah meninggalkan suaminya untuk melindungi putri mereka; sekarang ia harus kembali mencari jejak Dani, dengan rahasia baru yang sengaja disimpannya sendiri."
+          "quote": "Huang Rong meninggalkan gubuk sebelum petang berakhir. Ia akan kembali kepada pencarian dan rumahnya tanpa memberi tahu Guo Jing di mana Fu berada. Perlindungan itu belum menjadi pertengkaran terbuka; untuk sementara hanya Huang Rong yang mengetahui seberapa besar perkara yang ditundanya."
+        },
+        {
+          "title": "Huang Rong",
+          "summary": "Menghalangi hukuman Guo Jing dan menyuruh Fu melarikan diri.",
+          "fields": {
+            "Kondisi": "Sekitar dua bulan setelah melahirkan; Polu belum ditemukan.",
+            "Ilmu": "Tongkat Pemukul Anjing untuk menghalangi suaminya.",
+            "Konflik": "Mengetahui kesalahan Fu, tetapi tidak sanggup melihat putrinya kehilangan lengan."
+          },
+          "key": 170079,
+          "chapter": 17,
+          "paragraph": "p-17-079",
+          "quote": "Benturan memekakkan telinga. Huang Rong mendarat di antara suami dan putrinya; tongkatnya mengangkat pergelangan Guo Jing, lalu menyapu kaki agar ia harus berganti tumpuan. Meja di sisi ranjang pecah diterjang ujung sarung. Fu menjerit dan mundur ke dinding."
+        },
+        {
+          "title": "Huang Rong",
+          "summary": "Menotok Guo Jing lalu mengambil tanda perintah untuk menyusul Fu.",
+          "fields": {
+            "Pilihan": "Mendahulukan perlindungan Fu dan meninggalkan suaminya sementara.",
+            "Benda": "Pedang Budiman diletakkan jauh dari ranjang; tidak dibawa pergi.",
+            "Batas": "Polu masih diculik; tidak dipakai sebagai pengalih dalam perselisihan."
+          },
+          "key": 170095,
+          "chapter": 17,
+          "paragraph": "p-17-095",
+          "quote": "Huang Rong tidak berani menatap matanya lama. “Kali ini aku bersalah kepadamu. Aku akan mengantar Fu keluar, lalu mencari Polu dan Dani. Sesudah itu aku kembali menghadapmu.” Ia mengambil tanda perintah dari ikat pinggang suaminya, meletakkan Pedang Budiman jauh dari ranjang, dan keluar membawa tongkat."
         }
       ],
       "portraits": [
@@ -3425,17 +3598,18 @@
           ]
         },
         {
-          "key": 160095,
+          "key": 160079,
           "image": {
             "file": "bab-16-ilustrasi-02.webp",
             "width": 1536,
-            "height": 1024
+            "height": 1024,
+            "version": "bb10cb039eb8"
           },
           "roi": [
-            0.723,
-            0.191,
-            0.809,
-            0.375
+            0.612,
+            0.098,
+            0.734,
+            0.3
           ]
         }
       ],
@@ -3502,7 +3676,7 @@
           "key": 150098,
           "chapter": 15,
           "paragraph": "p-15-098",
-          "quote": "“Maka engkau sudah mengenal sebagian hatiku.” Huang Rong menyentuh perutnya. “Seorang ibu pun mencintai anaknya demikian. Aku ingin suamiku dan anak-anakku selamat. Dani telah menjaga mereka berkali-kali. Bagaimana mungkin aku hanya pandai meminta pengorbanannya?”"
+          "quote": "Huang Rong tersenyum sedih. “Aku juga menyayangi suamiku. Kelak jika engkau mempunyai anak, engkau akan mengerti bahwa seorang ibu pun sukar meninggalkan anaknya. Aku memohon kepadamu untuk menjaga mereka, seperti engkau menjaga Dani.”"
         },
         {
           "status": "Menjaga Dani di tengah kecemasan keluarga",
@@ -3513,20 +3687,28 @@
           "quote": "Guo Jing mengulurkan tangan agar ia bangkit. Huang Rong segera memeriksa Dani; kabar tentang Polu membuat wajahnya pucat, namun tangannya tidak berhenti mengatur pertolongan. Ia tidak dapat mengambil kembali putranya dengan membiarkan pemuda di depannya mati."
         },
         {
-          "status": "Kasih ibu berbenturan dengan utang pertolongan",
-          "explanation": "Pergi mencari Fu tanpa menunggu persetujuan Guo Jing.",
+          "status": "Melindungi Fu dengan merahasiakan persembunyiannya",
+          "explanation": "Mendahulukan perlindungan putrinya meskipun mengetahui beratnya luka Dani; belum beradu senjata dengan suaminya.",
           "key": 160095,
           "chapter": 16,
           "paragraph": "p-16-095",
-          "quote": "Guo Jing hendak bangkit, tetapi luka dalamnya memaksanya berpegangan pada kursi. Huang Rong meraih tongkat. Ia tidak menunggu suaminya mengatakan setuju; ketika melewati pintu, ia tahu dirinya sedang memilih sesuatu yang akan melukai kepercayaan di antara mereka."
+          "quote": "Ibu dan anak itu menyelinap keluar sementara pencarian berpusat pada jalan yang dilalui Dani. Huang Rong membawa Fu menuju sebuah gubuk penyimpan jerami di luar kota. Guo Jing belum mengetahui tempat itu. Setiap kali Fu hendak menanyakan ayahnya, Huang Rong hanya mempererat genggaman dan menyuruhnya berjalan."
         },
         {
-          "status": "Melindungi putri dengan menyimpan rahasia",
-          "explanation": "Mengetahui pilihannya tidak adil kepada Dani, tetapi tetap menyembunyikan Fu.",
+          "status": "Utang pertolongan belum mengalahkan kasih ibu",
+          "explanation": "Ia tetap mencari Dani, tetapi tidak memberi tahu suaminya tempat Fu bersembunyi.",
           "key": 160109,
           "chapter": 16,
           "paragraph": "p-16-109",
-          "quote": "Fu meraih jubah itu seperti seorang anak. Huang Rong membiarkannya memeluk sebentar sebelum berdiri. Ia telah meninggalkan suaminya untuk melindungi putri mereka; sekarang ia harus kembali mencari jejak Dani, dengan rahasia baru yang sengaja disimpannya sendiri."
+          "quote": "Huang Rong meninggalkan gubuk sebelum petang berakhir. Ia akan kembali kepada pencarian dan rumahnya tanpa memberi tahu Guo Jing di mana Fu berada. Perlindungan itu belum menjadi pertengkaran terbuka; untuk sementara hanya Huang Rong yang mengetahui seberapa besar perkara yang ditundanya."
+        },
+        {
+          "status": "Kasih ibu mengalahkan tuntutan hukuman",
+          "explanation": "Dani menyaksikan tindakannya dari luar. Huang Rong belum tahu bahwa pemuda itu berada di dekat mereka.",
+          "key": 170095,
+          "chapter": 17,
+          "paragraph": "p-17-095",
+          "quote": "Huang Rong tidak berani menatap matanya lama. “Kali ini aku bersalah kepadamu. Aku akan mengantar Fu keluar, lalu mencari Polu dan Dani. Sesudah itu aku kembali menghadapmu.” Ia mengambil tanda perintah dari ikat pinggang suaminya, meletakkan Pedang Budiman jauh dari ranjang, dan keluar membawa tongkat."
         }
       ]
     },
@@ -3733,21 +3915,60 @@
           "key": 160072,
           "chapter": 16,
           "paragraph": "p-16-072",
-          "quote": "“Dani… aku…” Fu mundur. Senjata itu terlepas dari tangannya. Ia tidak mengetahui setajam apa bilahnya, tetapi ia mengetahui siapa yang mengayunkannya. Kini tidak ada dalih yang sanggup membuat apa yang dilihatnya menjadi sekadar pertengkaran."
+          "quote": "Fu membeku. Pedang Budiman masih berada dalam genggamannya; percikan merah membasahi lengan baju dan pipinya. Ia menatap Dani, lalu bilah itu, seakan baru melihat apa yang dapat dilakukan tangannya sendiri. “Aku… aku tidak…”"
         },
         {
           "title": "Guo Fu",
-          "summary": "Bersembunyi di gubuk dan memperoleh perlindungan ibunya.",
+          "summary": "Mendatangi orang tuanya dalam kepanikan sesudah penebasan.",
           "fields": {
             "Usia sekarang": "17 tahun",
-            "Kondisi": "Kabur lebih dahulu sebelum berhadapan dengan Guo Jing; kedua lengannya utuh.",
-            "Hubungan keluarga": "Huang Rong menyembunyikannya tanpa menyatakan ia tidak bersalah.",
-            "Batas": "Dani belum ditemukan; pertanggungjawaban belum selesai."
+            "Kondisi": "Menangis dan mengaku; darah mengenai bajunya, bukan luka pada tubuhnya.",
+            "Benda": "Pedang Budiman diambil Huang Rong.",
+            "Akibat": "Guo Jing segera menuju kamar Dani."
+          },
+          "key": 160079,
+          "chapter": 16,
+          "paragraph": "p-16-079",
+          "quote": "Mangkuk obat terjatuh. Guo Jing menerjang pintu tanpa menunggu sandal terpasang sempurna. Huang Rong menarik Pedang Budiman dari tangan Fu sebelum gadis itu jatuh berlutut. Percikan darah di baju merah putrinya membuat tangannya sendiri terasa dingin."
+        },
+        {
+          "title": "Guo Fu",
+          "summary": "Bersembunyi di gubuk setelah mendatangi orang tuanya dengan pedang berdarah.",
+          "fields": {
+            "Usia sekarang": "17 tahun",
+            "Kondisi": "Kedua lengan utuh; telah mengaku secara terbata kepada ayahnya, lalu dibawa pergi Huang Rong.",
+            "Hubungan keluarga": "Dilindungi ibunya dari pertemuan lanjutan dengan Guo Jing.",
+            "Batas": "Dani belum ditemukan; hukuman belum dijatuhkan."
           },
           "key": 160108,
           "chapter": 16,
           "paragraph": "p-16-108",
-          "quote": "“Tinggallah di sini sampai aku kembali. Jangan menyalakan api, dan jangan keluar menemui orang.” Huang Rong melepas jubah luarnya untuk menyelimuti Fu. “Aku menyembunyikanmu malam ini. Aku tidak mengatakan bahwa engkau tidak bersalah.”"
+          "quote": "“Tinggallah di sini sampai Ibu kembali,” kata Huang Rong. “Jangan menyalakan api atau keluar menemui orang. Ibu masih harus mencari Dani.” Ia menyelimuti Fu dengan jubahnya. “Aku menyembunyikanmu, tetapi kesalahanmu tidak menjadi hilang karenanya.”"
+        },
+        {
+          "title": "Guo Fu",
+          "summary": "Pulang setelah dua bulan bersembunyi dan meminta ampun kepada ayahnya.",
+          "fields": {
+            "Usia sekarang": "17 tahun",
+            "Kondisi": "Kedua lengan tetap utuh; takut dan menyesal, masih mengemukakan alasan.",
+            "Pengetahuan": "Tidak tahu Dani sudah pulih atau mengintai."
+          },
+          "key": 170061,
+          "chapter": 17,
+          "paragraph": "p-17-061",
+          "quote": "“Ibu menyuruhku pulang,” jawab Fu lirih. “Aku… aku ingin meminta ampun kepada Ayah.”"
+        },
+        {
+          "title": "Guo Fu",
+          "summary": "Lolos melalui jendela ketika Huang Rong menghalangi Guo Jing.",
+          "fields": {
+            "Kondisi": "Tidak terluka; Dani membiarkannya melewati tempat persembunyiannya.",
+            "Batas": "Tidak mengetahui kesempatan balas yang dilepaskan Dani; belum menerima pengampunan."
+          },
+          "key": 170090,
+          "chapter": 17,
+          "paragraph": "p-17-090",
+          "quote": "Aku tidak akan membunuh orang yang sedang lari karena ketakutan, pikirnya. Tetapi aku belum memaafkanmu, Guo Fu."
         }
       ],
       "portraits": [
@@ -3791,6 +4012,21 @@
             0.084,
             0.862,
             0.218
+          ]
+        },
+        {
+          "key": 160079,
+          "image": {
+            "file": "bab-16-ilustrasi-02.webp",
+            "width": 1536,
+            "height": 1024,
+            "version": "bb10cb039eb8"
+          },
+          "roi": [
+            0.785,
+            0.105,
+            0.912,
+            0.31
           ]
         }
       ],
@@ -3881,7 +4117,7 @@
           "key": 160072,
           "chapter": 16,
           "paragraph": "p-16-072",
-          "quote": "“Dani… aku…” Fu mundur. Senjata itu terlepas dari tangannya. Ia tidak mengetahui setajam apa bilahnya, tetapi ia mengetahui siapa yang mengayunkannya. Kini tidak ada dalih yang sanggup membuat apa yang dilihatnya menjadi sekadar pertengkaran."
+          "quote": "Fu membeku. Pedang Budiman masih berada dalam genggamannya; percikan merah membasahi lengan baju dan pipinya. Ia menatap Dani, lalu bilah itu, seakan baru melihat apa yang dapat dilakukan tangannya sendiri. “Aku… aku tidak…”"
         },
         {
           "status": "Penyesalan dibayangi takut hukuman",
@@ -3889,7 +4125,15 @@
           "key": 160108,
           "chapter": 16,
           "paragraph": "p-16-108",
-          "quote": "“Tinggallah di sini sampai aku kembali. Jangan menyalakan api, dan jangan keluar menemui orang.” Huang Rong melepas jubah luarnya untuk menyelimuti Fu. “Aku menyembunyikanmu malam ini. Aku tidak mengatakan bahwa engkau tidak bersalah.”"
+          "quote": "“Tinggallah di sini sampai Ibu kembali,” kata Huang Rong. “Jangan menyalakan api atau keluar menemui orang. Ibu masih harus mencari Dani.” Ia menyelimuti Fu dengan jubahnya. “Aku menyembunyikanmu, tetapi kesalahanmu tidak menjadi hilang karenanya.”"
+        },
+        {
+          "status": "Dibiarkan pergi, belum dimaafkan",
+          "explanation": "Dani menahan pedangnya karena Fu sedang melarikan diri dengan ketakutan; persoalan di antara mereka belum selesai.",
+          "key": 170090,
+          "chapter": 17,
+          "paragraph": "p-17-090",
+          "quote": "Aku tidak akan membunuh orang yang sedang lari karena ketakutan, pikirnya. Tetapi aku belum memaafkanmu, Guo Fu."
         }
       ]
     },
@@ -5430,22 +5674,22 @@
           "key": 150004,
           "chapter": 15,
           "paragraph": "p-15-004",
-          "quote": "“Aku memandangmu karena aku ingin memandangmu,” jawab Xiaolongnü. Tangannya tetap di sana."
+          "quote": "“Aku ingin melihatmu baik-baik,” jawab Xiaolongnü. “Di lembah dahulu wajahmu pun tampak tenang, lalu engkau memuntahkan darah.” Jemarinya tidak melepaskan lengan Dani."
         },
         {
           "title": "Xiaolongnü",
-          "summary": "Mengungkapkan kepada Huang Rong tuntutan Qiu dan tenggat racun Dani.",
+          "summary": "Sambil menangis, menceritakan racun Dani kepada Huang Rong.",
           "fields": {
             "Usia sekarang": "21 tahun",
             "Tingkat": "4 · Grandmaster (rujukan Saga)",
             "Kondisi": "Menjaga Dani yang terluka setelah keluar dari kamp.",
-            "Motif": "Mencari penawar; sulit menerima bahwa Dani terus mempertaruhkan keselamatannya untuk keluarga Guo.",
+            "Motif": "Tidak memahami dendam Qiu atau urusan perang; hanya ingin Dani hidup dan tidak menderita.",
             "Batas": "Dani tersisa empat belas hari saat percakapan ini."
           },
           "key": 150086,
           "chapter": 15,
           "paragraph": "p-15-086",
-          "quote": "Xiaolongnü menceritakan duri Bunga Cinta, pil yang diberikan Dani kepadanya, dan setengah penawar yang ditahan Qiu. Ia tidak menyamarkan tuntutan kepala Guo Jing. Ketika menyebut pil utuh yang telah menyelamatkannya, suaranya melemah. Ia hidup karena Dani memberikan keselamatannya sendiri, lalu terpaksa menyaksikan Dani menghabiskan waktu yang tersisa untuk orang lain."
+          "quote": "Dengan suara terputus-putus, Xiaolongnü menceritakan Bunga Cinta, pil utuh yang diberikan Dani kepadanya, dan setengah pil yang justru memperpendek tenggat Dani. Ia menyebut tuntutan kepala Guo Jing tanpa menutup-nutupinya. Berkali-kali ia harus berhenti menyeka air mata. “Obat yang semestinya diminumnya malah diberikannya kepadaku. Aku sudah sembuh… tetapi ia masih kesakitan.”"
         },
         {
           "title": "Xiaolongnü",
@@ -5460,7 +5704,7 @@
           "key": 150125,
           "chapter": 15,
           "paragraph": "p-15-125",
-          "quote": "“Supaya Qiu memberikan obat. Bibi Guo mengatakan kasih seorang ibu kepada anaknya sama besarnya dengan kasihku kepadamu. Ia tentu akan melakukan apa pun untuk mengambil putranya kembali. Kita tidak perlu melukai bayi ini.”"
+          "quote": "“Ibunya berkata bahwa seorang ibu sangat menyayangi anaknya,” jawab Xiaolongnü. “Kalau anak ini dibawa ke lembah, tentu ibunya akan datang menolong. Engkau dapat meminta obat dahulu. Sesudah itu kita kembalikan anaknya. Tidak perlu ada yang mati.”"
         },
         {
           "title": "Xiaolongnü",
@@ -5468,14 +5712,14 @@
           "fields": {
             "Usia sekarang": "21 tahun",
             "Tingkat": "4 · Grandmaster (rujukan Saga)",
-            "Kondisi": "Masih takut kehilangan Dani, tetapi memilih mengembalikan bayi.",
+            "Kondisi": "Masih takut kehilangan Dani; menuruti penolakannya atas pertukaran bayi dan memohon agar mereka tetap mencari obat bersama.",
             "Bekal": "Pedang Perempuan dan sarung tangan.",
             "Batas": "Tetap hendak mencari obat; perubahan keputusan bukan kesembuhan Dani."
           },
           "key": 150134,
           "chapter": 15,
           "paragraph": "p-15-134",
-          "quote": "“Kita kembalikan kepada ibunya,” katanya. “Sesudah itu, jangan menyuruhku berhenti mencari obat.”"
+          "quote": "“Baiklah, Dani. Kalau engkau tidak menghendakinya, aku menurut.” Xiaolongnü mengusap air matanya. “Sesudah anak ini kembali, engkau tetap mau pergi mencari obat bersamaku, bukan?”"
         },
         {
           "title": "Xiaolongnü",
@@ -5835,7 +6079,7 @@
           "key": 150040,
           "chapter": 15,
           "paragraph": "p-15-040",
-          "quote": "Xiaolongnü menyandarkan kepala pada bahunya. “Ucapkan saja. Aku akan mendengarnya.”"
+          "quote": "Xiaolongnü menyandarkan kepala pada bahunya. “Asalkan engkau tetap di sisiku, aku suka mendengar perkataanmu. Walaupun kadang-kadang engkau menipuku.”"
         },
         {
           "status": "Ketakutan bertemu pengorbanan orang lain",
@@ -5843,7 +6087,7 @@
           "key": 150099,
           "chapter": 15,
           "paragraph": "p-15-099",
-          "quote": "Xiaolongnü memandangi perempuan itu. Kepala yang sejak lembah dipikirkannya sebagai jalan keluar sekarang menjadi wajah seseorang yang sedang menahan sakit sambil memikirkan keluarganya. Ia tidak menjawab. Untuk pertama kalinya, memperoleh persetujuan tidak membuat pekerjaan itu terasa lebih mudah."
+          "quote": "Xiaolongnü menatap kandungan Huang Rong, lalu menatap wajahnya. Air mata masih membasahi pipinya. “Aku akan menolong mereka,” katanya lembut. “Kalau mereka selamat, engkau akan menolong Dani. Begitukah?” Huang Rong mengangguk; kesederhanaan jawaban itu membuatnya tidak sanggup segera berkata lagi."
         },
         {
           "status": "Mencintai dengan kehendak sendiri",
@@ -5851,7 +6095,7 @@
           "key": 150134,
           "chapter": 15,
           "paragraph": "p-15-134",
-          "quote": "“Kita kembalikan kepada ibunya,” katanya. “Sesudah itu, jangan menyuruhku berhenti mencari obat.”"
+          "quote": "“Baiklah, Dani. Kalau engkau tidak menghendakinya, aku menurut.” Xiaolongnü mengusap air matanya. “Sesudah anak ini kembali, engkau tetap mau pergi mencari obat bersamaku, bukan?”"
         },
         {
           "status": "Pergi karena menyangka tidak lagi dipilih",
@@ -6574,6 +6818,19 @@
           "chapter": 6,
           "paragraph": "p-06-051",
           "quote": "Xiaolongnü tersentak. Tenaga yang belum selesai disalurkan berbalik menghantam tubuhnya. Ia menutup pakaian, mencoba duduk tegak, lalu jatuh dengan darah di sudut bibir."
+        },
+        {
+          "title": "Tenaga dalam",
+          "summary": "Tenaga terlatih memberi daya hancur yang besar dalam dunia wuxia.",
+          "fields": {
+            "Dampak teramati": "Pedang Dani menghancurkan batu besar dan mengubah aliran air.",
+            "Prinsip": "Daya disalurkan dari tubuh melalui senjata; bertumbuh bersama penguasaan ilmu.",
+            "Perkembangan": "Kemampuan saat ini bukan batas potensi akhirnya."
+          },
+          "key": 170047,
+          "chapter": 17,
+          "paragraph": "p-17-047",
+          "quote": "Bongkah tersebut pecah dengan bunyi seperti guntur. Serpihannya meluncur ke dalam sungai; air menyembur melalui bagian yang terbuka, mengangkat buih tinggi ke kedua tepi. Getaran merambat ke kaki Dani. Untuk sesaat ia tetap berdiri dengan pedang terjulur, hampir tidak mempercayai luas kehancuran di hadapannya."
         }
       ]
     },
@@ -6789,7 +7046,21 @@
           "key": 160114,
           "chapter": 16,
           "paragraph": "p-16-114",
-          "quote": "Dengan telapak kiri menekan batu, ia mengangkat tubuh sedikit dan gagal. Ia menunggu sampai pandangannya kembali terang, kemudian mencobanya lagi. Untuk saat itu ia belum sanggup berdiri. Ia hanya berhasil menghadap jalan menuju pegunungan, dan bertahan agar matanya tidak tertutup terlalu lama."
+          "quote": "Dengan telapak kiri menekan batu, ia mengangkat tubuh sedikit dan gagal. Ia menunggu sampai pandangannya kembali terang, kemudian mencobanya lagi. Untuk saat itu ia belum sanggup berdiri. Ia hanya berhasil menghadap jalan menuju pegunungan, dan bertahan agar matanya tidak tertutup terlalu lama.\n"
+        },
+        {
+          "title": "Luka dalam",
+          "summary": "Tubuh Dani pulih bertahap selama sekitar dua bulan.",
+          "fields": {
+            "Penderita saat ini": "Dani Moan",
+            "Kondisi": "Luka amputasi menutup; lengan kanan tidak tumbuh kembali.",
+            "Perkembangan": "Tenaga meningkat melalui pemulihan, empedu dan latihan; bukan akibat otomatis kehilangan lengan.",
+            "Racun": "Bunga Cinta masih menimbulkan nyeri."
+          },
+          "key": 170036,
+          "chapter": 17,
+          "paragraph": "p-17-036",
+          "quote": "Beberapa pekan berganti menjadi dua bulan. Dani berlatih, memulihkan napas, lalu berlatih kembali; Kondor membawa empedu dan menuntunnya menuju lawan yang lebih berat daripada sayapnya sendiri: air deras di antara batu gunung. Ketika Dani hendak berangkat mencari Xiaolongnü terlalu dini, satu sapuan burung itu masih dapat merobohkannya. Ia terpaksa tinggal sampai tubuhnya sanggup menempuh perjalanan."
         }
       ]
     },
@@ -9051,6 +9322,19 @@
           "chapter": 11,
           "paragraph": "p-11-075",
           "quote": "Xiaolongnü menapak bubungan, menolak genting dengan ujung kaki, lalu turun ke halaman. Ilmu ringan tubuh membuat setiap tolakannya nyaris luput dari mata. Usianya kini dua puluh satu, tetapi ketenangan wajahnya membuat perjalanan panjang itu seolah tak pernah terjadi."
+        },
+        {
+          "title": "Ilmu ringan tubuh",
+          "summary": "Membawa Dani melintasi tebing serta tembok setelah pemulihan.",
+          "fields": {
+            "Pengguna terlihat": "Dani; Kondor memakai lompatan dan cakar pada tebing.",
+            "Dampak teramati": "Mencapai pelataran tinggi dan melewati tembok Xiangyang dengan cepat.",
+            "Prinsip": "Tolakan, pijakan dan kendali tubuh; tinggi beberapa meter bukan batas tetap."
+          },
+          "key": 170056,
+          "chapter": 17,
+          "paragraph": "p-17-056",
+          "quote": "Mereka meninggalkan lembah pada pagi berikutnya. Kondor menunggu di perbukitan ketika Dani mendekati Xiangyang menjelang malam. Dengan pedang dibungkus kain di punggung, ia menjejak kaki tembok, meraih sela batu, lalu melompati puncaknya. Gerakan itu tidak lagi menyeret luka bahunya. Dalam beberapa tarikan napas ia sudah berada di balik atap dekat kediaman keluarga Guo."
         }
       ]
     },
@@ -9236,6 +9520,20 @@
           "chapter": 11,
           "paragraph": "p-11-143",
           "quote": "Guo Jing masuk di antara serangan itu dan Xiaolongnü. Tapak Penakluk Naga menyambut dorongan Jinlun dengan benturan yang mengguncang lantai. Jinlun telah membagi tenaga antara roda dan telapak; darah merembes di sudut bibirnya ketika ia mundur. Guo Jing tetap berdiri, tetapi lengan bajunya bergetar setelah benturan."
+        },
+        {
+          "title": "Tapak Penakluk Naga",
+          "summary": "Dorongan tenaga Guo Jing merusak pertahanan dan menjatuhkan puluhan prajurit.",
+          "fields": {
+            "Pengguna terlihat": "Guo Jing",
+            "Dampak teramati": "Tombak patah, pagar jebol, barisan terlempar dan tiang tenda roboh.",
+            "Prinsip": "Tenaga dalam menghasilkan daya hancur serta mengubah ruang pertempuran.",
+            "Wujud": "Dorongan qi melalui telapak; tidak memerlukan naga sungguhan."
+          },
+          "key": 150057,
+          "chapter": 15,
+          "paragraph": "p-15-057",
+          "quote": "Ia menendang kaki meja ke jalur Jinlun. Cawan pecah, tirai tersibak, dan Guo Jing menerjang celah yang dibukanya. Tapak Penakluk Naga menghantam barisan yang menutup pintu: tombak-tombak patah, pagar kayu jebol, dan puluhan prajurit terlempar saling menimpa. Getarannya merobohkan tiang tenda di belakang mereka. Akan tetapi, Xiaoxiangzi dan Nimoxing sudah menyambar dari sisi berbeda, sementara Yin Kexi memutar senjata untuk menutup jalan ke kuda."
         }
       ]
     },
@@ -10890,6 +11188,19 @@
           "chapter": 15,
           "paragraph": "p-15-195",
           "quote": "Enam hari telah berlalu sejak setengah pil ditelannya. Menurut hitungan lama, masih ada dua belas hari; racun baru membuatnya tidak tahu lagi apakah hitungan itu dapat dipercaya. Ia datang ke Xiangyang dengan tuntutan sebuah kepala. Kini ia telah memilih bahwa kepala itu tidak akan diambilnya sebagai harga nyawa sendiri."
+        },
+        {
+          "title": "Bunga Cinta",
+          "summary": "Racunnya belum hilang meskipun Dani melewati tenggat.",
+          "fields": {
+            "Dampak": "Nyeri saat memikirkan Xiaolongnü masih muncul, lebih ringan daripada sebelumnya.",
+            "Perubahan": "Percampuran racun jarum dan pertolongan empedu memperpanjang hidup.",
+            "Penawar": "Belum diperoleh; kelangsungan hidup bukan bukti sembuh."
+          },
+          "key": 170018,
+          "chapter": 17,
+          "paragraph": "p-17-018",
+          "quote": "Pada hari ketika hitungan delapan belas hari Qiu seharusnya habis, Dani duduk di mulut gua sampai matahari tenggelam. Ia masih bernapas. Malam berikutnya pun berlalu. Ia tidak menganggap dirinya sembuh; ia hanya berhenti menghitung sisa umur menurut batas yang ternyata telah terlampaui."
         }
       ]
     },
@@ -11081,6 +11392,19 @@
           "chapter": 15,
           "paragraph": "p-15-195",
           "quote": "Enam hari telah berlalu sejak setengah pil ditelannya. Menurut hitungan lama, masih ada dua belas hari; racun baru membuatnya tidak tahu lagi apakah hitungan itu dapat dipercaya. Ia datang ke Xiangyang dengan tuntutan sebuah kepala. Kini ia telah memilih bahwa kepala itu tidak akan diambilnya sebagai harga nyawa sendiri."
+        },
+        {
+          "title": "Pil Pemutus Cinta",
+          "summary": "Tenggat setelah setengah pil terlewati dalam kondisi racun yang telah berubah.",
+          "fields": {
+            "Bagian terakhir": "Tetap berada pada Qiu Qianchi; belum diambil.",
+            "Keadaan Dani": "Masih mengalami nyeri Bunga Cinta.",
+            "Batas": "Tidak ada kepala yang telah ditukar untuk memperoleh pil."
+          },
+          "key": 170018,
+          "chapter": 17,
+          "paragraph": "p-17-018",
+          "quote": "Pada hari ketika hitungan delapan belas hari Qiu seharusnya habis, Dani duduk di mulut gua sampai matahari tenggelam. Ia masih bernapas. Malam berikutnya pun berlalu. Ia tidak menganggap dirinya sembuh; ia hanya berhenti menghitung sisa umur menurut batas yang ternyata telah terlampaui."
         }
       ]
     },
@@ -11182,16 +11506,29 @@
         },
         {
           "title": "Pedang Budiman dan Pedang Perempuan",
-          "summary": "Pasangan pedang terpisah sesudah tragedi di rumah keluarga Guo.",
+          "summary": "Pedang Budiman diambil dari Fu dan disimpan Huang Rong.",
           "fields": {
-            "Pedang Budiman": "Dipakai Fu untuk memutus lengan kanan Dani; tertinggal di kamar.",
-            "Pedang Perempuan": "Dibawa Xiaolongnü mengejar kedua pendeta; tidak pernah diserahkan kepada Fu.",
-            "Batas": "Dani meninggalkan kota tanpa pedang."
+            "Pedang Budiman": "Dipakai Fu memutus lengan kanan Dani, dibawa kepada orang tuanya, lalu disimpan di lemari kediaman.",
+            "Pedang Perempuan": "Tetap bersama Xiaolongnü; tidak pernah diserahkan kepada Fu.",
+            "Batas": "Dani pergi tanpa salah satu pedang pasangan."
           },
-          "key": 160078,
+          "key": 160093,
           "chapter": 16,
-          "paragraph": "p-16-078",
-          "quote": "Buntalan ibunya tersangkut di kaki ranjang. Dani menarik talinya dengan tangan kiri dan menyampirkannya melewati bahu. Pedang Budiman tergeletak tidak jauh, tetapi ia tidak dapat membawa semuanya. Ia meninggalkan bilah itu bersama pedang Fu, lalu keluar lewat jendela rendah di sisi kebun."
+          "paragraph": "p-16-093",
+          "quote": "Huang Rong menyimpan Pedang Budiman di lemari tinggi, lalu mengangkat Fu. Ia tidak menjawab pertanyaan putrinya. Di luar, Guo Jing masih memanggil orang untuk mencari Dani; Huang Rong menutupkan jubah pada baju Fu yang berlumur darah."
+        },
+        {
+          "title": "Pedang Budiman dan Pedang Perempuan",
+          "summary": "Pedang Budiman tetap di kediaman setelah diambil Guo Jing untuk menghukum Fu.",
+          "fields": {
+            "Pedang Budiman": "Serangannya dihalangi Huang Rong; kemudian diletakkan jauh dari ranjang.",
+            "Pedang Perempuan": "Terakhir diketahui dibawa Xiaolongnü.",
+            "Dani": "Kini menggunakan Pedang Xuantie."
+          },
+          "key": 170095,
+          "chapter": 17,
+          "paragraph": "p-17-095",
+          "quote": "Huang Rong tidak berani menatap matanya lama. “Kali ini aku bersalah kepadamu. Aku akan mengantar Fu keluar, lalu mencari Polu dan Dani. Sesudah itu aku kembali menghadapmu.” Ia mengambil tanda perintah dari ikat pinggang suaminya, meletakkan Pedang Budiman jauh dari ranjang, dan keluar membawa tongkat."
         }
       ]
     },
@@ -11242,7 +11579,7 @@
           "key": 150196,
           "chapter": 15,
           "paragraph": "p-15-196",
-          "quote": "Pilihan tersebut tidak mengembalikan Feng Mofeng, tidak menemukan Polu, dan tidak mendatangkan Xiaolongnü ke sisi ranjang. Tetapi ketika Guo Jing memanggil namanya dari pintu, Dani tidak lagi memandang leher pamannya. Ia memandang wajahnya. Perkara ayahnya tetap tersimpan; hari itu ia hanya menggeser tubuh, memberi tempat bagi pamannya untuk duduk."
+          "quote": "Pilihan tersebut tidak mengembalikan Feng Mofeng, tidak menemukan Polu, dan tidak mendatangkan Xiaolongnü ke sisi ranjang. Tetapi ketika Guo Jing memanggil namanya dari pintu, Dani tidak lagi memandang leher pamannya. Ia memandang wajahnya. Perkara ayahnya tetap tersimpan; hari itu ia hanya menggeser tubuh, memberi tempat bagi pamannya untuk duduk.\n"
         }
       ],
       "relationships": [
@@ -11252,7 +11589,7 @@
           "key": 150135,
           "chapter": 15,
           "paragraph": "p-15-135",
-          "quote": "“Aku akan ikut mencarinya.”"
+          "quote": "“Aku akan pergi bersama Bibi,” jawab Dani. “Kita cari jalan lain.”"
         }
       ],
       "portraits": [
@@ -11269,6 +11606,243 @@
             0.78,
             0.435
           ]
+        }
+      ]
+    },
+    {
+      "id": "kondor-suci",
+      "type": "tokoh",
+      "aliases": [
+        "Kondor Suci",
+        "Saudara Kondor",
+        "Kondor"
+      ],
+      "stages": [
+        {
+          "title": "Kondor Suci",
+          "summary": "Burung besar yang mendekati Dani ketika ia sendirian dan terluka.",
+          "fields": {
+            "Wujud": "Bulu cokelat kusam, tonjolan merah di kepala, kaki kuat, sayap pendek.",
+            "Pengenalan": "Pertemuan pertama Dani dengannya; berbeda dari rajawali keluarga Guo."
+          },
+          "key": 170002,
+          "chapter": 17,
+          "paragraph": "p-17-002",
+          "quote": "Bunyi langkah datang dari balik gelagah. Dani mengangkat kepala dengan susah payah. Seekor burung besar berdiri di antara batu: berkaki tebal, bersayap pendek, berbulu cokelat kusam, dengan tonjolan merah di atas kepala. Matanya menatap Dani tanpa takut. Burung itu lebih besar daripada rajawali milik keluarga Guo, dan jauh lebih ganjil rupanya."
+        },
+        {
+          "title": "Kondor Suci",
+          "summary": "Menolong Dani dan berjaga di mulut gua.",
+          "fields": {
+            "Sikap": "Sabar menunggu Dani yang lemah, memberi pertolongan dan perlindungan.",
+            "Cara bergerak": "Berjalan, melompat, menggunakan sayap untuk menopang; tidak terbang."
+          },
+          "key": 170012,
+          "chapter": 17,
+          "paragraph": "p-17-012",
+          "quote": "Kondor duduk di mulut gua, menghadap jalan tempat mereka datang."
+        },
+        {
+          "title": "Kondor Suci",
+          "summary": "Menjadi penghubung Dani dengan latihan Dugu.",
+          "fields": {
+            "Hubungan dengan Dugu": "Sahabat lama yang menjaga peninggalannya.",
+            "Peran": "Melatih melalui sapuan sayap, tumpuan, dan benturan; tidak berbicara atau mendikte kitab.",
+            "Daya": "Dapat mengguncang Dani yang mengangkat pedang berat."
+          },
+          "key": 170033,
+          "chapter": 17,
+          "paragraph": "p-17-033",
+          "quote": "“Engkau pernah berlatih seperti ini bersamanya,” kata Dani. “Dan sekarang engkau hendak mengajariku.”"
+        },
+        {
+          "title": "Kondor Suci",
+          "summary": "Mendampingi Dani meninggalkan Xiangyang menuju Zhongnan.",
+          "fields": {
+            "Kondisi": "Menunggu di perbukitan saat Dani masuk kota, lalu berangkat bersamanya.",
+            "Batas pengetahuan": "Tidak menyaksikan percakapan keluarga Guo."
+          },
+          "key": 170102,
+          "chapter": 17,
+          "paragraph": "p-17-102",
+          "quote": "Di depan mereka, jalan pegunungan menghilang ke dalam gelap. Dani melangkah lebih cepat. Masih ada seseorang yang harus ditemuinya sebelum dunia memberitahukan bahwa ia telah mati.\n"
+        }
+      ],
+      "portraits": [
+        {
+          "key": 170002,
+          "image": {
+            "file": "bab-17-pembuka.webp",
+            "width": 1024,
+            "height": 1536,
+            "version": "bfbaf1e89067"
+          },
+          "roi": [
+            0.44,
+            0.115,
+            0.704,
+            0.305
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "status": "Penolong pertama dalam pelarian",
+          "explanation": "Dani menerima pertolongannya dan menyapanya sebagai Saudara Kondor.",
+          "key": 170012,
+          "chapter": 17,
+          "paragraph": "p-17-012",
+          "quote": "Kondor duduk di mulut gua, menghadap jalan tempat mereka datang."
+        },
+        {
+          "status": "Sahabat sekaligus pembimbing latihan",
+          "explanation": "Pertolongan berkembang menjadi kepercayaan dan latihan bersama selama beberapa bulan.",
+          "key": 170049,
+          "chapter": 17,
+          "paragraph": "p-17-049",
+          "quote": "“Saudara Kondor,” katanya terengah, lalu tertawa keras, “engkau harus mencari batu yang lebih besar esok hari!”"
+        }
+      ]
+    },
+    {
+      "id": "dugu-qiubai",
+      "type": "tokoh",
+      "aliases": [
+        "Dugu Qiubai",
+        "Senior Dugu"
+      ],
+      "stages": [
+        {
+          "title": "Dugu Qiubai",
+          "summary": "Pendekar mendiang yang dikenali Dani melalui tulisan di gua.",
+          "fields": {
+            "Kondisi": "Telah wafat; tidak muncul sebagai sosok hidup atau guru gaib.",
+            "Riwayat diketahui": "Mencari lawan sepadan lalu mengasingkan diri bersama Kondor.",
+            "Pengenalan": "Dari makam serta tulisan, bukan pertemuan langsung."
+          },
+          "key": 170019,
+          "chapter": 17,
+          "paragraph": "p-17-019",
+          "quote": "Di dinding gua terdapat tulisan tua. Dani membersihkan lumutnya dengan ujung kain. Nama Dugu Qiubai muncul dari batu, disertai kisah singkat seorang pendekar yang sepanjang hidup mencari lawan sepadan dan akhirnya mengasingkan diri bersama seekor kondor."
+        },
+        {
+          "title": "Dugu Qiubai",
+          "summary": "Peninggalan pedangnya memperlihatkan perkembangan menuju kesederhanaan.",
+          "fields": {
+            "Warisan": "Pedang tajam, tempat senjata yang dibuang, Xuantie, serta sisa pedang kayu.",
+            "Cara pewarisan": "Tulisan singkat, benda peninggalan, dan gerak Kondor.",
+            "Batas": "Tidak ada kitab jurus baru yang ditemukan."
+          },
+          "key": 170024,
+          "chapter": 17,
+          "paragraph": "p-17-024",
+          "quote": "Di pelataran itu terdapat tempat penyimpanan pedang. Bilah tajam, bekas tempat sebuah senjata yang telah dibuang, pedang hitam yang tumpul, dan sisa pedang kayu menunjukkan jalan yang pernah ditempuh pemiliknya. Dani membaca keterangan singkat masing-masing. Semakin tua Dugu, semakin sedikit ia bergantung pada ketajaman besi."
+        }
+      ],
+      "portraits": [],
+      "relationships": [
+        {
+          "status": "Guru melalui warisan",
+          "explanation": "Dani menghormati makamnya dan mempelajari prinsip pedang dengan Kondor; keduanya tidak pernah bertemu hidup-hidup.",
+          "key": 170035,
+          "chapter": 17,
+          "paragraph": "p-17-035",
+          "quote": "Hari itu mereka turun setelah matahari melewati puncak. Dani membawa pedang hitam dengan tangan kiri yang gemetar. Untuk pertama kali sejak meninggalkan Xiangyang, ia memandang hari esok tanpa hanya membayangkan kematian."
+        }
+      ]
+    },
+    {
+      "id": "empedu-ular",
+      "type": "benda",
+      "aliases": [
+        "empedu ular",
+        "empedu"
+      ],
+      "stages": [
+        {
+          "title": "Empedu ular",
+          "summary": "Pertolongan yang dibawa Kondor selama pemulihan Dani.",
+          "fields": {
+            "Dampak": "Membantu menghentikan darah, memulihkan tubuh dan mendukung latihan tenaga dalam.",
+            "Sifat": "Mekanisme fiksi dunia wuxia.",
+            "Batas cerita": "Tidak dinyatakan sebagai penawar tuntas Bunga Cinta."
+          },
+          "key": 170013,
+          "chapter": 17,
+          "paragraph": "p-17-013",
+          "quote": "Selama hari-hari berikutnya, burung itu membawa makanan dan empedu ular. Dani mengenalinya setelah melihat bangkai ular di dekat gua. Ia membalut kembali lukanya dengan kain yang dicuci, menerima pertolongan pahit itu, lalu memusatkan tenaga untuk memulihkan tubuh. Luka yang semula terus terbuka mulai mengering."
+        }
+      ]
+    },
+    {
+      "id": "xuantie",
+      "type": "senjata",
+      "aliases": [
+        "Pedang Xuantie",
+        "Xuantie",
+        "pedang besi hitam"
+      ],
+      "stages": [
+        {
+          "title": "Pedang Xuantie",
+          "summary": "Pedang besi hitam yang sangat berat, peninggalan Dugu.",
+          "fields": {
+            "Bentuk": "Ujung membulat, sisi tebal dan tumpul, tanpa ketajaman Pedang Budiman.",
+            "Pemakai": "Dani memakai tangan kiri; lengan kanan tetap hilang.",
+            "Kegunaan": "Menyalurkan tenaga tubuh dalam gerak sederhana."
+          },
+          "key": 170025,
+          "chapter": 17,
+          "paragraph": "p-17-025",
+          "quote": "Dani mencoba mengangkat pedang besi hitam, Pedang Xuantie. Ia telah bersiap terhadap beratnya, tetapi bahu kirinya tetap tertarik turun. Senjata itu tidak mempunyai keindahan Pedang Budiman. Ujungnya membulat, kedua sisinya tebal, dan beratnya seperti menggenggam sebongkah batu dengan sebuah gagang."
+        },
+        {
+          "title": "Pedang Xuantie",
+          "summary": "Menghancurkan batu besar di akhir latihan Dani.",
+          "fields": {
+            "Pemakai": "Dani Moan, tangan kiri",
+            "Dampak teramati": "Bongkah sebesar kerbau pecah dan aliran air terbuka.",
+            "Cara kerja": "Tenaga dalam, berat senjata, tumpuan dan gerak tubuh; tidak memakai sinar atau mantra."
+          },
+          "key": 170047,
+          "chapter": 17,
+          "paragraph": "p-17-047",
+          "quote": "Bongkah tersebut pecah dengan bunyi seperti guntur. Serpihannya meluncur ke dalam sungai; air menyembur melalui bagian yang terbuka, mengangkat buih tinggi ke kedua tepi. Getaran merambat ke kaki Dani. Untuk sesaat ia tetap berdiri dengan pedang terjulur, hampir tidak mempercayai luas kehancuran di hadapannya."
+        }
+      ]
+    },
+    {
+      "id": "pedang-berat",
+      "type": "ilmu",
+      "aliases": [
+        "ilmu pedang berat",
+        "pedang berat"
+      ],
+      "stages": [
+        {
+          "title": "Ilmu pedang berat",
+          "summary": "Prinsip yang mulai dikenali Dani dari gerak Kondor.",
+          "fields": {
+            "Dasar": "Tumpuan kaki, pinggang, napas, dan pedang digerakkan sebagai satu kesatuan.",
+            "Pelajaran": "Tipuan pergelangan saja tidak cukup untuk menghadapi tekanan besar."
+          },
+          "key": 170032,
+          "chapter": 17,
+          "paragraph": "p-17-032",
+          "quote": "Dani perlahan mengerti. Ia memandang bekas gesekan kakinya, arah sayap, dan letak tubuh Kondor. Burung itu tidak sekadar memukul dengan kekuatan besar. Setiap geraknya memaksa Dani memilih tumpuan yang benar; tipuan pergelangan tidak akan menahan serangan yang mengguncang seluruh tubuh."
+        },
+        {
+          "title": "Ilmu pedang berat",
+          "summary": "Latihan beberapa bulan meningkatkan tenaga dan kendali Dani secara besar.",
+          "fields": {
+            "Dampak teramati": "Membuka tirai air sesaat, menghancurkan bongkah besar, dan menahan benturan Kondor.",
+            "Pengguna": "Dani dengan lengan kiri.",
+            "Perkembangan": "Jalan menuju pemakaian senjata ringan dan tanpa pedang masih terbuka; bukan batas potensi Dani."
+          },
+          "key": 170048,
+          "chapter": 17,
+          "paragraph": "p-17-048",
+          "quote": "Kondor tidak mundur. Ia mendekat dan membenturkan sayap pada bidang pedang. Dani menyambutnya. Sekali ini burung besar itu harus menggeser kaki, sedangkan Dani mempertahankan tumpuannya di atas batu basah."
         }
       ]
     }

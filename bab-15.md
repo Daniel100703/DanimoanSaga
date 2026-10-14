@@ -2,11 +2,11 @@
 
 Tiga hari setelah meninggalkan lembah, Dani melihat Xiangyang dari sela gerobak pengungsi. Asap dapur bercampur debu di atas tembok. Seorang anak tidur di atas karung, sementara ibunya berjalan dengan satu sandal. Dani menyingkirkan batu dari roda gerobak mereka; ketika menegakkan tubuh, nyeri tipis menyusuri dadanya. Lima belas hari tersisa, jika hitungan Qiu Qianchi benar.
 
-Xiaolongnü menahan sikunya. “Jangan mengangkat yang berat. Lukamu belum sembuh benar.”
+Xiaolongnü menahan sikunya dengan lembut. “Dani, biarlah aku yang mengangkatnya. Kalau lukamu sakit lagi, engkau tentu tidak mau mengatakannya kepadaku.”
 
 “Kalau Bibi melarangku menolong seorang ibu, nanti ia mengira aku hanya pandai membawa pedang untuk menghias pinggang.” Dani tersenyum, lalu merendahkan suara. “Aku masih sanggup berjalan. Jangan memandangku seolah aku akan pecah.”
 
-“Aku memandangmu karena aku ingin memandangmu,” jawab Xiaolongnü. Tangannya tetap di sana.
+“Aku ingin melihatmu baik-baik,” jawab Xiaolongnü. “Di lembah dahulu wajahmu pun tampak tenang, lalu engkau memuntahkan darah.” Jemarinya tidak melepaskan lengan Dani.
 
 Guo Jing datang sendiri ke gerbang setelah menerima kabar penjaga. Sebelum Dani selesai memberi hormat, kedua bahunya sudah digenggam erat.
 
@@ -74,15 +74,15 @@ Dani tidak dapat menjawab. Ia datang membawa dendam yang disembunyikan, tetapi s
 
 Malamnya, kegembiraan karena selamat cepat berubah menjadi persaingan. Dari jalan taman, Dani dan Xiaolongnü mendengar Fu berkata bahwa keberanian seharusnya dibuktikan kepada musuh, bukan dengan saling berkelahi. Dunru berjanji akan melakukan sesuatu yang membuatnya bangga. Xiuwen bertanya apakah Fu akan berhenti membandingkan mereka setelah itu. Fu, yang lelah didesak memilih, menjawab terlalu cepat bahwa orang berjasa tentu lebih patut dihargai.
 
-“Kalau aku menjadi Nona Guo, aku akan menyuruh keduanya tidur,” kata Xiaolongnü setelah mereka berlalu. “Besok orang yang kurang tidur lebih mudah terluka.”
+“Dani, mengapa mereka harus berkelahi?” tanya Xiaolongnü setelah ketiganya berlalu. “Kalau Nona Guo menyukai salah seorang, bukankah ia tinggal mengatakannya? Aku tidak mengerti mengapa mereka saling menyakiti.”
 
-Dani tertawa pelan. “Bibi akan membuat dua orang kehilangan alasan untuk menjadi pahlawan.”
+Dani tertawa pelan. “Kalau semua orang berkata sejujur Bibi, barangkali pedang mereka sudah lama disimpan.”
 
-“Aku tidak menyuruhmu menjadi pahlawan.” Ia menyentuh bekas tali pada lengannya. “Aku hanya ingin engkau tetap hidup.”
+“Kalau begitu, engkau jangan ikut berkelahi.” Xiaolongnü menyentuh bekas tali pada lengannya. “Aku takut engkau terluka lagi. Aku hanya ingin kita dapat pulang bersama.”
 
 “Aku pun ingin begitu.” Dani meraih tangan itu dan mengecup jemarinya. “Kalau umurku panjang, Bibi harus bersabar. Aku masih mempunyai banyak ucapan yang akan membuatmu jengkel.”
 
-Xiaolongnü menyandarkan kepala pada bahunya. “Ucapkan saja. Aku akan mendengarnya.”
+Xiaolongnü menyandarkan kepala pada bahunya. “Asalkan engkau tetap di sisiku, aku suka mendengar perkataanmu. Walaupun kadang-kadang engkau menipuku.”
 
 Pagi berikutnya, dua pedang dikirim dari perkemahan Mongol bersama surat Jinlun. Kedua Wu telah menyelinap hendak menyerang Kublai dan tertangkap. Undangan untuk menjemput mereka memakai bahasa sopan; mata Guo Jing mengeras ketika membacanya. Fu berdiri di dekat ibunya dengan bibir pucat.
 
@@ -94,9 +94,9 @@ Guo Jing tidak menunggu pertengkaran itu selesai. Dani menawarkan diri menemani.
 
 “Kalau aku terlambat, jangan mengira aku sedang berjamu,” kata Dani kepada Xiaolongnü di pintu. “Aku sudah tahu makanan mereka. Masakan di sini lebih baik.”
 
-Xiaolongnü tidak tersenyum. “Kembalilah dengan Paman Guo. Setelah itu, kita bicarakan obatmu.”
+Xiaolongnü menggenggam ujung bajunya. “Engkau sungguh harus pergi? Kalau terluka, siapa yang akan menjagamu di sana? Aku ingin ikut denganmu.”
 
-Ia berkata demikian agar tidak meminta Dani memilih di depan orang lain. Dani memahami kebaikan itu dan justru merasa lebih bersalah.
+Dani berjanji akan segera kembali. Xiaolongnü memandangnya lama, kemudian melepaskan bajunya. Ia tinggal karena Dani memintanya menjaga rumah; sepanjang langkah Dani menjauh, matanya tidak beralih kepada orang lain.
 
 Di tenda Kublai, kedua Wu dilepaskan sesuai janji setelah Guo Jing tiba. Guo Jing memerintahkan mereka pulang. Dani menunggu sampai keduanya melewati penjagaan, sementara Kublai menghidangkan minuman dan menawarkan kehormatan kepada tamunya. Putra Tolui itu mengingat hubungan lama ayahnya dengan Guo Jing, lalu mengarahkan percakapan kepada kelemahan istana Song.
 
@@ -116,7 +116,7 @@ Dani memandang Guo Jing. Pamannya tidak bertanya tentang maksud ucapan tersebut;
 
 “Paman Guo datang menjemput muridnya. Aku datang bersamanya,” jawab Dani, menutupi gejolak hatinya dengan senyum miring. “Kalau kalian hendak menahannya, tentu aku pun harus kalian hadapi.”
 
-Ia menendang kaki meja ke jalur Jinlun. Cawan pecah, tirai tersibak, dan Guo Jing menerjang celah yang dibukanya. Tapak Penakluk Naga memaksa pengepung mundur, tetapi begitu mereka mencapai lapangan, Xiaoxiangzi dan Nimoxing datang dari sisi berbeda. Yin Kexi menutup jalan ke kuda.
+Ia menendang kaki meja ke jalur Jinlun. Cawan pecah, tirai tersibak, dan Guo Jing menerjang celah yang dibukanya. Tapak Penakluk Naga menghantam barisan yang menutup pintu: tombak-tombak patah, pagar kayu jebol, dan puluhan prajurit terlempar saling menimpa. Getarannya merobohkan tiang tenda di belakang mereka. Akan tetapi, Xiaoxiangzi dan Nimoxing sudah menyambar dari sisi berbeda, sementara Yin Kexi memutar senjata untuk menutup jalan ke kuda.
 
 Dani mampu membaca satu serangan, lalu serangan berikutnya datang sebelum napasnya kembali. Racun menusuk dadanya ketika ia memikirkan Xiaolongnü yang menunggu. Kakinya tersendat. Guo Jing berbalik melindunginya; pukulan Jinlun menghantam tubuh sang paman pada saat pertahanannya terbuka.
 
@@ -146,67 +146,67 @@ Di dekat gerbang Xiangyang, orang-orang berlari menyongsong mereka. Dani masih m
 
 ***
 
-Ketika Dani membuka mata malam itu, Xiaolongnü sedang mengganti kain di lengan kanannya. Ia mencoba bangkit dan langsung ditahan.
+Ketika Dani membuka mata malam itu, Xiaolongnü sedang mengganti kain di lengan kanannya. Melihatnya bergerak, perempuan itu segera merunduk; air mata yang sejak tadi ditahan jatuh ke punggung tangan Dani.
 
-“Paman Guo masih hidup,” katanya sebelum Dani bertanya. “Lukanya sedang dirawat. Engkau sudah pulang.”
+“Dani, engkau sudah sadar.” Suara Xiaolongnü lembut dan gemetar. “Kita sudah di rumah. Jangan bangun dahulu. Paman Guo juga telah ditolong.”
 
 “Senior Feng tidak pulang.” Suara Dani serak. “Aku menyuruhnya ikut, tetapi aku sendiri yang pergi.”
 
-Xiaolongnü meletakkan kain. “Kalau engkau tinggal, pertolongannya akan sia-sia.”
+Xiaolongnü meletakkan kain. “Aku tidak mengenalnya baik-baik. Tetapi ia sudah menolongmu… aku berterima kasih kepadanya.” Ia mengusap pipi Dani dengan ujung lengan bajunya. “Engkau jangan menangis sendirian. Aku ada di sini.”
 
-“Aku tahu.” Dani menatap atap ranjang. “Mengetahui itu tidak membuatku sanggup melihat wajahnya sekali lagi.”
+“Aku meninggalkannya di sana, Bibi.” Dani menggenggam tangan yang menyentuh pipinya. “Ia menyuruhku pergi. Aku menurut… sekarang aku tidak dapat membawanya pulang.”
 
-Xiaolongnü tidak mencari nasihat lain. Ia duduk dekat dan membiarkan Dani menggenggam tangannya. Beberapa saat kemudian, Huang Rong masuk membawa obat. Ia sudah mendengar penuturan suaminya sebelum Guo Jing kembali kehilangan kesadaran. Dani melihat rasa terima kasih yang tidak lagi disembunyikan, dan sulit menahannya lebih lama daripada tatapan musuh di kamp.
+Xiaolongnü mendekat tanpa menjawab. Huang Rong masuk membawa obat serta kabar musuh akan menyerang lagi. Ia meminta bantuan Nona Long menjaga suaminya. Xiaolongnü menoleh; suaranya kembali tenang dan jauh. “Aku akan menjaga Dani. Tentang orang lain, aku tidak tahu.” Huang Rong terdiam sesaat, lalu meletakkan mangkuk di dekat ranjang.
 
 “Aku membuat Paman terluka,” katanya. “Ia berbalik karena aku tidak sanggup menghindar.”
 
-“Dan engkau membawanya kembali.” Huang Rong meletakkan obat. “Jangan mengambil seluruh kesalahan, kemudian menolak mengakui satu pun pertolonganmu sendiri.”
+“Suamiku sudah menceritakan pertolonganmu,” jawab Huang Rong. “Minumlah obat ini. Urusan menghadapi musuh akan kupikirkan.” Namun pandangannya kembali kepada Xiaolongnü. Gadis itu bahkan tidak menanyakan keadaan orang yang baru saja dibawanya pulang.
 
-Setelah Dani tertidur, Huang Rong mengajak Xiaolongnü ke kamar sebelah. Pintu dibiarkan sedikit terbuka agar suara dari ranjang Dani masih terdengar. Xiaolongnü baru duduk ketika Huang Rong bertanya, tanpa senyum yang biasa membungkus siasatnya.
+Setelah Dani tertidur, Huang Rong mengajak Xiaolongnü ke kamar sebelah. Gadis itu enggan beranjak sampai Huang Rong mengatakan bahwa yang hendak dibicarakannya ialah keselamatan Dani. Xiaolongnü membetulkan selimut sekali lagi, lalu mengikuti dengan langkah senyap.
 
-“Nona Long, apakah engkau pernah berniat membunuh suamiku?”
+“Nona Long,” kata Huang Rong setelah mereka duduk, “engkau dan Dani datang untuk mengambil nyawa suamiku, bukan?”
 
-Wajah Xiaolongnü menegang. “Mengapa engkau menanyakan itu?”
+Xiaolongnü terkejut. Wajahnya bersemu, dan pandangannya jatuh kepada jemarinya sendiri. “Engkau… kalian telah menerima kami dengan baik. Aku…” Ia hendak menyangkal, tetapi tidak pandai merangkai dusta.
 
-“Karena setiap kali Dani menyelamatkannya, engkau tampak seperti kehilangan sesuatu. Aku melihatnya di dekat tembok, lalu di sisi ranjang tadi.” Huang Rong menahan pandangannya. “Apa yang harus dibayar Dani supaya suamiku tetap hidup?”
+“Dani masih menyimpan dendam kepada kami. Engkau menyayanginya, tentu engkau hendak menolongnya.” Huang Rong berbicara seolah segala sesuatu sudah diketahuinya. “Tetapi hari ini ia malah menyelamatkan Paman Guo. Engkau merasa heran, bukan?”
 
-Xiaolongnü memandang celah pintu. Ia dapat melawan tuduhan tentang dirinya, tetapi pertanyaan itu menyebut dengan tepat ketakutan yang sejak lembah tidak pernah meninggalkannya.
+Xiaolongnü mengangguk perlahan. “Aku sungguh tidak mengerti. Ia tahu obatnya berada di tangan Tetua Qiu. Mengapa ia masih mempertaruhkan nyawa untuk menolong suamimu?” Huang Rong belum memahami perkara obat itu, tetapi tidak memperlihatkan keheranannya. “Barangkali ia tidak sampai hati. Paman Guo selalu mengasihinya.”
 
-“Empat belas hari,” katanya. “Itu yang tersisa sekarang. Orang-orang menyuruhnya beristirahat, seolah ia hanya perlu menunggu luka menutup.”
+“Dani memang baik hati,” bisik Xiaolongnü. “Ia tidak tega melihat orang lain menderita. Tetapi… tetapi siapa yang akan menolongnya?” Air matanya tiba-tiba mengalir. “Umurnya tinggal empat belas hari. Kalau aku hanya menunggu di sisinya, nanti ia akan mati.”
 
-Huang Rong tegak. “Empat belas hari untuk apa?”
+Huang Rong segera mendekat. “Nona Long, jangan sembunyikan lagi. Katakan kepadaku apa yang terjadi di lembah itu. Kita harus mencari jalan untuk menyelamatkannya.”
 
-Xiaolongnü menceritakan duri Bunga Cinta, pil yang diberikan Dani kepadanya, dan setengah penawar yang ditahan Qiu. Ia tidak menyamarkan tuntutan kepala Guo Jing. Ketika menyebut pil utuh yang telah menyelamatkannya, suaranya melemah. Ia hidup karena Dani memberikan keselamatannya sendiri, lalu terpaksa menyaksikan Dani menghabiskan waktu yang tersisa untuk orang lain.
+Dengan suara terputus-putus, Xiaolongnü menceritakan Bunga Cinta, pil utuh yang diberikan Dani kepadanya, dan setengah pil yang justru memperpendek tenggat Dani. Ia menyebut tuntutan kepala Guo Jing tanpa menutup-nutupinya. Berkali-kali ia harus berhenti menyeka air mata. “Obat yang semestinya diminumnya malah diberikannya kepadaku. Aku sudah sembuh… tetapi ia masih kesakitan.”
 
-“Aku pernah berpikir akan mengambil kepala itu bila ia tidak sanggup,” katanya. “Tetapi ia justru membawa suamimu pulang dengan tubuhnya sendiri. Aku tidak mengerti bagaimana menyelamatkan orang yang selalu meletakkan nyawanya di belakang nyawa orang lain.”
+“Aku tidak mengerti dendam kalian dengan Tetua Qiu,” lanjut Xiaolongnü lirih. “Aku pun tidak mengerti perang melawan orang Mongol. Aku hanya ingin Dani hidup. Aku tidak mau ia menderita lagi. Kalau nyawaku dapat ditukar dengan nyawanya, aku sudah memberikannya sejak di lembah.”
 
-Huang Rong diam cukup lama. Tadinya ia mengira sedang memeriksa dendam seorang anak terhadap orang tua yang belum dipercayainya. Sekarang ia menyadari bahwa setiap pertolongan Dani juga menjauhkan dirinya dari obat. Perhitungan yang biasanya memberinya jalan keluar berhenti di satu kenyataan: suaminya hidup karena pemuda itu memilih menanggung kematian.
+Huang Rong merasakan dadanya sesak. Gadis di hadapannya tidak sedang menawar atau menakut-nakutinya. Dalam pikirannya hanya ada Dani, dan justru karena itulah setiap perkataannya terasa demikian berat. Selama ini Huang Rong mencurigai dendam pemuda itu; ia belum tahu bahwa pertolongannya kepada Guo Jing dibayar dengan hilangnya kesempatan memperoleh obat.
 
-“Dani menyimpan banyak kepahitan terhadap keluarga kami,” kata Huang Rong. “Namun dalam bahaya ia tetap menolong suamiku. Aku tidak akan memakai kecurigaan untuk mengecilkan apa yang telah dilakukannya.”
+“Nona Long, jika ada jalan menyelamatkannya, apakah engkau bersedia mendengarkanku?” tanya Huang Rong. Xiaolongnü segera mengangkat wajah. “Katakanlah. Apa pun yang harus kulakukan, aku bersedia.”
 
-“Aku tidak membutuhkan alasan agar ia membenci kalian. Aku membutuhkan obatnya.”
+“Perkara ini hanya boleh diketahui oleh kita berdua.” Huang Rong menunggu sampai Xiaolongnü mengangguk, kemudian berkata perlahan, “Besok lindungilah suamiku dan anak-anakku bersama Dani. Jangan biarkan musuh mencelakai mereka.”
 
-Huang Rong menunduk pada perutnya, kemudian mengangkat wajah dengan keputusan yang membuat Xiaolongnü berhenti bernapas sejenak.
+Xiaolongnü masih memandangnya, menunggu bagian tentang obat. Huang Rong meletakkan telapak di atas kandungannya. Untuk sesaat ia mendengarkan gerakan kecil di dalam sana sebelum meneruskan perkataannya.
 
-“Besok, setelah kita melewati serangan berikutnya, engkau boleh membawa kepalaku ke lembah.”
+“Sesudah mereka selamat, bawalah kepalaku kepada Qiu Qianchi. Gunakan kuda merah kami agar engkau lekas sampai. Aku akan menulis surat agar ia menerima nyawaku sebagai pengganti.”
 
-Xiaolongnü mengira salah mendengar. “Qiu meminta kepala suamimu.”
+Xiaolongnü membelalakkan mata. “Kepalamu? Tetapi… bukankah engkau akan mati?”
 
-“Namaku pun ada dalam permusuhannya. Aku akan meninggalkan surat. Bawa kepalaku sebagai pengganti dan mintalah obat itu.” Huang Rong berhenti sebentar. “Aku tidak dapat menjamin ia menerima. Tetapi aku tidak akan menawarkan nyawa suamiku setelah Dani menyelamatkannya.”
+“Dani sudah mempertaruhkan hidup untuk suamiku. Mengapa aku tidak boleh berbuat demikian untuknya?” Huang Rong menjawab dengan suara rendah. “Qiu memang menuntut kepala Paman Guo. Aku belum tahu apakah ia akan menerima penggantinya, tetapi aku pun terlibat dalam permusuhan itu. Kita masih dapat memohon kepadanya.”
 
-“Engkau akan mati.”
+“Engkau hendak menyelamatkan Dani karena ia menolong suamimu?” tanya Xiaolongnü pelan. Ia benar-benar ingin memahami, bukan sedang menguji ketulusan perempuan di depannya.
 
-“Engkau pun bersedia mati untuk Dani, bukan?”
+“Engkau rela mati asalkan Dani tetap hidup, bukan?” Huang Rong bertanya kembali. “Bahkan bila sesudah itu engkau tidak dapat melihatnya lagi?”
 
-“Kalau itu dapat membuatnya hidup, aku tidak takut.”
+Xiaolongnü mengangguk. “Asalkan ia selamat. Tetapi bagaimana engkau mengetahui isi hatiku?”
 
-“Maka engkau sudah mengenal sebagian hatiku.” Huang Rong menyentuh perutnya. “Seorang ibu pun mencintai anaknya demikian. Aku ingin suamiku dan anak-anakku selamat. Dani telah menjaga mereka berkali-kali. Bagaimana mungkin aku hanya pandai meminta pengorbanannya?”
+Huang Rong tersenyum sedih. “Aku juga menyayangi suamiku. Kelak jika engkau mempunyai anak, engkau akan mengerti bahwa seorang ibu pun sukar meninggalkan anaknya. Aku memohon kepadamu untuk menjaga mereka, seperti engkau menjaga Dani.”
 
-Xiaolongnü memandangi perempuan itu. Kepala yang sejak lembah dipikirkannya sebagai jalan keluar sekarang menjadi wajah seseorang yang sedang menahan sakit sambil memikirkan keluarganya. Ia tidak menjawab. Untuk pertama kalinya, memperoleh persetujuan tidak membuat pekerjaan itu terasa lebih mudah.
+Xiaolongnü menatap kandungan Huang Rong, lalu menatap wajahnya. Air mata masih membasahi pipinya. “Aku akan menolong mereka,” katanya lembut. “Kalau mereka selamat, engkau akan menolong Dani. Begitukah?” Huang Rong mengangguk; kesederhanaan jawaban itu membuatnya tidak sanggup segera berkata lagi.
 
-“Jangan bicarakan kepada Dani dahulu,” kata Huang Rong. “Ia akan menolak sebelum kita dapat memikirkan jalan lain. Besok bantulah menjaga rumah ini. Jika ada cara yang lebih baik, kita ambil. Bila tidak, perkataanku tetap berlaku.”
+“Jangan katakan kepada Dani dahulu,” pesan Huang Rong. “Ia tentu hendak melarang. Selagi masih ada waktu, kita juga akan mencari jalan lain.” Xiaolongnü mengangguk sekali lagi, lalu meminta izin kembali. Ia takut Dani terbangun dan tidak melihatnya di dekat ranjang.
 
-Menjelang petang esoknya, Huang Rong dan Xiaolongnü sedang mengatur penjagaan ketika Fu masuk dengan napas putus-putus; kedua Wu baru saja meninggalkan rumah untuk menyelesaikan persaingan mereka. Kali ini salah seorang harus menyerah selamanya, atau mati. Wu Santong yang baru tiba di kota sudah menyusul, tetapi belum menemukan mereka.
+Menjelang petang esoknya, Huang Rong sedang mengatur penjagaan, sementara Xiaolongnü menunggui pintu kamar Dani. Fu masuk dengan napas putus-putus; kedua Wu baru saja meninggalkan rumah untuk menyelesaikan persaingan mereka. Kali ini salah seorang harus menyerah selamanya, atau mati. Wu Santong yang baru tiba di kota sudah menyusul, tetapi belum menemukan mereka.
 
 Huang Rong memejamkan mata menahan nyeri. “Ayahmu hampir mati menjemput mereka. Apakah belum cukup seorang Feng Mofeng yang tidak kembali?”
 
@@ -252,31 +252,31 @@ Xiaolongnü berbalik. Di lengan kirinya terbaring bayi dalam bedung. Dani sempat
 
 Guo Polu menangis. Tangis itu mengacaukan ketenangan Xiaolongnü lebih daripada senjata di depannya. Dani menggeser serangan menjauhi bedung, sedangkan tangan bersarung Xiaolongnü menepis roda dari sisi, cukup untuk membuka jalan turun ke gang.
 
-Di balik dinding rendah mereka memperoleh beberapa tarikan napas. Xiaolongnü menyerahkan bayi kepada Dani, lalu berkata cepat, “Bawa dia ke lembah dengan kuda Paman Guo. Aku akan menahan biksu itu.”
+Di balik dinding rendah mereka memperoleh beberapa tarikan napas. Xiaolongnü menatap bayi itu, lalu wajah Dani yang pucat. “Dani, bawalah anak ini ke lembah. Mintalah obatmu kepada Tetua Qiu. Aku akan menunggu di sini dan menghalangi biksu itu.”
 
 Dani menatapnya. “Untuk apa Polu dibawa ke sana?”
 
-“Supaya Qiu memberikan obat. Bibi Guo mengatakan kasih seorang ibu kepada anaknya sama besarnya dengan kasihku kepadamu. Ia tentu akan melakukan apa pun untuk mengambil putranya kembali. Kita tidak perlu melukai bayi ini.”
+“Ibunya berkata bahwa seorang ibu sangat menyayangi anaknya,” jawab Xiaolongnü. “Kalau anak ini dibawa ke lembah, tentu ibunya akan datang menolong. Engkau dapat meminta obat dahulu. Sesudah itu kita kembalikan anaknya. Tidak perlu ada yang mati.”
 
 “Tetapi kita menyerahkannya kepada orang yang sanggup memaksaku membunuh untuk mendapat obat!” Suara Dani naik. “Bibi, bayi ini tidak pernah berutang nyawa kepadaku.”
 
-Xiaolongnü tersentak. Sejak mendengar tawaran Huang Rong, ia berusaha menemukan pengganti yang tidak mengharuskan siapa pun kehilangan kepala. Ia melihat bayi sebagai alasan agar orang-orang berhenti menolak, belum membayangkan ketakutan yang harus ditanggung ibunya atau kekejaman yang mungkin dilakukan Qiu.
+Xiaolongnü memandangnya dengan bingung. Dalam pikirannya, bayi itu akan tetap selamat dan Dani mendapat obat; ia belum memikirkan bagaimana Qiu akan memperlakukan seorang sandera. Ia hanya merasa telah menemukan jalan yang tidak mengharuskannya membawa pulang kepala siapa pun.
 
-“Aku tidak hendak membunuhnya,” katanya. “Aku hanya ingin engkau sembuh.”
+“Aku tidak hendak menyakitinya,” kata Xiaolongnü perlahan. “Aku akan menjaganya. Mengapa engkau marah kepadaku, Dani? Aku hanya takut kehilanganmu.”
 
 “Aku tahu.” Dani menahan suaranya, tetapi tidak mengendurkan pelukan pada bayi. “Namun kalau obatku harus dibeli dengan menyerahkan anak ini, aku tidak mau. Bahkan bila aku mati, jangan lakukan itu untukku.”
 
-Wajah Xiaolongnü memucat. “Engkau mengatakannya seolah kematianmu hanya menyangkut dirimu.”
+Bibir Xiaolongnü bergetar. “Kalau engkau mati, aku harus bersama siapa?” Ia menatap Dani dengan mata basah. “Aku tidak mau hidup seorang diri lagi.”
 
-Dani terdiam. Ucapan itu mengenai tempat yang selama ini berusaha dihindarinya. Ia melihat tangan Xiaolongnü gemetar pada gagang pedang dan mengerti bahwa keberaniannya sendiri telah menjadi penderitaan orang yang mencintainya.
+Dani terdiam. Xiaolongnü tidak sedang menuntut jawaban tentang kehormatan atau dunia persilatan. Ia menanyakan sesuatu yang sederhana, dan justru Dani tidak sanggup menjawabnya. Dengan tangan yang bebas ia meraih jemari perempuan itu.
 
-“Aku ingin hidup bersama Bibi,” katanya akhirnya. “Aku ingin sekali. Tetapi kalau aku merampas anak dari ibunya, Bibi akan membawa pulang orang yang lain.”
+“Aku pun tidak mau meninggalkan Bibi,” katanya. “Tetapi anak ini masih begitu kecil. Ibunya tentu sedang menangis mencarinya. Tolong dengarkan aku; kita kembalikan Polu dahulu.”
 
-Tangis Polu mengecil. Xiaolongnü menunduk, merapikan kain yang terlepas dari pipinya. Ia masih takut, dan belum mengetahui jalan keluar lain. Namun kali ini ia melihat seorang anak, bukan sekadar kesempatan menyelamatkan Dani.
+Xiaolongnü menunduk merapikan bedung. Ia masih belum melihat cara memperoleh obat tanpa bayi itu. Namun Dani memintanya dengan suara demikian lembut, dan ia tidak ingin menambah kesedihannya.
 
-“Kita kembalikan kepada ibunya,” katanya. “Sesudah itu, jangan menyuruhku berhenti mencari obat.”
+“Baiklah, Dani. Kalau engkau tidak menghendakinya, aku menurut.” Xiaolongnü mengusap air matanya. “Sesudah anak ini kembali, engkau tetap mau pergi mencari obat bersamaku, bukan?”
 
-“Aku akan ikut mencarinya.”
+“Aku akan pergi bersama Bibi,” jawab Dani. “Kita cari jalan lain.”
 
 Mereka baru berbalik menuju jalan pulang ketika Jinlun melompati dinding. Dani memutar tubuh untuk melindungi Polu; hantaman pada bahunya membuat pelukannya goyah. Xiaolongnü meraih bedung, tetapi sesosok perempuan sudah menyusup dari sisi gang dan mengambil bayi itu lebih dahulu.
 
@@ -284,7 +284,7 @@ Li Mochou mundur dengan Polu aman di lengannya. Busana ungunya terkena debu, waj
 
 “Adik Long, rupanya hidup di luar makam memberimu banyak pelajaran,” katanya lembut. “Bahkan seorang anak sudah kaudapatkan.”
 
-“Itu bukan anakku. Kembalikan dia.”
+“Kakak seperguruan, itu putra Paman Guo,” kata Xiaolongnü, suaranya lembut tetapi dingin. “Serahkan kepadaku. Ibunya sedang menunggu.”
 
 “Kalau begitu, tentu engkau tidak keberatan aku menjaganya sebentar.” Li Mochou memandang Dani yang segera maju. “Tetapi pemuda ini tampak terlalu cemas untuk seorang asing.”
 
@@ -332,7 +332,7 @@ Xiaolongnü menunggu Dani menyebut namanya dan membatalkan semua itu. Sebaliknya
 
 Dani sempat merasa ada gerak di belakang pohon, tetapi pedang Xiuwen sudah datang. Ia menangkis dengan sarung agar tidak melukai, lalu menggeser arah serangan memakai dasar Pedang Seruling Giok. Dunru maju membantu adiknya. Sekarang mereka melindungi satu sama lain, persis seperti yang diinginkan Dani.
 
-“Dari mana engkau memperoleh ilmu itu?” seru Xiuwen.
+Pertarungan pendek itu berakhir ketika Jentikan Jari Sakti Dani menghantam sisi pedang yang sudah menyimpang. Senjata Xiuwen terpental, dan Dunru terseret beberapa langkah ketika berusaha menahannya. Dani tetap berdiri, tetapi luka di lengannya kembali basah. Ia segera menyarungkan pedang sebelum kedua bersaudara itu sempat melihat tangannya gemetar.
 
 “Tentu keluargaku yang akan datang tidak membiarkan menantunya tidak berbekal,” jawab Dani. Ia tahu siapa sebenarnya yang mengajarinya, tetapi sedang terlalu puas melihat siasatnya berhasil untuk memikirkan harga setiap kata.
 

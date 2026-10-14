@@ -1369,14 +1369,14 @@
           "caption": "Feng membeli jalan keluar dengan nyawanya."
         },
         {
-          "anchor": "Xiaolongnü memandangi perempuan itu. Kepala yang sejak lembah dipikirkannya sebagai jalan keluar sekarang menjadi wajah seseorang yang sedang menahan sakit sambil memikirkan keluarganya. Ia tidak menjawab. Untuk pertama kalinya, memperoleh persetujuan tidak membuat pekerjaan itu terasa lebih mudah.",
+          "anchor": "Xiaolongnü menatap kandungan Huang Rong, lalu menatap wajahnya. Air mata masih membasahi pipinya. “Aku akan menolong mereka,” katanya lembut. “Kalau mereka selamat, engkau akan menolong Dani. Begitukah?” Huang Rong mengangguk; kesederhanaan jawaban itu membuatnya tidak sanggup segera berkata lagi.",
           "image": {
             "file": "bab-15-ilustrasi-03.webp",
             "width": 1536,
             "height": 1024
           },
           "alt": "Huang Rong yang hamil tua menawarkan pengorbanannya kepada Xiaolongnü dalam percakapan malam.",
-          "caption": "Di balik tuntutan kepala, Xiaolongnü akhirnya melihat sebuah keluarga."
+          "caption": "Xiaolongnü menceritakan ketakutannya; Huang Rong menawarkan sebuah pengorbanan."
         },
         {
           "anchor": "“Kalau begitu, tentu engkau tidak keberatan aku menjaganya sebentar.” Li Mochou memandang Dani yang segera maju. “Tetapi pemuda ini tampak terlalu cemas untuk seorang asing.”",
@@ -1433,14 +1433,15 @@
           "caption": "Kisah yang dipotong Zhen berbalik memperlihatkan niatnya sendiri."
         },
         {
-          "anchor": "Guo Jing hendak bangkit, tetapi luka dalamnya memaksanya berpegangan pada kursi. Huang Rong meraih tongkat. Ia tidak menunggu suaminya mengatakan setuju; ketika melewati pintu, ia tahu dirinya sedang memilih sesuatu yang akan melukai kepercayaan di antara mereka.",
+          "anchor": "Mangkuk obat terjatuh. Guo Jing menerjang pintu tanpa menunggu sandal terpasang sempurna. Huang Rong menarik Pedang Budiman dari tangan Fu sebelum gadis itu jatuh berlutut. Percikan darah di baju merah putrinya membuat tangannya sendiri terasa dingin.",
           "image": {
             "file": "bab-16-ilustrasi-02.webp",
             "width": 1536,
-            "height": 1024
+            "height": 1024,
+            "version": "bb10cb039eb8"
           },
-          "alt": "Guo Jing menuntut pertanggungjawaban sementara Huang Rong bersiap menyusul putrinya.",
-          "caption": "Duka yang sama membawa mereka pada pilihan yang berlainan."
+          "alt": "Fu menangis di dekat Huang Rong, sementara Guo Jing segera bangkit untuk menolong Dani.",
+          "caption": "Nama Dani membuat Guo Jing segera beranjak. Fu baru memahami akibat perbuatannya."
         },
         {
           "anchor": "Ia mencoba meraih tali buntalan dengan tangan yang sudah tidak ada. Gerak yang tidak sampai itu membuatnya menunduk lama. Tangan yang mengayun pedang bersama Xiaolongnü, menarik Paman Guo dari tembok, dan menggenggam jari ayah angkatnya di Huashan tidak akan kembali hanya karena ia masih dapat mengingat beratnya.",
@@ -1454,6 +1455,50 @@
         }
       ],
       "cast": []
+    },
+    {
+      "id": 17,
+      "slug": "bab-17",
+      "han": "十七",
+      "source": "bab-17.md",
+      "title": "Pedang Berat, Hati yang Belum Sembuh",
+      "accent": "#6b7358",
+      "description": "Dalam kesunyian lembah, Kondor membuka jalan bagi Dani untuk bangkit. Namun pedang baru membawanya kembali kepada luka lama.",
+      "quote": "Jalan Senior masih panjang. Tetapi aku tidak akan berhenti hanya karena hari ini belum dapat mencapainya.",
+      "cover": {
+        "file": "bab-17-pembuka.webp",
+        "width": 1024,
+        "height": 1536
+      },
+      "plates": [
+        {
+          "anchor": "Bongkah tersebut pecah dengan bunyi seperti guntur. Serpihannya meluncur ke dalam sungai; air menyembur melalui bagian yang terbuka, mengangkat buih tinggi ke kedua tepi. Getaran merambat ke kaki Dani. Untuk sesaat ia tetap berdiri dengan pedang terjulur, hampir tidak mempercayai luas kehancuran di hadapannya.",
+          "image": {
+            "file": "bab-17-ilustrasi-01.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "alt": "Dani memakai tangan kiri untuk mengayunkan Pedang Xuantie di arus deras, disaksikan Kondor; lengan kanannya tetap hilang.",
+          "caption": "Tenaga tubuh dan pedang menyatu; batu besar pecah di hadapan arus."
+        },
+        {
+          "anchor": "Benturan memekakkan telinga. Huang Rong mendarat di antara suami dan putrinya; tongkatnya mengangkat pergelangan Guo Jing, lalu menyapu kaki agar ia harus berganti tumpuan. Meja di sisi ranjang pecah diterjang ujung sarung. Fu menjerit dan mundur ke dinding.",
+          "image": {
+            "file": "bab-17-ilustrasi-02.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "alt": "Huang Rong menghalangi pedang Guo Jing dengan tongkat, sementara Fu mundur ke arah jendela.",
+          "caption": "Setelah Dani selesai berlatih, perkara yang ditunda akhirnya pecah di rumah keluarga Guo."
+        }
+      ],
+      "cast": [
+        {
+          "name": "Kondor Suci",
+          "age": "Usia tidak disebutkan",
+          "description": "Burung besar penjaga peninggalan Dugu yang menolong dan melatih Dani."
+        }
+      ]
     }
   ],
   "edition": "2026-10-voice",
