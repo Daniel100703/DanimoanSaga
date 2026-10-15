@@ -1414,7 +1414,7 @@
       "source": "bab-16.md",
       "title": "Tangan yang Pernah Menolong",
       "accent": "#79594e",
-      "description": "Sebuah pembocoran mengusik nama baik, dan pertengkaran di rumah keluarga Guo meninggalkan akibat yang tak dapat ditarik kembali.",
+      "description": "Pertengkaran memutus lengan Dani. Kepergiannya tidak diketahui keluarga Guo, dan malam mempertemukannya dengan Huodu di sebuah tebing.",
       "quote": "Bibi, aku belum menikahi siapa pun.",
       "cover": {
         "file": "bab-16-pembuka.webp",
@@ -1444,14 +1444,15 @@
           "caption": "Nama Dani membuat Guo Jing segera beranjak. Fu baru memahami akibat perbuatannya."
         },
         {
-          "anchor": "Ia mencoba meraih tali buntalan dengan tangan yang sudah tidak ada. Gerak yang tidak sampai itu membuatnya menunduk lama. Tangan yang mengayun pedang bersama Xiaolongnü, menarik Paman Guo dari tembok, dan menggenggam jari ayah angkatnya di Huashan tidak akan kembali hanya karena ia masih dapat mengingat beratnya.",
+          "anchor": "Tangan kirinya sempat menangkap akar. Sentakan itu membuka kembali nyeri di seluruh tubuh. Dani menggantung di atas kegelapan, buntalan ibunya tertekan pada dada, sementara sungai meraung jauh di bawah kaki. Huodu berjongkok di tepi. Darah dari hidungnya menetes ke atas daun.",
           "image": {
             "file": "bab-16-ilustrasi-03.webp",
             "width": 1536,
-            "height": 1024
+            "height": 1024,
+            "version": "3cce803027fe"
           },
-          "alt": "Dani bertahan di luar Xiangyang; lengan kanan yang hilang tertutup pembalut dan lengan kirinya tetap utuh.",
-          "caption": "Tangan yang pernah menolong itu kini hanya dapat dirasakan dalam ingatan."
+          "alt": "Seluruh tubuh Dani, termasuk pinggang dan kedua kaki, tampak menggantung dengan tangan kiri pada akar tebing; Huodu berada di atas, sungai deras di bawah.",
+          "caption": "Satu tangan tersisa menahan akar. Huodu belum selesai dengan korbannya."
         }
       ],
       "cast": []
@@ -1463,12 +1464,13 @@
       "source": "bab-17.md",
       "title": "Pedang Berat, Hati yang Belum Sembuh",
       "accent": "#6b7358",
-      "description": "Dalam kesunyian lembah, Kondor membuka jalan bagi Dani untuk bangkit. Namun pedang baru membawanya kembali kepada luka lama.",
+      "description": "Kondor menyelamatkan Dani di tepian sungai dan membimbingnya mempelajari pedang berat. Di luar lembah, kabar kematiannya memperdalam luka keluarga Guo.",
       "quote": "Jalan Senior masih panjang. Tetapi aku tidak akan berhenti hanya karena hari ini belum dapat mencapainya.",
       "cover": {
         "file": "bab-17-pembuka.webp",
         "width": 1024,
-        "height": 1536
+        "height": 1536,
+        "version": "6acb88a53e65"
       },
       "plates": [
         {
@@ -1476,9 +1478,10 @@
           "image": {
             "file": "bab-17-ilustrasi-01.webp",
             "width": 1536,
-            "height": 1024
+            "height": 1024,
+            "version": "de767674e5ed"
           },
-          "alt": "Dani memakai tangan kiri untuk mengayunkan Pedang Xuantie di arus deras, disaksikan Kondor; lengan kanannya tetap hilang.",
+          "alt": "Dani mengayunkan bilah Xuantie yang besar dan lebar dengan tangan kiri di arus deras, disaksikan Kondor raksasa berpunggung lebar; lengan kanannya tetap hilang.",
           "caption": "Tenaga tubuh dan pedang menyatu; batu besar pecah di hadapan arus."
         },
         {
@@ -1499,6 +1502,47 @@
           "description": "Burung besar penjaga peninggalan Dugu yang menolong dan melatih Dani."
         }
       ]
+    },
+    {
+      "id": 18,
+      "slug": "bab-18",
+      "han": "十八",
+      "source": "bab-18.md",
+      "title": "Orang yang Telah Dikabarkan Mati",
+      "accent": "#606b70",
+      "description": "Dengan jubah kelabu dan pedang berat, Dani kembali menolong bayi keluarga Guo. Sementara itu, jejak pengkhianatan membawa Xiaolongnü dan Zhou Botong ke dalam jebakan.",
+      "quote": "Bibi, aku sudah pulang.",
+      "cover": {
+        "file": "bab-18-pembuka.webp",
+        "width": 1024,
+        "height": 1536,
+        "version": "8de9df0de7b0"
+      },
+      "plates": [
+        {
+          "anchor": "Tongkat Huang Rong menghantam batang pohon di seberang; serpihan kulit kayu beterbangan. Di balik batu, Dani sudah mendekap Polu dengan tangan kirinya, sementara sisi kanan tubuhnya tertutup jubah kelabu. Tangis bayi mereda oleh kehangatan dada. Dani mundur ke jalan yang tadi diperiksanya, menjauhi arah benturan.",
+          "image": {
+            "file": "bab-18-ilustrasi-01.webp",
+            "width": 1536,
+            "height": 1024,
+            "version": "f67a9e287a81"
+          },
+          "alt": "Dani berjubah kelabu mendekap Polu dengan lengan kiri, sementara Huang Rong dan Li Mochou bertarung jauh di belakang.",
+          "caption": "Polu tidak mengetahui hutang dan dendam orang dewasa. Dani membawanya keluar dari pertarungan."
+        },
+        {
+          "anchor": "Lingkaran itu menutup ketika sisi terakhir persegi selesai. Zhou mencondongkan tubuh, matanya berbinar. Di sebelahnya Xiaolongnü masih memegang kedua ranting, air mata belum kering seluruhnya. Untuk pertama kali sejak mendengar kabar Jinlun, kedua tangannya mengerjakan sesuatu yang dapat diselesaikannya.",
+          "image": {
+            "file": "bab-18-ilustrasi-02.webp",
+            "width": 1536,
+            "height": 1024,
+            "version": "f3dd8688a497"
+          },
+          "alt": "Di gua yang ditutup jaring laba-laba, Xiaolongnü mempelajari gerak kedua tangan dari Zhou Botong.",
+          "caption": "Dua tangan belajar bergerak sendiri. Dalam setiap gerak, Xiaolongnü masih mengingat Dani."
+        }
+      ],
+      "cast": []
     }
   ],
   "edition": "2026-10-voice",

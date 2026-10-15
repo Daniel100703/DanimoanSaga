@@ -170,9 +170,9 @@ Dani mendengar teriakan itu. Jemari kirinya baru selesai menotok bahu; dengan gi
 
 Ia menyambar buntalan ibunya, mengaitkan talinya pada bahu kiri, lalu menjatuhkan tubuh melewati jendela samping. Lututnya membentur tanah. Ia bangkit lagi dengan tangan kiri, meninggalkan jejak darah di dinding. Pedang Fu tetap di kamar; Pedang Budiman sudah dibawa orang yang memutus lengannya.
 
-Di halaman belakang seekor kuda tertambat pada tiang. Dani melepaskan tali dengan tangan gemetar dan memaksakan tubuh ke pelana. Ia tidak tahu siapa pemiliknya. Dari rumah terdengar namanya dipanggil lagi; ia menendang lambung kuda dan melaju sebelum suara itu mendekat.
+Di halaman belakang seekor kuda tertambat pada tiang. Dani melepaskan tali dengan tangan gemetar dan memaksakan tubuh ke pelana. Ia tidak tahu siapa pemiliknya. Dari rumah terdengar namanya dipanggil lagi; ia menuntun kuda melewati pintu kebun yang terbuka, baru memacunya setelah terhalang tembok.
 
-Penjaga gerbang mengenali pemuda yang pernah menyelamatkan Guo Jing. Mereka membuka jalan sambil menawarkan pertolongan, tetapi Dani terus menunduk di atas pelana. Kuda membawanya menjauhi jalan besar. Di belakangnya Xiangyang tetap bertahan bagi rakyat Han dan negeri Song; di hadapannya segala sesuatu kabur oleh air mata.
+Lorong belakang itu kosong. Dani mengambil jalan memutar, menunduk di atas pelana, semakin jauh dari suara pencarian. Tidak seorang pun melihatnya keluar dari kamar ataupun meninggalkan kediaman Guo. Ketika ia akhirnya mencapai jalan di luar kota, orang-orang yang mencarinya bahkan belum mengetahui apakah ia pergi dengan berjalan kaki.
 
 Guo Jing masuk ke kamar dan berhenti mendadak. Ranjang kosong. Darah membasahi seprai dan lantai, lalu berjejak menuju jendela. Ia memanggil Dani sekali lagi, kini hampir berbisik. Tidak ada sahutan.
 
@@ -182,11 +182,11 @@ Huang Rong tiba di ambang pintu. Begitu melihat darah di lantai, ia mencengkeram
 
 “Fu telah memutus lengannya!” Guo Jing berkata dengan suara bergetar, lalu menghantam tiang ranjang. Kayu keras itu pecah; kelambu jatuh menutupi kasur kosong. “Anak itu menyelamatkan ayahnya, dan ini balasan yang diberikannya!”
 
-Huang Rong tidak membantah. Guo Jing melompat keluar melalui jendela, mengikuti darah di kebun. Luka dalamnya kembali nyeri, tetapi ia terus berjalan sampai jejak itu lenyap di halaman tempat kuda tadi ditambatkan.
+Huang Rong tidak membantah. Guo Jing melompat keluar melalui jendela, mengikuti darah di kebun. Luka dalamnya kembali nyeri, tetapi ia terus berjalan. Di tanah berbatu dekat pintu belakang jejak itu terputus. Tidak ada orang yang dapat menunjukkan arah kepergian Dani.
 
 Zhu Ziliu dan para penolong berpencar menuju gerbang. Wu Santong datang dari kamar putra-putranya; setelah mendengar kabar, ia pun bergegas menyusul pencarian. Suara orang berlari memenuhi rumah, sedangkan kamar Dani semakin sunyi.
 
-“Sesudah Dani ditemukan, bawa Fu menghadapku,” pesan Guo Jing kepada seorang pelayan sebelum meneruskan pencarian. Huang Rong mendengarnya dari serambi. Ia mengenal kemurkaan suaminya; untuk pertama kali sejak Fu lahir, ia takut membayangkan ayah dan anak itu berada dalam satu kamar.
+“Bawa Fu menghadapku ketika aku kembali,” pesan Guo Jing kepada seorang pelayan sebelum meneruskan pencarian. Huang Rong mendengarnya dari serambi. Ia mengenal kemurkaan suaminya; untuk pertama kali sejak Fu lahir, ia takut membayangkan ayah dan anak itu berada dalam satu kamar.
 
 Fu masih meringkuk dekat ranjang orang tuanya. Ketika Huang Rong kembali, gadis itu merangkak mendekat dan memeluk kaki ibunya. “Ibu, ia akan mati? Aku tidak bermaksud… Ibu, jangan biarkan Ayah…”
 
@@ -194,7 +194,7 @@ Huang Rong menyimpan Pedang Budiman di lemari tinggi, lalu mengangkat Fu. Ia tid
 
 “Ikut Ibu lewat belakang,” bisiknya. “Jangan berkata apa-apa dahulu.” Fu menurut dengan langkah sempoyongan. Huang Rong belum berani mempertemukannya dengan Guo Jing, dan belum sanggup menyerahkan putrinya kepada hukuman yang dapat dibayangkannya.
 
-Ibu dan anak itu menyelinap keluar sementara pencarian berpusat pada jalan yang dilalui Dani. Huang Rong membawa Fu menuju sebuah gubuk penyimpan jerami di luar kota. Guo Jing belum mengetahui tempat itu. Setiap kali Fu hendak menanyakan ayahnya, Huang Rong hanya mempererat genggaman dan menyuruhnya berjalan.
+Ibu dan anak itu menyelinap keluar sementara para pencari berpencar ke segala penjuru. Huang Rong membawa Fu menuju sebuah gubuk penyimpan jerami di luar kota. Guo Jing belum mengetahui tempat itu. Setiap kali Fu hendak menanyakan ayahnya, Huang Rong hanya mempererat genggaman dan menyuruhnya berjalan.
 
 ***
 
@@ -228,21 +228,47 @@ Huang Rong meninggalkan gubuk sebelum petang berakhir. Ia akan kembali kepada pe
 
 ***
 
-Di antara rumpun gelagah, Dani telah turun dari kuda dan bersandar pada batu rendah. Tambatan yang diikatnya dengan tangan kiri terlepas; kuda itu pergi merumput entah ke mana. Dani tidak mengejarnya. Pembalutnya kembali lembap, dan setiap denyut terasa sampai ke pangkal lengan yang hilang.
+Menjelang malam Dani telah kehilangan kudanya. Ketika ia turun untuk mengencangkan pembalut, tambatan yang dibuat dengan satu tangan terlepas. Ia hanya dapat memandang hewan itu menjauh. Buntalan ibunya masih tersilang pada bahu kiri; ia memeluknya sesaat sebelum menyeret kaki menyusuri jalan tebing.
 
 Ia mencoba meraih tali buntalan dengan tangan yang sudah tidak ada. Gerak yang tidak sampai itu membuatnya menunduk lama. Tangan yang mengayun pedang bersama Xiaolongnü, menarik Paman Guo dari tembok, dan menggenggam jari ayah angkatnya di Huashan tidak akan kembali hanya karena ia masih dapat mengingat beratnya.
 
 “Bibi, aku belum menikahi siapa pun,” bisiknya.
 
-Ia tidak tahu apakah Xiaolongnü masih hendak mendengar. Fu hanya mengatakan Bibi mengejar kedua pendeta itu. Dani teringat Quanzhen, tempat mereka mungkin mencari perlindungan; gunungnya terasa sangat jauh. Tetapi Dani masih ingin menjelaskan dustanya sendiri sebelum orang lain menjelaskan hidupnya untuknya.
+Di bawah tebing sungai bergemuruh, membesar oleh hujan di hulu. Dani mengikuti jalurnya dengan pandangan kabur. Ia harus menemukan jalan menuju Zhongnan, lalu menjelaskan semuanya kepada Xiaolongnü. Ia baru mengangkat kaki ketika bunyi kipas terbuka terdengar dari tikungan.
 
-Dengan telapak kiri menekan batu, ia mengangkat tubuh sedikit dan gagal. Ia menunggu sampai pandangannya kembali terang, kemudian mencobanya lagi. Untuk saat itu ia belum sanggup berdiri. Ia hanya berhasil menghadap jalan menuju pegunungan, dan bertahan agar matanya tidak tertutup terlalu lama.
+“Dani Moan. Aku hampir tidak mengenalimu.”
+
+Huodu berdiri melintang, kipas besinya terbuka di depan dada. Ia baru kembali dari pengintaian jalan di luar Xiangyang. Senyum yang mula-mula sekadar mengejek berubah ketika matanya sampai pada pembalut di bahu kanan Dani. Ia mendekat satu langkah, memastikan pemuda itu benar-benar sendirian.
+
+“Siapa yang bermurah hati meninggalkan separuh pekerjaan untukku?”
+
+Dani meraih batu di sisi jalan dengan tangan kiri. “Pangeran masih perlu menanyakan siapa lawannya sebelum berani mendekat?”
+
+Kipas menutup. Dani melempar batu itu ke wajah Huodu dan menerjang ke sisi dalam tebing. Geraknya masih cepat, tetapi napas yang hendak dihimpunnya putus oleh nyeri. Huodu menepis batu, berputar, lalu menghantam bahu kiri Dani dengan gagang kipas. Pemuda itu tersungkur sebelum sempat lewat.
+
+Huodu menarik sebilah belati dari pinggang. Ketika Dani berusaha bangkit, ujungnya menusuk sisi tubuh di bawah rusuk. Udara seakan berhenti di dada Dani. Ia mencengkeram pergelangan Huodu, menahan tusukan itu masuk lebih jauh, tetapi darah telah membasahi jemarinya.
+
+“Ketika membawa Guo Jing keluar dari perkemahan kami, kau tidak mengira akan bertemu denganku dalam keadaan begini, bukan?” Huodu merenggut belatinya. “Katakan kepada gurumu di alam sana: lain kali pilihlah murid yang lebih pandai menjaga diri.”
+
+Dani menghantamkan dahinya ke wajah Huodu. Pangeran itu terhuyung sambil mengumpat. Namun sebelum Dani dapat beralih, kaki Huodu menghunjam pinggangnya. Tanah di bawah tumit Dani runtuh; tubuhnya terlempar melewati bibir tebing.
+
+Tangan kirinya sempat menangkap akar. Sentakan itu membuka kembali nyeri di seluruh tubuh. Dani menggantung di atas kegelapan, buntalan ibunya tertekan pada dada, sementara sungai meraung jauh di bawah kaki. Huodu berjongkok di tepi. Darah dari hidungnya menetes ke atas daun.
+
+“Masih hendak memanjat?”
+
+Kipas besi menyabet akar yang menjadi tumpuannya. Dani melihat serat-serat itu putus satu demi satu. Ia hendak mengerahkan tenaga, tetapi jari-jarinya telah licin oleh darah. Pada tarikan berikutnya akar terlepas bersama tanah.
+
+Angin menghantam wajahnya. Dani tidak sempat menjerit ketika tubuhnya menembus cabang yang menjorok dari dinding tebing, lalu jatuh ke dalam sungai. Air menutup kepala, menariknya berputar; kaki dan punggungnya membentur sesuatu yang keras. Tangan kiri meraih apa saja dan tersangkut pada cabang sebatang kayu hanyut.
+
+Huodu menunggu di atas sampai lingkaran buih lenyap. Tidak tampak kepala yang muncul ataupun seseorang yang memanjat tepian. Dengan luka dan racun sebanyak itu, satu sungai deras lebih dari cukup untuk menyelesaikan pekerjaannya. Ia membersihkan belati, lalu berbalik untuk membawa kabar kepada gurunya.
+
+Jauh di bawah, jari Dani masih terselip di cabang kayu. Kesadarannya padam sebelum arus membawanya melewati tikungan. Malam menutup sungai; tidak ada orang di kediaman Guo yang mengetahui ke mana ia telah pergi.
 
 ---
 
-- Dani 19, Xiaolongnü 21, Fu 17, Xiang 10. Hari keenam sejak pil Bab 14; racun dan luka belum sembuh. Tenggat lama dua belas hari belum menjelaskan akibat racun campuran.
-- Bagian Xiaolongnü–Zhen dipertahankan: percobaan pelecehan dahulu gagal, bukan perkosaan canon. Xiaolongnü mengejar kedua pendeta dengan Pedang Perempuan dan belum mengetahui tragedi Dani.
-- Penghinaan terhadap Bibi memicu amarah Dani; sesudah tamparan dan dua serangan, Pedang Budiman memutus lengan kanannya di atas siku. Kiri utuh. Jerit, tangis, dan pelarian berlangsung cepat.
-- Fu berlari kepada orang tuanya membawa pedang serta darah. Guo Jing segera menuju kamar Dani yang sudah kosong, lalu murka dan mencari. Huang Rong diam-diam menyembunyikan Fu di gubuk; bentrokan terbuka ditunda sampai sesudah latihan Kondor.
-- Pedang Budiman disimpan Huang Rong di lemari kediaman; pedang biasa Fu tertinggal di kamar Dani. Dani keluar dengan kuda pinjaman darurat, buntalan, dan jarum ibu; kuda kemudian terlepas. Ia tidak melihat tindakan keluarga Guo.
-- Polu tetap di tangan Li Mochou, kedua Wu masih dirawat, dan rahasia Kang belum dibuka. Kondor, warisan Dugu, Quanzhen, serta pernikahan masih di depan; Tapak Melankolis belum tercipta.
+- Dani 19 tahun, Xiaolongnü 21, Fu 17, Xiang 10; Polu masih bayi dalam pengasuhan Li Mochou. Tidak ada lompatan tujuh tahun.
+- Xiaolongnü mengejar Zhen dan Zhao; upaya penyerangan Zhen dahulu telah digagalkan Dani. Pembocoran hubungan mereka mengikuti lore Saga, bukan pemerkosaan kanon.
+- Lengan kanan Dani terputus di atas siku oleh Pedang Budiman; tangan kiri utuh. Ia meninggalkan kamar dan kediaman tanpa saksi dari pihak Guo, sehingga pencarian kehilangan arah.
+- Huang Rong menyembunyikan Fu. Penghukuman terbuka Guo Jing ditunda sampai akhir latihan Dani; penderitaan dan ketidakpastian nasib Dani memperberat kemurkaan itu.
+- Tambahan asli sesuai arahan: malam itu Huodu menusuk Dani dan menjatuhkannya dari tebing ke sungai deras. Huodu menganggapnya mati tanpa menemukan jasad; perjumpaan ini bukan peristiwa novel Jin Yong.
+- Dani hanyut tersangkut kayu; pertemuan pertama dengan Kondor menyambung di Bab 17. Pedang Budiman tertinggal, buntalan ibu terbawa; pertemuan kembali dengan Xiaolongnü belum terjadi.

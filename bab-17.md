@@ -1,32 +1,32 @@
 # Bab 17 — Pedang Berat, Hati yang Belum Sembuh
 
-Ketika matahari muncul, Dani masih bersandar pada batu yang sama. Semalam ia beberapa kali terlelap, lalu terbangun oleh nyeri yang menjalar dari bahu kanan. Setiap kali membuka mata, ia berharap lengan bajunya kembali berisi. Harapan itu selalu berakhir pada kain pembalut yang kaku oleh darah.
+Ketika matahari muncul, Dani terdampar pada tepian berbatu, tubuhnya masih tersangkut kayu hanyut. Air masuk ke mulut ketika ia mencoba bernapas. Ia membatukkannya, lalu berusaha menarik dada keluar dari arus. Pembalut bahu kanannya basah; tusukan di sisi tubuh terasa seperti bara setiap kali ia bergerak.
 
-Bunyi langkah datang dari balik gelagah. Dani mengangkat kepala dengan susah payah. Seekor burung besar berdiri di antara batu: berkaki tebal, bersayap pendek, berbulu cokelat kusam, dengan tonjolan merah di atas kepala. Matanya menatap Dani tanpa takut. Burung itu lebih besar daripada rajawali milik keluarga Guo, dan jauh lebih ganjil rupanya.
+Desis terdengar di dekat wajahnya. Seekor ular mengangkat kepala dari antara akar. Dani mengangkat tangan kiri, tetapi siku yang semalam menahan seluruh tubuhnya kini gemetar. Ketika kepala ular melenting, bayangan besar melintas di atas kayu.
 
-“Kalau engkau mencari bangkai,” kata Dani serak, “engkau datang terlalu pagi. Aku belum mati.”
+Cakar menghantam batu. Seekor burung raksasa menjepit ular itu sebelum taringnya mencapai Dani. Ular berbelit pada kaki tebalnya; burung tersebut membentangkan sayap pendek, lalu mengempaskan kepala lawannya ke batu. Dani menahan napas, terlalu lemah untuk menjauh.
 
-Burung itu memiringkan kepala, lalu mendekat. Dani meraih batu dengan tangan kiri. Paruhnya sanggup meremukkan tengkorak; jika ia harus mati di sini, ia belum bersedia menyerahkan leher tanpa melawan.
+Burung itu mencengkeram ular yang sudah tidak bergerak, lalu menoleh kepada Dani. Bulunya cokelat kusam, dengan tonjolan merah di atas kepala; tubuhnya jauh lebih besar daripada rajawali keluarga Guo, dengan dada tebal, punggung lebar, dan kaki yang sanggup menyangga bobot raksasanya. Dani tidak pernah melihat makhluk seperti itu. Namun ketika paruhnya mendekat, yang dijepitnya justru kain di punggung Dani, menarik tubuh pemuda itu keluar dari air.
 
-Namun burung itu berhenti di depan pembalutnya. Ia mengeluarkan suara rendah, memandang wajah Dani, kemudian berbalik. Setelah beberapa langkah ia menoleh lagi, seakan menunggu.
+“Kalau engkau mencari bangkai,” kata Dani serak, “engkau baru saja merusak kesempatanmu sendiri.” Burung itu mengeluarkan bunyi rendah. Ia melepaskan kain, merobek bagian perut ular dengan paruh, lalu mengambil kantong kecil berwarna gelap. Dani mengenal empedu, tetapi belum mengerti mengapa benda itu dibawa ke hadapannya.
 
-Dani menurunkan batu. “Engkau hendak membawaku pergi?”
+Burung itu melangkah menuju celah bebatuan sambil membawa empedu. Setelah beberapa langkah ia menoleh dan memekik. Dani memandang sungai di belakangnya. “Engkau hendak membawaku pergi? Aku bahkan belum sanggup berdiri.”
 
-Jawabannya berupa pekik yang membuat gelagah bergetar. Burung itu kembali, merendahkan tubuh di sisi kirinya. Dani meletakkan tangan pada punggungnya untuk bangkit. Ketika lututnya goyah, sayap pendek yang tampak buruk itu menahan tubuhnya dengan kekuatan yang mengejutkan.
+Burung itu kembali dan merendahkan tubuh di sisi kirinya. Dani meletakkan tangan pada punggungnya untuk bangkit. Ketika lututnya goyah, sayap pendek yang tampak buruk itu menahan tubuhnya dengan kekuatan yang mengejutkan. Ia menyelamatkan buntalan ibunya dari kayu, lalu membiarkan burung itu menuntunnya.
 
 “Baiklah, Saudara Kondor,” bisik Dani. “Di antara semua yang kutemui kemarin, hanya engkau yang belum menyuruhku menjelaskan kesalahanku.”
 
-Mereka menempuh jalan berbatu menuju sebuah gua. Kondor berhenti setiap kali Dani jatuh berlutut. Setibanya di sana, Dani nyaris tidak sanggup lagi mengangkat kepala. Ia melihat tumpukan batu seperti makam, lalu sesuatu yang gelap diletakkan dekat mulutnya.
+Mereka menempuh jalan berbatu menuju sebuah gua. Kondor berhenti setiap kali Dani jatuh berlutut. Setibanya di sana, Dani nyaris tidak sanggup lagi mengangkat kepala. Ia melihat tumpukan batu seperti makam. Di depannya, Kondor meletakkan empedu ular yang tadi diambilnya di tepian sungai.
 
 Bau amis membuatnya hendak berpaling. Kondor mendorongnya pelan dengan paruh. Dani menggigit benda itu; rasa pahit memenuhi lidah sampai ke pangkal tenggorokan. Ia hampir memuntahkannya, tetapi burung itu tetap berdiri menunggu. Akhirnya ia menelan dengan mata terpejam.
 
-Tidak lama kemudian, kehangatan mengalir dari perutnya. Denyut di bahu berangsur melambat. Dani mengatur napas menurut pelajaran Makam Kuno; aliran yang semalam kacau mulai dapat dihimpunnya kembali. Sebelum tertidur, ia menyadari bahwa darah tidak lagi merembes secepat sebelumnya.
+Tidak lama kemudian, kehangatan mengalir dari perutnya. Dani mengatur napas menurut pelajaran Makam Kuno; aliran yang semalam kacau mulai dapat dihimpunnya kembali. Ia menekan luka tusukan dengan sisa kain kering dari bagian dalam buntalan, kemudian mempererat pembalut bahu. Darah berangsur berhenti merembes. Tidur datang sebelum ia sempat mengucapkan terima kasih.
 
 Kondor duduk di mulut gua, menghadap jalan tempat mereka datang.
 
 ***
 
-Selama hari-hari berikutnya, burung itu membawa makanan dan empedu ular. Dani mengenalinya setelah melihat bangkai ular di dekat gua. Ia membalut kembali lukanya dengan kain yang dicuci, menerima pertolongan pahit itu, lalu memusatkan tenaga untuk memulihkan tubuh. Luka yang semula terus terbuka mulai mengering.
+Selama hari-hari berikutnya, Kondor membawa makanan dan empedu dari ular-ular yang diburunya. Dani membalut kembali kedua lukanya dengan kain yang dicuci, menerima pertolongan pahit itu, lalu memusatkan tenaga untuk memulihkan tubuh. Bekas tusukan Huodu mulai merapat; bahu kanannya memerlukan waktu lebih lama sebelum dapat menanggung gerakan tanpa kembali berdarah.
 
 Yang sukar ditanggung justru gerakan-gerakan kecil. Ia hendak menyangga mangkuk dengan tangan kanan, hendak menyibak rambut, hendak bertumpu ketika bangkit. Tubuhnya masih mengingat anggota yang telah hilang. Sekali mangkuknya terjatuh, dan Dani menendangnya sampai pecah di dinding.
 
@@ -118,19 +118,19 @@ Burung itu memandang lengan bajunya yang kosong. Dani berpaling. Ia tidak menjel
 
 ***
 
-Mereka meninggalkan lembah pada pagi berikutnya. Kondor menunggu di perbukitan ketika Dani mendekati Xiangyang menjelang malam. Dengan pedang dibungkus kain di punggung, ia menjejak kaki tembok, meraih sela batu, lalu melompati puncaknya. Gerakan itu tidak lagi menyeret luka bahunya. Dalam beberapa tarikan napas ia sudah berada di balik atap dekat kediaman keluarga Guo.
+Mereka meninggalkan lembah pada pagi berikutnya. Kondor menunggu di perbukitan ketika Dani mendekati Xiangyang menjelang malam. Di jalan ia mendengar namanya disebut bersama kata kematian: Huodu mengabarkan bahwa pemuda yang kehilangan lengan itu telah ditusuk dan dilemparkannya ke sungai. Laporan tersebut keluar dari perkemahan Mongol, menyebar lewat para pencari dan orang-orang yang lalu-lalang selama dua bulan, sampai dunia persilatan menganggap malam itu sebagai akhir Dani Moan. Dani menarik kerah bajunya, menunggu jalan sepi, lalu memanjat tembok dan bergerak menuju kediaman Guo.
 
 Ia datang untuk menemukan Fu. Selama berada di lembah, berkali-kali ia membayangkan pedang di tangan kirinya berhenti di depan wajah gadis itu. Kadang ia hendak menuntut sebuah lengan; kadang ia hanya ingin Fu melihat dirinya masih hidup. Sekarang, ketika jendela yang dikenalnya tampak, kedua keinginan itu sulit dibedakan.
 
 Dari dalam terdengar suara Guo Jing.
 
-“Dua bulan engkau bersembunyi. Apakah engkau mengira Ayah akan melupakan Dani?”
+“Dua bulan engkau bersembunyi. Orang-orang membawa kabar Dani mati, dan engkau masih membiarkan ibumu mencarikan tempat untukmu?”
 
 Dani berhenti di dahan dekat jendela. Fu duduk di sisi ranjang, menunduk. Guo Jing berdiri di hadapannya. Luka sang paman telah pulih, tetapi wajahnya tampak lebih tua daripada ketika Dani membawanya keluar dari perkemahan Mongol.
 
-“Ibu menyuruhku pulang,” jawab Fu lirih. “Aku… aku ingin meminta ampun kepada Ayah.”
+“Ibu menyuruhku pulang,” jawab Fu lirih. “Aku ingin meminta ampun kepada Ayah. Tetapi… kabar Huodu itu belum tentu benar, bukan?”
 
-“Yang harus kaumintai ampun ialah Dani.”
+“Ayah menyuruh orang menyusuri sungai. Tidak ada jasad yang ditemukan.” Guo Jing menatap putrinya. “Setiap kali mereka pulang dengan tangan kosong, Ayah berharap anak itu masih hidup. Harapan itu tidak menghapus apa yang telah kaulakukan.”
 
 Fu mulai menangis. “Ayah masih marah kepadaku?”
 
@@ -146,7 +146,7 @@ Fu mendongak. Di luar jendela, Dani merasakan genggamannya mengeras pada dahan.
 
 Fu terdiam.
 
-“Ia sakit ketika kauserang. Ayah sudah mendengar semuanya. Engkau menghina gurunya, kemudian menebasnya setelah ia jatuh. Jangan berlindung di balik ketajaman senjata.” Suara Guo Jing semakin berat. “Kau masih dapat berdiri di hadapanku. Kami bahkan belum tahu di mana ia menanggung sakitnya.”
+“Ia sakit ketika kauserang. Ayah sudah mendengar semuanya. Engkau menghina gurunya, kemudian menebasnya setelah ia jatuh. Jangan berlindung di balik ketajaman senjata.” Guo Jing menelan napas yang terasa berat. “Ia keluar dari rumah ini tanpa seorang pun mengetahuinya. Bila kabar Huodu benar, anak yang telah menyelamatkan ayahmu itu menghadapi musuh dengan darah yang belum berhenti mengalir. Sedangkan engkau pulang dengan kedua tangan utuh!”
 
 Dani menunduk. Ia datang dengan anggapan bahwa di rumah itu orang-orang sudah kembali makan, tidur, dan melupakan darahnya. Mendengar suara sang paman, ia tiba-tiba tidak sanggup terus memegang anggapan tersebut.
 
@@ -158,7 +158,7 @@ Guo Jing membuka lemari dan mengambil Pedang Budiman. Fu mengenali sarungnya; wa
 
 Guo Jing menarik pedang. Tangan yang memegangnya bergetar. Ia menatap Fu lama, seakan berharap waktu berbalik sebelum darah pertama tertumpah di rumah mereka.
 
-“Seandainya lenganku dapat menggantikan lengan Dani, Ayah tidak akan menyuruhmu mengulurkannya.” Suaranya pecah. “Tetapi yang berbuat adalah engkau. Yang harus menanggungnya pun engkau.”
+“Seandainya lenganku dapat menggantikan lengan Dani, Ayah tidak akan menyuruhmu mengulurkannya.” Suaranya pecah. “Memotong tanganmu pun tidak akan menghidupkan orang yang telah mati. Tetapi Ayah tidak sanggup membiarkanmu bersembunyi di balik nama Guo Jing seolah kesalahan ini tidak perlu dibayar!”
 
 Dani nyaris melompat turun. Amarah yang dibawanya mendadak bertubrukan dengan wajah Guo Jing. Ia ingin Fu membayar, tetapi tidak pernah membayangkan ayah gadis itu sendiri akan berdiri demikian pucat, memegang pedang yang sama.
 
@@ -176,7 +176,7 @@ Guo Jing memutar pedang, menahan pukulan berikutnya. “Rong’er, engkau masih 
 
 Tongkat Huang Rong tertahan sesaat. Guo Jing maju; satu hentakan telapaknya mematahkan batang penyangga tirai yang menghalangi jalan. Huang Rong kembali menyilang, memutar tongkat untuk menutup pintu. Ia tidak dapat mengalahkan suaminya dengan tenaga, tetapi ia mengenal langkah dan keengganannya melukai dirinya.
 
-“Kesalahan Fu akan kita tanggung bersama,” kata Huang Rong, napasnya memburu. “Kita temukan Dani. Kita mohonkan ampun kepadanya. Apa pun yang diperlukan, akan kucarikan. Tetapi jangan tebas anak kita di depan mataku!”
+“Kesalahan Fu akan kita tanggung bersama,” kata Huang Rong, napasnya memburu. “Selama jasadnya belum ditemukan, aku akan terus mencari Dani. Jika ia masih hidup, aku sendiri akan berlutut memohon ampun kepadanya. Tetapi jangan tebas anak kita di depan mataku!”
 
 “Dengan apa engkau akan mengembalikan lengannya?”
 
@@ -212,13 +212,13 @@ Huang Rong menyusul Fu ke arah gerbang. Dani mengambil jalan lain, kembali ke pe
 
 Kondor berjalan di sisinya. Pedang Xuantie terasa berat di punggung, tetapi Dani tidak lagi terhuyung karenanya. Ia telah belajar menghancurkan batu besar; malam itu ia juga mengetahui bahwa ada sesuatu dalam dirinya yang tidak akan selesai hanya dengan menghancurkan orang yang dibencinya.
 
-Di depan mereka, jalan pegunungan menghilang ke dalam gelap. Dani melangkah lebih cepat. Masih ada seseorang yang harus ditemuinya sebelum dunia memberitahukan bahwa ia telah mati.
+Di depan mereka, jalan pegunungan menghilang ke dalam gelap. Dani melangkah lebih cepat. Ia telah mendengar bagaimana dunia menyebut kematiannya. Jika kabar itu sampai kepada Xiaolongnü, ia tidak tahu apa yang akan dilakukan perempuan yang pernah memintanya hidup bersama di Makam Kuno.
 
 ---
 
-- Dani tetap 19 tahun, Xiaolongnü 21, Fu 17, Xiang 10; pemulihan berlangsung sekitar dua bulan, bukan lompatan tujuh tahun. Lengan kanan hilang di atas siku, kiri utuh; Kondor pertama kali ditemui sesuai lore.
-- Empedu ular membantu penghentian darah, pemulihan dan pertumbuhan tenaga; percampuran racun memperpanjang hidup. Tenggat lama terlewati, tetapi nyeri Bunga Cinta belum hilang dan penawar akhir belum diperoleh.
-- Dani menerima Pedang Xuantie serta prinsip pedang berat melalui peninggalan Dugu dan latihan Kondor; batu besar hancur dan arus terbelah sesaat. Ilmu tanpa pedang belum dikuasai penuh; tidak ada kitab baru atau Tapak Melankolis sekarang.
-- Fu baru kembali dari persembunyian setelah latihan Dani. Guo Jing hendak menghukumnya dengan Pedang Budiman; Huang Rong menghalangi, menotok suaminya, dan menyusul Fu. Polu tidak dipakai sebagai pengalih karena masih bersama Li Mochou.
-- Dani menyaksikan bentrokan dari luar, melepas kesempatan menyerang Fu, tetapi belum mengampuni atau berdamai. Ia tidak mendengar penyebab kematian Kang; pengungkapan tetap menunggu Ke Zhen’e sesudah lompatan tujuh tahun.
-- Dani dan Kondor berangkat ke Zhongnan membawa Xuantie, buntalan serta jarum ibu. Pedang Budiman tetap di kediaman, Pedang Perempuan pada Xiaolongnü. Bayi, pertempuran Quanzhen, pernikahan, dan bentrokan makam belum diselesaikan.
+- Dani terdampar setelah dihanyutkan sungai; Kondor menolongnya dari ular dan air, lalu membawa empedu ular tersebut. Pertemuan pertama, pertolongan, dan bahan pemulihan mempunyai urutan sebab-akibat.
+- Dani 19 tahun; pemulihan luka amputasi dan tusukan berlangsung sekitar dua bulan. Empedu dan percampuran racun membantu memperpanjang hidup; Bunga Cinta belum dinyatakan sembuh.
+- Latihan Kondor dan peninggalan Dugu memberi Pedang Xuantie serta tenaga untuk menghancurkan batu besar. Ilmu tanpa pedang belum dikuasai; Tapak Melankolis belum lahir.
+- Laporan Huodu menyebar dari pihak Mongol selama pemulihan. Dunia menganggap Dani mati; Guo Jing belum menemukan jasad dan terus mencari. Dani hidup adalah pengetahuan pembaca, bukan kabar yang sudah sampai kepada keluarganya.
+- Seusai latihan, Dani diam-diam menyaksikan Guo Jing hendak memotong lengan Fu. Huang Rong menghalangi, menotok suaminya, dan membawa Fu pergi. Dani tidak membuka identitas, membalas, atau langsung mengampuni.
+- Jubah penutup lengan dimulai di Bab 18. Polu tetap bersama Li; Zhou, pengejaran Xiaolongnü, dan kerja sama Zhao–Jinlun disambung di bab berikutnya. Rahasia Kang tetap untuk Ke Zhen’e sesudah jeda tujuh tahun.
