@@ -1,6 +1,6 @@
 {
   "title": "Saga Dani Moan",
-  "description": "Novel wuxia berilustrasi karya Daniel Halomoan Siregar. Bab 1–14, dengan Wiki Persilatan yang mengikuti cerita.",
+  "description": "Novel wuxia berilustrasi karya Daniel Halomoan Siregar. Bab 1–19, dengan Wiki Persilatan yang mengikuti cerita.",
   "chapters": [
     {
       "id": 1,
@@ -1543,6 +1543,75 @@
         }
       ],
       "cast": []
+    },
+    {
+      "id": 19,
+      "slug": "bab-19",
+      "han": "十九",
+      "source": "bab-19.md",
+      "title": "Di Hadapan Langit dan Leluhur",
+      "accent": "#8b6246",
+      "description": "Di Quanzhen, orang yang dikabarkan mati kembali ketika Xiaolongnü hampir kehilangan nyawa. Di tengah kepungan, mereka menuntut kesempatan untuk tetap bersama.",
+      "quote": "Sekarang engkau suamiku.",
+      "cover": {
+        "file": "bab-19-pembuka.webp",
+        "width": 1024,
+        "height": 1536,
+        "version": "f22eafd7cde8"
+      },
+      "plates": [
+        {
+          "anchor": "Tenaga rahib itu datang berlapis-lapis. Dani menahan, tetapi siku kirinya mulai menekuk. Ia dapat menghancurkan senjata dengan ayunan bebas; kini pedangnya terkunci, dan setiap tambahan tekanan harus dijawab dengan tenaga dalam. Keringat muncul di pelipisnya. Jinlun maju setapak.",
+          "image": {
+            "file": "bab-19-ilustrasi-01.webp",
+            "width": 1536,
+            "height": 1024,
+            "version": "ac4c473c253c"
+          },
+          "alt": "Dani mengadu Xuantie di tangan kiri dengan roda Jinlun; Xiaolongnü berdiri terpisah di dekat tiang dan diam-diam menyiapkan jarum.",
+          "caption": "Xuantie menahan roda Jinlun, tetapi adu tenaga belum dimenangkan."
+        },
+        {
+          "anchor": "“Dan engkau istriku.”",
+          "image": {
+            "file": "bab-19-ilustrasi-02.webp",
+            "width": 1536,
+            "height": 1024,
+            "version": "850832563441"
+          },
+          "alt": "Dani dan Xiaolongnü menikah di dalam aula leluhur tertutup, di hadapan lukisan Wang Chongyang; Sun Bu’er duduk sebagai sandera di belakang mereka.",
+          "caption": "Di hadapan langit dan leluhur, mereka memilih menjadi suami-istri."
+        }
+      ],
+      "cast": [
+        {
+          "name": "Sun Bu’er",
+          "age": "Tetua Quanzhen",
+          "description": "Menentang perkawinan guru–murid di Chongyang Palace.",
+          "image": {
+            "file": "bab-19-ilustrasi-02.webp",
+            "width": 1536,
+            "height": 1024,
+            "version": "850832563441"
+          },
+          "roi": [
+            0.487,
+            0.372,
+            0.561,
+            0.5
+          ]
+        },
+        {
+          "name": "Wang Chuyi",
+          "age": "Tetua Quanzhen",
+          "description": "Menegakkan tata perguruan dan memeriksa pengkhianatan muridnya."
+        },
+        {
+          "name": "Liu Chuxuan",
+          "age": "Tetua Quanzhen",
+          "description": "Keluar dari latihan bersama keempat tetua lain."
+        }
+      ]
     }
   ],
   "edition": "2026-10-voice",

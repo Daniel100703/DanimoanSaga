@@ -108,7 +108,7 @@ Jinlun mengamati pedang di tangannya. “Dahulu Dani dapat berdiri di sisimu. Se
 
 “Apa yang kauketahui tentang Dani?”
 
-“Huodu menemukannya di jalan tebing dekat Xiangyang. Lengan kanannya telah hilang, pakaiannya penuh darah. Muridku menusuknya, lalu menjatuhkannya ke sungai. Ia sendiri menyaksikan tubuhnya tenggelam.”
+“Huodu menemukannya di jalan tebing dekat Xiangyang. Pakaiannya penuh darah. Muridku menusuknya, lalu menjatuhkannya ke sungai. Ia sendiri menyaksikan tubuhnya tenggelam.”
 
 Xiaolongnü tidak menjawab. Ujung Pedang Perempuan turun sedikit. Ia teringat permintaannya kepada Fu sebelum pergi: jagalah dia. Kalimat itu begitu sederhana ketika diucapkan; kini ia mendengarnya kembali tanpa dapat memahami bagaimana permintaan tersebut berakhir di sebuah tebing.
 
@@ -166,7 +166,7 @@ Xiaolongnü mengangguk. “Jika aku menemukannya, Senior tidak perlu menyuruh. A
 
 ***
 
-Dalam pekan-pekan berikutnya Xiaolongnü menyusuri sungai, bertanya kepada para pencari, dan kembali ke tebing yang disebut dalam kabar Huodu. Tidak ada seorang pun yang melihat Dani selamat. Ia menemukan orang-orang yang diutus Guo Jing; dari merekalah ia mendengar bahwa Fu memutus lengannya, lalu Dani menghilang dari kediaman. Keterangan yang terpisah itu bertemu dengan laporan Jinlun dan membuat penyangkalannya semakin sukar dipertahankan.
+Dalam pekan-pekan berikutnya Xiaolongnü menyusuri sungai, bertanya kepada para pencari, dan kembali ke tebing yang disebut dalam kabar Huodu. Tidak ada seorang pun yang melihat Dani selamat. Orang-orang yang diutus Guo Jing pun belum menemukan jejaknya di sepanjang tepian. Semakin lama pencarian itu berlangsung tanpa hasil, semakin sukar bagi Xiaolongnü mempertahankan harapannya.
 
 Ia tidak menemukan jasad untuk dikubur. Pada malam terakhir di tepian, ia meletakkan tangan pada air yang dingin dan menyebut nama Dani. Tidak ada jawaban selain arus. Keesokan harinya ia kembali mencari jejak Zhen dan Zhao, dua orang yang masih dapat ditemuinya, sementara Huodu tetap berada di bawah perlindungan gurunya.
 
@@ -197,6 +197,6 @@ Anak itu telah lepas dari tangan Li Mochou. Dani akan memastikan ia kembali kepa
 - Jubah kelabu baru dikenakan sesudah dua bulan latihan. Lengan kanan Dani tetap hilang di atas siku; tangan kiri menopang Polu, Xuantie terikat di punggung selama penyelamatan.
 - Polu yang dibawa Li adalah bayi dari Bab 15. Dani mengambilnya ketika Li dan Huang Rong bertarung, lalu membawanya ke Makam Kuno; ia belum mengembalikan bayi ataupun mengungkap identitas kepada keluarga Guo.
 - Kilas balik Xiaolongnü–Zhou terjadi pada awal pemulihan Dani. Zhao bersekutu dengan Jinlun untuk menjebak Zhou memakai laba-laba beracun; pelajaran Dua Tangan dan bantuan lebah mempertahankan rangka utama kanon.
-- Laporan Dani ditusuk dan dijatuhkan berasal dari Huodu, disampaikan Jinlun di hadapan Xiaolongnü dan Zhou: tambahan asli Saga. Zhou bukan saksi kematian dan tidak mengesahkan laporan itu; pencarian Xiaolongnü tidak menemukan Dani atau jasadnya.
+- Laporan Dani ditusuk dan dijatuhkan berasal dari Huodu, disampaikan Jinlun di hadapan Xiaolongnü dan Zhou: tambahan asli Saga. Zhou bukan saksi kematian dan tidak mengesahkan laporan itu; pencarian Xiaolongnü tidak menemukan Dani atau jasadnya. Xiaolongnü belum mengetahui lengan kanan Dani putus maupun perbuatan Fu yang menyebabkannya.
 - Selama lima tetua berlatih tertutup, Zhao menguasai urusan Quanzhen dengan dukungan Mongol. Zhen tetap menjadi sasaran atas perbuatannya dalam lore; tidak ditambahkan pemerkosaan yang sudah digagalkan Dani.
 - Pelajaran Dua Tangan memberi dasar pedang ganda; pertempuran Quanzhen, pengungkapan Dani hidup kepada Xiaolongnü, kematian Zhen/Zhao, dan pernikahan belum ditulis di bab ini. Tapak Melankolis dan rahasia Kang tetap belum dibuka.
