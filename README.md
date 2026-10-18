@@ -1,8 +1,16 @@
-# Saga Dani Moan — Bab 1–16
+# Saga Dani Moan — Bab 1–20
 
 Novel wuxia berilustrasi karya Daniel Halomoan Siregar.
 
 **Baca langsung:** https://daniel100703.github.io/DanimoanSaga/
+
+## Publikasi terbaru — 18 Oktober 2026
+
+**Bab 20 sudah terbit:** [Racun di Rumah Mereka](https://daniel100703.github.io/DanimoanSaga/bab-20.html), sekitar 2.870 kata dengan satu ilustrasi pembuka dan dua adegan. [Naskah Bab 20 di repositori](bab-20.md). Halaman, gambar, dan wiki telah diperiksa pada situs publik. Commit penerbitan: `932fec9915508a9ad36ec05ab90722b445b24a0a`.
+
+Revisi [Bab 18](https://daniel100703.github.io/DanimoanSaga/bab-18.html) dan [Bab 19](https://daniel100703.github.io/DanimoanSaga/bab-19.html) juga sudah terbit, termasuk koreksi pengetahuan Xiaolongnü, posisi duel, dan gambar pernikahan di dalam aula.
+
+**Berikutnya:** [Peta Bab 21 — Tujuh Hari](https://daniel100703.github.io/DanimoanSaga/peta-bab-21.html), untuk ditinjau penulis; memuat bocoran. Peta sudah diunggah, sedangkan naskah Bab 21 belum ditulis. Publikasi bab dan revisi mengikuti izin unggah tetap dari penulis.
 
 ## Edisi revisi Bab 1–10
 
@@ -100,7 +108,7 @@ Repositori ini adalah situs statis; Python dipakai hanya saat menyusun halaman. 
 python3 build.py
 ```
 
-Perintah itu membangun `index.html`, `wiki.html`, peta editorial Bab 11–15, dan semua `bab-XX.html` dari `book.json`, `bab-XX.md`, serta `lore-data.json`. Catatan kontinuitas penulis tetap di Markdown dan tidak masuk ke halaman bacaan.
+Perintah itu membangun `index.html`, `wiki.html`, peta editorial Bab 11–21, dan semua `bab-XX.html` dari `book.json`, `bab-XX.md`, serta `lore-data.json`. Catatan kontinuitas penulis tetap di Markdown dan tidak masuk ke halaman bacaan.
 
 Untuk satu berkas HTML yang dapat dibaca tanpa internet:
 
