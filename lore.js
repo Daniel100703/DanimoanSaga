@@ -15,7 +15,18 @@
   let progress = 0, opener = null, savedY = 0, observer;
   const esc = value => String(value).replace(/[&<>"']/g, ch => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[ch]));
   const href = (page, anchor = '') => single ? '#' + page + (anchor ? '/' + anchor : '') : (page === 'beranda' ? 'index' : page) + '.html' + (anchor ? '#' + anchor : '');
-  const stage = (e, key) => e.stages.filter(s => s.key <= key).at(-1);
+  // Ilmu yang sudah dipelajari dan tingkat bertahan sampai ada pembaruan.
+  // Kondisi, lokasi, senjata yang dipegang, dan pengetahuan tidak diwariskan.
+  const combatFields = ['Tingkat', 'Ilmu yang terlihat'];
+  const stage = (e, key) => {
+    const known = e.stages.filter(s => s.key <= key), latest = known.at(-1);
+    if (!latest) return undefined;
+    const retained = {};
+    for (const s of known) for (const name of combatFields) {
+      if (Object.hasOwn(s.fields, name)) retained[name] = s.fields[name];
+    }
+    return {...latest, fields: {...retained, ...latest.fields}};
+  };
   // Samaran baru terhubung dengan identitas asli sesudah adegan pengungkapan.
   const resolveEntry = (e, key) => e.revealedAs && key >= e.revealedAs.key ? (byId.get(e.revealedAs.id) || e) : e;
   const relationship = (e, key) => (e.relationships || []).filter(r => r.key <= key).at(-1);
@@ -59,7 +70,7 @@
   function card(e, key, detailed = false) {
     e = resolveEntry(e, key);
     const s = stage(e,key); if (!s) return '';
-    const fields = Object.entries(s.fields);
+    const fields = Object.entries(s.fields).sort(([a], [b]) => (a === 'Tingkat' ? -1 : b === 'Tingkat' ? 1 : 0));
     const limit = detailed ? fields : fields.filter(([k]) => ['Tingkat','Ilmu yang terlihat','Bahaya teramati','Kondisi','Dampak teramati','Dampak','Risiko terbukti'].includes(k)).slice(0,3);
     const heading = detailed ? 'h2' : 'h3';
     const age=s.fields['Usia sekarang'] || s.fields['Usia'] || (s.fields['Usia saat diperkenalkan']?'Saat diperkenalkan: '+s.fields['Usia saat diperkenalkan']:'');
@@ -69,6 +80,11 @@
     const stages=e.stages.filter(s=>s.key<=key);
     const current=stages.at(-1), first=stages[0];
     const list = current===first ? [first] : [first,current];
+    for (const name of combatFields) {
+      const source = stages.filter(s => Object.hasOwn(s.fields, name))
+        .filter((s, i, all) => i === 0 || s.fields[name] !== all[i - 1].fields[name]).at(-1);
+      if (source && !list.some(s => s.key === source.key)) list.push(source);
+    }
     const r=relationship(e,key);
     if(r && !list.some(s=>s.key===r.key))list.push(r);
     list.sort((a,b)=>a.key-b.key);

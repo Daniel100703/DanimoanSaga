@@ -1,47 +1,43 @@
 # Peta Bab 21 — Tujuh Hari
 
-Status: peta untuk ditinjau penulis; belum menjadi naskah Bab 21. Publikasi peta mengikuti izin unggah yang sudah berlaku. Bab 20 sudah terbit di cabang main dan situs, commit 932fec9915508a9ad36ec05ab90722b445b24a0a. Target Bab 21: 2.500–3.500 kata, satu pembuka dan dua ilustrasi adegan.
+Status: peta revisi sesuai arahan penulis 18 Oktober 2026; naskah Bab 21 belum ditulis. Bab 20 sudah terbit. Cakupan diperluas hingga kematian Hong Lingbo dan pertemuan rombongan Dani dengan Qiu Qianchi. Kelanjutan pertemuan menjadi pembuka Bab 22. Unggah mengikuti izin publikasi yang sudah berlaku.
 
-## Pegangan lorebook
+## Koreksi yang berlaku
 
-1. **Babak XI, poin 27; akhir Bab 20:** Dani membawa Polu bersama Xiaolongnü. Mereka telah keluar dari kebakaran, tetapi racun dan luka istrinya belum teratasi.
-2. **Babak XII, poin 1:** permainan salju dan penyamaran sebagai pasangan tua menjadi interlude setelah tragedi makam.
-3. **Babak XII, poin 2; profil Qiu Qianren dan Huodu:** Huodu memanipulasi manusia salju menyerupai He Shiwo; Qiu Qianren ditetapkan buta dan menghancurkannya karena mengira ancaman.
-4. **Babak XII, poin 3–4; profil Yideng:** Yideng memberi obat serta petunjuk tabib, kemudian pasangan kembali menuju Lembah Tanpa Cinta.
-5. **Babak XIV, poin 12–16; aturan jalur A:** pembongkaran Huodu sebagai He Shiwo tetap untuk arc sesudah tujuh tahun. Dani kini berusia 19, Xiaolongnü 21; amputasi kanan, Xuantie di kiri, dan Polu sebagai bayi tetap berlaku.
+Ci’en adalah Qiu Qianren yang **gelap mata karena amarah**, bukan kehilangan penglihatan. Arahan terbaru penulis menggantikan pembacaan harfiah kata “buta” pada lorebook dan peta sebelumnya. Ia masih bergulat dengan dorongan membunuh; kemarahannya tidak disederhanakan menjadi salah mendengar ancaman.
+
+Pelaku penghasutan pada insiden manusia salju adalah **Tetua Peng**, bersama seorang pengemis kurus. Huodu dikeluarkan dari insiden ini. Alur penyamarannya sebagai He Shiwo tetap berada pada bagian cerita yang sudah ditentukan dalam lore.
 
 ## Peta lima bagian
 
-| Bagian | Peristiwa dan tokoh | Perubahan hubungan dan penyesuaian |
+| Bagian | Urutan adegan | Arah adaptasi Saga |
 | --- | --- | --- |
-| 1. Menjadi tua untuk sehari | Dari ceruk akhir Bab 20, Dani dan Xiaolongnü mencari perlindungan di pondok, mengurus Polu, bermain salju sebentar, lalu menyamar sebagai pasangan tua untuk menghindari perhatian orang persilatan. | Kehangatan muncul dari membayangkan hidup bersama sampai tua. Xiaolongnü tetap sakit; permainan singkat tidak berarti sembuh. Polu berada di tempat hangat, bukan diletakkan di salju. |
-| 2. Manusia salju yang disalahartikan | Huodu, dalam penyamaran yang belum terbongkar, mengubah manusia salju menyerupai He Shiwo dan memancing Ci’en/Qiu Qianren yang datang bersama Yideng. Ci’en menghancurkan patung karena mengira ada ancaman. | Mengikuti penyimpangan lore. Karena Ci’en buta, pemicu harus berasal dari pendengaran; mekanisme suara di dekat patung diajukan untuk ditinjau di bawah. Identitas Huodu tidak dibocorkan kepada Dani. |
-| 3. Xuantie menghadapi Tapak Besi | Kekacauan itu membangkitkan amuk Ci’en. Yideng berusaha menghentikannya dan terluka; Dani maju dengan Xuantie, menundukkannya, lalu menghentikan serangan atas campur tangan Yideng. Xiaolongnü dan Polu berada di luar jalur duel. | Pertolongan membangun kepercayaan Dani–Yideng. Ini penghubung kanon yang tidak dirinci dalam lorebook. Kemenangan memakai pedang berat; bukan pernyataan bahwa tenaga telanjang Dani telah mengungguli seluruh tetua. |
-| 4. Obat yang membeli waktu | Yideng memeriksa Xiaolongnü dan memberi obat penahan racun dengan batas tujuh hari, lalu mengarahkan mereka kepada Biksu Tianzhu di Lembah Tanpa Cinta. Dani memohon pertolongan; Xiaolongnü lebih mengkhawatirkan kesedihan suaminya daripada dirinya sendiri. | Obat memberi kesempatan mencari pertolongan, bukan kesembuhan. Batas tujuh hari mengikuti acuan kanon. Yideng tidak menjamin keberhasilan tabib. |
-| 5. Kembali ke lembah | Mereka berangkat bersama Yideng dan Ci’en. Zhou Botong muncul di perjalanan, membantu Xiaolongnü saat adu kecepatan dengan Ci’en, lalu menghindari Yideng. Dani membawa Polu dengan gendongan yang aman. Bab berakhir ketika mereka benar-benar mencapai jalan masuk lembah. | Kehadiran Zhou dan bantuan lewat peti kitab diambil sebagai penghubung kanon; tidak dirinci pada Babak XII lore. Pertemuan ini tidak mengubah fakta bahwa Zhou absen dari reuni/pernikahan Bab 19. Pertempuran ladang bunga dimulai dalam arc berikutnya. |
+| 1. Menjadi tua untuk sehari | Pondok bersalju; penyamaran pasangan tua; Peng dan pengemis kurus datang. Pengemis kurus yang ditotok tersembunyi dalam manusia salju. | Sambung dari tempat berlindung akhir Bab 20. Beri ruang keintiman Dani–Xiaolongnü sebelum kekerasan kembali masuk. Polu tetap hangat dan terurus. |
+| 2. Amarah Ci’en | Peng memengaruhi Ci’en melalui ilmu hipnosis. Ci’en membunuh pengemis dalam salju, kemudian Peng; amuknya beralih kepada Yideng. Dani melindungi Yideng dengan Xuantie; Yideng menghentikan akhir duel. | Amuk harus mempunyai pemicu dan akibat, bukan sekadar demonstrasi ilmu. Dani kini sanggup menghadapi pertarungan besar. Xiaolongnü dan Polu berada di luar lintasan serangan. |
+| 3. Waktu yang tersisa | Obat Yideng memberi tujuh hari. Rombongan menuju Lembah Tanpa Cinta; Zhou Botong membantu Xiaolongnü dalam adu kecepatan dengan Ci’en, lalu menghindari Yideng. | Perjalanan diringkas secukupnya agar bab mencapai konflik lembah. Kelembutan pasangan tetap hadir di sela kecemasan. Pertolongan sementara tidak dijadikan kesembuhan. |
+| 4. Harga sebuah penyelamatan | Dani menyelamatkan Cheng Ying dan Wushuang, terkena duri lagi. Rombongan Huang Rong bertemu mereka; Polu dikembalikan. Li memakai Hong Lingbo sebagai pijakan; Hong mencengkeram kakinya, Li menendangnya hingga tewas, lalu jatuh terkena racun. | Jangan berhenti pada kedatangan di lembah. Beri ruang reaksi kedua perempuan terhadap Dani yang kehilangan lengan, benturan dengan Fu, serta duka Wushuang kepada Hong. Hong mempunyai ikatan dan nasib, bukan sekadar alat untuk menjebak Li. |
+| 5. Di hadapan Qiu Qianchi | Konfrontasi dengan Li terputus oleh kedatangan Lü’e. Ia mengantar rombongan ke aula Qiu Qianchi; Ci’en dan adiknya saling mengenali. | Akhir bab berada **di dalam pertemuan**, bukan di gerbang. Dani, Xiaolongnü, Huang Rong dan Ci’en benar-benar sudah berhadapan dengan Qiu. Hentikan setelah pengenalan itu; tuntutan dan pertentangan berikutnya masuk Bab 22. |
 
-## Perbedaan kanon dan lore yang perlu jelas
+## Detail yang harus dijaga saat menulis
 
-Dalam acuan ROCH bab 30 yang diperiksa, Peng yang memanipulasi Ci’en dalam insiden manusia salju; Ci’en juga masih dapat melihat. Lore Saga secara tegas memakai Huodu serta menetapkan Qiu Qianren buta. Peta mengikuti lore dan tidak menyebut kedua perubahan ini sebagai kanon asli.
+- **Hubungan dan dialog:** sisakan percakapan penting, bukan merangkum semua reaksi menjadi penjelasan narator. Dani memanggil Xiaolongnü “Bibi”; kasih sayangnya tetap terasa dalam tindakan dan pilihan kata. Harapan hidup bersama menjadi benang emosi dari pondok sampai lembah.
+- **Kekuatan Dani:** tingkat 4, Grandmaster, hasil latihan pedang berat yang sudah diperlihatkan. Xuantie terasa berat dan menghancurkan; pertarungan harus memperlihatkan perkembangan ini. Tingkat 5 atau Tapak Melankolis tidak diberikan lebih awal.
+- **Satu tangan:** kanan putus di atas siku; kiri memegang Xuantie. Saat menyelamatkan dua orang, penempatan pedang dan bantuan pegangan Cheng Ying harus jelas. Jangan membuat Dani sekaligus mengayun pedang, menggendong bayi, dan membawa dua perempuan dengan tangan kiri yang sama.
+- **Xiaolongnü:** usia 21, masih menderita akibat rangkaian luka Bab 19–20. Kemampuan dasar tingkat 4 tetap ada, sedangkan tenaga yang dapat dipakai bergantung pada keadaan tubuhnya. Bab tidak menghapus pengobatan yang gagal dalam makam.
+- **Polu:** bayi sekitar dua bulan, bukan Xiang. Sebelum pertarungan atau penyelamatan, jelaskan siapa yang menopangnya. Pengembalian kepada Huang Rong harus tampak dalam adegan; ini menuntaskan perjalanan bayi sejak Bab 18. Guo Xiang tetap anak sepuluh tahun.
+- **Racun Dani:** paparan baru memperburuk ancaman yang belum selesai. Ucapan Dani untuk menenangkan orang lain tidak boleh diperlakukan narator sebagai bukti bahwa racun tambahan tidak berbahaya.
+- **Hong dan Li:** Hong Lingbo mati pada bab ini. Li Mochou terkena racun tetapi masih hidup. Jangan langsung melompat ke kematian Li dalam kebakaran atau menggabungkannya dengan nasib Hong.
+- **Pertemuan keluarga Qiu:** Ci’en dan Qiu Qianchi adalah dua tokoh berbeda, dan sama-sama hadir pada akhir bab. Luka lama keluarga mereka memberi tekanan untuk kelanjutan, tetapi jangan menyelesaikan seluruh urusan lembah dalam satu penutup.
+- **Kontinuitas lain:** Dani berusia 19. Jubah kelabu menutup sisi amputasi, dengan bekas kebakaran Bab 20 diperhitungkan. Pedang Perempuan belum dinyatakan kembali dari Quanzhen. Zhou tidak mendadak menjadi saksi pernikahan Bab 19. Guo Jing tidak muncul di rombongan tanpa perjalanan yang mendasarinya.
 
-**Usulan mekanisme manusia salju — tidak ada di lorebook:** Huodu memancing pendengaran Ci’en melalui suara di dekat patung, lalu berpindah sebelum serangan datang. Ci’en menyangka ancaman masih berada pada arah suara itu. Bentuk He Shiwo hanya dapat dinilai oleh tokoh yang melihat, bukan oleh Ci’en. Ini penghubung untuk ditinjau bersama peta, belum keputusan naskah. Tidak menambahkan ilmu hipnosis kepada Huodu atau korban manusia di dalam patung.
+## Batas Bab 22
 
-Nama Huodu dalam peta merupakan informasi editorial. Naskah tetap menyamarkan pelakunya; Dani tidak mendadak mengetahui identitas He Shiwo sebelum waktunya. Lolosnya penghasut harus selesai dalam rangkaian insiden, bukan menghilang tanpa transisi.
-
-Amuk Ci’en, duel, bantuan Zhou, dan batas obat tujuh hari melengkapi rangka kanon. Semua bagian yang tidak dirinci dalam lore ditandai sebagai usulan peta, sehingga dapat ditinjau sebelum penulisan. Pembatasan ini menyangkut isi cerita, bukan izin unggah GitHub.
-
-## Kontinuitas yang dikunci
-
-- Malam pertama dimulai dari tempat berlindung di luar kebakaran. Perpindahan ke pondok diberi penghubung singkat; pasangan tidak tiba-tiba kembali tinggal di makam.
-- Urutan luka tetap: Quanzhen, racun tapak Li, lalu gangguan jarum Fu. Obat Yideng menahan keadaan untuk sementara. Racun Bunga Cinta Dani tidak otomatis dinyatakan sembuh.
-- Dani bertarung dengan tangan kiri; amputasi kanan tetap di bawah jubah. Ketika duel, Xiaolongnü dan Polu telah berada di tempat aman. Ketika perjalanan, gendongan Polu tidak berpindah pemilik tanpa dijelaskan.
-- Karena Ci’en buta, kemenangan Dani tidak memakai salju yang membutakan mata. Penempatan Xuantie dan perubahan tumpuan mengakhiri duel. Adu kecepatan juga tidak mengharuskannya melihat Xiaolongnü atau Zhou.
-- Kembalinya tenaga Xiaolongnü sesudah obat bersifat sementara. Kehadirannya dalam adegan kecepatan tidak menghapus penyakitnya; bantuan Zhou tetap berperan.
-- Saat menuju lembah, rombongan pencari bayi belum tiba-tiba menerima Polu. Guo Jing tidak dimunculkan tanpa perjalanan dan sumber kabar. Li Mochou, Gongsun Zhi, serta Qiu Qianren belum tewas.
-- Rahasia Kang Moan, Tapak Melankolis, pembongkaran Huodu, janji perpisahan tujuh tahun, dan kematian tokoh-tokoh lembah belum masuk Bab 21. Pedang Perempuan juga belum kembali dari Quanzhen.
+Bab 22 melanjutkan percakapan di aula: tuntutan Qiu Qianchi, persoalan penawar, sikap Dani sebagai suami Xiaolongnü, dan peran Gongsun Lü’e. Penyelamatan Biksu Tianzhu dan Zhu Ziliu serta rangkaian tragedi berikutnya disusun dalam peta Bab 22. Kematian Lü’e, Gongsun Zhi, Qiu Qianchi, Li Mochou, dan perpisahan di tebing tidak dipadatkan ke akhir Bab 21. Qiu Qianren tetap hidup untuk alur berikutnya sesuai lore penulis.
 
 ## Rencana visual
 
-Satu pembuka: pasangan menyamar tua di pondok bersalju, dengan Polu terlindung. Dua adegan: Xuantie menghadapi Tapak Besi di luar pondok; Yideng memeriksa Xiaolongnü dan menyerahkan obat sementara Dani berada di sisinya. Kartu pengenalan Yideng dan Ci’en memakai potongan ilustrasi adegan, tanpa membuat potret tambahan. Ilustrasi dibuat saat penulisan bab setelah peta ditinjau.
+Satu pembuka: pasangan yang menyamar tua di pondok bersalju, Polu terlindung. Dua ilustrasi adegan: Dani dengan Xuantie menghadapi Ci’en; penyelamatan di ladang Bunga Cinta. Xuantie harus berupa bilah besar, lebar dan pipih, bukan tongkat. Tubuh utuh secara anatomi; amputasi kanan konsisten; posisi kiri dan gendongan tidak bertabrakan. Ilustrasi dibuat bersama naskah, setelah peta ditinjau.
 
-Acuan pemeriksaan: [ROCH bab 30 — Strange Encounters, terjemahan BeeDreamer](https://foxswuxia.wordpress.com/condor-trilogy-divine-eagle-gallant-knights/sdxl-chapter-30/). Dialog bab nantinya ditulis dalam bahasa Saga, bukan menyalin terjemahan.
+## Pegangan penulisan
+
+Urutan utama mengikuti ROCH, dengan pergantian Yang Guo menjadi Dani serta penyesuaian usia, Polu, riwayat luka, kemampuan dan hubungan sesuai lore Saga. Koreksi penulis pada 18 Oktober menggantikan bagian lama tentang Ci’en buta dan keterlibatan Huodu dalam manusia salju. Rujukan: [ROCH bab 30 — Strange Encounters, terjemahan BeeDreamer](https://foxswuxia.wordpress.com/condor-trilogy-divine-eagle-gallant-knights/sdxl-chapter-30/); lorebook Babak XII poin 1–8. Dialog nantinya ditulis baru dalam bahasa Saga.

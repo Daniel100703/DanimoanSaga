@@ -12,6 +12,8 @@ Revisi [Bab 18](https://daniel100703.github.io/DanimoanSaga/bab-18.html) dan [Ba
 
 **Berikutnya:** [Peta Bab 21 — Tujuh Hari](https://daniel100703.github.io/DanimoanSaga/peta-bab-21.html), untuk ditinjau penulis; memuat bocoran. Peta sudah diunggah, sedangkan naskah Bab 21 belum ditulis. Publikasi bab dan revisi mengikuti izin unggah tetap dari penulis.
 
+**Pembaruan peta dan wiki:** Peta Bab 21 diperluas sampai kematian Hong Lingbo dan pertemuan dengan Qiu Qianchi; Ci’en dikoreksi menjadi gelap mata karena amarah. [Wiki Persilatan](https://daniel100703.github.io/DanimoanSaga/wiki.html) kini mempertahankan tingkat dan ilmu ketika kondisi tokoh berubah: Dani tingkat 4 sejak latihan Xuantie, Xiaolongnü 4, Zhou Botong 5, serta tingkat tokoh lain mengikuti lore. Pilih batas informasi akhir Bab 20 untuk keadaan terbaru. [Catatan koreksi](editorial/revisi-peta-21-dan-wiki.md).
+
 ## Edisi revisi Bab 1–10
 
 - Bab lama 2–3 digabung menjadi **Malapetaka di Kediaman Lu**. Kesembilan ilustrasi dari kedua bab tetap hadir, termasuk kedua pembuka lama.

@@ -36,3 +36,36 @@ assert(!afterReveal.includes('bab-02-ilustrasi-01.webp'));
 assert(!api.card(byId('shagu'),130042));assert(api.card(byId('shagu'),130043).includes('Shagu'));
 assert(!api.card(byId('feng-mofeng'),130088));assert(api.card(byId('feng-mofeng'),130089).includes('Feng Mofeng'));
 console.log('PASS: chapter 13 reveal boundary, adult portrait, new-character introduction gates.');
+
+// Regresi: pembaruan luka/lokasi sejak Bab 17 pernah menghilangkan tingkat dan ilmu.
+const dani=byId('dani'),long=byId('xiaolongnu');
+assert(api.stage(dani,170047).fields.Tingkat.startsWith('3 ·'));
+assert(api.stage(dani,170048).fields.Tingkat.startsWith('4 ·'));
+for(const key of [170102,180090,190137,200120]) {
+ assert(api.card(dani,key).includes('4 · Grandmaster'));
+ assert(api.card(dani,key).includes('Pedang Berat Xuantie'));
+}
+assert(api.card(dani,200120,true).includes('bab-17.html#p-17-048'));
+assert(!api.stage(long,180071).fields['Ilmu yang terlihat'].includes('Seni Dua Tangan'));
+assert(api.stage(long,180072).fields['Ilmu yang terlihat'].includes('Seni Dua Tangan'));
+assert(api.card(long,200120).includes('4 · Grandmaster'));
+assert(api.card(long,200120).includes('sangat lemah'));
+assert(!api.card(long,200120,true).includes('Kedua lengan masih utuh'));
+assert(api.card(byId('zhou-botong'),200120).includes('5 · Tak Tertandingi'));
+assert(api.card(byId('jinlun'),190137).includes('4–5'));
+assert(api.card(byId('jinlun'),190137,true).includes('jarum'));
+assert(!api.card(dani,170047).includes('4 · Grandmaster'));
+// Sebuah pembaruan kondisi mendatang tidak boleh menghapus tingkat atau membawa lokasi lama.
+const sample={type:'tokoh',id:'contoh',stages:[
+ {key:10001,title:'Contoh',summary:'',fields:{Tingkat:'4 · Grandmaster','Ilmu yang terlihat':'Pedang','Kondisi':'Sehat','Lokasi':'Makam'}},
+ {key:10002,title:'Contoh',summary:'',fields:{Kondisi:'Terluka'}}
+]};
+assert.strictEqual(api.stage(sample,10002).fields.Tingkat,'4 · Grandmaster');
+assert.strictEqual(api.stage(sample,10002).fields.Kondisi,'Terluka');
+assert(!Object.hasOwn(api.stage(sample,10002).fields,'Lokasi'));
+assert(!api.stage(sample,10000));
+for(const e of data.entries.filter(e=>e.type==='tokoh')) {
+ const s=api.stage(e,200120);
+ assert(s.fields.Tingkat,`${e.id}: tingkat mutakhir hilang`);
+}
+console.log('PASS: chapter 17–20 combat progression, evidence, injury separation, future boundaries and current character tiers.');

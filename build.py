@@ -110,7 +110,7 @@ def standalone(path):
     css=re.sub(r"url\('([^']+)'\)",lambda m:"url('"+uri(BASE/m[1])+"')",css)
     doc=doc.replace('<link rel="stylesheet" href="reader.css?v=20261010cards">','<style>'+css+'</style>')
     doc=doc.replace('<script src="reader.js?v=20261012shared"></script>','<script>'+(BASE/'reader.js').read_text(encoding='utf-8')+'</script>')
-    doc=doc.replace('<script src="lore.js?v=20261013portraits"></script>','<script>'+(BASE/'lore.js').read_text(encoding='utf-8')+'</script>')
+    doc=doc.replace('<script src="lore.js?v=20261018levels"></script>','<script>'+(BASE/'lore.js').read_text(encoding='utf-8')+'</script>')
     cache={}
     def embed(m):
         name=m[2]
