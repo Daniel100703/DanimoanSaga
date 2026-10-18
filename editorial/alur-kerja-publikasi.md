@@ -2,7 +2,7 @@
 
 Kakanda menegaskan bahwa publikasi ke repositori publik `Daniel100703/DanimoanSaga` dan situs GitHub Pages merupakan bagian dari alur kerja novel. Revisi bab, gambar pengganti, integrasi pembaca/wiki, serta peta bab yang diminta harus diunggah setelah selesai diperiksa. Jangan meminta izin publikasi ulang untuk pekerjaan dalam lingkup ini.
 
-Persetujuan penulis berlaku pada **peta sebelum penulisan naskah bab berikutnya**, bukan permintaan izin GitHub pada setiap revisi. Bab 20 saat ini baru berupa peta untuk ditinjau; jangan menulis naskahnya sampai peta disetujui atau penulis langsung memerintahkan penulisan.
+Persetujuan penulis berlaku pada **peta sebelum penulisan naskah bab berikutnya**, bukan permintaan izin GitHub pada setiap revisi. Pada 17 Oktober 2026 penulis langsung memerintahkan penulisan Bab 20 sekaligus menegaskan kembali alur unggah ke GitHub. Perintah tersebut mengesahkan penulisan dan penerbitan Bab 20 tanpa konfirmasi tambahan. Bab 20 kini telah ditulis lengkap beserta tiga ilustrasi.
 
 Sebelum memperbarui cabang utama, baca commit terbaru dan pertahankan perubahan pihak lain. Sesudah unggah, pastikan pembaruan situs benar-benar tersedia sebelum menyebutnya telah terbit.
 

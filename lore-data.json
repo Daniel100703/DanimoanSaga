@@ -20,7 +20,8 @@
     "16": 127,
     "17": 102,
     "18": 91,
-    "19": 137
+    "19": 137,
+    "20": 120
   },
   "entries": [
     {
@@ -1250,6 +1251,59 @@
           "chapter": 19,
           "paragraph": "p-19-137",
           "quote": "Dani menyambutnya dengan tangan kiri. Di sebelah mereka Polu kembali tenang. Dari ruang tinggal makam yang sunyi, tidak terdengar lagi dentang senjata atau orang-orang yang menyuruh mereka berpisah.\n"
+        },
+        {
+          "title": "Dani Moan",
+          "summary": "Merawat istrinya di Makam Kuno dan melihat kemajuan kecil.",
+          "fields": {
+            "Usia sekarang": "19 tahun",
+            "Kondisi": "Lengan kanan tetap terputus; kiri menjalankan pengobatan.",
+            "Hubungan": "Suami Xiaolongnü; ikut mengurus Polu.",
+            "Batas": "Luka Xiaolongnü belum sembuh; racun Bunga Cinta Dani tidak dinyatakan hilang."
+          },
+          "key": 200006,
+          "chapter": 20,
+          "paragraph": "p-20-006",
+          "quote": "Di atas Ranjang Giok Dingin, telapak kiri Dani bertemu telapak istrinya. Luka akibat tenaga para tetua dan serangan Jinlun masih menyumbat aliran napas Xiaolongnü. Mereka mencoba membukanya perlahan, memadukan dasar ilmu Makam Kuno dengan petunjuk pengaturan napas Sembilan Yin yang pernah mereka pelajari. Kemajuan kecil membuat Dani berani membayangkan hari ketika mereka tidak perlu menghitung setiap tarikan napas."
+        },
+        {
+          "title": "Dani Moan",
+          "summary": "Mengalihkan tenaga lawan saat hanya tangan kiri dapat bertarung.",
+          "fields": {
+            "Kondisi": "Kanan tetap terputus; kaki kanan sempat menjaga hubungan pengobatan dengan Xiaolongnü.",
+            "Akibat": "Tenaga Li membuka sumbatan, tetapi racunnya juga masuk.",
+            "Batas": "Kecerdikan tidak membuat Dani atau istrinya kebal racun."
+          },
+          "key": 200048,
+          "chapter": 20,
+          "paragraph": "p-20-048",
+          "quote": "Dani memutus sentuhan dengan Li sebelum racun bertambah banyak. Ia meraih Xuantie yang disandarkan dekat ranjang dan memaksa Li mundur dengan satu sapuan. Xiaolongnü telah melepaskan kakinya; kedua tangannya kembali menekan dada. Sumbatan lama terbuka, tetapi racun ikut memasuki jalan yang baru dilewati tenaga."
+        },
+        {
+          "title": "Dani Moan",
+          "summary": "Kaki kanan terkena jarum dan pengobatan istrinya terputus.",
+          "fields": {
+            "Kondisi": "Lengan kanan tetap terputus; kaki kanan terluka oleh Jarum Es.",
+            "Akibat": "Hubungan telapak terlepas saat racun hampir keluar."
+          },
+          "key": 200076,
+          "chapter": 20,
+          "paragraph": "p-20-076",
+          "quote": "Jarum pertama menancap di kaki kanan Dani. Jarum kedua mengenai bahu kiri Xiaolongnü. Rasa nyeri menyentak tubuh mereka; telapak terlepas. Racun yang hampir keluar berbalik menghantam aliran yang belum pulih. Xiaolongnü terkulai dengan darah mengalir di sudut bibir."
+        },
+        {
+          "title": "Dani Moan",
+          "summary": "Mencapai tempat berlindung bersama istri dan Polu setelah kebakaran.",
+          "fields": {
+            "Usia sekarang": "19 tahun",
+            "Kondisi": "Kanan tetap terputus; telapak kiri memerah dan jubah hangus setelah penyelamatan.",
+            "Senjata": "Xuantie dibawa di punggung.",
+            "Batas": "Tapak Melankolis belum tercipta; racun Bunga Cinta belum diselesaikan."
+          },
+          "key": 200116,
+          "chapter": 20,
+          "paragraph": "p-20-116",
+          "quote": "Menjelang malam mereka mencapai ceruk batu di seberang punggung bukit. Udara di sana bersih dari asap. Dani membaringkan Polu di atas lipatan kain, kemudian duduk di samping istrinya. Cahaya kebakaran masih memerah di langit belakang mereka, tetapi tidak lagi menerangi wajah Xiaolongnü."
         }
       ],
       "portraits": [
@@ -1566,6 +1620,21 @@
             0.565,
             0.245
           ]
+        },
+        {
+          "key": 200006,
+          "image": {
+            "file": "bab-20-pembuka.webp",
+            "width": 1024,
+            "height": 1536,
+            "version": "4ed1298b2086"
+          },
+          "roi": [
+            0.237,
+            0.066,
+            0.452,
+            0.229
+          ]
         }
       ],
       "relationships": [
@@ -1792,6 +1861,14 @@
           "chapter": 19,
           "paragraph": "p-19-098",
           "quote": "“Dan engkau istriku.”"
+        },
+        {
+          "status": "Suami yang tetap mendampingi",
+          "explanation": "Berjanji mencari pertolongan bersama Xiaolongnü, bukan meninggalkannya untuk mencari seorang diri.",
+          "key": 200119,
+          "chapter": 20,
+          "paragraph": "p-20-119",
+          "quote": "“Kita berangkat bersama.”"
         }
       ]
     },
@@ -2682,6 +2759,42 @@
           "chapter": 18,
           "paragraph": "p-18-028",
           "quote": "Li menoleh. Huang Rong ikut melihat ceruk yang kosong, dan untuk sesaat mereka bergerak ke arah yang sama. Namun kebutan Li masih melintang di depan tongkat. Huang Rong menepisnya dengan marah; benturan itu memberi Dani waktu untuk mencapai tikungan berbatu."
+        },
+        {
+          "title": "Li Mochou",
+          "summary": "Menjebak lima anggota rombongan dalam ruang batu.",
+          "fields": {
+            "Tindakan": "Menutup pintu setelah memimpin mereka melalui air; jarum menahan usaha Yelü Qi keluar.",
+            "Tawanan": "Fu, Yelü Qi, Wu Santong, Wu Dunru, dan Wu Xiuwen."
+          },
+          "key": 200034,
+          "chapter": 20,
+          "paragraph": "p-20-034",
+          "quote": "Setelah melewati air dan lorong gelap, kelima orang itu tiba dalam sebuah ruang batu. Li menyuruh mereka menunggu sementara ia memeriksa jalan. Yelü Qi baru merasa ada yang ganjil ketika pintu mulai turun. Ia menerjang; kilatan jarum memaksanya berbalik melindungi Fu."
+        },
+        {
+          "title": "Li Mochou",
+          "summary": "Terjebak dalam peti kosong setelah tertipu umpan kitab.",
+          "fields": {
+            "Kondisi": "Hidup; terkurung di bawah tutup batu yang ditindih peti kosong lain.",
+            "Batas": "Tidak memperoleh sutra; benda umpan hanya sepatu Dani."
+          },
+          "key": 200056,
+          "chapter": 20,
+          "paragraph": "p-20-056",
+          "quote": "Dani bergerak sebelum jari Li menyentuh kulit sepatu. Xuantie menyelip di bawah tutup batu; dengan bilah sebagai pengungkit, ia menggesernya menutup peti. Hantaman dari dalam hampir membuka celah, tetapi Dani sudah mendorong peti kosong di sebelahnya hingga bertumpuk melintang di atas penutup itu. Lantai berderit. Li terkurung di bawah beban batu."
+        },
+        {
+          "title": "Li Mochou",
+          "summary": "Lolos dari peti yang penutupnya telah retak.",
+          "fields": {
+            "Kondisi": "Masih hidup dan dapat bertarung.",
+            "Tindakan": "Melempar batu penyangga, melompat keluar, lalu memadamkan lampu."
+          },
+          "key": 200098,
+          "chapter": 20,
+          "paragraph": "p-20-098",
+          "quote": "Mereka menyingkir dari jalan. Suara langkah Dani menghilang dalam lorong. Ketika Wu Santong hendak menyusul, batu penyangga melesat keluar dari peti yang retak. Ia menangkisnya dengan bahu sambil mendorong kedua putranya menjauh. Li Mochou melompat dari celah yang terbuka dan menyambar lampu. Dalam kegelapan sesudahnya, kebutannya memaksa mereka berpencar."
         }
       ],
       "portraits": [
@@ -3716,6 +3829,30 @@
           "chapter": 18,
           "paragraph": "p-18-029",
           "quote": "“Kembalikan anakku!” seru Huang Rong."
+        },
+        {
+          "title": "Huang Rong",
+          "summary": "Mengetahui Dani hidup dan menghubungkannya dengan pembawa Polu.",
+          "fields": {
+            "Pengetahuan": "Qiu Chuji mengabarkan Dani hidup dan sudah menikah; sosok kelabu Bab 18 baru dikenali melalui kabar ini.",
+            "Batas": "Belum bertemu Dani atau menemukan Polu secara langsung."
+          },
+          "key": 200028,
+          "chapter": 20,
+          "paragraph": "p-20-028",
+          "quote": "Huang Rong memejamkan mata sejenak. Sosok berjubah kelabu yang dahulu mengambil Polu kini memperoleh nama. Namun kelegaan itu segera disusul ingatan tentang lengan yang ditebas putrinya. Di sampingnya, Wu Santong mendengar penjelasan singkat itu dengan wajah mengeras."
+        },
+        {
+          "title": "Huang Rong",
+          "summary": "Menunggu di luar makam bersama Yelü Yan dan Wanyan Ping.",
+          "fields": {
+            "Kondisi": "Belum lama melahirkan; tidak ikut penyelaman.",
+            "Batas": "Tidak menyaksikan serangan Li atau kesalahan jarum Fu di dalam makam."
+          },
+          "key": 200032,
+          "chapter": 20,
+          "paragraph": "p-20-032",
+          "quote": "Li Mochou membawa mereka ke aliran air yang menyembunyikan jalan masuk. Huang Rong, yang belum lama melahirkan, tidak mengikuti penyelaman. Yelü Yan dan Wanyan Ping juga tinggal bersamanya karena tidak mahir berenang. Fu, Yelü Qi, Wu Santong, Wu Dunru, dan Wu Xiuwen masuk mengikuti Li Mochou."
         }
       ],
       "portraits": [
@@ -4160,6 +4297,68 @@
           "chapter": 18,
           "paragraph": "p-18-026",
           "quote": "Fu melihat ujung kain kelabu menghilang di antara daun."
+        },
+        {
+          "title": "Guo Fu",
+          "summary": "Mendengar kabar Dani masih hidup.",
+          "fields": {
+            "Usia sekarang": "17 tahun",
+            "Pengetahuan": "Kabar datang dari Quanzhen; belum berjumpa Dani kembali.",
+            "Kondisi": "Bersama rombongan pencari Polu."
+          },
+          "key": 200026,
+          "chapter": 20,
+          "paragraph": "p-20-026",
+          "quote": "Fu memutih. “Dani masih hidup?”"
+        },
+        {
+          "title": "Guo Fu",
+          "summary": "Memungut dua jarum Li untuk dipakai membalas.",
+          "fields": {
+            "Kondisi": "Telah menemukan Polu; membawa dua jarum beracun.",
+            "Pengetahuan": "Belum mengetahui pasangan sedang mengeluarkan racun."
+          },
+          "key": 200066,
+          "chapter": 20,
+          "paragraph": "p-20-066",
+          "quote": "Di ruang Ranjang Giok Dingin, mereka menemukan bekas perkelahian. Fu melihat jarum-jarum yang tercecer. Dengan saputangan tebal ia memungut dua batang, membungkus pangkalnya, lalu menyimpannya terpisah agar ujung beracun tidak menyentuh kulit."
+        },
+        {
+          "title": "Guo Fu",
+          "summary": "Melempar dua jarum ke dalam peti sebelum memeriksa penghuninya.",
+          "fields": {
+            "Tindakan": "Menyangka orang di dalam peti adalah Li Mochou.",
+            "Sebab": "Bertindak sebelum menunggu jawaban atau melihat sasaran.",
+            "Batas": "Salah sasaran tidak menghapus kecerobohannya."
+          },
+          "key": 200074,
+          "chapter": 20,
+          "paragraph": "p-20-074",
+          "quote": "Fu tidak menunggu. Polu diserahkannya kepada Wu Dunru. Ketika Yelü Qi baru menyentuh tutup peti, Fu mendorongnya lebih jauh dan melontarkan kedua jarum ke dalam kegelapan."
+        },
+        {
+          "title": "Guo Fu",
+          "summary": "Dilumpuhkan Li Mochou di tengah kebakaran.",
+          "fields": {
+            "Kondisi": "Sadar tetapi tidak dapat menggerakkan tangan dan kaki; terancam api.",
+            "Sebab": "Mendekati sosok yang disangka ibunya."
+          },
+          "key": 200103,
+          "chapter": 20,
+          "paragraph": "p-20-103",
+          "quote": "Fu jatuh telentang pada tanah miring. Punggungnya tersangga akar, membuat wajahnya tetap terangkat, tetapi tangan dan kakinya tidak dapat digerakkan. Li meninggalkannya saat nyala api merambat melalui daun-daun kering. Yelü Qi mencoba menyeberangi jalur terdekat; sebuah pohon tumbang di hadapannya, memisahkan mereka."
+        },
+        {
+          "title": "Guo Fu",
+          "summary": "Diselamatkan Dani menuju air lalu ditolong Yelü Qi.",
+          "fields": {
+            "Kondisi": "Hidup; totokan dibuka Yelü Qi setelah ditarik ke tepian.",
+            "Batas": "Dani tidak menyatakan mengampuninya."
+          },
+          "key": 200110,
+          "chapter": 20,
+          "paragraph": "p-20-110",
+          "quote": "Yelü Qi berlari menyusuri tebing kecil, menangkap Fu ketika tubuhnya menghantam air dangkal, lalu menyeretnya ke tepian. Ia membuka totokan gadis itu. Fu terbatuk, berusaha menoleh mencari jubah kelabu di balik asap."
         }
       ],
       "portraits": [
@@ -4218,6 +4417,21 @@
             0.105,
             0.912,
             0.31
+          ]
+        },
+        {
+          "key": 200074,
+          "image": {
+            "file": "bab-20-ilustrasi-01.webp",
+            "width": 1536,
+            "height": 1024,
+            "version": "312d27208614"
+          },
+          "roi": [
+            0.848,
+            0.023,
+            0.945,
+            0.166
           ]
         }
       ],
@@ -4325,6 +4539,22 @@
           "chapter": 17,
           "paragraph": "p-17-090",
           "quote": "Aku tidak akan membunuh orang yang sedang lari karena ketakutan, pikirnya. Tetapi aku belum memaafkanmu, Guo Fu."
+        },
+        {
+          "status": "Kecerobohan kembali melukai orang yang dicintai Dani",
+          "explanation": "Dani menghubungkan serangan baru dengan kehilangan lengannya; tidak ada pengampunan yang dinyatakan.",
+          "key": 200094,
+          "chapter": 20,
+          "paragraph": "p-20-094",
+          "quote": "“Lengan ini sudah kautebas,” kata Dani. “Sekarang engkau masih hendak mengambil apa dariku?”"
+        },
+        {
+          "status": "Berutang nyawa kepada Dani",
+          "explanation": "Dani memenuhi permintaan istrinya dan menyelamatkan Fu, lalu segera kembali kepada Xiaolongnü.",
+          "key": 200110,
+          "chapter": 20,
+          "paragraph": "p-20-110",
+          "quote": "Yelü Qi berlari menyusuri tebing kecil, menangkap Fu ketika tubuhnya menghantam air dangkal, lalu menyeretnya ke tepian. Ia membuka totokan gadis itu. Fu terbatuk, berusaha menoleh mencari jubah kelabu di balik asap."
         }
       ]
     },
@@ -6127,6 +6357,74 @@
           "chapter": 19,
           "paragraph": "p-19-137",
           "quote": "Dani menyambutnya dengan tangan kiri. Di sebelah mereka Polu kembali tenang. Dari ruang tinggal makam yang sunyi, tidak terdengar lagi dentang senjata atau orang-orang yang menyuruh mereka berpisah.\n"
+        },
+        {
+          "title": "Xiaolongnü",
+          "summary": "Pengobatan menunjukkan harapan setelah beberapa hari.",
+          "fields": {
+            "Usia sekarang": "21 tahun",
+            "Kondisi": "Luka tenaga dalam Quanzhen masih menyumbat aliran napas.",
+            "Hubungan": "Istri Dani.",
+            "Batas": "Belum sembuh dan belum terkena racun Li pada tahap ini."
+          },
+          "key": 200006,
+          "chapter": 20,
+          "paragraph": "p-20-006",
+          "quote": "Di atas Ranjang Giok Dingin, telapak kiri Dani bertemu telapak istrinya. Luka akibat tenaga para tetua dan serangan Jinlun masih menyumbat aliran napas Xiaolongnü. Mereka mencoba membukanya perlahan, memadukan dasar ilmu Makam Kuno dengan petunjuk pengaturan napas Sembilan Yin yang pernah mereka pelajari. Kemajuan kecil membuat Dani berani membayangkan hari ketika mereka tidak perlu menghitung setiap tarikan napas."
+        },
+        {
+          "title": "Xiaolongnü",
+          "summary": "Sumbatan lama terbuka, tetapi racun telapak Li memasuki aliran tenaganya.",
+          "fields": {
+            "Kondisi": "Luka Quanzhen belum pulih; kini terkena racun telapak.",
+            "Sebab": "Dani mengalihkan tenaga Li melalui tubuhnya untuk membuka sumbatan.",
+            "Batas": "Belum terkena Jarum Es Fu pada tahap ini."
+          },
+          "key": 200048,
+          "chapter": 20,
+          "paragraph": "p-20-048",
+          "quote": "Dani memutus sentuhan dengan Li sebelum racun bertambah banyak. Ia meraih Xuantie yang disandarkan dekat ranjang dan memaksa Li mundur dengan satu sapuan. Xiaolongnü telah melepaskan kakinya; kedua tangannya kembali menekan dada. Sumbatan lama terbuka, tetapi racun ikut memasuki jalan yang baru dilewati tenaga."
+        },
+        {
+          "title": "Xiaolongnü",
+          "summary": "Jarum Fu memutus pengobatan dan membalikkan racun yang hampir keluar.",
+          "fields": {
+            "Kondisi": "Bahu kiri terkena jarum; racun telapak kembali menyebar melalui aliran tenaga.",
+            "Urutan luka": "Luka Quanzhen → racun telapak Li → gangguan jarum Fu.",
+            "Batas": "Bukan sakit hanya karena luka jarum kecil."
+          },
+          "key": 200076,
+          "chapter": 20,
+          "paragraph": "p-20-076",
+          "quote": "Jarum pertama menancap di kaki kanan Dani. Jarum kedua mengenai bahu kiri Xiaolongnü. Rasa nyeri menyentak tubuh mereka; telapak terlepas. Racun yang hampir keluar berbalik menghantam aliran yang belum pulih. Xiaolongnü terkulai dengan darah mengalir di sudut bibir."
+        },
+        {
+          "title": "Xiaolongnü",
+          "summary": "Mempunyai penawar jarum, tetapi racun telapak tidak terselesaikan.",
+          "fields": {
+            "Kondisi": "Sadar, sangat lemah; luka dan penyebaran racun berat.",
+            "Penawar": "Warisan perguruan untuk Jarum Es.",
+            "Batas": "Tidak dapat membalikkan kerusakan racun telapak melalui obat jarum."
+          },
+          "key": 200082,
+          "chapter": 20,
+          "paragraph": "p-20-082",
+          "quote": "Xiaolongnü mengeluarkan botol kecil dari bajunya. Ia mengenal racun Jarum Es serta penawar yang diwariskan perguruannya, tetapi Tapak Lima Racun merupakan olahan Li sendiri. Obat ini dapat melawan racun jarum; ia tidak dapat menarik kembali racun tapak yang sudah menyebar bersama aliran tenaga yang kacau."
+        },
+        {
+          "title": "Xiaolongnü",
+          "summary": "Keluar dari kawasan kebakaran, tetapi luka dan racun tetap berat.",
+          "fields": {
+            "Usia sekarang": "21 tahun",
+            "Kondisi": "Sadar, sangat lemah; memerlukan pertolongan lebih lanjut.",
+            "Hubungan": "Tetap bersama suaminya, Dani.",
+            "Senjata": "Pedang Perempuan belum diceritakan diambil dari Quanzhen.",
+            "Batas": "Belum bertemu Yideng atau mengalami perpisahan tujuh tahun."
+          },
+          "key": 200116,
+          "chapter": 20,
+          "paragraph": "p-20-116",
+          "quote": "Menjelang malam mereka mencapai ceruk batu di seberang punggung bukit. Udara di sana bersih dari asap. Dani membaringkan Polu di atas lipatan kain, kemudian duduk di samping istrinya. Cahaya kebakaran masih memerah di langit belakang mereka, tetapi tidak lagi menerangi wajah Xiaolongnü."
         }
       ],
       "portraits": [
@@ -6342,6 +6640,21 @@
             0.748,
             0.302
           ]
+        },
+        {
+          "key": 200006,
+          "image": {
+            "file": "bab-20-pembuka.webp",
+            "width": 1024,
+            "height": 1536,
+            "version": "4ed1298b2086"
+          },
+          "roi": [
+            0.574,
+            0.155,
+            0.764,
+            0.3
+          ]
         }
       ],
       "relationships": [
@@ -6528,6 +6841,30 @@
           "chapter": 19,
           "paragraph": "p-19-098",
           "quote": "“Dan engkau istriku.”"
+        },
+        {
+          "status": "Menemani sebagai istri",
+          "explanation": "Menyatakan akan menemani Dani mengembalikan Polu; tidak menyuruhnya menghadapi Fu seorang diri.",
+          "key": 200011,
+          "chapter": 20,
+          "paragraph": "p-20-011",
+          "quote": "“Aku akan menemanimu karena engkau suamiku. Tentang lidahmu, sejak dahulu aku memang tidak pandai menjaganya.”"
+        },
+        {
+          "status": "Menghibur suami dalam keadaan terluka",
+          "explanation": "Mendorong Dani meminum penawar dan tetap menjaga dirinya, meskipun ia sendiri lebih parah.",
+          "key": 200086,
+          "chapter": 20,
+          "paragraph": "p-20-086",
+          "quote": "Xiaolongnü menyentuh rambutnya. “Aku mengetahui engkau telah berusaha. Tetapi kakimu juga terluka. Jangan membuatku harus mencemaskan dua hal sekaligus.”"
+        },
+        {
+          "status": "Meminta Dani menyelamatkan Fu",
+          "explanation": "Tetap menghendaki penyelamatan orang yang terancam api tanpa membatalkan luka yang dialaminya.",
+          "key": 200107,
+          "chapter": 20,
+          "paragraph": "p-20-107",
+          "quote": "“Aku melihat orang yang masih hidup menunggu dibakar. Kalau engkau dapat menyelamatkannya, selamatkanlah. Aku menunggumu di sini.”"
         }
       ]
     },
@@ -7271,6 +7608,18 @@
           "chapter": 19,
           "paragraph": "p-19-107",
           "quote": "Para pengejar ragu menggunakan obor di dekat kitab-kitab perguruan. Ketika Qiu Chuji tiba dan memanggil pasangan itu, tidak ada jawaban. Ruang yang disangka menjadi tempat mereka berlindung ternyata sudah kosong."
+        },
+        {
+          "title": "Quanzhen",
+          "summary": "Bersiap menghadapi pasukan Mongol yang naik ke gunung.",
+          "fields": {
+            "Keadaan": "Baru melewati pengkhianatan Zhao; menghadapi ancaman pasukan baru.",
+            "Tindakan": "Qiu memerintahkan persiapan pertahanan."
+          },
+          "key": 200031,
+          "chapter": 20,
+          "paragraph": "p-20-031",
+          "quote": "Sebelum rombongan dapat berunding lebih lama, murid penjaga berlari membawa kabar pasukan Mongol bergerak naik. Quanzhen yang baru lolos dari pengkhianatan Zhao harus menghadapi ancaman baru. Qiu memerintahkan persiapan pertahanan. Huang Rong memilih segera menuju makam; Polu tidak boleh terperangkap di antara pasukan dan perguruan."
         }
       ]
     },
@@ -7376,7 +7725,8 @@
       "id": "sutra",
       "type": "ilmu",
       "aliases": [
-        "Sutra Hati Gadis Giok"
+        "Sutra Hati Gadis Giok",
+        "Kitab Hati Giok"
       ],
       "stages": [
         {
@@ -7639,6 +7989,18 @@
           "chapter": 9,
           "paragraph": "p-09-105",
           "quote": "Li Mochou melihat tawanan lepas. Kebutnya berbalik. Yelü Yan mendorong bangku ke jalur serangan; kayu itu terbelit dan pecah sebelum mencapai lantai."
+        },
+        {
+          "title": "Yelü Yan",
+          "summary": "Tinggal bersama Huang Rong di luar jalan air makam.",
+          "fields": {
+            "Kondisi": "Tidak mahir berenang; tidak ikut masuk.",
+            "Batas": "Tidak menyaksikan peristiwa di ruang peti."
+          },
+          "key": 200032,
+          "chapter": 20,
+          "paragraph": "p-20-032",
+          "quote": "Li Mochou membawa mereka ke aliran air yang menyembunyikan jalan masuk. Huang Rong, yang belum lama melahirkan, tidak mengikuti penyelaman. Yelü Yan dan Wanyan Ping juga tinggal bersamanya karena tidak mahir berenang. Fu, Yelü Qi, Wu Santong, Wu Dunru, dan Wu Xiuwen masuk mengikuti Li Mochou."
         }
       ],
       "portraits": [
@@ -7722,6 +8084,30 @@
           "chapter": 9,
           "paragraph": "p-09-099",
           "quote": "Yelü Qi menahan sisi gagang dengan telapak miring. Tubuhnya terdorong, memberi Dani ruang untuk mundur."
+        },
+        {
+          "title": "Yelü Qi",
+          "summary": "Menemui Zhou Botong sebagai gurunya di Quanzhen.",
+          "fields": {
+            "Guru": "Zhou Botong.",
+            "Tujuan": "Membantu rombongan mencari Polu.",
+            "Batas": "Tidak menjadi saksi reuni Dani–Xiaolongnü pada Bab 19."
+          },
+          "key": 200023,
+          "chapter": 20,
+          "paragraph": "p-20-023",
+          "quote": "“Murid datang bersama Nyonya Guo untuk mencari putranya.”"
+        },
+        {
+          "title": "Yelü Qi",
+          "summary": "Membantu lima tawanan lolos dengan mengikuti tangisan Polu.",
+          "fields": {
+            "Tindakan": "Menemukan sambungan batu lemah; Wu Santong serta kedua Wu membantu membuka jalan."
+          },
+          "key": 200062,
+          "chapter": 20,
+          "paragraph": "p-20-062",
+          "quote": "Tangisan Polu terdengar samar melalui celah udara ruang kurungan. Kelima tawanan berhenti memukul pintu. Yelü Qi menempelkan telinga ke dinding, mengikuti suara itu hingga menemukan sambungan batu yang lebih rapuh. Wu Santong membantunya menarik sebuah batu keluar; kedua Wu memperlebar lubang sampai mereka dapat merangkak melaluinya."
         }
       ],
       "portraits": [
@@ -7830,6 +8216,18 @@
           "chapter": 9,
           "paragraph": "p-09-108",
           "quote": "Wanyan Ping menebas dari sisi pintu. Pijakan belakangnya bertahan sebagaimana diajarkan Dani. Bilahnya memaksa Li Mochou mengubah arah, tetapi balasan perempuan itu tetap menyayat lengannya. Ia tersentak mundur; Dani menarik bahunya sebelum serangan kedua datang."
+        },
+        {
+          "title": "Wanyan Ping",
+          "summary": "Tinggal bersama Huang Rong di luar jalan air makam.",
+          "fields": {
+            "Kondisi": "Tidak mahir berenang; tidak ikut masuk.",
+            "Batas": "Tidak menyaksikan peristiwa di ruang peti."
+          },
+          "key": 200032,
+          "chapter": 20,
+          "paragraph": "p-20-032",
+          "quote": "Li Mochou membawa mereka ke aliran air yang menyembunyikan jalan masuk. Huang Rong, yang belum lama melahirkan, tidak mengikuti penyelaman. Yelü Yan dan Wanyan Ping juga tinggal bersamanya karena tidak mahir berenang. Fu, Yelü Qi, Wu Santong, Wu Dunru, dan Wu Xiuwen masuk mengikuti Li Mochou."
         }
       ],
       "portraits": [
@@ -8102,6 +8500,18 @@
           "chapter": 19,
           "paragraph": "p-19-127",
           "quote": "“Kita harus mendatangi makam,” katanya. “Nona Long terluka oleh tenaga kita. Permintaan maaf saja belum cukup.”"
+        },
+        {
+          "title": "Qiu Chuji",
+          "summary": "Menyampaikan kabar Dani hidup dan telah menikah kepada rombongan.",
+          "fields": {
+            "Dasar pengetahuan": "Menyaksikan kedatangan serta pernikahan Dani di Quanzhen.",
+            "Batas": "Belum merawat Xiaolongnü di makam."
+          },
+          "key": 200025,
+          "chapter": 20,
+          "paragraph": "p-20-025",
+          "quote": "Zhou mengibaskan tangan, lalu sibuk memeriksa gerakan kaki Yelü Qi. Qiu Chuji yang menyambut rombongan itulah yang menceritakan kedatangan Dani, luka Xiaolongnü, serta perkawinan mereka di aula leluhur. Zhou tidak menyaksikan pasangan itu; ia tiba sesudah mereka lolos dari Quanzhen."
         }
       ],
       "relationships": [
@@ -8769,6 +9179,19 @@
           "chapter": 19,
           "paragraph": "p-19-132",
           "quote": "Dani membuka jalan masuk. Udara sejuk menyentuh pakaian mereka yang berdebu. Ia membawa Xiaolongnü melewati lorong, menyusuri dinding yang dikenalnya sejak kecil, sampai tiba di ruang tinggal. Polu menggeliat di atas alasnya ketika mendengar langkah."
+        },
+        {
+          "title": "Makam Kuno",
+          "summary": "Pasangan keluar dan menemukan kebakaran di sekitar rumah mereka.",
+          "fields": {
+            "Penghuni": "Dani, Xiaolongnü, dan Polu telah keluar.",
+            "Keadaan": "Pasukan Mongol membakar lereng dan hutan sekitar makam.",
+            "Batas": "Tidak dinyatakan seluruh bangunan bawah tanah runtuh."
+          },
+          "key": 200099,
+          "chapter": 20,
+          "paragraph": "p-20-099",
+          "quote": "Udara luar berbau getah terbakar. Setelah menempuh jalan keluar makam, Dani melihat cahaya merah di sela pepohonan. Pasukan Mongol membakar lereng untuk memaksa orang-orang yang bersembunyi keluar. Api telah memotong jalan menuju Quanzhen dan menjalar ke hutan di sekeliling tempat tinggal mereka."
         }
       ]
     },
@@ -9454,6 +9877,18 @@
           "chapter": 15,
           "paragraph": "p-15-183",
           "quote": "Fajar berikutnya, Wu Santong membawa Dani memasuki kediaman tempat keluarga Guo berlindung setelah kebakaran. Ia berlutut di depan Huang Rong, lalu membungkuk kepada Guo Jing yang ditopang di kursi. Kedua putranya dibawa masuk untuk mendapat perawatan lanjutan."
+        },
+        {
+          "title": "Wu Santong",
+          "summary": "Mendengar kehilangan lengan Dani dan mengingat hutang nyawa kedua putranya.",
+          "fields": {
+            "Pengetahuan": "Dani hidup setelah kehilangan lengan.",
+            "Sikap": "Mengakui pengorbanan Dani untuk kedua anaknya."
+          },
+          "key": 200029,
+          "chapter": 20,
+          "paragraph": "p-20-029",
+          "quote": "“Ia mengisap racun demi menyelamatkan kedua anakku,” ujar Wu Santong. “Sementara kami masih hidup, ia sampai mengalami bencana seperti itu.”"
         }
       ],
       "portraits": [
@@ -10662,7 +11097,8 @@
       "id": "tapak-ular-merah",
       "type": "ilmu",
       "aliases": [
-        "Tapak Ular Merah"
+        "Tapak Ular Merah",
+        "Tapak Lima Racun"
       ],
       "stages": [
         {
@@ -10692,6 +11128,20 @@
           "chapter": 13,
           "paragraph": "p-13-076",
           "quote": "Bekas Tapak Ular Merah tampak di punggungnya. Cheng Ying memberikan obat peninggalan Huang, sementara Dani memakai petunjuk kitab Wushuang untuk membantu menahan penyebaran racun. Mereka belum mempunyai seluruh bahan penawar; Shagu memerlukan penjagaan, dan mereka kehilangan orang yang paling kuat untuk menahan Li Mochou."
+        },
+        {
+          "title": "Tapak Ular Merah",
+          "summary": "Racun telapak ikut memasuki jalur pengobatan Xiaolongnü.",
+          "fields": {
+            "Nama pada bab ini": "Tapak Lima Racun.",
+            "Pengguna": "Li Mochou.",
+            "Bahaya teramati": "Dorongan tenaga membuka sumbatan, tetapi juga membawa racun.",
+            "Batas": "Dibedakan dari racun jarum; bukan ilmu baru yang dipelajari Dani."
+          },
+          "key": 200048,
+          "chapter": 20,
+          "paragraph": "p-20-048",
+          "quote": "Dani memutus sentuhan dengan Li sebelum racun bertambah banyak. Ia meraih Xuantie yang disandarkan dekat ranjang dan memaksa Li mundur dengan satu sapuan. Xiaolongnü telah melepaskan kakinya; kedua tangannya kembali menekan dada. Sumbatan lama terbuka, tetapi racun ikut memasuki jalan yang baru dilewati tenaga."
         }
       ]
     },
@@ -10699,7 +11149,8 @@
       "id": "jarum-perak",
       "type": "senjata",
       "aliases": [
-        "Jarum Perak Pembeku Jiwa"
+        "Jarum Perak Pembeku Jiwa",
+        "Jarum Es"
       ],
       "stages": [
         {
@@ -10725,6 +11176,31 @@
           "chapter": 15,
           "paragraph": "p-15-179",
           "quote": "Ia menotok Wu Santong sebelum lelaki itu sempat meneruskan. Kemudian Dani sendiri menunduk untuk mengisap darah beracun. Ia meludah, berpindah kepada saudara yang lain, lalu kembali lagi. Tindakan nekat itu tidak memberinya kepastian akan menyelamatkan keduanya; ia hanya berusaha membeli waktu dengan tubuh yang sudah keracunan."
+        },
+        {
+          "title": "Jarum Perak Pembeku Jiwa",
+          "summary": "Dua jarum Li dipungut Fu dari lantai dengan saputangan.",
+          "fields": {
+            "Nama pada bab ini": "Jarum Es.",
+            "Pemegang saat ini": "Guo Fu.",
+            "Batas": "Belum dilempar kepada pasangan pada tahap ini."
+          },
+          "key": 200066,
+          "chapter": 20,
+          "paragraph": "p-20-066",
+          "quote": "Di ruang Ranjang Giok Dingin, mereka menemukan bekas perkelahian. Fu melihat jarum-jarum yang tercecer. Dengan saputangan tebal ia memungut dua batang, membungkus pangkalnya, lalu menyimpannya terpisah agar ujung beracun tidak menyentuh kulit."
+        },
+        {
+          "title": "Jarum Perak Pembeku Jiwa",
+          "summary": "Jarum yang dilempar Fu mengenai Dani dan Xiaolongnü.",
+          "fields": {
+            "Sasaran": "Kaki kanan Dani dan bahu kiri Xiaolongnü.",
+            "Dampak": "Nyeri mengganggu pengobatan; racun telapak dalam tubuh Xiaolongnü berbalik."
+          },
+          "key": 200076,
+          "chapter": 20,
+          "paragraph": "p-20-076",
+          "quote": "Jarum pertama menancap di kaki kanan Dani. Jarum kedua mengenai bahu kiri Xiaolongnü. Rasa nyeri menyentak tubuh mereka; telapak terlepas. Racun yang hampir keluar berbalik menghantam aliran yang belum pulih. Xiaolongnü terkulai dengan darah mengalir di sudut bibir."
         }
       ]
     },
@@ -11288,6 +11764,18 @@
           "chapter": 19,
           "paragraph": "p-19-125",
           "quote": "Zhou mundur sambil menutupi muka. Dari bawah lonceng terdengar pukulan dan jeritan yang berangsur melemah. Ketika suara itu berhenti, Wang Chuyi tidak lagi memanggil nama muridnya."
+        },
+        {
+          "title": "Zhou Botong",
+          "summary": "Bertemu Yelü Qi di Quanzhen saat rombongan pencari bayi datang.",
+          "fields": {
+            "Hubungan perguruan": "Guru Yelü Qi.",
+            "Pengetahuan": "Tidak menyaksikan reuni atau pernikahan; Qiu Chuji menyampaikan kejadian kepada rombongan."
+          },
+          "key": 200025,
+          "chapter": 20,
+          "paragraph": "p-20-025",
+          "quote": "Zhou mengibaskan tangan, lalu sibuk memeriksa gerakan kaki Yelü Qi. Qiu Chuji yang menyambut rombongan itulah yang menceritakan kedatangan Dani, luka Xiaolongnü, serta perkawinan mereka di aula leluhur. Zhou tidak menyaksikan pasangan itu; ia tiba sesudah mereka lolos dari Quanzhen."
         }
       ],
       "relationships": [
@@ -11684,6 +12172,18 @@
           "chapter": 14,
           "paragraph": "p-14-148",
           "quote": "Lü’e bergerak melindungi ibunya. Biji kurma melesat melewati bahunya dan mengenai satu mata Gongsun. Ia menjerit, memutar senjata untuk menghalangi pengejaran, lalu melarikan diri ke halaman. Tidak seorang pun berhasil menangkapnya; Qiu memaki karena serangan berikutnya terhalang tubuh putrinya sendiri."
+        },
+        {
+          "title": "Gongsun Zhi",
+          "summary": "Mundur setelah usaha menyandera Fu digagalkan.",
+          "fields": {
+            "Kondisi": "Tetap bermata satu; lolos dari perlawanan rombongan.",
+            "Batas": "Tidak dibunuh atau ditawan."
+          },
+          "key": 200016,
+          "chapter": 20,
+          "paragraph": "p-20-016",
+          "quote": "Mata tunggal Gongsun Zhi beralih kepada Huang Rong. Ketika tongkat perempuan itu menutup jalan serangannya, ia berbalik dan menyambar Fu untuk dijadikan perisai. Yelü Qi menyilang di antara mereka; benturan telapaknya memberi Fu kesempatan mundur. Li Mochou mengirim kebutannya dari samping. Terdesak oleh tambahan lawan, Gongsun Zhi melompat ke balik batu dan menghilang menuruni lereng."
         }
       ],
       "relationships": [
@@ -12480,6 +12980,44 @@
           "chapter": 19,
           "paragraph": "p-19-133",
           "quote": "Ia membaringkan Xiaolongnü dahulu, menyangga kepala dan bahunya sebelum melepaskan lengan. Setelah memeriksa Polu dan membetulkan selimutnya, Dani kembali duduk di sisi istrinya. Di tempat yang terang ia dapat melihat betapa pucat wajah perempuan itu. Kebahagiaan di aula belum mengubah luka di dalam tubuhnya."
+        },
+        {
+          "title": "Guo Polu",
+          "summary": "Ditemukan rombongan dan dipeluk Fu setelah tangisnya membantu jalan keluar.",
+          "fields": {
+            "Usia sekarang": "Sekitar dua bulan",
+            "Kondisi": "Selamat; alas kering, susu, dan selimut tersedia.",
+            "Batas": "Belum kembali kepada Huang Rong."
+          },
+          "key": 200063,
+          "chapter": 20,
+          "paragraph": "p-20-063",
+          "quote": "Di bilik kecil, Polu menangis di atas alas kering. Ada lampu, selimut, dan kendi susu di dekatnya. Fu mengangkat adiknya. Wu Santong memeriksa susu yang masih layak lalu membantu memberinya minum, sementara Yelü Qi mengawasi lorong."
+        },
+        {
+          "title": "Guo Polu",
+          "summary": "Diambil Dani dari Fu dan dibawa keluar bersama Xiaolongnü.",
+          "fields": {
+            "Kondisi": "Tetap hidup; Xiaolongnü mendekapnya saat Dani membawa istrinya.",
+            "Batas": "Belum dikembalikan kepada Huang Rong."
+          },
+          "key": 200095,
+          "chapter": 20,
+          "paragraph": "p-20-095",
+          "quote": "Yelü Qi menahan Fu agar tidak maju. Wu Santong membungkuk kepada Dani, tetapi pemuda itu telah menyarungkan pedangnya. Ia mengambil Polu dari pelukan Fu, menyerahkannya kepada Xiaolongnü yang masih mampu mendekap bayi itu sambil duduk, kemudian mengangkat istrinya dengan lengan kiri. Berat mereka membuat napasnya tersengal; ia tetap melangkah tanpa meminta bantuan siapa pun."
+        },
+        {
+          "title": "Guo Polu",
+          "summary": "Beristirahat di tempat berlindung bersama Dani dan Xiaolongnü.",
+          "fields": {
+            "Usia sekarang": "Sekitar dua bulan",
+            "Kondisi": "Selamat setelah keluar dari kawasan kebakaran.",
+            "Batas": "Masih belum kembali kepada Huang Rong; bukan bayi Xiang."
+          },
+          "key": 200116,
+          "chapter": 20,
+          "paragraph": "p-20-116",
+          "quote": "Menjelang malam mereka mencapai ceruk batu di seberang punggung bukit. Udara di sana bersih dari asap. Dani membaringkan Polu di atas lipatan kain, kemudian duduk di samping istrinya. Cahaya kebakaran masih memerah di langit belakang mereka, tetapi tidak lagi menerangi wajah Xiaolongnü."
         }
       ],
       "relationships": [
@@ -12757,6 +13295,45 @@
           "chapter": 19,
           "paragraph": "p-19-036",
           "quote": "Tidak ada sorak. Tiga orang yang tadi menutup jalan Xiaolongnü kini tidak sanggup maju."
+        },
+        {
+          "title": "Pedang Xuantie",
+          "summary": "Dipakai sebagai pengungkit untuk menutup peti Li Mochou.",
+          "fields": {
+            "Pemakai": "Tangan kiri Dani.",
+            "Bentuk": "Bilah lebar, berat, dan gelap.",
+            "Fungsi": "Pengungkit; bukan hanya senjata tebas."
+          },
+          "key": 200056,
+          "chapter": 20,
+          "paragraph": "p-20-056",
+          "quote": "Dani bergerak sebelum jari Li menyentuh kulit sepatu. Xuantie menyelip di bawah tutup batu; dengan bilah sebagai pengungkit, ia menggesernya menutup peti. Hantaman dari dalam hampir membuka celah, tetapi Dani sudah mendorong peti kosong di sebelahnya hingga bertumpuk melintang di atas penutup itu. Lantai berderit. Li terkurung di bawah beban batu."
+        },
+        {
+          "title": "Pedang Xuantie",
+          "summary": "Menghancurkan peti kosong saat Dani melampiaskan duka.",
+          "fields": {
+            "Pemakai": "Dani, tangan kiri; Xiaolongnü telah dipindahkan ke dekat dinding.",
+            "Dampak": "Peti atas pecah dan meretakkan penutup kurungan Li.",
+            "Batas": "Ayunan diarahkan ke batu, bukan tubuh Fu."
+          },
+          "key": 200093,
+          "chapter": 20,
+          "paragraph": "p-20-093",
+          "quote": "Dani berdiri. Ia membantu Xiaolongnü menjauh dan bersandar pada dinding, lalu mengambil Xuantie. Fu menutup muka ketika bilah hitam terangkat. Namun pedang jatuh ke peti kosong, menghancurkan bibirnya dengan bunyi yang memekakkan. Pukulan kedua membelah badan peti; beban yang ambruk meretakkan penutup kurungan Li di bawahnya."
+        },
+        {
+          "title": "Pedang Xuantie",
+          "summary": "Dipakai mengungkit Fu keluar dari jangkauan api.",
+          "fields": {
+            "Pemakai": "Tangan kiri Dani; lengan kanan tetap tersembunyi di bawah jubah.",
+            "Fungsi": "Bidang lebar bilah menyangga pinggang Fu sebagai pengungkit.",
+            "Batas": "Gerak penyelamatan, bukan tusukan atau tebasan."
+          },
+          "key": 200109,
+          "chapter": 20,
+          "paragraph": "p-20-109",
+          "quote": "Fu memandangnya tanpa mampu mengangkat kepala lebih jauh. Dani menjejakkan kaki di tanah yang telah hangus, menurunkan Xuantie mendatar, lalu menyelipkan bidang lebar pedang di bawah pinggangnya. Dengan satu ungkitan kuat ia melontarkan tubuh Fu melewati lidah api menuju aliran air yang memisahkan kedua sisi hutan."
         }
       ]
     },

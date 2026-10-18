@@ -1,6 +1,6 @@
 # Peta Bab 20 — Racun di Rumah Mereka
 
-Status: peta untuk ditinjau penulis; naskah Bab 20 belum ditulis. Satu arc: kepulangan yang sempat memberi harapan, penyusupan ke makam, rusaknya pengobatan, dan keberangkatan mencari pertolongan. Target 2.500–3.500 kata, dengan dialog penting tetap utuh.
+Status: disetujui melalui perintah langsung penulis untuk membuat dan mengunggah Bab 20 pada 17 Oktober 2026; telah diadaptasi menjadi naskah lengkap. Satu arc: kepulangan yang sempat memberi harapan, penyusupan ke makam, rusaknya pengobatan, dan keberangkatan mencari pertolongan. Naskah berjumlah sekitar 2.800 kata, dengan satu ilustrasi pembuka dan dua adegan.
 
 ## Pegangan lore dan kontinuitas
 
@@ -33,12 +33,12 @@ Status: peta untuk ditinjau penulis; naskah Bab 20 belum ditulis. Satu arc: kepu
 
 Rangka pertempuran diperiksa terhadap *The Return of the Condor Heroes*, bab 29, terjemahan BeeDreamer yang dimuat Foxs’ Wuxia. Dialog Saga ditulis baru, mengikuti watak dan hubungan dalam lorebook.
 
-Lorebook merangkum rombongan hanya bertemu Zhou di Quanzhen. Kanon juga menghadirkan para tetua. Peta mempertahankan Zhou sebagai pertemuan utama dan menggunakan tetua yang menyaksikan Bab 19 sebagai sumber kabar, sehingga Zhou tidak mendadak mengetahui kejadian yang tidak dilihatnya. Ini penyesuaian yang diajukan untuk ditinjau, belum menjadi naskah.
+Lorebook merangkum rombongan hanya bertemu Zhou di Quanzhen. Kanon juga menghadirkan para tetua. Naskah mempertahankan Zhou sebagai pertemuan utama dan menggunakan Qiu Chuji yang menyaksikan Bab 19 sebagai sumber kabar, sehingga Zhou tidak mendadak menjadi saksi kejadian yang tidak dilihatnya.
 
-Penghubung Gongsun, kebakaran, dan penyelamatan Fu tidak dirinci dalam lorebook; ketiganya diajukan dari kanon supaya sebab kedatangan rombongan dan akibat pertempuran tidak terputus. Penyimpangan Saga yang sudah tetap: Dani menggantikan Yang Guo, Polu menggantikan bayi Xiang, dan Zhen dahulu gagal mencelakai Xiaolongnü karena dicegah Dani.
+Penghubung Gongsun, kebakaran, dan penyelamatan Fu tidak dirinci dalam lorebook; ketiganya diadaptasi dari kanon melalui peta yang telah disetujui supaya sebab kedatangan rombongan dan akibat pertempuran tidak terputus. Pertemuan Gongsun diringkas tanpa memasukkan riwayat peminjaman kuda yang tidak terjadi di Bab 18 Saga. Penyimpangan Saga yang sudah tetap: Dani menggantikan Yang Guo, Polu menggantikan bayi Xiang, dan Zhen dahulu gagal mencelakai Xiaolongnü karena dicegah Dani.
 
 - [Acuan bab 29 — Foxs’ Wuxia](https://foxswuxia.wordpress.com/condor-trilogy-divine-eagle-gallant-knights/sdxl-chapter-29/)
 
 ## Rencana ilustrasi
 
-Satu pembuka dan dua adegan: perawatan di ruang makam; kesalahan jarum dan akibatnya di ruang peti; Dani menerobos api menyelamatkan Fu. Ilustrasi belum dibuat sebelum peta disetujui. Kondor tidak ditambahkan sebagai penjaga Polu. Pakaian dan amputasi kanan Dani konsisten dengan Bab 18–19.
+Satu pembuka dan dua adegan telah dibuat: perawatan di ruang makam; akibat kesalahan jarum di ruang peti; Dani menerobos api menyelamatkan Fu. Kondor tidak ditambahkan sebagai penjaga Polu. Pakaian dan amputasi kanan Dani konsisten dengan Bab 18–19.

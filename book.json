@@ -1,6 +1,6 @@
 {
   "title": "Saga Dani Moan",
-  "description": "Novel wuxia berilustrasi karya Daniel Halomoan Siregar. Bab 1–19, dengan Wiki Persilatan yang mengikuti cerita.",
+  "description": "Novel wuxia berilustrasi karya Daniel Halomoan Siregar. Bab 1–20, dengan Wiki Persilatan yang mengikuti cerita.",
   "chapters": [
     {
       "id": 1,
@@ -1612,6 +1612,47 @@
           "description": "Keluar dari latihan bersama keempat tetua lain."
         }
       ]
+    },
+    {
+      "id": 20,
+      "slug": "bab-20",
+      "han": "二十",
+      "source": "bab-20.md",
+      "title": "Racun di Rumah Mereka",
+      "accent": "#985c40",
+      "description": "Di Makam Kuno, Dani dan Xiaolongnü mulai berharap dapat hidup tenang. Kedatangan para pencari Polu mengubah rumah mereka menjadi tempat pertaruhan nyawa.",
+      "quote": "Kita berangkat bersama.",
+      "cover": {
+        "file": "bab-20-pembuka.webp",
+        "width": 1024,
+        "height": 1536,
+        "version": "4ed1298b2086"
+      },
+      "plates": [
+        {
+          "anchor": "Xiaolongnü menyentuh rambutnya. “Aku mengetahui engkau telah berusaha. Tetapi kakimu juga terluka. Jangan membuatku harus mencemaskan dua hal sekaligus.”",
+          "image": {
+            "file": "bab-20-ilustrasi-01.webp",
+            "width": 1536,
+            "height": 1024,
+            "version": "312d27208614"
+          },
+          "alt": "Dani berlutut di sisi peti batu; Xiaolongnü menyentuh rambutnya sambil menawarkan penawar. Guo Fu berdiri beberapa langkah dari mereka.",
+          "caption": "Harapan yang hampir tercapai patah ketika dua jarum mengacaukan pengobatan."
+        },
+        {
+          "anchor": "Fu memandangnya tanpa mampu mengangkat kepala lebih jauh. Dani menjejakkan kaki di tanah yang telah hangus, menurunkan Xuantie mendatar, lalu menyelipkan bidang lebar pedang di bawah pinggangnya. Dengan satu ungkitan kuat ia melontarkan tubuh Fu melewati lidah api menuju aliran air yang memisahkan kedua sisi hutan.",
+          "image": {
+            "file": "bab-20-ilustrasi-02.webp",
+            "width": 1536,
+            "height": 1024,
+            "version": "8425ad873b05"
+          },
+          "alt": "Dani memakai bidang lebar Xuantie dengan tangan kiri untuk mengungkit Guo Fu yang dilumpuhkan di tengah kebakaran menuju aliran air.",
+          "caption": "Atas permintaan Xiaolongnü, Dani kembali menolong orang yang telah melukainya."
+        }
+      ],
+      "cast": []
     }
   ],
   "edition": "2026-10-voice",
