@@ -64,8 +64,36 @@ assert.strictEqual(api.stage(sample,10002).fields.Tingkat,'4 · Grandmaster');
 assert.strictEqual(api.stage(sample,10002).fields.Kondisi,'Terluka');
 assert(!Object.hasOwn(api.stage(sample,10002).fields,'Lokasi'));
 assert(!api.stage(sample,10000));
-for(const e of data.entries.filter(e=>e.type==='tokoh')) {
+for(const e of data.entries.filter(e=>e.type==='tokoh' && e.stages[0].key<=200120)) {
  const s=api.stage(e,200120);
  assert(s.fields.Tingkat,`${e.id}: tingkat mutakhir hilang`);
 }
 console.log('PASS: chapter 17–20 combat progression, evidence, injury separation, future boundaries and current character tiers.');
+
+// Bab 21: batas pengungkapan, korban, penawar sementara, serta pengembalian Polu.
+assert.strictEqual(data.chapterLengths['21'],160);
+assert(!api.stage(byId('cien'),210023));
+assert(api.stage(byId('cien'),210024).fields.Kondisi.includes('dapat melihat'));
+assert(!api.stage(byId('tetua-peng'),210039).fields.Kondisi.includes('Tewas'));
+assert(api.stage(byId('tetua-peng'),210040).fields.Kondisi.includes('Tewas'));
+assert(api.stage(byId('pengemis-kurus'),210033).fields.Kondisi.includes('Tewas'));
+assert.strictEqual(api.stage(byId('hong-lingbo'),210131).fields.Kondisi,'Hidup; takut kepada gurunya.');
+assert.strictEqual(api.stage(byId('hong-lingbo'),210132).fields.Kondisi,'Tewas.');
+assert(api.stage(byId('li-mochou'),210160).fields.Kondisi.startsWith('Hidup, keracunan'));
+assert(api.stage(dani,210160).fields.Tingkat.startsWith('4 ·'));
+assert(api.stage(dani,210160).fields.Kondisi.includes('racun Bunga Cinta bertambah'));
+assert(api.stage(long,210160).fields.Kondisi.includes('belum sembuh'));
+assert(api.stage(long,210160).fields.Kondisi.includes('Hari keenam'));
+assert.strictEqual(api.stage(byId('guo-polu'),210098).fields['Dalam penjagaan'],'Xiaolongnü, di luar ladang berduri.');
+assert.strictEqual(api.stage(byId('guo-polu'),210107).fields['Dalam penjagaan'],'Yideng, di tanah bebas di tepi ladang.');
+assert.strictEqual(api.stage(byId('guo-polu'),210121).fields['Dalam penjagaan'],'Huang Rong.');
+assert.strictEqual(api.stage(byId('guo-polu'),210135).fields['Dalam penjagaan'],'Yelü Yan.');
+assert.strictEqual(api.stage(byId('guo-polu'),210150).fields['Dalam penjagaan'],'Huang Rong.');
+assert(api.stage(byId('cien'),210159).fields.Lokasi.includes('Aula'));
+assert(api.stage(byId('qiu-qianchi'),210159).fields.Keluarga.includes('Ci’en'));
+assert(!api.card(byId('hong-lingbo'),200120).includes('Tewas'));
+assert(!api.card(byId('zhou-botong'),200120,true).includes('Sudah melihat Dani'));
+assert(api.card(byId('zhou-botong'),210160,true).includes('Sudah melihat Dani'));
+assert(api.card(dani,210160,true).includes('bab-17.html#p-17-048'));
+for(const e of data.entries.filter(e=>e.type==='tokoh')) assert(api.stage(e,210160).fields.Tingkat, e.id);
+console.log('PASS: chapter 21 deaths, temporary medicine, one-arm progression, baby custody and reunion boundaries.');

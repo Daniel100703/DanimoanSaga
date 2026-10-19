@@ -8,6 +8,8 @@ def inline(s):
  s=re.sub(r'\*\*(.+?)\*\*',r'<strong>\1</strong>',s)
  return re.sub(r'(?<!\*)\*([^*]+)\*(?!\*)',r'<em>\1</em>',s)
 def render_one(number, status, published=False):
+ # Beberapa peta lama hanya tersimpan sebagai halaman terbit; pertahankan halamannya.
+ if not (B/f'editorial/peta-bab-{number}.md').exists() and (B/f'peta-bab-{number}.html').exists():return
  parts=[]
  for block in (B/f'editorial/peta-bab-{number}.md').read_text().strip().split('\n\n'):
   lines=block.splitlines()
@@ -34,5 +36,5 @@ def render():
  render_one(18, 'PETA DISETUJUI · BAB 18 TELAH TERBIT · KOREKSI PENGETAHUAN XIAOLONGNÜ · MENGANDUNG BOCORAN', True)
  render_one(19, 'PETA DISETUJUI · BAB 19 TELAH TERBIT · VISUAL DAN POSISI DUEL DIREVISI · MENGANDUNG BOCORAN', True)
  render_one(20, 'PETA DISETUJUI MELALUI PERINTAH PENULIS · BAB 20 TELAH TERBIT · MENGANDUNG BOCORAN', True)
- render_one(21, 'PETA DIREVISI · SAMPAI PERTEMUAN QIU QIANCHI · NASKAH BELUM DITULIS · MENGANDUNG BOCORAN')
+ render_one(21, 'PETA DISETUJUI · BAB 21 TELAH TERBIT · SAMPAI PERTEMUAN QIU QIANCHI · MENGANDUNG BOCORAN', True)
 if __name__=='__main__':render()

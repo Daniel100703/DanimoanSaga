@@ -1,44 +1,33 @@
 # Pegangan untuk melanjutkan Saga Dani Moan
 
-Pembaruan 13 Oktober 2026: Bab 16 **Tangan yang Pernah Menolong** selesai, 2.975 kata dan 114 paragraf, empat ilustrasi. Penulis meminta langsung bab, peta, serta revisi Bab 14–15 pada giliran yang sama. Bab 17 belum ditulis atau mendapat peta rinci.
+Pembaruan 19 Oktober 2026: Bab 21 **Tujuh Hari** selesai, 2.886 kata dan 160 paragraf, tiga ilustrasi. Situs dan wiki diperluas sampai Bab 21. Bab 22 belum mendapat peta dan belum ditulis.
 
-## Sumber dan prioritas
+## Workflow dan sumber
 
-Repositori `daniel100703/DanimoanSaga`, cabang `main`; situs https://daniel100703.github.io/DanimoanSaga/. Periksa kepala cabang agar tidak menimpa perubahan penulis. Baca akhir `bab-16.md`, `editorial/bab-16-kontinuitas.md`, serta tahap terakhir wiki tokoh terkait. Sumber unggahan tersedia pada `project_sources/02-Saga_Dani_Moan_Lorebook_1.md` dan `project_sources/03-Instruksi_Saga_Dani_Moan_v4.md` di ruang kerja; tidak perlu meminta unggah ulang selama ada.
+Repositori `Daniel100703/DanimoanSaga`, cabang `main`; situs https://daniel100703.github.io/DanimoanSaga/. Periksa kepala cabang dan berkas terbaru sebelum melanjutkan. Penulis telah berulang kali memberi izin tetap agar bab dan revisi yang diminta **langsung diunggah ke GitHub**. Jangan meminta izin publikasi yang sama lagi. Persetujuan peta berikutnya berbeda dari izin unggah: bila diminta peta saja, buat peta; bila diminta menulis bab yang petanya sudah disetujui, tuntaskan naskah, gambar, wiki, dan publikasinya.
 
-Urutan kebenaran: instruksi terbaru penulis, lorebook, kemudian kanon. Baca `editorial/pedoman-suara-dan-kontinuitas.md` untuk koreksi yang mengatasi instruksi lama. Sebelum bab baru, berikan maksimal lima poin lore dan rencana lima baris; persetujuan diperlukan jika penulis belum secara langsung meminta peta dan penulisan bersama. Jangan menganggap izin Bab 16 sebagai izin otomatis Bab 17. Target umum 2.500–3.500 kata. Bab penting boleh empat–enam ilustrasi; biasa satu pembuka dan dua adegan.
+Baca akhir `bab-21.md`, `editorial/bab-21-kontinuitas.md`, serta kartu terakhir tokoh terkait. Sumber unggahan berada pada `project_sources/02-Saga_Dani_Moan_Lorebook_1.md` dan `project_sources/03-Instruksi_Saga_Dani_Moan_v4.md` di ruang kerja jika masih tersedia. Prioritas: arahan terbaru penulis, lore Saga, lalu urutan kanon untuk kejadian yang belum dialihkan. Jangan mengulang detail lore lama yang sudah dikoreksi penulis.
 
-## Koreksi terbaru yang terkunci
+## Keadaan akhir Bab 21
 
-- Dani memanggil Xiaolongnü **Bibi**; kepada Qiu Qianchi **Tetua Qiu** atau **Senior Qiu**. Sapaan Indonesia sesuai hubungan, bukan mengembalikan Gugu/Qianbei dari pedoman lama.
-- Dani di Bab 15 tidak bertanya langsung kepada Guo Jing tentang Shagu, racun, atau ayahnya. Ia menyembunyikan dendam, bersikap seolah pulang sebagai keluarga, dan gagal membunuh karena kebaikan Guo Jing yang dilihat serta dirasakannya. Adegan lama pertanyaan/janji jawaban telah diganti.
-- Penyebab lengkap kematian Kang Moan belum boleh dibuka. Penulis menghendaki pengungkapan kelak melalui **Ke Zhen’e setelah lompatan waktu**, dengan tambahan dramatisasi yang akan diputuskan nanti. Kesaksian terbatas Shagu tidak otomatis merupakan seluruh kebenaran.
-- **Han dan Song perlu disebutkan secara wajar dalam cerita**, untuk memperjelas perang menolak penjajahan Mongol. Kalimat awal penulis sempat ambigu, lalu dikonfirmasi: jangan membuat wiki khusus Han/Song sekarang. Revisi hanya satu dialog Bab 13 dan pembelaan Guo Jing di Bab 15; tidak merombak dialog seluruh bab lama.
-- Visual pembuka Bab 15 telah diganti: kiri Guo Jing, tengah Dani, kanan Xiaolongnü. Guo Jing merangkul hanya Dani. Tiga potret dan versi cache menyesuaikan gambar baru.
-- Dialog Bab 16 ditulis baru mengikuti situasi canon serta percabangan lore, dalam register cerita silat. Hindari bahasa chat, terapi, atau nasihat modern yang membuat semua tokoh bersuara seragam.
+- Dani 19 tahun, Xiaolongnü 21; telah menikah. Kanan Dani putus di atas siku, kiri utuh. Jubah kelabu menutup sisi amputasi dan masih berbekas kebakaran. Xuantie merupakan bilah hitam besar, lebar dan pipih; tersandang di punggung pada akhir bab. Dani tetap tingkat 4 sejak latihan Bab 17, bukan tingkat 5. Keberhasilan melawan Jinlun pada Bab 19 dibantu jarum rahasia Xiaolongnü, sehingga tidak menetapkan tenaga mentah Dani melampauinya.
+- Dani kembali terkena duri saat menyelamatkan Cheng Ying dan Wushuang. Betis serta paha terluka; racun Bunga Cinta belum sembuh. Tapak Melankolis belum tercipta. Rahasia lengkap kematian Kang belum dibuka; penulis menempatkannya melalui Ke Zhen’e setelah lompatan waktu.
+- Xiaolongnü masih sakit. Obat Yideng menahan keadaan selama tujuh hari; mereka mencapai lembah pada hari keenam, sehingga tinggal satu hari. Ia tetap tingkat 4, tetapi tenaga yang dapat dipakai bergantung keadaan tubuh. Pedang Perempuan belum diceritakan diambil kembali dari Quanzhen. Tidak ada perpisahan atau lompatan waktu pada Bab 21.
+- Polu bayi sekitar dua bulan dan sudah dikembalikan kepada Huang Rong. Saat rombongan menuju aula, Huang Rong kembali menggendongnya sesudah titipan singkat kepada Yelü Yan. Guo Xiang tetap anak sepuluh tahun; jangan mengganti Polu dengan bayi Xiang.
+- Ci’en adalah Qiu Qianren, dapat melihat. Kata “buta” dalam lore lama telah dikoreksi menjadi gelap mata karena amarah. Tetua Peng menghasutnya; pengemis kurus dalam manusia salju dan Peng tewas. Huodu tidak terlibat. Belenggu tangan dan kaki putus sebelum duel Dani. Yideng terluka menerima pukulan muridnya, menghentikan akhir duel, lalu memberikan obat kepada Xiaolongnü. Ci’en kemudian menggendong Yideng pada akhir perjalanan.
+- Zhou Botong membantu Xiaolongnü dalam perlombaan memakai peti kitab, melihat sendiri Dani hidup dan kehilangan lengan, kemudian pergi menghindari Yideng. Ia tidak melihat reuni atau menjadi saksi pernikahan Quanzhen pada Bab 19. Jangan menghadirkannya di aula Qiu tanpa perjalanan baru.
+- Cheng Ying dan Wushuang selamat, totokan telah dibuka. Mereka mengetahui Dani kehilangan lengan. Hong Lingbo tewas akibat tendangan Li Mochou setelah dijadikan pijakan. Li keracunan Bunga Cinta tetapi masih hidup, tertinggal di tepi ladang. Wushuang berduka karena Hong dahulu pernah melindunginya dari hukuman.
+- Fu mengakui memotong lengan Dani, tetapi masih defensif. Pengembalian Polu membantah tuduhannya tentang harga penawar; tidak sama dengan pengampunan Dani. Huang Rong, kedua Wu, Wu Santong, Yelü Qi, Yelü Yan dan Wanyan Ping berada dalam rombongan lembah. Guo Jing tidak hadir.
+- Lü’e mengantar rombongan masuk aula. Dani memperkenalkan kedatangan mereka; Ci’en dan Qiu Qianchi saling mengenali sebagai kakak kedua dan adik ketiga. Keduanya hidup. Qiu tetap lumpuh dan menguasai lembah. Dani sudah mengetahui hubungan keluarga mereka dari percakapan di pondok, sehingga pengenalannya tidak muncul tanpa dasar.
 
-## Keadaan akhir Bab 16
+## Batas kelanjutan
 
-Dani 19, Xiaolongnü 21, Fu 17, Xiang 10; Polu bayi. Masih hari keenam sejak setengah pil Bab 14. Hitungan awal dua belas hari, tetapi efek racun tambahan belum diketahui. Dani belum kebal atau sembuh.
+Bab 22 dimulai dari pertemuan yang sudah berlangsung di aula: tuntutan Qiu, persoalan penawar, status Dani sebagai suami Xiaolongnü, dan Lü’e. Penyelamatan Biksu Tianzhu serta Zhu Ziliu dan rangkaian tragedi berikutnya perlu ditata dalam peta sebelum naskah baru. Jangan menyatakan perundingan atau pertolongan yang belum terjadi sebagai fakta akhir Bab 21. Nasib akhir Ci’en mengikuti jalur lore penulis, bukan otomatis seluruh kanon.
 
-**Dani:** lengan kanan putus di atas siku akibat Pedang Budiman yang diayunkan Fu; lengan kiri utuh. Luka ditahan sementara, darah masih merembes, belum sanggup berdiri pada akhir bab. Ia sendirian di luar Xiangyang dengan buntalan dan jarum ibu. Pedang Budiman ditinggalkan di kamar bersama pedang Fu. Belum bertemu Kondor, memakan empedu ular, berlatih Dugu, atau menciptakan Tapak Melankolis. Ia tahu Xiaolongnü mengejar dua pendeta dan menduga Quanzhen; tidak menyaksikan percakapan Guo Jing–Huang Rong atau mengetahui persembunyian Fu.
+Dani memanggil Xiaolongnü **Bibi**, dan Qiu **Tetua Qiu** atau **Senior Qiu**. Tulis dialog dan narasi baru yang mengalir dalam bahasa silat, tanpa format Nama: ucapan. Target biasa 2.500–3.500 kata, satu pembuka dan dua ilustrasi adegan; bab penting dapat lebih panjang sesuai arahan.
 
-**Xiaolongnü:** masih salah mengira Dani hendak menikahi Fu. Kembali sebentar untuk menitipkan perawatan, mendengar Zhen membocorkan kedekatan pasangan dan membuat kesan melampaui kesaksian. Membongkar percobaan keji Zhen dahulu, lalu mengejar Zhen bersama Zhao ke arah Quanzhen. Membawa Pedang Perempuan dan sarung tangan; pedang tidak diberikan kepada Fu. Belum mengetahui tragedi lengan dan masih mencintai Dani.
+## Berkas dan penerbitan
 
-**Zhen dan Zhao:** masih hidup, melarikan diri ke arah Quanzhen. Percobaan Zhen pada Bab 8 digagalkan Dani sebelum terjadi perkosaan. Zhen hanya melihat kedekatan di gubuk, lalu pergi sebelum hubungan intim terjadi. Jangan menulisnya sebagai saksi seluruh malam atau mengembalikan versi perkosaan canon. Cinta pasangan sudah diumumkan pada Bab 11; pembocoran baru menyinggung malam pribadi mereka.
+Sumber situs: `bab-XX.md`, `book.json`, `lore-data.json`; bangun dengan `python3 build.py`. `reader-data.js` merupakan data bersama. Bab 21 menambah enam entri, 63 tahap informasi dan lima potret dari ilustrasi adegan. Tingkat dan ilmu diwariskan lintas pembaruan, sedangkan kondisi, lokasi dan pengetahuan mengikuti keadaan terbaru. Catat bukti paragraf dan jaga batas bocoran.
 
-**Fu:** mendengar tuduhan Zhen dan menuntut Dani mengakui dusta restu. Dani mengaku serta meminta maaf; pertengkaran berlanjut soal Polu dan Xiaolongnü. Fu menghina, Dani menampar, Fu menyerang dengan pedangnya, dilucuti, lalu merebut Pedang Budiman. Sesudah tragedi ia kabur lebih dahulu sebelum bertemu ayahnya. Kini disembunyikan Huang Rong di gubuk. Kedua lengannya utuh; penyesalan belum mengalahkan ketakutan, tidak ada pengampunan cepat.
-
-**Guo Jing dan Huang Rong:** Guo Jing belum pulih dari luka kamp, memerintahkan pencarian Dani serta menuntut pertanggungjawaban Fu. Huang Rong baru melahirkan; menyusul dan menyembunyikan Fu, kemudian hendak mencari Dani. Ia tidak menyatakan Fu tidak bersalah. Hubungan suami-istri terguncang. Tidak ada adegan bayi dilempar, hukuman lengan Fu dilaksanakan, atau Dani mengintip mereka dalam bab ini.
-
-**Polu dan kedua Wu:** Polu masih di tangan Li Mochou sejak satu penculikan Bab 15. Belum direbut kembali; jangan membuat penculikan kedua. Kedua Wu hidup dan masih dirawat. Feng Mofeng telah gugur. Tawaran kepala Huang Rong kepada Xiaolongnü belum dilaksanakan; Qiu belum setuju menerima pengganti. Dani tidak mengetahui percakapan rahasia tersebut.
-
-## Batas berikutnya
-
-Lorebook Babak XI memuat Kondor, pemulihan beberapa bulan, latihan warisan Dugu, pengambilan bayi ketika Li melawan Huang Rong, Quanzhen, pernikahan, serta pertempuran makam. Arc itu panjang; susun peta pembagian satu arc utuh per bab sebelum menulis, jangan menumpuk seluruhnya otomatis ke Bab 17. Jangan menyembuhkan racun atau menambah tingkat kekuatan tanpa tahap sebab yang jelas.
-
-## Penerbitan dan pemeriksaan
-
-Sumber situs: `bab-XX.md`, `book.json`, `lore-data.json`; bangun dengan `python3 build.py`. Peta dirender `build_editorial.py`. Data bersama `reader-data.js` memuat tahapan kartu. Bab 16 memperbarui tokoh lama, tidak membuat tokoh baru atau entri Han/Song; total entri tetap 93.
-
-Riwayat sebelum Bab 16 dipertahankan kecuali kutipan yang mengikuti revisi terarah dan potret pembuka Bab 15. Jumlah/ID paragraf Bab 13–15 tetap, sehingga tidak perlu migrasi posisi. Potret dari empat ilustrasi Bab 16 tersedia setelah paragraf sumber; rincian pada `editorial/bab-16-visual.md`. Periksa lengan kanan/kiri, benda yang dibawa, wajah, tautan, dan pembatas spoiler sebelum terbit. Jangan menampilkan base64 atau mencetak semua data wiki ke konteks. Unggah hanya berkas berubah, gunakan kepala cabang yang diperiksa, dan simpan status penerbitan agar sesi terputus dapat diteruskan tanpa mengulang pekerjaan.
+Jalankan `node tests/check-lore.cjs` dan `DANI_TEST_SHARED=1 node tests/check-lore.cjs`. Periksa lengan kanan/kiri, penjagaan Polu, posisi gambar, navigasi dan keberadaan aset. Sumber Markdown beberapa peta lama belum ada di repositori; pembangun mempertahankan halaman peta terbit yang sudah tersedia. Jangan menghapus aset lama atau menimpa perubahan penulis. Gunakan kepala cabang terbaru, unggah berkas yang relevan, lalu periksa GitHub Pages sesudah penerbitan.

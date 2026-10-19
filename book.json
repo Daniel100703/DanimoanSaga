@@ -1,6 +1,6 @@
 {
   "title": "Saga Dani Moan",
-  "description": "Novel wuxia berilustrasi karya Daniel Halomoan Siregar. Bab 1–20, dengan Wiki Persilatan yang mengikuti cerita.",
+  "description": "Novel wuxia berilustrasi karya Daniel Halomoan Siregar. Bab 1–21, dengan Wiki Persilatan yang mengikuti cerita.",
   "chapters": [
     {
       "id": 1,
@@ -1653,6 +1653,68 @@
         }
       ],
       "cast": []
+    },
+    {
+      "id": 21,
+      "slug": "bab-21",
+      "han": "二十一",
+      "source": "bab-21.md",
+      "title": "Tujuh Hari",
+      "accent": "#6c7886",
+      "description": "Pondok bersalju memberi Dani dan Xiaolongnü kesempatan membayangkan hari tua. Amarah seorang biksu dan batas tujuh hari membawa mereka kembali ke Lembah Tanpa Cinta.",
+      "quote": "Kalau engkau menjadi tua, aku ingin melihatnya.",
+      "cover": {
+        "file": "bab-21-pembuka.webp",
+        "width": 1024,
+        "height": 1536,
+        "version": "3cffe638b0e9"
+      },
+      "plates": [
+        {
+          "anchor": "Ci’en meraung. Ia melepaskan tekanan, menyelinap ke samping, lalu menghantam tiang pondok ketika Dani berkelit. Kayu penyangga patah. Atap miring, menjatuhkan hujan salju dan pecahan genting.",
+          "image": {
+            "file": "bab-21-ilustrasi-01.webp",
+            "width": 1536,
+            "height": 1024,
+            "version": "81690f1ca1ce"
+          },
+          "alt": "Dani mengayunkan Xuantie yang lebar dengan tangan kiri menghadapi Ci’en di salju. Yideng berdiri di belakang; Xiaolongnü dan Polu telah berlindung.",
+          "caption": "Xuantie menghadapi amarah yang tak sanggup ditahan belenggu."
+        },
+        {
+          "anchor": "Dani merapikan kain itu. “Lukanya sudah menutup.”",
+          "image": {
+            "file": "bab-21-ilustrasi-02.webp",
+            "width": 1536,
+            "height": 1024,
+            "version": "5d5dfb9ebf51"
+          },
+          "alt": "Dani bertangan kiri menopang Cheng Ying di tepi ladang bunga, dengan Wushuang duduk di sampingnya. Xuantie tersandang di punggung dan kaki Dani terluka oleh duri.",
+          "caption": "Kedua sahabat selamat; duri Bunga Cinta kembali meracuni Dani."
+        }
+      ],
+      "cast": [
+        {
+          "name": "Yideng",
+          "age": "Tetua",
+          "description": "Biksu yang menuntun Ci’en dan berusaha menolong Xiaolongnü."
+        },
+        {
+          "name": "Ci’en",
+          "age": "Tetua",
+          "description": "Murid Yideng yang bergulat dengan amarahnya."
+        },
+        {
+          "name": "Tetua Peng",
+          "age": "Dewasa; usia belum disebut",
+          "description": "Pengemis yang memakai ilmu pengendali pikiran."
+        },
+        {
+          "name": "Pengemis kurus",
+          "age": "Dewasa; usia belum disebut",
+          "description": "Rekan Peng yang menuntut janji pelajaran ilmu."
+        }
+      ]
     }
   ],
   "edition": "2026-10-voice",

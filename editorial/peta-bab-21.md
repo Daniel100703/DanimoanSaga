@@ -1,6 +1,6 @@
 # Peta Bab 21 — Tujuh Hari
 
-Status: peta revisi sesuai arahan penulis 18 Oktober 2026; naskah Bab 21 belum ditulis. Bab 20 sudah terbit. Cakupan diperluas hingga kematian Hong Lingbo dan pertemuan rombongan Dani dengan Qiu Qianchi. Kelanjutan pertemuan menjadi pembuka Bab 22. Unggah mengikuti izin publikasi yang sudah berlaku.
+Status: peta revisi 18 Oktober disetujui melalui perintah penulis untuk membuat Bab 21 dan langsung mengunggahnya. Bab 21 diterbitkan 19 Oktober 2026, mencakup kematian Hong Lingbo dan pertemuan rombongan Dani dengan Qiu Qianchi. Kelanjutan pertemuan menjadi pembuka Bab 22. Unggah mengikuti izin publikasi yang sudah berlaku.
 
 ## Koreksi yang berlaku
 
@@ -36,8 +36,8 @@ Bab 22 melanjutkan percakapan di aula: tuntutan Qiu Qianchi, persoalan penawar, 
 
 ## Rencana visual
 
-Satu pembuka: pasangan yang menyamar tua di pondok bersalju, Polu terlindung. Dua ilustrasi adegan: Dani dengan Xuantie menghadapi Ci’en; penyelamatan di ladang Bunga Cinta. Xuantie harus berupa bilah besar, lebar dan pipih, bukan tongkat. Tubuh utuh secara anatomi; amputasi kanan konsisten; posisi kiri dan gendongan tidak bertabrakan. Ilustrasi dibuat bersama naskah, setelah peta ditinjau.
+Tiga ilustrasi telah dipasang: pasangan yang menyamar tua di pondok bersalju dengan Polu terlindung; Dani menghadapi Ci’en dengan Xuantie; penyelamatan di ladang Bunga Cinta. Xuantie berupa bilah besar, lebar dan pipih. Sisi amputasi kanan tertutup jubah, dengan hanya tangan kiri yang berfungsi. Potret wiki Yideng, Ci’en, Dani, Cheng Ying, dan Wushuang mengikuti gambar serta batas adegannya.
 
 ## Pegangan penulisan
 
-Urutan utama mengikuti ROCH, dengan pergantian Yang Guo menjadi Dani serta penyesuaian usia, Polu, riwayat luka, kemampuan dan hubungan sesuai lore Saga. Koreksi penulis pada 18 Oktober menggantikan bagian lama tentang Ci’en buta dan keterlibatan Huodu dalam manusia salju. Rujukan: [ROCH bab 30 — Strange Encounters, terjemahan BeeDreamer](https://foxswuxia.wordpress.com/condor-trilogy-divine-eagle-gallant-knights/sdxl-chapter-30/); lorebook Babak XII poin 1–8. Dialog nantinya ditulis baru dalam bahasa Saga.
+Urutan utama mengikuti ROCH, dengan pergantian Yang Guo menjadi Dani serta penyesuaian usia, Polu, riwayat luka, kemampuan dan hubungan sesuai lore Saga. Koreksi penulis pada 18 Oktober menggantikan bagian lama tentang Ci’en buta dan keterlibatan Huodu dalam manusia salju. Rujukan: [ROCH bab 30 — Strange Encounters, terjemahan BeeDreamer](https://foxswuxia.wordpress.com/condor-trilogy-divine-eagle-gallant-knights/sdxl-chapter-30/); lorebook Babak XII poin 1–8. Dialog ditulis baru dalam bahasa Saga.

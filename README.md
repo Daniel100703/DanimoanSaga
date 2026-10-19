@@ -1,18 +1,18 @@
-# Saga Dani Moan — Bab 1–20
+# Saga Dani Moan — Bab 1–21
 
 Novel wuxia berilustrasi karya Daniel Halomoan Siregar.
 
 **Baca langsung:** https://daniel100703.github.io/DanimoanSaga/
 
-## Publikasi terbaru — 18 Oktober 2026
+## Publikasi terbaru — 19 Oktober 2026
 
-**Bab 20 sudah terbit:** [Racun di Rumah Mereka](https://daniel100703.github.io/DanimoanSaga/bab-20.html), sekitar 2.870 kata dengan satu ilustrasi pembuka dan dua adegan. [Naskah Bab 20 di repositori](bab-20.md). Halaman, gambar, dan wiki telah diperiksa pada situs publik. Commit penerbitan: `932fec9915508a9ad36ec05ab90722b445b24a0a`.
+**Bab 21 — [Tujuh Hari](https://daniel100703.github.io/DanimoanSaga/bab-21.html)** terbit dengan 2.886 kata, 160 paragraf, dan tiga ilustrasi. Cerita berlanjut dari pondok bersalju, amuk Ci’en dan obat Yideng, perjalanan ke lembah, penyelamatan kedua sepupu serta kematian Hong Lingbo, sampai pertemuan rombongan dengan Qiu Qianchi di dalam aula. [Naskah Bab 21](bab-21.md) · [Peta yang telah diadaptasi](https://daniel100703.github.io/DanimoanSaga/peta-bab-21.html).
 
-Revisi [Bab 18](https://daniel100703.github.io/DanimoanSaga/bab-18.html) dan [Bab 19](https://daniel100703.github.io/DanimoanSaga/bab-19.html) juga sudah terbit, termasuk koreksi pengetahuan Xiaolongnü, posisi duel, dan gambar pernikahan di dalam aula.
+[Wiki Persilatan](https://daniel100703.github.io/DanimoanSaga/wiki.html) diperbarui sampai akhir Bab 21 dengan 63 tahap informasi baru. Dani tetap tingkat 4; keadaan luka, racun, kemampuan, hubungan dan potret mengikuti paragraf. Ci’en dapat melihat dan gelap mata akibat amarah. Polu telah kembali kepada Huang Rong; Hong tewas, sedangkan Li Mochou masih hidup dan keracunan.
 
-**Berikutnya:** [Peta Bab 21 — Tujuh Hari](https://daniel100703.github.io/DanimoanSaga/peta-bab-21.html), untuk ditinjau penulis; memuat bocoran. Peta sudah diunggah, sedangkan naskah Bab 21 belum ditulis. Publikasi bab dan revisi mengikuti izin unggah tetap dari penulis.
+[Kontinuitas Bab 21](editorial/bab-21-kontinuitas.md) · [Arahan ilustrasi](editorial/bab-21-visual.md). Publikasi bab dan revisi mengikuti izin unggah tetap dari penulis. Kelanjutan pertemuan di aula menjadi bagian Bab 22; belum ditulis.
 
-**Pembaruan peta dan wiki:** Peta Bab 21 diperluas sampai kematian Hong Lingbo dan pertemuan dengan Qiu Qianchi; Ci’en dikoreksi menjadi gelap mata karena amarah. [Wiki Persilatan](https://daniel100703.github.io/DanimoanSaga/wiki.html) kini mempertahankan tingkat dan ilmu ketika kondisi tokoh berubah: Dani tingkat 4 sejak latihan Xuantie, Xiaolongnü 4, Zhou Botong 5, serta tingkat tokoh lain mengikuti lore. Pilih batas informasi akhir Bab 20 untuk keadaan terbaru. [Catatan koreksi](editorial/revisi-peta-21-dan-wiki.md).
+[Bab 20 — Racun di Rumah Mereka](https://daniel100703.github.io/DanimoanSaga/bab-20.html) serta revisi Bab 18–19 tetap tersedia, termasuk koreksi pengetahuan Xiaolongnü, posisi duel, dan pernikahan di dalam aula Quanzhen.
 
 ## Edisi revisi Bab 1–10
 
