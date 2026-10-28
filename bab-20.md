@@ -4,9 +4,15 @@ Pada pagi keempat, Xiaolongnü dapat menghabiskan semangkuk bubur tanpa berhenti
 
 “Apakah masakanmu perlu diperiksa sedemikian rupa?” tanya Xiaolongnü.
 
-“Aku sedang menghitung jasa. Jika Bibi sembuh, barangkali buburku patut mendapat satu bagian.”
+“Aku sedang menghitung jasa. Jika Long’er sembuh, barangkali buburku patut mendapat satu bagian.”
 
 “Buburnya masih hangus. Tetapi aku ingin memakannya lagi besok.”
+
+“Kalau engkau memujinya sedikit saja, aku mungkin berhenti membuat bagian yang hangus.”
+
+“Aku memuji orang yang memasaknya.” Xiaolongnü memandangnya sungguh-sungguh. “Apakah aku harus mengatakan buburnya enak supaya engkau tahu?”
+
+Dani menunduk menyembunyikan senyum. Tiga malam sebelumnya ia masih terbangun setiap kali istrinya bergerak, meraba pergelangan tangan untuk memastikan denyutnya belum menghilang. Sekarang ia sedang ditegur karena tidak memahami pujian. Ia bersedia ditegur sepanjang pagi jika itulah tanda bahwa Long’er semakin pulih.
 
 Dani tersenyum. Ia meletakkan mangkuk, lalu membetulkan selimut Polu yang tidur di pembaringan rendah. Selama beberapa hari, hidup mereka mengikuti nyala lampu, waktu pengobatan, dan tangisan bayi. Dani sempat turun mencari susu serta bahan makanan ketika Xiaolongnü cukup kuat menjaga Polu. Sesudah itu ia lebih banyak tinggal di makam.
 
@@ -18,7 +24,7 @@ Di atas Ranjang Giok Dingin, telapak kiri Dani bertemu telapak istrinya. Luka ak
 
 Xiaolongnü melihat kain jubah yang jatuh menutupi bahu kanan suaminya. “Engkau tidak harus menemui Fu seorang diri.”
 
-Dani merapikan lipatan lengan kosong itu dengan tangan kiri. “Kalau Bibi menemani, aku mungkin dapat menahan lidahku sedikit lebih lama.”
+Dani merapikan lipatan lengan kosong itu dengan tangan kiri. “Kalau Long’er menemani, aku mungkin dapat menahan lidahku sedikit lebih lama.”
 
 “Aku akan menemanimu karena engkau suamiku. Tentang lidahmu, sejak dahulu aku memang tidak pandai menjaganya.”
 
@@ -122,7 +128,11 @@ Jawaban Li berupa benturan yang mengguncang debu dari dinding.
 
 Dani segera berlutut di depan Xiaolongnü. Ia mengangkat telapak istrinya, memeriksa aliran yang kini ternoda racun. Racun dalam tubuhnya sendiri masih dapat ditekan; tubuh Xiaolongnü yang terluka jauh lebih sulit menahannya. Mereka harus mengeluarkannya sebelum menyebar lebih dalam.
 
-“Bibi, ikuti napasku. Jangan dengarkan dia.”
+“Long’er, ikuti napasku. Jangan dengarkan dia.”
+
+“Aku mendengarmu.” Xiaolongnü berusaha mengatur napas yang memendek. “Kalau aku berhenti menjawab, panggil lagi. Aku tidak hendak meninggalkanmu.”
+
+Dani hampir kehilangan hitungan. Ia menempelkan telapak dengan lebih hati-hati. “Tidak perlu menjawab dengan suara. Gerakkan jarimu saja.”
 
 Xiaolongnü mengangguk. Keringat membasahi pelipisnya, tetapi ia tidak melepaskan pandangan dari wajah Dani.
 
@@ -174,7 +184,7 @@ Xiaolongnü mengeluarkan botol kecil dari bajunya. Ia mengenal racun Jarum Es se
 
 Dani tidak menyambutnya. Ia berlutut di sisi peti, tangan kirinya mencengkeram bibir batu. Beberapa saat lalu ia masih merasakan racun bergerak menuju ujung jari istrinya. Kini denyut yang dirabanya kacau dan semakin lemah. Air mata jatuh ke punggung tangannya; ia tidak berusaha menyembunyikannya.
 
-“Sedikit lagi, Bibi,” ucapnya. “Tadi tinggal sedikit lagi.”
+“Sedikit lagi, Long’er,” ucapnya. “Tadi tinggal sedikit lagi.”
 
 Xiaolongnü menyentuh rambutnya. “Aku mengetahui engkau telah berusaha. Tetapi kakimu juga terluka. Jangan membuatku harus mencemaskan dua hal sekaligus.”
 
@@ -186,7 +196,13 @@ Wu Santong akhirnya maju setapak. “Saudara Dani, Nyonya Guo berada di luar. Ia
 
 Wu Santong terdiam. Dani pernah membaca petunjuk penawar dalam kitab Wushuang, tetapi mengenali racun tidak memberinya bahan obat, terlebih kemampuan memperbaiki kerusakan yang telah terjadi. Harapan yang tadi masih berada dalam jangkauan tangannya kini tidak dapat ditemukan lagi.
 
-Xiaolongnü memandang kelima orang itu. “Aku ingin bersama suamiku. Tolong tinggalkan ruangan ini.”
+Xiaolongnü memandang Fu. Gadis itu terus memegang ujung bajunya, seolah masih mencari alasan yang dapat membatalkan apa yang telah terjadi.
+
+“Ketika aku memintamu menjaga Dani, aku mengira ia akan aman,” kata Xiaolongnü. Suaranya lemah, tetapi Fu mendengarnya. “Sekarang lihatlah dia. Ia sedang berusaha menolongku. Jangan meminta kami menghiburmu karena engkau tidak sengaja.”
+
+Fu membuka mulut, lalu menutupnya lagi. Xiaolongnü tidak menunggu jawabannya. Ia menarik tangan Dani menjauhi bibir batu yang dicengkeramnya sampai memutih.
+
+“Aku ingin bersama suamiku. Tolong tinggalkan ruangan ini.”
 
 Fu menerima Polu kembali dari Wu Dunru. Tangis bayi itu membuatnya mencoba berbicara lagi. “Dani, aku sungguh tidak mengetahui—”
 
@@ -218,9 +234,17 @@ Dani melihat kain merah itu dari balik batu. Untuk sesaat ia tidak bergerak.
 
 “Dani, bawalah dia keluar,” kata Xiaolongnü.
 
-Ia menoleh kepada istrinya. “Bibi masih dapat memintaku menolongnya?”
+Ia menoleh kepada istrinya. “Long’er masih dapat memintaku menolongnya?”
 
-“Aku melihat orang yang masih hidup menunggu dibakar. Kalau engkau dapat menyelamatkannya, selamatkanlah. Aku menunggumu di sini.”
+“Aku melihat orang yang masih hidup menunggu dibakar. Kalau engkau dapat menyelamatkannya, selamatkanlah.”
+
+“Sesudah semua yang dilakukannya?”
+
+Xiaolongnü memandang tangan kiri Dani yang menegang. “Aku belum lupa. Aku juga marah. Tetapi kalau ia mati di sana, lukamu tidak kembali utuh dan racunku tidak keluar. Aku tidak ingin api itu menjadi hal lain yang harus kaubawa pulang.”
+
+Dani mengalihkan wajah. Dari balik asap terdengar seseorang memanggil nama Fu berulang-ulang.
+
+“Aku menunggumu di sini,” tambah Xiaolongnü. “Kembalilah kepadaku sesudah menolongnya.”
 
 Dani menatapnya, lalu merendam jubah kelabunya dalam air. Setelah memasangnya kembali, ia menarik Xuantie dengan tangan kiri. Ia memilih celah paling pendek, menghantam ranting yang menyala dan membuka jalan sesaat melalui asap. Hawa panas membakar pipi; ujung rambutnya berkerut.
 
@@ -250,7 +274,7 @@ Dani menarik tepi jubah menutupi kaki istrinya. Polu bergerak kecil dalam tidur.
 
 ---
 
-- Dani berusia 19 tahun, Xiaolongnü 21 tahun; mereka sudah menikah sejak Bab 19. Kanan Dani terputus di atas siku, kiri tetap menjadi tangan pedang.
+- Dani berusia 19 tahun, Xiaolongnü 21 tahun; mereka sudah menikah sejak Bab 19; sapaan pribadi Dani kepada istrinya ialah Long’er. Kanan Dani terputus di atas siku, kiri tetap menjadi tangan pedang.
 - Luka Quanzhen mendahului racun Tapak Lima Racun; Jarum Es Fu kemudian menggagalkan pengeluaran racun. Penawar jarum tidak menyelesaikan racun tapak.
 - Polu menggantikan peran bayi Xiang. Fu, Yelü Qi, Wu Santong, dan kedua Wu masuk bersama Li; Huang Rong, Yelü Yan, serta Wanyan Ping menunggu di luar.
 - Zhou bertemu muridnya di Quanzhen, tetapi bukan saksi reuni atau pernikahan. Qiu Chuji menyampaikan kabar Dani hidup kepada rombongan.

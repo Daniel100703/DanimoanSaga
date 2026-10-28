@@ -11,3 +11,8 @@ Bab 20 diterbitkan ke main melalui commit 932fec9915508a9ad36ec05ab90722b445b24a
 Koreksi terbaru Bab 19: Xiaolongnü berdiri terpisah dari Dani saat duel dan melepaskan jarum diam-diam. Pernikahan berlangsung di dalam aula leluhur Quanzhen tertutup. Akhir bab tetap berada di ruang tinggal Makam Kuno bersama Polu.
 
 Koreksi Bab 18 yang ikut diterbitkan: Xiaolongnü belum mengetahui amputasi Dani dari kabar Jinlun atau para pencari; ia baru mengetahui kehilangan lengan kanan saat reuni Bab 19.
+
+
+## Penegasan 28 Oktober 2026
+
+Penulis kembali meminta hasil revisi dan kelanjutan yang diminta langsung push ke GitHub tanpa pertanyaan izin berulang. `AGENTS.md` dan `pegangan-chat-berikutnya.md` menjadi pintu masuk untuk percakapan baru. Peta Bab 22 tersedia sebagai usulan; izin unggah tidak otomatis berarti menulis bab yang belum diminta.

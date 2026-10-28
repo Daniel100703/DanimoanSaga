@@ -1,5 +1,7 @@
 # Pedoman suara dan kontinuitas — koreksi penulis 9 Oktober 2026
 
+**Koreksi yang berlaku sejak 28 Oktober 2026:** kanon utama ialah serial 2014, sebagaimana dikonfirmasi penulis; lore Saga tetap mengunci perubahan Dani, Polu, usia, luka, Ci’en dan tujuh tahun. sapaan kepada Xiaolongnü menjadi Long’er sesudah percakapan nama kecil pada akhir Bab 19. Ketentuan Bibi di catatan bertanggal sebelumnya berlaku untuk fase sebelum itu. Lihat `revisi-bab-18-21-2026-10-28.md` dan `pegangan-chat-berikutnya.md` untuk keadaan terkini.
+
 Dokumen ini mencatat koreksi penulis untuk pekerjaan berikutnya. Prioritas tetap: perintah percakapan terbaru, lorebook proyek, kemudian kanon. Ini bukan pengganti lorebook atau izin meneruskan bab tanpa peta yang disetujui.
 
 ## Suara Dani

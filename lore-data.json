@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "edition": "2026-10-voice",
+  "version": "20261028-serial2014-lore",
+  "edition": "2026-10-28-canon",
   "chapterLengths": {
     "1": 227,
     "2": 131,
@@ -19,10 +19,10 @@
     "15": 196,
     "16": 127,
     "17": 102,
-    "18": 91,
-    "19": 137,
-    "20": 120,
-    "21": 160
+    "18": 111,
+    "19": 191,
+    "20": 132,
+    "21": 194
   },
   "entries": [
     {
@@ -1230,9 +1230,9 @@
             "Tujuan": "Mengembalikan Polu kepada Huang Rong dan menemukan Xiaolongnü.",
             "Batas": "Belum terjadi reuni, pertempuran Quanzhen, atau pernikahan."
           },
-          "key": 180090,
+          "key": 180110,
           "chapter": 18,
-          "paragraph": "p-18-090",
+          "paragraph": "p-18-110",
           "quote": "Anak itu telah lepas dari tangan Li Mochou. Dani akan memastikan ia kembali kepada Huang Rong. Tetapi di antara dinding yang dahulu menjadi rumahnya, untuk pertama kali sejak hanyut di sungai, Dani merasa begitu dekat dengan Xiaolongnü hingga penantian beberapa tarikan napas pun terasa panjang."
         },
         {
@@ -1262,9 +1262,9 @@
             "Hubungan": "Suami Xiaolongnü.",
             "Tempat": "Aula Chongyang Palace; Sun Bu’er ditahan sebagai sandera."
           },
-          "key": 190098,
+          "key": 190136,
           "chapter": 19,
-          "paragraph": "p-19-098",
+          "paragraph": "p-19-136",
           "quote": "“Dan engkau istriku.”"
         },
         {
@@ -1278,10 +1278,10 @@
             "Hubungan": "Suami Xiaolongnü; tetap melindungi Polu.",
             "Batas": "Luka istrinya dan racun Bunga Cinta belum selesai; Tapak Melankolis belum diciptakan."
           },
-          "key": 190137,
+          "key": 190191,
           "chapter": 19,
-          "paragraph": "p-19-137",
-          "quote": "Dani menyambutnya dengan tangan kiri. Di sebelah mereka Polu kembali tenang. Dari ruang tinggal makam yang sunyi, tidak terdengar lagi dentang senjata atau orang-orang yang menyuruh mereka berpisah.\n"
+          "paragraph": "p-19-191",
+          "quote": "Ia membimbing tangan Dani hingga beristirahat di dekat pipinya, lalu menutup mata tanpa melepaskannya. Polu bergerak kecil pada alas di sebelah mereka. Dani mendengarkan napas istrinya sampai kembali teratur. Baru setelah itu ia berani membiarkan air mata yang sejak halaman Quanzhen ditahannya jatuh, jauh dari wajah perempuan yang baru saja meminta hari esok kepadanya."
         },
         {
           "title": "Dani Moan",
@@ -1294,9 +1294,9 @@
             "Hubungan": "Suami Xiaolongnü; ikut mengurus Polu.",
             "Batas": "Luka Xiaolongnü belum sembuh; racun Bunga Cinta Dani tidak dinyatakan hilang."
           },
-          "key": 200006,
+          "key": 200009,
           "chapter": 20,
-          "paragraph": "p-20-006",
+          "paragraph": "p-20-009",
           "quote": "Di atas Ranjang Giok Dingin, telapak kiri Dani bertemu telapak istrinya. Luka akibat tenaga para tetua dan serangan Jinlun masih menyumbat aliran napas Xiaolongnü. Mereka mencoba membukanya perlahan, memadukan dasar ilmu Makam Kuno dengan petunjuk pengaturan napas Sembilan Yin yang pernah mereka pelajari. Kemajuan kecil membuat Dani berani membayangkan hari ketika mereka tidak perlu menghitung setiap tarikan napas."
         },
         {
@@ -1309,9 +1309,9 @@
             "Akibat": "Tenaga Li membuka sumbatan, tetapi racunnya juga masuk.",
             "Batas": "Kecerdikan tidak membuat Dani atau istrinya kebal racun."
           },
-          "key": 200048,
+          "key": 200051,
           "chapter": 20,
-          "paragraph": "p-20-048",
+          "paragraph": "p-20-051",
           "quote": "Dani memutus sentuhan dengan Li sebelum racun bertambah banyak. Ia meraih Xuantie yang disandarkan dekat ranjang dan memaksa Li mundur dengan satu sapuan. Xiaolongnü telah melepaskan kakinya; kedua tangannya kembali menekan dada. Sumbatan lama terbuka, tetapi racun ikut memasuki jalan yang baru dilewati tenaga."
         },
         {
@@ -1323,9 +1323,9 @@
             "Kondisi": "Lengan kanan tetap terputus; kaki kanan terluka oleh Jarum Es.",
             "Akibat": "Hubungan telapak terlepas saat racun hampir keluar."
           },
-          "key": 200076,
+          "key": 200081,
           "chapter": 20,
-          "paragraph": "p-20-076",
+          "paragraph": "p-20-081",
           "quote": "Jarum pertama menancap di kaki kanan Dani. Jarum kedua mengenai bahu kiri Xiaolongnü. Rasa nyeri menyentak tubuh mereka; telapak terlepas. Racun yang hampir keluar berbalik menghantam aliran yang belum pulih. Xiaolongnü terkulai dengan darah mengalir di sudut bibir."
         },
         {
@@ -1339,9 +1339,9 @@
             "Senjata": "Xuantie dibawa di punggung.",
             "Batas": "Tapak Melankolis belum tercipta; racun Bunga Cinta belum diselesaikan."
           },
-          "key": 200116,
+          "key": 200128,
           "chapter": 20,
-          "paragraph": "p-20-116",
+          "paragraph": "p-20-128",
           "quote": "Menjelang malam mereka mencapai ceruk batu di seberang punggung bukit. Udara di sana bersih dari asap. Dani membaringkan Polu di atas lipatan kain, kemudian duduk di samping istrinya. Cahaya kebakaran masih memerah di langit belakang mereka, tetapi tidak lagi menerangi wajah Xiaolongnü."
         },
         {
@@ -1354,9 +1354,9 @@
             "Kondisi": "Kanan putus di atas siku; kiri memegang Xuantie. Racun lama belum selesai.",
             "Senjata": "Pedang Berat Xuantie."
           },
-          "key": 210048,
+          "key": 210070,
           "chapter": 21,
-          "paragraph": "p-21-048",
+          "paragraph": "p-21-070",
           "quote": "Sesudah istrinya melewati sisi pondok, Dani menarik Xuantie. Bilah hitam masuk di antara kedua biksu. Benturannya dengan telapak Ci’en mengirimkan getaran sampai ke bahu kiri Dani; salju di sekitar kaki mereka tersapu membentuk lingkaran."
         },
         {
@@ -1364,14 +1364,14 @@
           "summary": "Menguasai akhir duel Ci’en; menarik pedang saat Yideng menghentikannya.",
           "fields": {
             "Tingkat": "4 · Grandmaster — fase Pedang Berat Xuantie",
-            "Ilmu yang terlihat": "Pedang Berat Xuantie: tenaga tumpuan dan pinggang mendorong Ci’en mundur; perubahan langkah dan salju membuka celah akhir duel. Bekal ilmu Makam Kuno, Quanzhen, Ilmu Katak, Tongkat Pemukul Anjing dan Jentikan Jari Sakti tetap dimiliki.",
+            "Ilmu yang terlihat": "Pedang Berat Xuantie: tenaga tumpuan dan pinggang mendorong Ci’en mundur; perubahan langkah, tumpuan dan dorongan dari bawah membuka celah akhir duel. Bekal ilmu Makam Kuno, Quanzhen, Ilmu Katak, Tongkat Pemukul Anjing dan Jentikan Jari Sakti tetap dimiliki.",
             "Kondisi": "Kanan tetap putus; racun Bunga Cinta belum sembuh.",
             "Senjata": "Xuantie di tangan kiri.",
             "Batas": "Tetap tingkat 4; keberhasilan duel ini tidak menyatakan ia melampaui seluruh tetua atau telah menciptakan Tapak Melankolis."
           },
-          "key": 210058,
+          "key": 210084,
           "chapter": 21,
-          "paragraph": "p-21-058",
+          "paragraph": "p-21-084",
           "quote": "Jari Yideng menyentuh sisi bilah, mengalihkannya sedikit. Dani merasakan tenaga yang sangat terpusat merambat melalui besi. Ia menahan dorongannya, kemudian menarik pedang."
         },
         {
@@ -1379,16 +1379,16 @@
           "summary": "Menyelamatkan kedua sepupu dan kembali terkena duri Bunga Cinta.",
           "fields": {
             "Tingkat": "4 · Grandmaster — fase Pedang Berat Xuantie",
-            "Ilmu yang terlihat": "Pedang Berat Xuantie: tenaga tumpuan dan pinggang mendorong Ci’en mundur; perubahan langkah dan salju membuka celah akhir duel. Bekal ilmu Makam Kuno, Quanzhen, Ilmu Katak, Tongkat Pemukul Anjing dan Jentikan Jari Sakti tetap dimiliki.",
+            "Ilmu yang terlihat": "Pedang Berat Xuantie: tenaga tumpuan dan pinggang mendorong Ci’en mundur; perubahan langkah, tumpuan dan dorongan dari bawah membuka celah akhir duel. Bekal ilmu Makam Kuno, Quanzhen, Ilmu Katak, Tongkat Pemukul Anjing dan Jentikan Jari Sakti tetap dimiliki.",
             "Usia sekarang": "19 tahun",
             "Kondisi": "Betis dan paha terluka; racun baru masuk. Kanan tetap putus di atas siku.",
             "Senjata": "Xuantie tersandang di punggung.",
             "Penyelamatan": "Kiri menopang Cheng Ying; Cheng Ying memegang Wushuang.",
             "Batas": "Belum kebal atau sembuh; Tapak Melankolis belum tercipta."
           },
-          "key": 210106,
+          "key": 210137,
           "chapter": 21,
-          "paragraph": "p-21-106",
+          "paragraph": "p-21-137",
           "quote": "Duri merobek celananya. Nyeri menembus betis dan paha sebelum ia berhasil membaringkan kedua perempuan itu."
         },
         {
@@ -1396,17 +1396,17 @@
           "summary": "Tiba di aula bersama Xiaolongnü dan menyaksikan pertemuan saudara Qiu.",
           "fields": {
             "Tingkat": "4 · Grandmaster — fase Pedang Berat Xuantie",
-            "Ilmu yang terlihat": "Pedang Berat Xuantie: tenaga tumpuan dan pinggang mendorong Ci’en mundur; perubahan langkah dan salju membuka celah akhir duel. Bekal ilmu Makam Kuno, Quanzhen, Ilmu Katak, Tongkat Pemukul Anjing dan Jentikan Jari Sakti tetap dimiliki.",
+            "Ilmu yang terlihat": "Pedang Berat Xuantie: tenaga tumpuan dan pinggang mendorong Ci’en mundur; perubahan langkah, tumpuan dan dorongan dari bawah membuka celah akhir duel. Bekal ilmu Makam Kuno, Quanzhen, Ilmu Katak, Tongkat Pemukul Anjing dan Jentikan Jari Sakti tetap dimiliki.",
             "Usia sekarang": "19 tahun",
             "Kondisi": "Kanan putus di atas siku; kaki terluka dan racun Bunga Cinta bertambah.",
             "Senjata": "Xuantie tersandang di punggung; jubah kelabu menutup sisi kanan.",
             "Hubungan": "Suami Xiaolongnü; Polu sudah kembali kepada Huang Rong.",
             "Batas": "Tetap tingkat 4. Tapak Melankolis belum tercipta; sisa waktu obat istrinya satu hari."
           },
-          "key": 210160,
+          "key": 210194,
           "chapter": 21,
-          "paragraph": "p-21-160",
-          "quote": "Dani berdiri di samping Xiaolongnü, menggenggam jemarinya dengan tangan kiri. Mereka sudah sampai. Di hadapan mereka, keluarga yang lama tercerai akhirnya saling mengenali; di belakang harapan itu, tinggal satu hari yang tidak berani ia sia-siakan.\n"
+          "paragraph": "p-21-194",
+          "quote": "Dani berdiri di samping Xiaolongnü, menggenggam jemarinya dengan tangan kiri. Mereka sudah sampai. Di hadapan mereka, keluarga yang lama tercerai akhirnya saling mengenali; di belakang harapan itu, tinggal satu hari yang tidak berani ia sia-siakan."
         }
       ],
       "portraits": [
@@ -1725,7 +1725,7 @@
           ]
         },
         {
-          "key": 200006,
+          "key": 200009,
           "image": {
             "file": "bab-20-pembuka.webp",
             "width": 1024,
@@ -1740,7 +1740,7 @@
           ]
         },
         {
-          "key": 210106,
+          "key": 210137,
           "image": {
             "file": "bab-21-ilustrasi-02.webp",
             "width": 1536,
@@ -1967,42 +1967,42 @@
         {
           "status": "Kembali melindungi Xiaolongnü",
           "explanation": "Reuni memulihkan kedekatan; melihat luka Xiaolongnü membuat keselamatannya menjadi tujuan utama.",
-          "key": 190026,
+          "key": 190041,
           "chapter": 19,
-          "paragraph": "p-19-026",
-          "quote": "“Bibi sudah menemukanku. Sekarang biarkan aku membawamu pulang.”"
+          "paragraph": "p-19-041",
+          "quote": "“Sekarang Bibi ada di sisiku.” Ia mencoba tersenyum. “Hanya saja aku memerlukan sedikit bantuan. Tangan yang tinggal ini harus cukup untuk membawa kita pulang.”"
         },
         {
           "status": "Suami Xiaolongnü",
           "explanation": "Menegaskan cinta dan memilih melaksanakan pernikahan setelah perpisahan serta ancaman kematian.",
-          "key": 190098,
+          "key": 190136,
           "chapter": 19,
-          "paragraph": "p-19-098",
+          "paragraph": "p-19-136",
           "quote": "“Dan engkau istriku.”"
         },
         {
           "status": "Suami yang tetap mendampingi",
           "explanation": "Berjanji mencari pertolongan bersama Xiaolongnü, bukan meninggalkannya untuk mencari seorang diri.",
-          "key": 200119,
+          "key": 200131,
           "chapter": 20,
-          "paragraph": "p-20-119",
+          "paragraph": "p-20-131",
           "quote": "“Kita berangkat bersama.”"
         },
         {
           "status": "Mengakui akibat kejahilannya",
           "explanation": "Mengaku telah menotok dan menyembunyikan pengemis dalam salju; tidak membela diri atas akibatnya.",
-          "key": 210063,
+          "key": 210089,
           "chapter": 21,
-          "paragraph": "p-21-063",
+          "paragraph": "p-21-089",
           "quote": "“Orang dalam salju itu kutotok dan kusembunyikan. Aku menganggapnya hukuman yang lucu.”"
         },
         {
           "status": "Suami yang mencari pertolongan bersama",
           "explanation": "Sampai di aula dengan Xiaolongnü; menggenggam jemarinya ketika batas obat semakin dekat.",
-          "key": 210160,
+          "key": 210194,
           "chapter": 21,
-          "paragraph": "p-21-160",
-          "quote": "Dani berdiri di samping Xiaolongnü, menggenggam jemarinya dengan tangan kiri. Mereka sudah sampai. Di hadapan mereka, keluarga yang lama tercerai akhirnya saling mengenali; di belakang harapan itu, tinggal satu hari yang tidak berani ia sia-siakan.\n"
+          "paragraph": "p-21-194",
+          "quote": "Dani berdiri di samping Xiaolongnü, menggenggam jemarinya dengan tangan kiri. Mereka sudah sampai. Di hadapan mereka, keluarga yang lama tercerai akhirnya saling mengenali; di belakang harapan itu, tinggal satu hari yang tidak berani ia sia-siakan."
         }
       ]
     },
@@ -2342,9 +2342,9 @@
             "Kondisi": "Hidup; jalan keluar tertutup semak beracun.",
             "Lawan": "Li Mochou dan Hong Lingbo."
           },
-          "key": 210096,
+          "key": 210127,
           "chapter": 21,
-          "paragraph": "p-21-096",
+          "paragraph": "p-21-127",
           "quote": "Di tengah semak berduri, pada sebidang tanah yang sempit, Cheng Ying dan Lu Wushuang terdesak oleh Li Mochou serta Hong Lingbo. Jalan masuk telah ditutup timbunan bunga oleh penjaga lembah. Li kini memakai pedang; setiap desakan memaksa kedua sepupu mendekati duri."
         },
         {
@@ -2356,9 +2356,9 @@
             "Kondisi": "Hidup; kembali dapat bergerak di tanah bebas.",
             "Pengetahuan": "Melihat Dani kehilangan lengan kanan dan terluka saat menolong mereka."
           },
-          "key": 210107,
+          "key": 210138,
           "chapter": 21,
-          "paragraph": "p-21-107",
+          "paragraph": "p-21-138",
           "quote": "Xiaolongnü menyerahkan Polu kepada Yideng, lalu membuka totokan Cheng Ying dan Wushuang. Keduanya melihat darah merembes dari kaki Dani. Cheng Ying hendak bertanya, tetapi pandangannya berhenti pada jubah yang tersingkap di sisi kanan."
         },
         {
@@ -2370,9 +2370,9 @@
             "Kondisi": "Hidup dan dapat bergerak; dicegah Dani masuk ke duri.",
             "Hubungan": "Mengingat kebaikan kecil kakak seperguruannya di bawah pengawasan Li."
           },
-          "key": 210134,
+          "key": 210165,
           "chapter": 21,
-          "paragraph": "p-21-134",
+          "paragraph": "p-21-165",
           "quote": "Wushuang mencapai tepi ladang. Dani menahan bahunya sebelum ia menghambur ke duri. Gadis itu memanggil Hong sekali lagi, lalu suaranya pecah. Dahulu, di bawah pengawasan Li, kakak seperguruannya pernah melunakkan hukuman dan memberinya kesempatan bernapas. Kini orang yang sama terbaring dengan mata terbuka, tidak lagi menjawab."
         }
       ],
@@ -2448,7 +2448,7 @@
           ]
         },
         {
-          "key": 210107,
+          "key": 210138,
           "image": {
             "file": "bab-21-ilustrasi-02.webp",
             "width": 1536,
@@ -2507,9 +2507,9 @@
         {
           "status": "Sahabat yang marah dan cemas",
           "explanation": "Menuntut tahu penyebab lengan Dani hilang; tidak menerima jawaban yang mengecilkan luka itu.",
-          "key": 210110,
+          "key": 210141,
           "chapter": 21,
-          "paragraph": "p-21-110",
+          "paragraph": "p-21-141",
           "quote": "“Aku tidak bertanya apakah lukanya menutup!” Wushuang berlutut di depannya. “Siapa yang melakukannya? Apakah perempuan iblis itu?”"
         }
       ]
@@ -2641,9 +2641,9 @@
             "Kondisi": "Hidup; jalan keluar tertutup semak beracun.",
             "Lawan": "Li Mochou dan Hong Lingbo."
           },
-          "key": 210096,
+          "key": 210127,
           "chapter": 21,
-          "paragraph": "p-21-096",
+          "paragraph": "p-21-127",
           "quote": "Di tengah semak berduri, pada sebidang tanah yang sempit, Cheng Ying dan Lu Wushuang terdesak oleh Li Mochou serta Hong Lingbo. Jalan masuk telah ditutup timbunan bunga oleh penjaga lembah. Li kini memakai pedang; setiap desakan memaksa kedua sepupu mendekati duri."
         },
         {
@@ -2655,9 +2655,9 @@
             "Kondisi": "Hidup; kembali dapat bergerak di tanah bebas.",
             "Pengetahuan": "Melihat Dani kehilangan lengan kanan dan terluka saat menolong mereka."
           },
-          "key": 210107,
+          "key": 210138,
           "chapter": 21,
-          "paragraph": "p-21-107",
+          "paragraph": "p-21-138",
           "quote": "Xiaolongnü menyerahkan Polu kepada Yideng, lalu membuka totokan Cheng Ying dan Wushuang. Keduanya melihat darah merembes dari kaki Dani. Cheng Ying hendak bertanya, tetapi pandangannya berhenti pada jubah yang tersingkap di sisi kanan."
         }
       ],
@@ -2705,7 +2705,7 @@
           ]
         },
         {
-          "key": 210107,
+          "key": 210138,
           "image": {
             "file": "bab-21-ilustrasi-02.webp",
             "width": 1536,
@@ -2772,9 +2772,9 @@
         {
           "status": "Sahabat yang terharu dan mencemaskan Dani",
           "explanation": "Melihat pengorbanan Dani menyelamatkan dirinya dan Wushuang meski telah kehilangan lengan.",
-          "key": 210111,
+          "key": 210142,
           "chapter": 21,
-          "paragraph": "p-21-111",
+          "paragraph": "p-21-142",
           "quote": "Cheng Ying menggenggam lengan sepupunya, tetapi matanya sendiri basah. “Kakak Dani, mengapa engkau masih masuk ke sana untuk kami?”"
         }
       ]
@@ -3021,9 +3021,9 @@
             "Tindakan": "Menutup pintu setelah memimpin mereka melalui air; jarum menahan usaha Yelü Qi keluar.",
             "Tawanan": "Fu, Yelü Qi, Wu Santong, Wu Dunru, dan Wu Xiuwen."
           },
-          "key": 200034,
+          "key": 200037,
           "chapter": 20,
-          "paragraph": "p-20-034",
+          "paragraph": "p-20-037",
           "quote": "Setelah melewati air dan lorong gelap, kelima orang itu tiba dalam sebuah ruang batu. Li menyuruh mereka menunggu sementara ia memeriksa jalan. Yelü Qi baru merasa ada yang ganjil ketika pintu mulai turun. Ia menerjang; kilatan jarum memaksanya berbalik melindungi Fu."
         },
         {
@@ -3035,9 +3035,9 @@
             "Kondisi": "Hidup; terkurung di bawah tutup batu yang ditindih peti kosong lain.",
             "Batas": "Tidak memperoleh sutra; benda umpan hanya sepatu Dani."
           },
-          "key": 200056,
+          "key": 200059,
           "chapter": 20,
-          "paragraph": "p-20-056",
+          "paragraph": "p-20-059",
           "quote": "Dani bergerak sebelum jari Li menyentuh kulit sepatu. Xuantie menyelip di bawah tutup batu; dengan bilah sebagai pengungkit, ia menggesernya menutup peti. Hantaman dari dalam hampir membuka celah, tetapi Dani sudah mendorong peti kosong di sebelahnya hingga bertumpuk melintang di atas penutup itu. Lantai berderit. Li terkurung di bawah beban batu."
         },
         {
@@ -3049,9 +3049,9 @@
             "Kondisi": "Masih hidup dan dapat bertarung.",
             "Tindakan": "Melempar batu penyangga, melompat keluar, lalu memadamkan lampu."
           },
-          "key": 200098,
+          "key": 200106,
           "chapter": 20,
-          "paragraph": "p-20-098",
+          "paragraph": "p-20-106",
           "quote": "Mereka menyingkir dari jalan. Suara langkah Dani menghilang dalam lorong. Ketika Wu Santong hendak menyusul, batu penyangga melesat keluar dari peti yang retak. Ia menangkisnya dengan bahu sambil mendorong kedua putranya menjauh. Li Mochou melompat dari celah yang terbuka dan menyambar lampu. Dalam kegelapan sesudahnya, kebutannya memaksa mereka berpencar."
         },
         {
@@ -3063,9 +3063,9 @@
             "Kondisi": "Hidup; belum terkena duri pada adegan ini.",
             "Senjata": "Pedang."
           },
-          "key": 210096,
+          "key": 210127,
           "chapter": 21,
-          "paragraph": "p-21-096",
+          "paragraph": "p-21-127",
           "quote": "Di tengah semak berduri, pada sebidang tanah yang sempit, Cheng Ying dan Lu Wushuang terdesak oleh Li Mochou serta Hong Lingbo. Jalan masuk telah ditutup timbunan bunga oleh penjaga lembah. Li kini memakai pedang; setiap desakan memaksa kedua sepupu mendekati duri."
         },
         {
@@ -3078,9 +3078,9 @@
             "Senjata": "Pedang.",
             "Batas": "Belum tewas; nasibnya berbeda dari Hong Lingbo."
           },
-          "key": 210133,
+          "key": 210164,
           "chapter": 21,
-          "paragraph": "p-21-133",
+          "paragraph": "p-21-164",
           "quote": "Mereka jatuh bersama ke semak, hanya sedikit dari tanah bebas. Duri menembus pakaian Li pada beberapa tempat. Ia merenggut genggaman muridnya, tetapi ketika berhasil melepaskan diri, racun sudah masuk."
         }
       ],
@@ -4142,9 +4142,9 @@
             "Pengetahuan": "Qiu Chuji mengabarkan Dani hidup dan sudah menikah; sosok kelabu Bab 18 baru dikenali melalui kabar ini.",
             "Batas": "Belum bertemu Dani atau menemukan Polu secara langsung."
           },
-          "key": 200028,
+          "key": 200031,
           "chapter": 20,
-          "paragraph": "p-20-028",
+          "paragraph": "p-20-031",
           "quote": "Huang Rong memejamkan mata sejenak. Sosok berjubah kelabu yang dahulu mengambil Polu kini memperoleh nama. Namun kelegaan itu segera disusul ingatan tentang lengan yang ditebas putrinya. Di sampingnya, Wu Santong mendengar penjelasan singkat itu dengan wajah mengeras."
         },
         {
@@ -4156,9 +4156,9 @@
             "Kondisi": "Belum lama melahirkan; tidak ikut penyelaman.",
             "Batas": "Tidak menyaksikan serangan Li atau kesalahan jarum Fu di dalam makam."
           },
-          "key": 200032,
+          "key": 200035,
           "chapter": 20,
-          "paragraph": "p-20-032",
+          "paragraph": "p-20-035",
           "quote": "Li Mochou membawa mereka ke aliran air yang menyembunyikan jalan masuk. Huang Rong, yang belum lama melahirkan, tidak mengikuti penyelaman. Yelü Yan dan Wanyan Ping juga tinggal bersamanya karena tidak mahir berenang. Fu, Yelü Qi, Wu Santong, Wu Dunru, dan Wu Xiuwen masuk mengikuti Li Mochou."
         },
         {
@@ -4170,9 +4170,9 @@
             "Kondisi": "Hidup; lega dan memeriksa keadaan putranya.",
             "Keluarga": "Polu kembali dalam pelukannya."
           },
-          "key": 210121,
+          "key": 210152,
           "chapter": 21,
-          "paragraph": "p-21-121",
+          "paragraph": "p-21-152",
           "quote": "Huang Rong menerima bayi itu. Ia merapatkan pipi ke kepala Polu, memeriksa napas dan kedua tangannya sebelum sanggup mengucapkan terima kasih. Semua kecerdikan yang biasa siap di lidahnya seakan terlambat menyusul kebahagiaan itu."
         },
         {
@@ -4184,9 +4184,9 @@
             "Kondisi": "Hidup; berada di tepi ladang.",
             "Keluarga": "Polu dijaga Yelü Yan sementara."
           },
-          "key": 210135,
+          "key": 210166,
           "chapter": 21,
-          "paragraph": "p-21-135",
+          "paragraph": "p-21-166",
           "quote": "Huang Rong menyerahkan Polu kepada Yelü Yan dan maju beberapa langkah."
         },
         {
@@ -4199,9 +4199,9 @@
             "Keluarga": "Polu bersama ibunya.",
             "Lokasi": "Menuju pertemuan Qiu Qianchi."
           },
-          "key": 210150,
+          "key": 210181,
           "chapter": 21,
-          "paragraph": "p-21-150",
+          "paragraph": "p-21-181",
           "quote": "Dani hendak mendesak, tetapi Yideng telah berdiri di sisinya. Ia mengangguk. Huang Rong mengambil kembali Polu dari Yelü Yan; rombongan mengikuti Lü’e, sementara Li tetap berada di tepi ladang bersama akibat perbuatannya."
         }
       ],
@@ -4378,9 +4378,9 @@
         {
           "status": "Berterima kasih atas kembalinya Polu",
           "explanation": "Menerima putranya dalam keadaan selamat; Dani tidak meminta penawar sebagai harga kepulangan bayi.",
-          "key": 210121,
+          "key": 210152,
           "chapter": 21,
-          "paragraph": "p-21-121",
+          "paragraph": "p-21-152",
           "quote": "Huang Rong menerima bayi itu. Ia merapatkan pipi ke kepala Polu, memeriksa napas dan kedua tangannya sebelum sanggup mengucapkan terima kasih. Semua kecerdikan yang biasa siap di lidahnya seakan terlambat menyusul kebahagiaan itu."
         }
       ]
@@ -4680,9 +4680,9 @@
             "Pengetahuan": "Kabar datang dari Quanzhen; belum berjumpa Dani kembali.",
             "Kondisi": "Bersama rombongan pencari Polu."
           },
-          "key": 200026,
+          "key": 200029,
           "chapter": 20,
-          "paragraph": "p-20-026",
+          "paragraph": "p-20-029",
           "quote": "Fu memutih. “Dani masih hidup?”"
         },
         {
@@ -4694,9 +4694,9 @@
             "Kondisi": "Telah menemukan Polu; membawa dua jarum beracun.",
             "Pengetahuan": "Belum mengetahui pasangan sedang mengeluarkan racun."
           },
-          "key": 200066,
+          "key": 200071,
           "chapter": 20,
-          "paragraph": "p-20-066",
+          "paragraph": "p-20-071",
           "quote": "Di ruang Ranjang Giok Dingin, mereka menemukan bekas perkelahian. Fu melihat jarum-jarum yang tercecer. Dengan saputangan tebal ia memungut dua batang, membungkus pangkalnya, lalu menyimpannya terpisah agar ujung beracun tidak menyentuh kulit."
         },
         {
@@ -4709,9 +4709,9 @@
             "Sebab": "Bertindak sebelum menunggu jawaban atau melihat sasaran.",
             "Batas": "Salah sasaran tidak menghapus kecerobohannya."
           },
-          "key": 200074,
+          "key": 200079,
           "chapter": 20,
-          "paragraph": "p-20-074",
+          "paragraph": "p-20-079",
           "quote": "Fu tidak menunggu. Polu diserahkannya kepada Wu Dunru. Ketika Yelü Qi baru menyentuh tutup peti, Fu mendorongnya lebih jauh dan melontarkan kedua jarum ke dalam kegelapan."
         },
         {
@@ -4723,9 +4723,9 @@
             "Kondisi": "Sadar tetapi tidak dapat menggerakkan tangan dan kaki; terancam api.",
             "Sebab": "Mendekati sosok yang disangka ibunya."
           },
-          "key": 200103,
+          "key": 200111,
           "chapter": 20,
-          "paragraph": "p-20-103",
+          "paragraph": "p-20-111",
           "quote": "Fu jatuh telentang pada tanah miring. Punggungnya tersangga akar, membuat wajahnya tetap terangkat, tetapi tangan dan kakinya tidak dapat digerakkan. Li meninggalkannya saat nyala api merambat melalui daun-daun kering. Yelü Qi mencoba menyeberangi jalur terdekat; sebuah pohon tumbang di hadapannya, memisahkan mereka."
         },
         {
@@ -4737,9 +4737,9 @@
             "Kondisi": "Hidup; totokan dibuka Yelü Qi setelah ditarik ke tepian.",
             "Batas": "Dani tidak menyatakan mengampuninya."
           },
-          "key": 200110,
+          "key": 200122,
           "chapter": 20,
-          "paragraph": "p-20-110",
+          "paragraph": "p-20-122",
           "quote": "Yelü Qi berlari menyusuri tebing kecil, menangkap Fu ketika tubuhnya menghantam air dangkal, lalu menyeretnya ke tepian. Ia membuka totokan gadis itu. Fu terbatuk, berusaha menoleh mencari jubah kelabu di balik asap."
         },
         {
@@ -4751,9 +4751,9 @@
             "Kondisi": "Hidup; kedua lengan utuh.",
             "Sikap": "Menyebut hukuman orang tuanya, tetapi masih menolak kecaman."
           },
-          "key": 210116,
+          "key": 210147,
           "chapter": 21,
-          "paragraph": "p-21-116",
+          "paragraph": "p-21-147",
           "quote": "Fu menegakkan dagu ketika Wushuang bangkit. “Ayah dan ibuku telah menghukumku. Engkau tidak mengetahui apa yang terjadi, jangan sembarangan memaki!”"
         }
       ],
@@ -4816,7 +4816,7 @@
           ]
         },
         {
-          "key": 200074,
+          "key": 200079,
           "image": {
             "file": "bab-20-ilustrasi-01.webp",
             "width": 1536,
@@ -4939,25 +4939,25 @@
         {
           "status": "Kecerobohan kembali melukai orang yang dicintai Dani",
           "explanation": "Dani menghubungkan serangan baru dengan kehilangan lengannya; tidak ada pengampunan yang dinyatakan.",
-          "key": 200094,
+          "key": 200102,
           "chapter": 20,
-          "paragraph": "p-20-094",
+          "paragraph": "p-20-102",
           "quote": "“Lengan ini sudah kautebas,” kata Dani. “Sekarang engkau masih hendak mengambil apa dariku?”"
         },
         {
           "status": "Berutang nyawa kepada Dani",
           "explanation": "Dani memenuhi permintaan istrinya dan menyelamatkan Fu, lalu segera kembali kepada Xiaolongnü.",
-          "key": 200110,
+          "key": 200122,
           "chapter": 20,
-          "paragraph": "p-20-110",
+          "paragraph": "p-20-122",
           "quote": "Yelü Qi berlari menyusuri tebing kecil, menangkap Fu ketika tubuhnya menghantam air dangkal, lalu menyeretnya ke tepian. Ia membuka totokan gadis itu. Fu terbatuk, berusaha menoleh mencari jubah kelabu di balik asap."
         },
         {
           "status": "Tuduhan yang dibantah; konflik belum selesai",
           "explanation": "Dani menegaskan bahwa Polu tidak pernah dijadikannya harga penawar. Belum ada pengampunan atau pemulihan hubungan.",
-          "key": 210122,
+          "key": 210153,
           "chapter": 21,
-          "paragraph": "p-21-122",
+          "paragraph": "p-21-153",
           "quote": "Dani menghadap Fu. “Polu tidak pernah kujadikan harga penawarku.”"
         }
       ]
@@ -5784,9 +5784,9 @@
             "Kondisi": "Kekuasaan belum kukuh dan masih ditentang.",
             "Batas": "Belum tewas atau menghadapi putusan akhir tetua."
           },
-          "key": 180082,
+          "key": 180102,
           "chapter": 18,
-          "paragraph": "p-18-082",
+          "paragraph": "p-18-102",
           "quote": "Menjelang akhir bulan kedua, jejak itu membawanya ke Zhongnan. Selama lima tetua Quanzhen menutup diri untuk berlatih, Zhao menggunakan dukungan Mongol untuk menguasai urusan perguruan. Orang-orang yang menentangnya dipisahkan dari gerbang dan ruang pertemuan; Zhen sudah kembali, tetapi tidak menghentikan persekutuan tersebut. Kedudukan Zhao belum kukuh. Karena itu ia semakin bergantung pada tamu-tamu bersenjata yang menjanjikannya kekuasaan."
         },
         {
@@ -5798,9 +5798,9 @@
             "Kondisi": "Hidup dalam kurungan; perkara pengkhianatan dibuka.",
             "Penyebab": "Berusaha kabur setelah menjebak Zhou dengan bantuan Mongol."
           },
-          "key": 190112,
+          "key": 190151,
           "chapter": 19,
-          "paragraph": "p-19-112",
+          "paragraph": "p-19-151",
           "quote": "Ia melihat lonceng, mengangkat salah satu sisinya, dan mendapati Sun Bu’er masih duduk di dalam. Wang Chuyi segera membantunya keluar serta membuka totokannya. Zhou mendorong Zhao ke bawah lonceng, lalu melepaskan pegangannya. Dentang kembali mengguncang aula."
         },
         {
@@ -5812,9 +5812,9 @@
             "Kondisi": "Tewas disengat.",
             "Rangka sebab": "Celah udara memungkinkan mengambil madu; botol dibuka untuk tawar-menawar, pecah, lalu madu menarik lebah."
           },
-          "key": 190125,
+          "key": 190164,
           "chapter": 19,
-          "paragraph": "p-19-125",
+          "paragraph": "p-19-164",
           "quote": "Zhou mundur sambil menutupi muka. Dari bawah lonceng terdengar pukulan dan jeritan yang berangsur melemah. Ketika suara itu berhenti, Wang Chuyi tidak lagi memanggil nama muridnya."
         }
       ],
@@ -6085,7 +6085,9 @@
       "type": "tokoh",
       "aliases": [
         "Xiaolongnü",
-        "Xiaolongnu"
+        "Xiaolongnu",
+        "Long’er",
+        "Long'er"
       ],
       "stages": [
         {
@@ -6666,7 +6668,7 @@
           "key": 180054,
           "chapter": 18,
           "paragraph": "p-18-054",
-          "quote": "Xiaolongnü tidak menjawab. Ujung Pedang Perempuan turun sedikit. Ia teringat permintaannya kepada Fu sebelum pergi: jagalah dia. Kalimat itu begitu sederhana ketika diucapkan; kini ia mendengarnya kembali tanpa dapat memahami bagaimana permintaan tersebut berakhir di sebuah tebing."
+          "quote": "Xiaolongnü tidak menjawab. Pedang Perempuan masih mengarah kepada Jinlun, tetapi jari-jarinya tiba-tiba tidak merasakan gagangnya. Yang terbayang olehnya justru kamar tempat ia meninggalkan Dani: baskom air, bau obat, dan ranjang yang tidak berani didekatinya sebelum pergi."
         },
         {
           "title": "Xiaolongnü",
@@ -6678,9 +6680,9 @@
             "Latihan": "Pedang Perempuan serta ranting sebagai pengganti bilah kedua.",
             "Batas": "Belum mengalahkan seluruh lawan Quanzhen atau bertemu Dani."
           },
-          "key": 180072,
+          "key": 180090,
           "chapter": 18,
-          "paragraph": "p-18-072",
+          "paragraph": "p-18-090",
           "quote": "Xiaolongnü memakai Pedang Perempuan dan sebatang ranting yang lebih panjang. Satu sisi menjalankan pedang Quanzhen yang dipahaminya melalui latihan bersama Dani; sisi lain menjawab dengan Pedang Gadis Giok. Mula-mula kedua ujungnya bersilangan terlalu dekat. Sesudah diulang, satu serangan menutup celah yang ditinggalkan serangan lain. Ia merasakan kemungkinan yang dahulu hanya ada ketika Dani berdiri di sisinya."
         },
         {
@@ -6694,9 +6696,9 @@
             "Senjata": "Pedang Perempuan dan satu pedang biasa yang diperoleh dalam perjalanan.",
             "Batas": "Kemurkaan tidak diarahkan kepada semua orang Quanzhen tanpa membedakan perbuatannya."
           },
-          "key": 180084,
+          "key": 180104,
           "chapter": 18,
-          "paragraph": "p-18-084",
+          "paragraph": "p-18-104",
           "quote": "Ia datang untuk menuntut perbuatan Zhen dan Zhao. Kini di tempat yang sama berdiri pula orang-orang yang melindungi pembunuh Dani. Amarah itu tidak membuatnya berseru kepada gunung. Xiaolongnü hanya merapikan ikatan kedua sarung pedang, lalu meneruskan langkah menuju Quanzhen."
         },
         {
@@ -6709,10 +6711,10 @@
             "Kondisi": "Luka berat akibat pertempuran; mengetahui Dani masih hidup.",
             "Pengetahuan": "Baru meraba kehilangan lengan kanan; belum mengetahui pelakunya pada pertanyaan ini."
           },
-          "key": 190022,
+          "key": 190030,
           "chapter": 19,
-          "paragraph": "p-19-022",
-          "quote": "“Dani, lenganmu... siapa yang melakukannya?”"
+          "paragraph": "p-19-030",
+          "quote": "Ia mencoba merangkulnya dengan kedua lengan. Jemarinya menyusuri bahu kanan Dani, lalu berhenti pada kain yang melipat tanpa tahanan. Xiaolongnü meraba sekali lagi, lebih perlahan. Pandangannya turun."
         },
         {
           "title": "Xiaolongnü",
@@ -6724,10 +6726,10 @@
             "Pengetahuan": "Dani menyebut Guo Fu sebagai pelaku.",
             "Batas": "Kelegaan reuni tidak menyembuhkan luka."
           },
-          "key": 190023,
+          "key": 190034,
           "chapter": 19,
-          "paragraph": "p-19-023",
-          "quote": "“Guo Fu. Kami bertengkar, lalu ia mengayunkan pedang.” Dani menahan getar suaranya. “Tetapi aku sudah dapat memegang pedang lagi. Jangan memaksakan diri bergerak.”"
+          "paragraph": "p-19-034",
+          "quote": "“Guo Fu. Kami bertengkar, lalu ia mengayunkan pedang.”"
         },
         {
           "title": "Xiaolongnü",
@@ -6739,9 +6741,9 @@
             "Dampak teramati": "Tusukan mengganggu kesinambungan tenaga Jinlun.",
             "Batas pengetahuan": "Orang lain tidak melihat jarum; Dani hanya merasakan tekanan lawan terputus."
           },
-          "key": 190047,
+          "key": 190068,
           "chapter": 19,
-          "paragraph": "p-19-047",
+          "paragraph": "p-19-068",
           "quote": "Geraknya kecil, tersembunyi oleh lengan baju; perhatian orang-orang tertuju pada benturan pedang dan roda. Jarum melesat ke sela pakaian Jinlun di bawah bahu. Rahib itu merasakan tusukan tajam tepat ketika harus mempertahankan seluruh aliran tenaganya. Bahunya tersentak. Tidak seorang pun melihat jarum tersebut; Dani hanya merasakan tekanan yang tadi terus bertambah tiba-tiba terputus."
         },
         {
@@ -6753,9 +6755,9 @@
             "Pengetahuan": "Dani tidak berniat menikahi Fu; ucapan itu dipakai untuk menghentikan pertarungan saudara Wu.",
             "Kondisi": "Masih terluka berat dan takut Dani kelak sendirian."
           },
-          "key": 190074,
+          "key": 190095,
           "chapter": 19,
-          "paragraph": "p-19-074",
+          "paragraph": "p-19-095",
           "quote": "“Aku tidak pernah hendak menikahinya. Kedua saudara Wu hendak saling membunuh karena dia. Aku mengaku telah dijodohkan dengannya supaya mereka berhenti.” Dani merendahkan suara. “Aku mengira dusta itu menyelesaikan urusan mereka. Aku tidak tahu Bibi mendengarnya.”"
         },
         {
@@ -6769,10 +6771,22 @@
             "Hubungan": "Istri Dani.",
             "Batas": "Upacara tidak menyembuhkan luka atau berarti Quanzhen merestui."
           },
-          "key": 190098,
+          "key": 190136,
           "chapter": 19,
-          "paragraph": "p-19-098",
+          "paragraph": "p-19-136",
           "quote": "“Dan engkau istriku.”"
+        },
+        {
+          "title": "Xiaolongnü",
+          "summary": "Menceritakan panggilan Shifu pada masa kecil; Dani mulai menyapanya Long’er.",
+          "fields": {
+            "Hubungan": "Istri Dani; panggilan pribadi Long’er dipilih setelah perkawinan.",
+            "Sapaan": "Long’er, sapaan pribadi Dani sejak sesudah perkawinan."
+          },
+          "key": 190180,
+          "chapter": 19,
+          "paragraph": "p-19-180",
+          "quote": "“Long’er.” Senyum Xiaolongnü muncul perlahan. “Kalau aku terlalu jauh bermain, beliau memanggil begitu dari pintu. Aku harus segera pulang.”"
         },
         {
           "title": "Xiaolongnü",
@@ -6784,12 +6798,13 @@
             "Kondisi": "Masih terluka berat akibat pertempuran Quanzhen.",
             "Hubungan": "Istri Dani.",
             "Senjata": "Satu pedang patah; Pedang Perempuan terlepas di halaman Quanzhen, belum diceritakan diambil kembali.",
-            "Batas": "Belum terkena racun Li Mochou atau jarum es oleh Fu."
+            "Batas": "Belum terkena racun Li Mochou atau jarum es oleh Fu.",
+            "Sapaan": "Long’er, sapaan pribadi Dani sejak sesudah perkawinan."
           },
-          "key": 190137,
+          "key": 190191,
           "chapter": 19,
-          "paragraph": "p-19-137",
-          "quote": "Dani menyambutnya dengan tangan kiri. Di sebelah mereka Polu kembali tenang. Dari ruang tinggal makam yang sunyi, tidak terdengar lagi dentang senjata atau orang-orang yang menyuruh mereka berpisah.\n"
+          "paragraph": "p-19-191",
+          "quote": "Ia membimbing tangan Dani hingga beristirahat di dekat pipinya, lalu menutup mata tanpa melepaskannya. Polu bergerak kecil pada alas di sebelah mereka. Dani mendengarkan napas istrinya sampai kembali teratur. Baru setelah itu ia berani membiarkan air mata yang sejak halaman Quanzhen ditahannya jatuh, jauh dari wajah perempuan yang baru saja meminta hari esok kepadanya."
         },
         {
           "title": "Xiaolongnü",
@@ -6800,11 +6815,12 @@
             "Usia sekarang": "21 tahun",
             "Kondisi": "Luka tenaga dalam Quanzhen masih menyumbat aliran napas.",
             "Hubungan": "Istri Dani.",
-            "Batas": "Belum sembuh dan belum terkena racun Li pada tahap ini."
+            "Batas": "Belum sembuh dan belum terkena racun Li pada tahap ini.",
+            "Sapaan": "Long’er, sapaan pribadi Dani sejak sesudah perkawinan."
           },
-          "key": 200006,
+          "key": 200009,
           "chapter": 20,
-          "paragraph": "p-20-006",
+          "paragraph": "p-20-009",
           "quote": "Di atas Ranjang Giok Dingin, telapak kiri Dani bertemu telapak istrinya. Luka akibat tenaga para tetua dan serangan Jinlun masih menyumbat aliran napas Xiaolongnü. Mereka mencoba membukanya perlahan, memadukan dasar ilmu Makam Kuno dengan petunjuk pengaturan napas Sembilan Yin yang pernah mereka pelajari. Kemajuan kecil membuat Dani berani membayangkan hari ketika mereka tidak perlu menghitung setiap tarikan napas."
         },
         {
@@ -6815,11 +6831,12 @@
             "Ilmu yang terlihat": "Seni Dua Tangan memadukan pedang Quanzhen dan Pedang Gadis Giok secara mandiri; qinggong Makam Kuno, jarum serta pengendalian Lebah Giok telah diperlihatkan. Penguasaan ilmu tetap dibedakan dari kondisi tubuh.",
             "Kondisi": "Luka Quanzhen belum pulih; kini terkena racun telapak.",
             "Sebab": "Dani mengalihkan tenaga Li melalui tubuhnya untuk membuka sumbatan.",
-            "Batas": "Belum terkena Jarum Es Fu pada tahap ini."
+            "Batas": "Belum terkena Jarum Es Fu pada tahap ini.",
+            "Sapaan": "Long’er, sapaan pribadi Dani sejak sesudah perkawinan."
           },
-          "key": 200048,
+          "key": 200051,
           "chapter": 20,
-          "paragraph": "p-20-048",
+          "paragraph": "p-20-051",
           "quote": "Dani memutus sentuhan dengan Li sebelum racun bertambah banyak. Ia meraih Xuantie yang disandarkan dekat ranjang dan memaksa Li mundur dengan satu sapuan. Xiaolongnü telah melepaskan kakinya; kedua tangannya kembali menekan dada. Sumbatan lama terbuka, tetapi racun ikut memasuki jalan yang baru dilewati tenaga."
         },
         {
@@ -6830,11 +6847,12 @@
             "Ilmu yang terlihat": "Seni Dua Tangan memadukan pedang Quanzhen dan Pedang Gadis Giok secara mandiri; qinggong Makam Kuno, jarum serta pengendalian Lebah Giok telah diperlihatkan. Penguasaan ilmu tetap dibedakan dari kondisi tubuh.",
             "Kondisi": "Bahu kiri terkena jarum; racun telapak kembali menyebar melalui aliran tenaga.",
             "Urutan luka": "Luka Quanzhen → racun telapak Li → gangguan jarum Fu.",
-            "Batas": "Bukan sakit hanya karena luka jarum kecil."
+            "Batas": "Bukan sakit hanya karena luka jarum kecil.",
+            "Sapaan": "Long’er, sapaan pribadi Dani sejak sesudah perkawinan."
           },
-          "key": 200076,
+          "key": 200081,
           "chapter": 20,
-          "paragraph": "p-20-076",
+          "paragraph": "p-20-081",
           "quote": "Jarum pertama menancap di kaki kanan Dani. Jarum kedua mengenai bahu kiri Xiaolongnü. Rasa nyeri menyentak tubuh mereka; telapak terlepas. Racun yang hampir keluar berbalik menghantam aliran yang belum pulih. Xiaolongnü terkulai dengan darah mengalir di sudut bibir."
         },
         {
@@ -6845,11 +6863,12 @@
             "Ilmu yang terlihat": "Seni Dua Tangan memadukan pedang Quanzhen dan Pedang Gadis Giok secara mandiri; qinggong Makam Kuno, jarum serta pengendalian Lebah Giok telah diperlihatkan. Penguasaan ilmu tetap dibedakan dari kondisi tubuh.",
             "Kondisi": "Sadar, sangat lemah; luka dan penyebaran racun berat.",
             "Penawar": "Warisan perguruan untuk Jarum Es.",
-            "Batas": "Tidak dapat membalikkan kerusakan racun telapak melalui obat jarum."
+            "Batas": "Tidak dapat membalikkan kerusakan racun telapak melalui obat jarum.",
+            "Sapaan": "Long’er, sapaan pribadi Dani sejak sesudah perkawinan."
           },
-          "key": 200082,
+          "key": 200087,
           "chapter": 20,
-          "paragraph": "p-20-082",
+          "paragraph": "p-20-087",
           "quote": "Xiaolongnü mengeluarkan botol kecil dari bajunya. Ia mengenal racun Jarum Es serta penawar yang diwariskan perguruannya, tetapi Tapak Lima Racun merupakan olahan Li sendiri. Obat ini dapat melawan racun jarum; ia tidak dapat menarik kembali racun tapak yang sudah menyebar bersama aliran tenaga yang kacau."
         },
         {
@@ -6862,11 +6881,12 @@
             "Kondisi": "Sadar, sangat lemah; memerlukan pertolongan lebih lanjut.",
             "Hubungan": "Tetap bersama suaminya, Dani.",
             "Senjata": "Pedang Perempuan belum diceritakan diambil dari Quanzhen.",
-            "Batas": "Belum bertemu Yideng atau mengalami perpisahan tujuh tahun."
+            "Batas": "Belum bertemu Yideng atau mengalami perpisahan tujuh tahun.",
+            "Sapaan": "Long’er, sapaan pribadi Dani sejak sesudah perkawinan."
           },
-          "key": 200116,
+          "key": 200128,
           "chapter": 20,
-          "paragraph": "p-20-116",
+          "paragraph": "p-20-128",
           "quote": "Menjelang malam mereka mencapai ceruk batu di seberang punggung bukit. Udara di sana bersih dari asap. Dani membaringkan Polu di atas lipatan kain, kemudian duduk di samping istrinya. Cahaya kebakaran masih memerah di langit belakang mereka, tetapi tidak lagi menerangi wajah Xiaolongnü."
         },
         {
@@ -6878,11 +6898,12 @@
             "Usia sekarang": "21 tahun",
             "Kondisi": "Luka dan racun belum sembuh; pengobatan hanya menahan keadaan.",
             "Hubungan": "Istri Dani.",
-            "Senjata": "Pedang Perempuan belum diceritakan kembali dari Quanzhen."
+            "Senjata": "Pedang Perempuan belum diceritakan kembali dari Quanzhen.",
+            "Sapaan": "Long’er, sapaan pribadi Dani sejak sesudah perkawinan."
           },
-          "key": 210075,
+          "key": 210101,
           "chapter": 21,
-          "paragraph": "p-21-075",
+          "paragraph": "p-21-101",
           "quote": "Xiaolongnü menerima obat itu. “Kalau aku dapat berjalan, ia tidak perlu selalu menggendongku.”"
         },
         {
@@ -6894,11 +6915,12 @@
             "Usia sekarang": "21 tahun",
             "Kondisi": "Tenaga pulih sementara; luka dan racun masih ada.",
             "Hubungan": "Istri Dani; berangkat bersama mencari tabib.",
-            "Senjata": "Pedang Perempuan belum diceritakan kembali dari Quanzhen."
+            "Senjata": "Pedang Perempuan belum diceritakan kembali dari Quanzhen.",
+            "Sapaan": "Long’er, sapaan pribadi Dani sejak sesudah perkawinan."
           },
-          "key": 210082,
+          "key": 210113,
           "chapter": 21,
-          "paragraph": "p-21-082",
+          "paragraph": "p-21-113",
           "quote": "Pagi berikutnya, warna kembali sedikit ke pipi Xiaolongnü. Mereka membersihkan sisa penyamaran, mengisi bekal Polu, lalu berangkat. Ci’en membawa barang-barang Yideng; Dani mengikat bayi di depan dadanya, sedangkan Xuantie tetap tersandang di punggung."
         },
         {
@@ -6911,12 +6933,13 @@
             "Kondisi": "Hidup; luka dan racun belum sembuh. Hari keenam sejak obat tujuh hari.",
             "Hubungan": "Istri Dani, tetap bersama suaminya.",
             "Senjata": "Pedang Perempuan belum diceritakan kembali dari Quanzhen.",
-            "Batas": "Belum ada perpisahan atau lompatan waktu."
+            "Batas": "Belum ada perpisahan atau lompatan waktu.",
+            "Sapaan": "Long’er, sapaan pribadi Dani sejak sesudah perkawinan."
           },
-          "key": 210160,
+          "key": 210194,
           "chapter": 21,
-          "paragraph": "p-21-160",
-          "quote": "Dani berdiri di samping Xiaolongnü, menggenggam jemarinya dengan tangan kiri. Mereka sudah sampai. Di hadapan mereka, keluarga yang lama tercerai akhirnya saling mengenali; di belakang harapan itu, tinggal satu hari yang tidak berani ia sia-siakan.\n"
+          "paragraph": "p-21-194",
+          "quote": "Dani berdiri di samping Xiaolongnü, menggenggam jemarinya dengan tangan kiri. Mereka sudah sampai. Di hadapan mereka, keluarga yang lama tercerai akhirnya saling mengenali; di belakang harapan itu, tinggal satu hari yang tidak berani ia sia-siakan."
         }
       ],
       "portraits": [
@@ -7104,7 +7127,7 @@
           ]
         },
         {
-          "key": 180070,
+          "key": 180088,
           "image": {
             "file": "bab-18-ilustrasi-02.webp",
             "width": 1536,
@@ -7134,7 +7157,7 @@
           ]
         },
         {
-          "key": 200006,
+          "key": 200009,
           "image": {
             "file": "bab-20-pembuka.webp",
             "width": 1024,
@@ -7313,57 +7336,65 @@
         {
           "status": "Cinta berubah menjadi duka dan penyesalan",
           "explanation": "Belum mengetahui bahwa Dani masih hidup; kabar berasal dari pihak yang menyerangnya, bukan kesaksian Zhou.",
-          "key": 180061,
+          "key": 180072,
           "chapter": 18,
-          "paragraph": "p-18-061",
-          "quote": "“Aku meninggalkannya ketika ia sakit,” katanya. “Ia belum tahu mengapa aku pergi.”"
+          "paragraph": "p-18-072",
+          "quote": "“Aku menyuruh orang lain menjaganya,” ucapnya. “Ia demam. Aku tahu ia demam, tetapi aku pergi.”"
         },
         {
           "status": "Bertemu kembali setelah mengira Dani mati",
           "explanation": "Pencarian dan duka berakhir pada pertemuan nyata; ia menyentuh wajah Dani untuk memastikan dirinya hidup.",
-          "key": 190019,
+          "key": 190025,
           "chapter": 19,
-          "paragraph": "p-19-019",
-          "quote": "“Aku mencarimu di sungai,” bisiknya. “Mereka mengatakan engkau sudah mati. Aku memanggilmu, tetapi engkau tidak pernah menjawab.”"
+          "paragraph": "p-19-025",
+          "quote": "“Aku memanggilmu di sungai. Aku mencari sampai ke hilir. Mereka mengatakan engkau sudah tenggelam.” Ia berusaha menarik napas, tersedak darah, lalu mencengkeram bajunya lagi. “Mengapa engkau tidak menjawabku?”"
         },
         {
           "status": "Istri Dani",
           "explanation": "Menerima lamaran dengan kehendaknya sendiri; kebersamaan dipilih meskipun kondisinya masih berat.",
-          "key": 190098,
+          "key": 190136,
           "chapter": 19,
-          "paragraph": "p-19-098",
+          "paragraph": "p-19-136",
           "quote": "“Dan engkau istriku.”"
+        },
+        {
+          "status": "Istri; disapa Long’er",
+          "explanation": "Nama kecil dari Shifu menjadi sapaan Dani. Ia meminta hari esok dan pertolongan bersama, bukan menyerah pada luka.",
+          "key": 190180,
+          "chapter": 19,
+          "paragraph": "p-19-180",
+          "quote": "“Long’er.” Senyum Xiaolongnü muncul perlahan. “Kalau aku terlalu jauh bermain, beliau memanggil begitu dari pintu. Aku harus segera pulang.”"
         },
         {
           "status": "Menemani sebagai istri",
           "explanation": "Menyatakan akan menemani Dani mengembalikan Polu; tidak menyuruhnya menghadapi Fu seorang diri.",
-          "key": 200011,
+          "key": 200014,
           "chapter": 20,
-          "paragraph": "p-20-011",
+          "paragraph": "p-20-014",
           "quote": "“Aku akan menemanimu karena engkau suamiku. Tentang lidahmu, sejak dahulu aku memang tidak pandai menjaganya.”"
         },
         {
           "status": "Menghibur suami dalam keadaan terluka",
           "explanation": "Mendorong Dani meminum penawar dan tetap menjaga dirinya, meskipun ia sendiri lebih parah.",
-          "key": 200086,
+          "key": 200091,
           "chapter": 20,
-          "paragraph": "p-20-086",
+          "paragraph": "p-20-091",
           "quote": "Xiaolongnü menyentuh rambutnya. “Aku mengetahui engkau telah berusaha. Tetapi kakimu juga terluka. Jangan membuatku harus mencemaskan dua hal sekaligus.”"
         },
         {
           "status": "Meminta Dani menyelamatkan Fu",
           "explanation": "Tetap menghendaki penyelamatan orang yang terancam api tanpa membatalkan luka yang dialaminya.",
-          "key": 200107,
+          "key": 200115,
           "chapter": 20,
-          "paragraph": "p-20-107",
-          "quote": "“Aku melihat orang yang masih hidup menunggu dibakar. Kalau engkau dapat menyelamatkannya, selamatkanlah. Aku menunggumu di sini.”"
+          "paragraph": "p-20-115",
+          "quote": "“Aku melihat orang yang masih hidup menunggu dibakar. Kalau engkau dapat menyelamatkannya, selamatkanlah.”"
         },
         {
           "status": "Istri yang ingin terus berjalan bersama",
           "explanation": "Menghendaki kesempatan berjalan di samping Dani; keinginannya tidak meniadakan kebutuhan pertolongan.",
-          "key": 210077,
+          "key": 210103,
           "chapter": 21,
-          "paragraph": "p-21-077",
+          "paragraph": "p-21-103",
           "quote": "“Aku tahu. Tetapi aku ingin engkau mempunyai kesempatan berjalan di sampingku.”"
         }
       ]
@@ -7455,9 +7486,9 @@
             "Kondisi": "Hidup.",
             "Senjata": "Pedang."
           },
-          "key": 210096,
+          "key": 210127,
           "chapter": 21,
-          "paragraph": "p-21-096",
+          "paragraph": "p-21-127",
           "quote": "Di tengah semak berduri, pada sebidang tanah yang sempit, Cheng Ying dan Lu Wushuang terdesak oleh Li Mochou serta Hong Lingbo. Jalan masuk telah ditutup timbunan bunga oleh penjaga lembah. Li kini memakai pedang; setiap desakan memaksa kedua sepupu mendekati duri."
         },
         {
@@ -7469,9 +7500,9 @@
             "Kondisi": "Hidup; takut kepada gurunya.",
             "Hubungan": "Ikatan lama dengan Wushuang membuatnya menahan arah pedang."
           },
-          "key": 210097,
+          "key": 210128,
           "chapter": 21,
-          "paragraph": "p-21-097",
+          "paragraph": "p-21-128",
           "quote": "Hong Lingbo beberapa kali mengubah arah pedang ketika Wushuang kehilangan keseimbangan. Ia takut kepada Li, tetapi tangannya masih mengenali orang yang dahulu tinggal bersamanya. Li memperhatikan keraguan itu dan mendesak lebih keras, memaksa muridnya ikut mempersempit ruang kedua sepupu."
         },
         {
@@ -7483,9 +7514,9 @@
             "Kondisi": "Tewas.",
             "Penyebab": "Tendangan penuh tenaga Li Mochou ke dada ketika Hong mencengkeram kaki gurunya."
           },
-          "key": 210132,
+          "key": 210163,
           "chapter": 21,
-          "paragraph": "p-21-132",
+          "paragraph": "p-21-163",
           "quote": "Tubuh Hong terkulai. Kedua tangannya tetap terkunci pada kaki Li."
         }
       ],
@@ -7706,9 +7737,9 @@
             "Perkara": "Upaya penyerangan yang dahulu digagalkan Dani dan fitnah sesudahnya.",
             "Batas": "Belum ada penebusan, pengorbanan, atau kematian."
           },
-          "key": 180082,
+          "key": 180102,
           "chapter": 18,
-          "paragraph": "p-18-082",
+          "paragraph": "p-18-102",
           "quote": "Menjelang akhir bulan kedua, jejak itu membawanya ke Zhongnan. Selama lima tetua Quanzhen menutup diri untuk berlatih, Zhao menggunakan dukungan Mongol untuk menguasai urusan perguruan. Orang-orang yang menentangnya dipisahkan dari gerbang dan ruang pertemuan; Zhen sudah kembali, tetapi tidak menghentikan persekutuan tersebut. Kedudukan Zhao belum kukuh. Karena itu ia semakin bergantung pada tamu-tamu bersenjata yang menjanjikannya kekuasaan."
         },
         {
@@ -7721,9 +7752,9 @@
             "Pengakuan": "Percobaan dahulu digagalkan Dani; kemudian membalas malu dengan fitnah.",
             "Batas": "Tidak ada pemerkosaan yang berhasil dalam jalur Saga."
           },
-          "key": 190066,
+          "key": 190087,
           "chapter": 19,
-          "paragraph": "p-19-066",
+          "paragraph": "p-19-087",
           "quote": "“Dahulu aku berniat mencelakainya ketika ia tidak berdaya,” kata Zhen. “Engkau menghentikanku. Aku menyimpan malu itu sebagai kebencian, lalu menggunakan apa yang kulihat untuk menyebarkan fitnah tentang kalian. Tidak ada alasan yang dapat membenarkannya.”"
         },
         {
@@ -7736,9 +7767,9 @@
             "Urutan": "Mengaku setelah duel Dani; menerjang pedang para pendeta.",
             "Akibat": "Pengakuannya meruntuhkan pembelaan atas perbuatannya."
           },
-          "key": 190070,
+          "key": 190091,
           "chapter": 19,
-          "paragraph": "p-19-070",
+          "paragraph": "p-19-091",
           "quote": "Zhen menunduk. Sebelum murid di dekatnya sempat menahan, ia menerjang pedang-pedang yang masih terjulur. Seruan terkejut terdengar. Tubuhnya jatuh dan tidak bergerak lagi."
         }
       ],
@@ -7816,9 +7847,9 @@
         {
           "status": "Meminta maaf sebelum meninggal",
           "explanation": "Mengakui kesalahan terhadap pasangan itu. Pengorbanan dan penyesalan tidak membatalkan perbuatan sebelumnya.",
-          "key": 190070,
+          "key": 190091,
           "chapter": 19,
-          "paragraph": "p-19-070",
+          "paragraph": "p-19-091",
           "quote": "Zhen menunduk. Sebelum murid di dekatnya sempat menahan, ia menerjang pedang-pedang yang masih terjulur. Seruan terkejut terdengar. Tubuhnya jatuh dan tidak bergerak lagi."
         }
       ]
@@ -8144,9 +8175,9 @@
             "Tokoh terkait": "Zhao Zhijing, Zhen Zhibing, Zhou Botong, Xiaolongnü, Jinlun.",
             "Batas": "Penguasaan sementara, bukan penutupan arc Quanzhen."
           },
-          "key": 180082,
+          "key": 180102,
           "chapter": 18,
-          "paragraph": "p-18-082",
+          "paragraph": "p-18-102",
           "quote": "Menjelang akhir bulan kedua, jejak itu membawanya ke Zhongnan. Selama lima tetua Quanzhen menutup diri untuk berlatih, Zhao menggunakan dukungan Mongol untuk menguasai urusan perguruan. Orang-orang yang menentangnya dipisahkan dari gerbang dan ruang pertemuan; Zhen sudah kembali, tetapi tidak menghentikan persekutuan tersebut. Kedudukan Zhao belum kukuh. Karena itu ia semakin bergantung pada tamu-tamu bersenjata yang menjanjikannya kekuasaan."
         },
         {
@@ -8156,9 +8187,9 @@
             "Kondisi": "Ruang kitab sudah kosong ketika Qiu Chuji tiba.",
             "Batas": "Para pendeta belum menyaksikan pasangan itu tiba di makam."
           },
-          "key": 190107,
+          "key": 190146,
           "chapter": 19,
-          "paragraph": "p-19-107",
+          "paragraph": "p-19-146",
           "quote": "Para pengejar ragu menggunakan obor di dekat kitab-kitab perguruan. Ketika Qiu Chuji tiba dan memanggil pasangan itu, tidak ada jawaban. Ruang yang disangka menjadi tempat mereka berlindung ternyata sudah kosong."
         },
         {
@@ -8168,9 +8199,9 @@
             "Keadaan": "Baru melewati pengkhianatan Zhao; menghadapi ancaman pasukan baru.",
             "Tindakan": "Qiu memerintahkan persiapan pertahanan."
           },
-          "key": 200031,
+          "key": 200034,
           "chapter": 20,
-          "paragraph": "p-20-031",
+          "paragraph": "p-20-034",
           "quote": "Sebelum rombongan dapat berunding lebih lama, murid penjaga berlari membawa kabar pasukan Mongol bergerak naik. Quanzhen yang baru lolos dari pengkhianatan Zhao harus menghadapi ancaman baru. Qiu memerintahkan persiapan pertahanan. Huang Rong memilih segera menuju makam; Polu tidak boleh terperangkap di antara pasukan dan perguruan."
         }
       ]
@@ -8551,9 +8582,9 @@
             "Kondisi": "Tidak mahir berenang; tidak ikut masuk.",
             "Batas": "Tidak menyaksikan peristiwa di ruang peti."
           },
-          "key": 200032,
+          "key": 200035,
           "chapter": 20,
-          "paragraph": "p-20-032",
+          "paragraph": "p-20-035",
           "quote": "Li Mochou membawa mereka ke aliran air yang menyembunyikan jalan masuk. Huang Rong, yang belum lama melahirkan, tidak mengikuti penyelaman. Yelü Yan dan Wanyan Ping juga tinggal bersamanya karena tidak mahir berenang. Fu, Yelü Qi, Wu Santong, Wu Dunru, dan Wu Xiuwen masuk mengikuti Li Mochou."
         },
         {
@@ -8564,9 +8595,9 @@
             "Ilmu yang terlihat": "Memakai bangku sebagai penghalang dan segera menghindar.",
             "Kondisi": "Hidup; berada di tanah bebas bersama rombongan."
           },
-          "key": 210135,
+          "key": 210166,
           "chapter": 21,
-          "paragraph": "p-21-135",
+          "paragraph": "p-21-166",
           "quote": "Huang Rong menyerahkan Polu kepada Yelü Yan dan maju beberapa langkah."
         },
         {
@@ -8578,9 +8609,9 @@
             "Kondisi": "Hidup; mengikuti rombongan.",
             "Keluarga": "Tidak lagi menggendong Polu."
           },
-          "key": 210150,
+          "key": 210181,
           "chapter": 21,
-          "paragraph": "p-21-150",
+          "paragraph": "p-21-181",
           "quote": "Dani hendak mendesak, tetapi Yideng telah berdiri di sisinya. Ia mengangguk. Huang Rong mengambil kembali Polu dari Yelü Yan; rombongan mengikuti Lü’e, sementara Li tetap berada di tepi ladang bersama akibat perbuatannya."
         }
       ],
@@ -8676,9 +8707,9 @@
             "Tujuan": "Membantu rombongan mencari Polu.",
             "Batas": "Tidak menjadi saksi reuni Dani–Xiaolongnü pada Bab 19."
           },
-          "key": 200023,
+          "key": 200026,
           "chapter": 20,
-          "paragraph": "p-20-023",
+          "paragraph": "p-20-026",
           "quote": "“Murid datang bersama Nyonya Guo untuk mencari putranya.”"
         },
         {
@@ -8689,9 +8720,9 @@
             "Ilmu yang terlihat": "Pengendalian jarak, kuncian dan pengalihan tenaga; Bab 20 mengungkap hubungannya sebagai murid Zhou Botong. Tingkat guru tidak otomatis diwariskan kepada murid.",
             "Tindakan": "Menemukan sambungan batu lemah; Wu Santong serta kedua Wu membantu membuka jalan."
           },
-          "key": 200062,
+          "key": 200067,
           "chapter": 20,
-          "paragraph": "p-20-062",
+          "paragraph": "p-20-067",
           "quote": "Tangisan Polu terdengar samar melalui celah udara ruang kurungan. Kelima tawanan berhenti memukul pintu. Yelü Qi menempelkan telinga ke dinding, mengikuti suara itu hingga menemukan sambungan batu yang lebih rapuh. Wu Santong membantunya menarik sebuah batu keluar; kedua Wu memperlebar lubang sampai mereka dapat merangkak melaluinya."
         }
       ],
@@ -8811,9 +8842,9 @@
             "Kondisi": "Tidak mahir berenang; tidak ikut masuk.",
             "Batas": "Tidak menyaksikan peristiwa di ruang peti."
           },
-          "key": 200032,
+          "key": 200035,
           "chapter": 20,
-          "paragraph": "p-20-032",
+          "paragraph": "p-20-035",
           "quote": "Li Mochou membawa mereka ke aliran air yang menyembunyikan jalan masuk. Huang Rong, yang belum lama melahirkan, tidak mengikuti penyelaman. Yelü Yan dan Wanyan Ping juga tinggal bersamanya karena tidak mahir berenang. Fu, Yelü Qi, Wu Santong, Wu Dunru, dan Wu Xiuwen masuk mengikuti Li Mochou."
         }
       ],
@@ -9073,9 +9104,9 @@
             "Kondisi": "Masih di Quanzhen.",
             "Sikap": "Berterima kasih atas tindakan Dani meskipun pertentangan belum selesai."
           },
-          "key": 190102,
+          "key": 190141,
           "chapter": 19,
-          "paragraph": "p-19-102",
+          "paragraph": "p-19-141",
           "quote": "“Terima kasih telah menahan tangan!” seru Qiu Chuji dari atap."
         },
         {
@@ -9087,9 +9118,9 @@
             "Pengetahuan": "Mengakui tenaga lima tetua ikut menyebabkan luka Xiaolongnü.",
             "Batas": "Belum tiba di makam atau memperoleh pengampunan."
           },
-          "key": 190127,
+          "key": 190166,
           "chapter": 19,
-          "paragraph": "p-19-127",
+          "paragraph": "p-19-166",
           "quote": "“Kita harus mendatangi makam,” katanya. “Nona Long terluka oleh tenaga kita. Permintaan maaf saja belum cukup.”"
         },
         {
@@ -9101,9 +9132,9 @@
             "Dasar pengetahuan": "Menyaksikan kedatangan serta pernikahan Dani di Quanzhen.",
             "Batas": "Belum merawat Xiaolongnü di makam."
           },
-          "key": 200025,
+          "key": 200028,
           "chapter": 20,
-          "paragraph": "p-20-025",
+          "paragraph": "p-20-028",
           "quote": "Zhou mengibaskan tangan, lalu sibuk memeriksa gerakan kaki Yelü Qi. Qiu Chuji yang menyambut rombongan itulah yang menceritakan kedatangan Dani, luka Xiaolongnü, serta perkawinan mereka di aula leluhur. Zhou tidak menyaksikan pasangan itu; ia tiba sesudah mereka lolos dari Quanzhen."
         }
       ],
@@ -9273,10 +9304,47 @@
             "Tindakan": "Melepas bantuan setelah mengaku hendak menyelamatkan guru.",
             "Batas": "Belum tertangkap atau dihukum atas perbuatannya."
           },
-          "key": 190052,
+          "key": 190073,
           "chapter": 19,
-          "paragraph": "p-19-052",
+          "paragraph": "p-19-073",
           "quote": "“Dani Moan! Kelak aku akan menuntut balas!”"
+        },
+        {
+          "title": "Huodu",
+          "summary": "Dikenali Dani ketika datang ke pondok dengan seorang pengemis.",
+          "fields": {
+            "Kondisi": "Hidup; belum mengenali samaran Dani.",
+            "Lokasi": "Pondok bersalju."
+          },
+          "key": 210018,
+          "chapter": 21,
+          "paragraph": "p-21-018",
+          "quote": "Huodu belum mengenali wajah di balik abu. Dani meletakkan kayu dekat api, lalu kembali ke bilik. Xiaolongnü melihat perubahan pada matanya dan meraih pergelangan tangan kirinya."
+        },
+        {
+          "title": "Huodu",
+          "summary": "Membujuk Ci’en memukul salju sambil menyembunyikan keberadaan He Shiwo.",
+          "fields": {
+            "Kondisi": "Hidup; mengetahui He Shiwo tertotok di dalam salju.",
+            "Tindakan": "Menghasut Ci’en dengan mengatakan pukulannya tidak akan menyakiti siapa pun."
+          },
+          "key": 210046,
+          "chapter": 21,
+          "paragraph": "p-21-046",
+          "quote": "“Tetua tidak perlu melukai siapa pun untuk meredakan tenaga di tangan,” ujar Huodu. “Di luar ada manusia salju. Pukullah benda itu; tak seorang pun akan menanggung sakit.”"
+        },
+        {
+          "title": "Huodu",
+          "summary": "Melarikan diri setelah tipu dayanya membunuh He Shiwo.",
+          "fields": {
+            "Kondisi": "Hidup; melarikan diri dari amuk Ci’en.",
+            "Tindakan": "Meninggalkan korban dan orang-orang di pondok.",
+            "Batas": "Belum diceritakan memakai identitas He Shiwo."
+          },
+          "key": 210061,
+          "chapter": 21,
+          "paragraph": "p-21-061",
+          "quote": "Rantai menegang, lalu putus. Huodu melompat sebelum pukulan pertama mencapainya. Telapak Ci’en menghancurkan tepi ambang; serpihan kayu melesat ke tempat Huodu baru berdiri. Ia berlari melalui sisi pondok dan menghilang di antara pepohonan tanpa menolong orang yang dibawanya sendiri."
         }
       ],
       "portraits": [
@@ -9346,9 +9414,9 @@
         {
           "status": "Musuh yang melarikan diri",
           "explanation": "Mengenali Dani yang selamat dari serangan di tebing; mengancam membalas setelah meninggalkan gurunya.",
-          "key": 190052,
+          "key": 190073,
           "chapter": 19,
-          "paragraph": "p-19-052",
+          "paragraph": "p-19-073",
           "quote": "“Dani Moan! Kelak aku akan menuntut balas!”"
         }
       ]
@@ -9487,9 +9555,9 @@
             "Bahasa": "Berbicara dalam bahasa Tibet; Dani tidak memahami seluruh ucapannya.",
             "Keyakinan": "Masih menyangka Dani kelahiran kembali kakak seperguruannya."
           },
-          "key": 190053,
+          "key": 190074,
           "chapter": 19,
-          "paragraph": "p-19-053",
+          "paragraph": "p-19-074",
           "quote": "Daerba menggeram. Dalam bahasa yang sama ia memohon kepada orang yang masih disangkanya kelahiran kembali kakak seperguruan: berilah kesempatan menyelamatkan gurunya dan membunuh pengkhianat yang baru melarikan diri; sesudah itu nyawanya boleh diambil."
         },
         {
@@ -9501,9 +9569,9 @@
             "Kondisi": "Hidup; menolong gurunya.",
             "Janji": "Hendak menghukum Huodu sebelum menyerahkan nyawanya kepada Dani."
           },
-          "key": 190057,
+          "key": 190078,
           "chapter": 19,
-          "paragraph": "p-19-057",
+          "paragraph": "p-19-078",
           "quote": "Daerba menunduk dalam-dalam, lalu mengangkat Jinlun. Dani mengikuti kepergian mereka dengan mata, tetapi tidak mengejar Huodu. Ia menyimpan Xuantie dan kembali ke tiang, menyambut tubuh Xiaolongnü ketika lututnya mulai tertekuk."
         }
       ],
@@ -9559,9 +9627,9 @@
         {
           "status": "Dilepaskan karena kesetiaan",
           "explanation": "Dani mengurangi tekanan pedang setelah melihat Daerba tetap melindungi guru, lalu memilih menjaga Xiaolongnü.",
-          "key": 190056,
+          "key": 190077,
           "chapter": 19,
-          "paragraph": "p-19-056",
+          "paragraph": "p-19-077",
           "quote": "“Bawalah gurumu pergi,” kata Dani. “Hari ini aku melepaskan kalian karena engkau masih tahu arti kesetiaan.”"
         }
       ]
@@ -9765,9 +9833,9 @@
             "Keadaan": "Xiaolongnü belum pulang, panggilan Dani tidak dijawab.",
             "Batas": "Pertempuran di makam belum terjadi."
           },
-          "key": 180087,
+          "key": 180107,
           "chapter": 18,
-          "paragraph": "p-18-087",
+          "paragraph": "p-18-107",
           "quote": "Ia membawa Polu ke ruang tinggal, menjauh dari kamar batu dingin, dan menata alas yang kering. Bayi itu membuka mata ketika dipindahkan. Dani duduk di sisinya, menyelipkan telapak kiri ke dalam genggaman kecil yang mencari-cari."
         },
         {
@@ -9778,9 +9846,9 @@
             "Kondisi": "Pasangan pulang setelah pernikahan; Xiaolongnü perlu perawatan.",
             "Batas": "Rombongan pencari bayi belum tiba."
           },
-          "key": 190132,
+          "key": 190171,
           "chapter": 19,
-          "paragraph": "p-19-132",
+          "paragraph": "p-19-171",
           "quote": "Dani membuka jalan masuk. Udara sejuk menyentuh pakaian mereka yang berdebu. Ia membawa Xiaolongnü melewati lorong, menyusuri dinding yang dikenalnya sejak kecil, sampai tiba di ruang tinggal. Polu menggeliat di atas alasnya ketika mendengar langkah."
         },
         {
@@ -9791,9 +9859,9 @@
             "Keadaan": "Pasukan Mongol membakar lereng dan hutan sekitar makam.",
             "Batas": "Tidak dinyatakan seluruh bangunan bawah tanah runtuh."
           },
-          "key": 200099,
+          "key": 200107,
           "chapter": 20,
-          "paragraph": "p-20-099",
+          "paragraph": "p-20-107",
           "quote": "Udara luar berbau getah terbakar. Setelah menempuh jalan keluar makam, Dani melihat cahaya merah di sela pepohonan. Pasukan Mongol membakar lereng untuk memaksa orang-orang yang bersembunyi keluar. Api telah memotong jalan menuju Quanzhen dan menjalar ke hutan di sekeliling tempat tinggal mereka."
         }
       ]
@@ -10490,9 +10558,9 @@
             "Pengetahuan": "Dani hidup setelah kehilangan lengan.",
             "Sikap": "Mengakui pengorbanan Dani untuk kedua anaknya."
           },
-          "key": 200029,
+          "key": 200032,
           "chapter": 20,
-          "paragraph": "p-20-029",
+          "paragraph": "p-20-032",
           "quote": "“Ia mengisap racun demi menyelamatkan kedua anakku,” ujar Wu Santong. “Sementara kami masih hidup, ia sampai mengalami bencana seperti itu.”"
         }
       ],
@@ -10786,9 +10854,9 @@
             "Tindakan lawan": "Madu memancing lebah ke roda Jinlun dan membuka kesempatan melarikan diri.",
             "Batas": "Tidak mati atau kalah dalam duel akhir."
           },
-          "key": 180076,
+          "key": 180094,
           "chapter": 18,
-          "paragraph": "p-18-076",
+          "paragraph": "p-18-094",
           "quote": "Ketika Jinlun mendekat hendak menutup jalan, Xiaolongnü menyapukan madu ke roda yang diarahkan kepadanya. Lebah berpindah mengikuti bau manis. Jinlun mundur sambil mengibaskan lengan; Zhou tertawa sekali, lalu meringis karena racunnya belum seluruhnya surut. Xiaolongnü menopangnya melewati celah yang telah terbuka."
         },
         {
@@ -10801,9 +10869,9 @@
             "Dampak": "Siku kiri Dani mulai tertekuk saat senjata terkunci.",
             "Batas": "Kekuatan Dani tidak dinyatakan melampaui tenaga dalam Jinlun."
           },
-          "key": 190044,
+          "key": 190065,
           "chapter": 19,
-          "paragraph": "p-19-044",
+          "paragraph": "p-19-065",
           "quote": "Tenaga rahib itu datang berlapis-lapis. Dani menahan, tetapi siku kirinya mulai menekuk. Ia dapat menghancurkan senjata dengan ayunan bebas; kini pedangnya terkunci, dan setiap tambahan tekanan harus dijawab dengan tenaga dalam. Keringat muncul di pelipisnya. Jinlun maju setapak."
         },
         {
@@ -10816,9 +10884,9 @@
             "Senjata": "Dua roda terakhir dipecahkan Xuantie.",
             "Sebab": "Gangguan jarum Xiaolongnü membuka kesempatan bagi dorongan Dani."
           },
-          "key": 190048,
+          "key": 190069,
           "chapter": 19,
-          "paragraph": "p-19-048",
+          "paragraph": "p-19-069",
           "quote": "Xuantie mendorong maju. Jinlun terhuyung dan jatuh terduduk. Dua ayunan berikutnya memecahkan roda yang masih di tangannya. Dani melangkah, mengangkat pedang untuk mengakhiri pertempuran."
         }
       ],
@@ -11244,9 +11312,9 @@
             "Hasil terlihat": "Satu gerak menutup celah gerak lain dalam latihan.",
             "Batas": "Ujian penuh melawan lawan di Quanzhen belum terjadi."
           },
-          "key": 180072,
+          "key": 180090,
           "chapter": 18,
-          "paragraph": "p-18-072",
+          "paragraph": "p-18-090",
           "quote": "Xiaolongnü memakai Pedang Perempuan dan sebatang ranting yang lebih panjang. Satu sisi menjalankan pedang Quanzhen yang dipahaminya melalui latihan bersama Dani; sisi lain menjawab dengan Pedang Gadis Giok. Mula-mula kedua ujungnya bersilangan terlalu dekat. Sesudah diulang, satu serangan menutup celah yang ditinggalkan serangan lain. Ia merasakan kemungkinan yang dahulu hanya ada ketika Dani berdiri di sisinya."
         }
       ]
@@ -11751,9 +11819,9 @@
             "Bahaya teramati": "Dorongan tenaga membuka sumbatan, tetapi juga membawa racun.",
             "Batas": "Dibedakan dari racun jarum; bukan ilmu baru yang dipelajari Dani."
           },
-          "key": 200048,
+          "key": 200051,
           "chapter": 20,
-          "paragraph": "p-20-048",
+          "paragraph": "p-20-051",
           "quote": "Dani memutus sentuhan dengan Li sebelum racun bertambah banyak. Ia meraih Xuantie yang disandarkan dekat ranjang dan memaksa Li mundur dengan satu sapuan. Xiaolongnü telah melepaskan kakinya; kedua tangannya kembali menekan dada. Sumbatan lama terbuka, tetapi racun ikut memasuki jalan yang baru dilewati tenaga."
         }
       ]
@@ -11798,9 +11866,9 @@
             "Pemegang saat ini": "Guo Fu.",
             "Batas": "Belum dilempar kepada pasangan pada tahap ini."
           },
-          "key": 200066,
+          "key": 200071,
           "chapter": 20,
-          "paragraph": "p-20-066",
+          "paragraph": "p-20-071",
           "quote": "Di ruang Ranjang Giok Dingin, mereka menemukan bekas perkelahian. Fu melihat jarum-jarum yang tercecer. Dengan saputangan tebal ia memungut dua batang, membungkus pangkalnya, lalu menyimpannya terpisah agar ujung beracun tidak menyentuh kulit."
         },
         {
@@ -11810,9 +11878,9 @@
             "Sasaran": "Kaki kanan Dani dan bahu kiri Xiaolongnü.",
             "Dampak": "Nyeri mengganggu pengobatan; racun telapak dalam tubuh Xiaolongnü berbalik."
           },
-          "key": 200076,
+          "key": 200081,
           "chapter": 20,
-          "paragraph": "p-20-076",
+          "paragraph": "p-20-081",
           "quote": "Jarum pertama menancap di kaki kanan Dani. Jarum kedua mengenai bahu kiri Xiaolongnü. Rasa nyeri menyentak tubuh mereka; telapak terlepas. Racun yang hampir keluar berbalik menghantam aliran yang belum pulih. Xiaolongnü terkulai dengan darah mengalir di sudut bibir."
         }
       ]
@@ -11983,10 +12051,10 @@
             "Kondisi": "Tongkat tertekan ke dada; terlempar ke tangga dan hanya sanggup bertumpu pada satu lutut.",
             "Batas": "Tidak dinyatakan tewas."
           },
-          "key": 190031,
+          "key": 190049,
           "chapter": 19,
-          "paragraph": "p-19-031",
-          "quote": "Tongkat Xiaoxiangzi menyusul dari samping. Dani menggeser kaki, membiarkan serangan melintas, kemudian mendorong Xuantie lurus ke depan. Tongkat tertekan ke dada pemiliknya. Xiaoxiangzi terlempar ke tangga; ketika bangkit, ia hanya berhasil bertumpu pada satu lutut."
+          "paragraph": "p-19-049",
+          "quote": "Tongkat Xiaoxiangzi sudah datang sebelum serpihan pertama jatuh. Dani terpaksa menarik pedang dari lawan yang belum roboh. Ujung tongkat menggores jubah di rusuknya. Ia merasakan kain robek, berputar mengikuti arah pukulan, lalu mendorong Xuantie lurus dari pinggang. Tongkat tertekan ke dada pemiliknya. Xiaoxiangzi terlempar ke tangga; ketika mencoba bangkit, ia hanya berhasil bertumpu pada satu lutut."
         }
       ],
       "relationships": [
@@ -12045,10 +12113,10 @@
             "Kondisi": "Senjata patah; kedua telapak terbuka dan tidak sanggup menyerang lagi.",
             "Batas": "Tidak dinyatakan tewas."
           },
-          "key": 190030,
+          "key": 190048,
           "chapter": 19,
-          "paragraph": "p-19-030",
-          "quote": "Nimoxing lebih dahulu menerjang. Ular besinya berdesing menuju kepala Dani. Pedang berat menyambut dari bawah; benturan itu mematahkan senjata lawan dan membuat kedua telapak Nimoxing terbuka. Ia terhuyung, tidak sanggup mengangkat senjatanya lagi."
+          "paragraph": "p-19-048",
+          "quote": "Benturan logam meledak. Dua ruas ular besi patah; bagian yang masih dipegang Nimoxing menghantam lengannya sendiri. Dani maju setengah langkah, menekan dengan pangkal bilah. Nimoxing terhuyung ke samping, kedua telapaknya terbuka dan berdarah."
         }
       ],
       "relationships": [
@@ -12108,10 +12176,10 @@
             "Kondisi": "Cambuk melilit Xuantie; terkena dorongan pedang dan berdarah.",
             "Batas": "Tidak dinyatakan tewas."
           },
-          "key": 190035,
+          "key": 190053,
           "chapter": 19,
-          "paragraph": "p-19-035",
-          "quote": "Yin Kexi menarik cambuk, tetapi Xuantie tidak bergeser. Senyumnya bertahan ketika tangan yang lain mengeluarkan belati. Ia mencoba menyelinap melewati Dani menuju tiang tempat Xiaolongnü berdiri. Dani mendorong pedang sebelum lawannya dapat melewatinya. Cambuk yang melilit justru menahan pemiliknya dalam jalur benturan. Yin Kexi tersentak mundur; senyumnya hilang saat darah memenuhi mulut."
+          "paragraph": "p-19-053",
+          "quote": "Xiaolongnü melihat kilatan belati dan mengangkat tangan, tetapi belum sempat mengerahkan tenaga. Dani sudah menjejak serong, menutup jalan. Ia mendorong pedang ke depan bersamaan dengan tarikan cambuk lawan. Yin Kexi tidak sempat melepaskan gagangnya; tubuhnya tersentak masuk ke jalur bidang besi. Pukulan itu mengenai bahunya dan memutarnya sampai jatuh menghadap tanah."
         }
       ],
       "relationships": [
@@ -12184,9 +12252,9 @@
             "Sikap": "Hadir tanpa ikut mengeroyok Xiaolongnü; menghormati keberhasilan Dani.",
             "Tindakan": "Pergi menjauh dari rombongan Jinlun."
           },
-          "key": 190060,
+          "key": 190081,
           "chapter": 19,
-          "paragraph": "p-19-060",
+          "paragraph": "p-19-081",
           "quote": "Ma memandang pecahan roda, kemudian mengangguk. Ia berbalik mengambil jalan yang berbeda dari rombongan Jinlun."
         }
       ],
@@ -12218,9 +12286,9 @@
         {
           "status": "Saling menghormati",
           "explanation": "Memberi selamat atas kemampuan Dani dan mendengarkan nasihat agar meninggalkan pihak Mongol.",
-          "key": 190058,
+          "key": 190079,
           "chapter": 19,
-          "paragraph": "p-19-058",
+          "paragraph": "p-19-079",
           "quote": "Ma Guangzuo mendekat dan mengatupkan kedua tangan. “Saudara Dani, aku sungguh kagum. Selamat atas ilmu yang kauraih. Melihatmu berdiri di sini lebih menyenangkan daripada mendengar kabar orang-orang itu.”"
         }
       ],
@@ -12334,10 +12402,10 @@
             "Pengetahuan": "Tidak menyaksikan tebing atau melihat jasad.",
             "Sikap": "Mengingatkan bahwa Jinlun hanya mengulang laporan Huodu; menolong Xiaolongnü bertahan dalam duka."
           },
-          "key": 180062,
+          "key": 180076,
           "chapter": 18,
-          "paragraph": "p-18-062",
-          "quote": "Zhou membuka mulut, lalu mengurungkan lelucon yang hampir keluar. “Rahib itu mengulang perkataan muridnya. Aku belum melihat Dani mati. Engkau pun belum.”"
+          "paragraph": "p-18-076",
+          "quote": "“Aku tidak tahu,” jawabnya akhirnya. “Tetapi rahib itu pun tidak tahu semua yang terjadi. Jangan serahkan nyawa anak itu kepada satu cerita dari mulut musuhnya.”"
         },
         {
           "title": "Zhou Botong",
@@ -12349,9 +12417,9 @@
             "Latihan": "Lingkaran dan persegi, dilanjutkan gerak pedang.",
             "Batas": "Pelajaran tidak diberikan kepada Dani dalam adegan ini."
           },
-          "key": 180071,
+          "key": 180089,
           "chapter": 18,
-          "paragraph": "p-18-071",
+          "paragraph": "p-18-089",
           "quote": "“Itulah dasar Seni Dua Tangan,” kata Zhou. “Sekarang ulangi dengan gerak pedang. Jangan biarkan satu tangan menunggu persetujuan yang lain.”"
         },
         {
@@ -12364,9 +12432,9 @@
             "Pengetahuan": "Belum mendapat bukti Dani selamat.",
             "Batas": "Tidak berada terus-menerus di sisi Xiaolongnü selama pencarian berikutnya."
           },
-          "key": 180077,
+          "key": 180095,
           "chapter": 18,
-          "paragraph": "p-18-077",
+          "paragraph": "p-18-095",
           "quote": "Di tempat aman ia menggunakan cara penawar perguruannya untuk membantu Zhou mengatasi sisa racun. Menjelang berpisah, orang tua itu kembali membicarakan Dani."
         },
         {
@@ -12379,9 +12447,9 @@
             "Sasaran": "Zhao yang dahulu menjebaknya dengan laba-laba.",
             "Batas": "Bukan saksi reuni atau pernikahan."
           },
-          "key": 190108,
+          "key": 190147,
           "chapter": 19,
-          "paragraph": "p-19-108",
+          "paragraph": "p-19-147",
           "quote": "Zhou Botong datang ketika seorang murid sedang berusaha mengeluarkan lebah dari kerahnya. Orang tua itu tertawa, kemudian melihat Zhao berjalan merapat ke dinding menuju pintu samping."
         },
         {
@@ -12393,9 +12461,9 @@
             "Kondisi": "Masih di Quanzhen; madu yang diambil dari ruang kitab pecah.",
             "Rangka sebab": "Zhao mencuri botol untuk menawar kebebasan; membukanya menarik lebah ke celah lonceng."
           },
-          "key": 190125,
+          "key": 190164,
           "chapter": 19,
-          "paragraph": "p-19-125",
+          "paragraph": "p-19-164",
           "quote": "Zhou mundur sambil menutupi muka. Dari bawah lonceng terdengar pukulan dan jeritan yang berangsur melemah. Ketika suara itu berhenti, Wang Chuyi tidak lagi memanggil nama muridnya."
         },
         {
@@ -12407,9 +12475,9 @@
             "Hubungan perguruan": "Guru Yelü Qi.",
             "Pengetahuan": "Tidak menyaksikan reuni atau pernikahan; Qiu Chuji menyampaikan kejadian kepada rombongan."
           },
-          "key": 200025,
+          "key": 200028,
           "chapter": 20,
-          "paragraph": "p-20-025",
+          "paragraph": "p-20-028",
           "quote": "Zhou mengibaskan tangan, lalu sibuk memeriksa gerakan kaki Yelü Qi. Qiu Chuji yang menyambut rombongan itulah yang menceritakan kedatangan Dani, luka Xiaolongnü, serta perkawinan mereka di aula leluhur. Zhou tidak menyaksikan pasangan itu; ia tiba sesudah mereka lolos dari Quanzhen."
         },
         {
@@ -12420,9 +12488,9 @@
             "Ilmu yang terlihat": "Qinggong sambil memanggul peti dan seorang penumpang; Seni Dua Tangan tetap dimiliki.",
             "Kondisi": "Hidup; berada di jalan menuju lembah."
           },
-          "key": 210086,
+          "key": 210117,
           "chapter": 21,
-          "paragraph": "p-21-086",
+          "paragraph": "p-21-117",
           "quote": "Zhou Botong muncul memanggul peti kitab. Melihat Xiaolongnü mulai tertahan oleh jalan menanjak, ia menyuruhnya duduk di atas peti, lalu berlari dengan kegembiraan seorang anak yang baru menemukan permainan. Ci’en menambah kecepatan. Salju berhamburan di belakang mereka."
         },
         {
@@ -12434,9 +12502,9 @@
             "Pengetahuan": "Kabar sebelumnya berasal dari muridnya dan Qiu Chuji; kini melihat Dani langsung.",
             "Batas": "Tidak menjadi saksi reuni atau pernikahan Quanzhen."
           },
-          "key": 210088,
+          "key": 210119,
           "chapter": 21,
-          "paragraph": "p-21-088",
+          "paragraph": "p-21-119",
           "quote": "“Jadi engkau sungguh hidup!” Zhou memandang lengan baju kanan yang kosong. “Muridku mengatakan banyak hal di Quanzhen. Mulut Qiu Chuji bahkan lebih panjang daripada biasanya.”"
         },
         {
@@ -12449,9 +12517,9 @@
             "Pengetahuan": "Sudah melihat Dani hidup dan kehilangan lengan kanan.",
             "Batas": "Tidak hadir dalam pertemuan di aula Qiu pada akhir bab."
           },
-          "key": 210092,
+          "key": 210123,
           "chapter": 21,
-          "paragraph": "p-21-092",
+          "paragraph": "p-21-123",
           "quote": "Ia memanggul peti dan menghilang di tikungan lain. Yideng memandang jalan yang ditinggalkannya, tetapi tidak memanggil."
         }
       ],
@@ -12489,7 +12557,7 @@
           ]
         },
         {
-          "key": 180070,
+          "key": 180088,
           "image": {
             "file": "bab-18-ilustrasi-02.webp",
             "width": 1536,
@@ -12559,9 +12627,9 @@
             "Keadaan": "Penjaga menutup jalan masuk dengan timbunan Bunga Cinta.",
             "Penguasa": "Qiu Qianchi masih mengendalikan lembah."
           },
-          "key": 210096,
+          "key": 210127,
           "chapter": 21,
-          "paragraph": "p-21-096",
+          "paragraph": "p-21-127",
           "quote": "Di tengah semak berduri, pada sebidang tanah yang sempit, Cheng Ying dan Lu Wushuang terdesak oleh Li Mochou serta Hong Lingbo. Jalan masuk telah ditutup timbunan bunga oleh penjaga lembah. Li kini memakai pedang; setiap desakan memaksa kedua sepupu mendekati duri."
         }
       ]
@@ -12674,9 +12742,9 @@
             "Ilmu yang terlihat": "Melumpuhkan penjaga yang lengah dari belakang.",
             "Kondisi": "Hidup; didampingi penjaga lembah."
           },
-          "key": 210145,
+          "key": 210176,
           "chapter": 21,
-          "paragraph": "p-21-145",
+          "paragraph": "p-21-176",
           "quote": "Sebelum bentrokan meluas, suara seorang perempuan terdengar dari jalan menuju aula. Gongsun Lü’e datang bersama penjaga lembah. Ia menahan langkah ketika melihat Hong, lalu menundukkan wajah sejenak."
         },
         {
@@ -12688,9 +12756,9 @@
             "Kondisi": "Hidup; gembira lalu cemas melihat kaki Dani berdarah.",
             "Tindakan": "Mengantar para tamu untuk menemui Qiu Qianchi; belum menjawab nasib tabib."
           },
-          "key": 210148,
+          "key": 210179,
           "chapter": 21,
-          "paragraph": "p-21-148",
+          "paragraph": "p-21-179",
           "quote": "Lü’e memandangnya, kemudian Xiaolongnü. Kegembiraan karena Dani masih hidup berubah menjadi kecemasan ketika melihat darah pada celananya."
         }
       ],
@@ -12898,9 +12966,9 @@
             "Kondisi": "Tetap bermata satu; lolos dari perlawanan rombongan.",
             "Batas": "Tidak dibunuh atau ditawan."
           },
-          "key": 200016,
+          "key": 200019,
           "chapter": 20,
-          "paragraph": "p-20-016",
+          "paragraph": "p-20-019",
           "quote": "Mata tunggal Gongsun Zhi beralih kepada Huang Rong. Ketika tongkat perempuan itu menutup jalan serangannya, ia berbalik dan menyambar Fu untuk dijadikan perisai. Yelü Qi menyilang di antara mereka; benturan telapaknya memberi Fu kesempatan mundur. Li Mochou mengirim kebutannya dari samping. Terdesak oleh tambahan lawan, Gongsun Zhi melompat ke balik batu dan menghilang menuruni lereng."
         }
       ],
@@ -13151,9 +13219,9 @@
             "Kekuasaan": "Masih menguasai lembah.",
             "Batas": "Tuntutan serta urusan penawar dalam pertemuan ini belum dibicarakan."
           },
-          "key": 210151,
+          "key": 210182,
           "chapter": 21,
-          "paragraph": "p-21-151",
+          "paragraph": "p-21-182",
           "quote": "Qiu Qianchi menunggu di kursinya. Cahaya dari pintu menyentuh kepala yang hampir tak berambut, lalu berhenti pada kedua tangan yang tidak dapat digerakkannya. Ketika Dani masuk, matanya menyipit."
         },
         {
@@ -13167,10 +13235,10 @@
             "Lokasi": "Aula Lembah Tanpa Cinta.",
             "Batas": "Urusan penawar dan tuntutan berikutnya belum diselesaikan."
           },
-          "key": 210159,
+          "key": 210193,
           "chapter": 21,
-          "paragraph": "p-21-159",
-          "quote": "Ci’en melangkah mendekat. Qiu mencoba mengangkat tangan yang lumpuh, lalu membiarkannya jatuh kembali. Untuk sesaat tidak seorang pun berbicara."
+          "paragraph": "p-21-193",
+          "quote": "Lü’e membimbing tangannya mendekati tangan ibunya. Ci’en menyentuh pergelangan yang kurus dan tidak menyambut genggaman itu. Untuk sesaat tidak seorang pun berbicara."
         }
       ],
       "relationships": [
@@ -13309,9 +13377,9 @@
             "Akibat": "Paparan tambahan pada racun yang belum selesai.",
             "Batas": "Pengalaman racun terdahulu tidak memberi kekebalan."
           },
-          "key": 210106,
+          "key": 210137,
           "chapter": 21,
-          "paragraph": "p-21-106",
+          "paragraph": "p-21-137",
           "quote": "Duri merobek celananya. Nyeri menembus betis dan paha sebelum ia berhasil membaringkan kedua perempuan itu."
         },
         {
@@ -13321,9 +13389,9 @@
             "Korban": "Dani dan Li Mochou sama-sama terkena paparan dalam bab ini.",
             "Batas": "Li masih hidup; Hong tewas karena tendangan gurunya."
           },
-          "key": 210133,
+          "key": 210164,
           "chapter": 21,
-          "paragraph": "p-21-133",
+          "paragraph": "p-21-164",
           "quote": "Mereka jatuh bersama ke semak, hanya sedikit dari tanah bebas. Duri menembus pakaian Li pada beberapa tempat. Ia merenggut genggaman muridnya, tetapi ketika berhasil melepaskan diri, racun sudah masuk."
         }
       ]
@@ -13738,9 +13806,9 @@
             "Kondisi": "Alas kering, ditempatkan di ruang tinggal; tidak ditinggal sendirian.",
             "Batas": "Belum kembali kepada ibunya."
           },
-          "key": 180087,
+          "key": 180107,
           "chapter": 18,
-          "paragraph": "p-18-087",
+          "paragraph": "p-18-107",
           "quote": "Ia membawa Polu ke ruang tinggal, menjauh dari kamar batu dingin, dan menata alas yang kering. Bayi itu membuka mata ketika dipindahkan. Dani duduk di sisinya, menyelipkan telapak kiri ke dalam genggaman kecil yang mencari-cari."
         },
         {
@@ -13750,9 +13818,9 @@
             "Kondisi": "Di ruang tinggal makam; tidak ikut dibawa ke pertempuran.",
             "Batas": "Belum kembali kepada Huang Rong."
           },
-          "key": 190133,
+          "key": 190172,
           "chapter": 19,
-          "paragraph": "p-19-133",
+          "paragraph": "p-19-172",
           "quote": "Ia membaringkan Xiaolongnü dahulu, menyangga kepala dan bahunya sebelum melepaskan lengan. Setelah memeriksa Polu dan membetulkan selimutnya, Dani kembali duduk di sisi istrinya. Di tempat yang terang ia dapat melihat betapa pucat wajah perempuan itu. Kebahagiaan di aula belum mengubah luka di dalam tubuhnya."
         },
         {
@@ -13763,9 +13831,9 @@
             "Kondisi": "Selamat; alas kering, susu, dan selimut tersedia.",
             "Batas": "Belum kembali kepada Huang Rong."
           },
-          "key": 200063,
+          "key": 200068,
           "chapter": 20,
-          "paragraph": "p-20-063",
+          "paragraph": "p-20-068",
           "quote": "Di bilik kecil, Polu menangis di atas alas kering. Ada lampu, selimut, dan kendi susu di dekatnya. Fu mengangkat adiknya. Wu Santong memeriksa susu yang masih layak lalu membantu memberinya minum, sementara Yelü Qi mengawasi lorong."
         },
         {
@@ -13775,9 +13843,9 @@
             "Kondisi": "Tetap hidup; Xiaolongnü mendekapnya saat Dani membawa istrinya.",
             "Batas": "Belum dikembalikan kepada Huang Rong."
           },
-          "key": 200095,
+          "key": 200103,
           "chapter": 20,
-          "paragraph": "p-20-095",
+          "paragraph": "p-20-103",
           "quote": "Yelü Qi menahan Fu agar tidak maju. Wu Santong membungkuk kepada Dani, tetapi pemuda itu telah menyarungkan pedangnya. Ia mengambil Polu dari pelukan Fu, menyerahkannya kepada Xiaolongnü yang masih mampu mendekap bayi itu sambil duduk, kemudian mengangkat istrinya dengan lengan kiri. Berat mereka membuat napasnya tersengal; ia tetap melangkah tanpa meminta bantuan siapa pun."
         },
         {
@@ -13789,9 +13857,9 @@
             "Kondisi": "Selamat setelah keluar dari kawasan kebakaran.",
             "Batas": "Masih belum kembali kepada Huang Rong; bukan bayi Xiang."
           },
-          "key": 200116,
+          "key": 200128,
           "chapter": 20,
-          "paragraph": "p-20-116",
+          "paragraph": "p-20-128",
           "quote": "Menjelang malam mereka mencapai ceruk batu di seberang punggung bukit. Udara di sana bersih dari asap. Dani membaringkan Polu di atas lipatan kain, kemudian duduk di samping istrinya. Cahaya kebakaran masih memerah di langit belakang mereka, tetapi tidak lagi menerangi wajah Xiaolongnü."
         },
         {
@@ -13804,9 +13872,9 @@
             "Dalam penjagaan": "Dani, terikat di depan dada; Xuantie di punggung.",
             "Batas": "Belum berlatih bela diri; bukan Guo Xiang."
           },
-          "key": 210082,
+          "key": 210113,
           "chapter": 21,
-          "paragraph": "p-21-082",
+          "paragraph": "p-21-113",
           "quote": "Pagi berikutnya, warna kembali sedikit ke pipi Xiaolongnü. Mereka membersihkan sisa penyamaran, mengisi bekal Polu, lalu berangkat. Ci’en membawa barang-barang Yideng; Dani mengikat bayi di depan dadanya, sedangkan Xuantie tetap tersandang di punggung."
         },
         {
@@ -13819,9 +13887,9 @@
             "Dalam penjagaan": "Xiaolongnü, di luar ladang berduri.",
             "Batas": "Belum berlatih bela diri; bukan Guo Xiang."
           },
-          "key": 210098,
+          "key": 210129,
           "chapter": 21,
-          "paragraph": "p-21-098",
+          "paragraph": "p-21-129",
           "quote": "Dani menyerahkan Polu kepada Xiaolongnü sebelum maju ke tepi ladang."
         },
         {
@@ -13834,9 +13902,9 @@
             "Dalam penjagaan": "Yideng, di tanah bebas di tepi ladang.",
             "Batas": "Belum berlatih bela diri; bukan Guo Xiang."
           },
-          "key": 210107,
+          "key": 210138,
           "chapter": 21,
-          "paragraph": "p-21-107",
+          "paragraph": "p-21-138",
           "quote": "Xiaolongnü menyerahkan Polu kepada Yideng, lalu membuka totokan Cheng Ying dan Wushuang. Keduanya melihat darah merembes dari kaki Dani. Cheng Ying hendak bertanya, tetapi pandangannya berhenti pada jubah yang tersingkap di sisi kanan."
         },
         {
@@ -13849,9 +13917,9 @@
             "Dalam penjagaan": "Huang Rong.",
             "Batas": "Belum berlatih bela diri; bukan Guo Xiang."
           },
-          "key": 210121,
+          "key": 210152,
           "chapter": 21,
-          "paragraph": "p-21-121",
+          "paragraph": "p-21-152",
           "quote": "Huang Rong menerima bayi itu. Ia merapatkan pipi ke kepala Polu, memeriksa napas dan kedua tangannya sebelum sanggup mengucapkan terima kasih. Semua kecerdikan yang biasa siap di lidahnya seakan terlambat menyusul kebahagiaan itu."
         },
         {
@@ -13864,9 +13932,9 @@
             "Dalam penjagaan": "Yelü Yan.",
             "Batas": "Belum berlatih bela diri; bukan Guo Xiang."
           },
-          "key": 210135,
+          "key": 210166,
           "chapter": 21,
-          "paragraph": "p-21-135",
+          "paragraph": "p-21-166",
           "quote": "Huang Rong menyerahkan Polu kepada Yelü Yan dan maju beberapa langkah."
         },
         {
@@ -13879,9 +13947,9 @@
             "Dalam penjagaan": "Huang Rong.",
             "Batas": "Belum berlatih bela diri; bukan Guo Xiang."
           },
-          "key": 210150,
+          "key": 210181,
           "chapter": 21,
-          "paragraph": "p-21-150",
+          "paragraph": "p-21-181",
           "quote": "Dani hendak mendesak, tetapi Yideng telah berdiri di sisinya. Ia mengangguk. Huang Rong mengambil kembali Polu dari Yelü Yan; rombongan mengikuti Lü’e, sementara Li tetap berada di tepi ladang bersama akibat perbuatannya."
         }
       ],
@@ -13905,9 +13973,9 @@
         {
           "status": "Bayi yang sudah dipulangkan",
           "explanation": "Perlindungan Dani dan Xiaolongnü berakhir dengan penyerahan langsung kepada Huang Rong.",
-          "key": 210121,
+          "key": 210152,
           "chapter": 21,
-          "paragraph": "p-21-121",
+          "paragraph": "p-21-152",
           "quote": "Huang Rong menerima bayi itu. Ia merapatkan pipi ke kepala Polu, memeriksa napas dan kedua tangannya sebelum sanggup mengucapkan terima kasih. Semua kecerdikan yang biasa siap di lidahnya seakan terlambat menyusul kebahagiaan itu."
         }
       ],
@@ -14169,9 +14237,9 @@
             "Dampak teramati": "Senjata Nimoxing patah; Xiaoxiangzi dan Yin Kexi terpukul mundur.",
             "Batas": "Belum menjadi bukti kemenangan atas Jinlun dalam adu tenaga."
           },
-          "key": 190036,
+          "key": 190055,
           "chapter": 19,
-          "paragraph": "p-19-036",
+          "paragraph": "p-19-055",
           "quote": "Tidak ada sorak. Tiga orang yang tadi menutup jalan Xiaolongnü kini tidak sanggup maju."
         },
         {
@@ -14182,9 +14250,9 @@
             "Bentuk": "Bilah lebar, berat, dan gelap.",
             "Fungsi": "Pengungkit; bukan hanya senjata tebas."
           },
-          "key": 200056,
+          "key": 200059,
           "chapter": 20,
-          "paragraph": "p-20-056",
+          "paragraph": "p-20-059",
           "quote": "Dani bergerak sebelum jari Li menyentuh kulit sepatu. Xuantie menyelip di bawah tutup batu; dengan bilah sebagai pengungkit, ia menggesernya menutup peti. Hantaman dari dalam hampir membuka celah, tetapi Dani sudah mendorong peti kosong di sebelahnya hingga bertumpuk melintang di atas penutup itu. Lantai berderit. Li terkurung di bawah beban batu."
         },
         {
@@ -14195,9 +14263,9 @@
             "Dampak": "Peti atas pecah dan meretakkan penutup kurungan Li.",
             "Batas": "Ayunan diarahkan ke batu, bukan tubuh Fu."
           },
-          "key": 200093,
+          "key": 200101,
           "chapter": 20,
-          "paragraph": "p-20-093",
+          "paragraph": "p-20-101",
           "quote": "Dani berdiri. Ia membantu Xiaolongnü menjauh dan bersandar pada dinding, lalu mengambil Xuantie. Fu menutup muka ketika bilah hitam terangkat. Namun pedang jatuh ke peti kosong, menghancurkan bibirnya dengan bunyi yang memekakkan. Pukulan kedua membelah badan peti; beban yang ambruk meretakkan penutup kurungan Li di bawahnya."
         },
         {
@@ -14208,9 +14276,9 @@
             "Fungsi": "Bidang lebar bilah menyangga pinggang Fu sebagai pengungkit.",
             "Batas": "Gerak penyelamatan, bukan tusukan atau tebasan."
           },
-          "key": 200109,
+          "key": 200121,
           "chapter": 20,
-          "paragraph": "p-20-109",
+          "paragraph": "p-20-121",
           "quote": "Fu memandangnya tanpa mampu mengangkat kepala lebih jauh. Dani menjejakkan kaki di tanah yang telah hangus, menurunkan Xuantie mendatar, lalu menyelipkan bidang lebar pedang di bawah pinggangnya. Dengan satu ungkitan kuat ia melontarkan tubuh Fu melewati lidah api menuju aliran air yang memisahkan kedua sisi hutan."
         },
         {
@@ -14221,9 +14289,9 @@
             "Bentuk": "Bilah hitam, besar, lebar dan pipih.",
             "Cara kerja": "Tumpuan kaki, putaran pinggang dan lengan menyalurkan tenaga melalui bilah."
           },
-          "key": 210053,
+          "key": 210075,
           "chapter": 21,
-          "paragraph": "p-21-053",
+          "paragraph": "p-21-075",
           "quote": "Dani membalas dengan satu dorongan lurus. Ci’en menekan sisi pedang dengan kedua telapak, tetapi berat yang datang tidak berhenti pada bilah. Tenaga dari kaki Dani terus mengalir melalui pinggang dan lengan kirinya. Biksu itu terseret beberapa langkah, tumitnya membajak tanah beku."
         }
       ]
@@ -14278,9 +14346,9 @@
             "Pengguna terlihat": "Zhou mengajar Xiaolongnü; diterapkan pada dua bagian pedang.",
             "Batas": "Tidak menambah lengan Dani atau memberi kemampuan ini kepadanya."
           },
-          "key": 180071,
+          "key": 180089,
           "chapter": 18,
-          "paragraph": "p-18-071",
+          "paragraph": "p-18-089",
           "quote": "“Itulah dasar Seni Dua Tangan,” kata Zhou. “Sekarang ulangi dengan gerak pedang. Jangan biarkan satu tangan menunggu persetujuan yang lain.”"
         }
       ],
@@ -14315,9 +14383,9 @@
             "Sikap": "Menentang perkawinan guru–murid di tempat suci Quanzhen.",
             "Batas": "Belum dilepaskan."
           },
-          "key": 190088,
+          "key": 190117,
           "chapter": 19,
-          "paragraph": "p-19-088",
+          "paragraph": "p-19-117",
           "quote": "Pedang-pedang kembali terangkat. Dani menatap Qiu Chuji, lalu mendampingi Xiaolongnü masuk sambil tetap menguasai Sun Bu’er. Di dalam aula leluhur yang berdinding kayu dan beratap tinggi, ia mendudukkan pendeta wanita itu pada bantalan dan menotok punggungnya. Setelah itu ia menempatkan dua bantalan lain di hadapan lukisan Wang Chongyang."
         },
         {
@@ -14327,9 +14395,9 @@
             "Kondisi": "Tertutup lonceng tanpa tertimpa.",
             "Penyebab": "Empat tetua menjatuhkan lonceng untuk membebaskannya; Dani menggeser bantalan setelah menangkis lonceng."
           },
-          "key": 190101,
+          "key": 190140,
           "chapter": 19,
-          "paragraph": "p-19-101",
+          "paragraph": "p-19-140",
           "quote": "Dentang memekakkan memenuhi aula. Lonceng bergeser; bibirnya kini mengancam kepala Sun Bu’er. Dani segera menyapu bantalan pendeta itu dengan kaki, menggesernya ke tengah rongga. Lonceng menghantam lantai dan menutupinya tanpa melukai."
         },
         {
@@ -14340,16 +14408,16 @@
             "Ilmu yang terlihat": "Pedang Quanzhen dan serangan bersama para tetua; Dani menangkap pergelangan dan menotok lengannya sebelum pernikahan.",
             "Kondisi": "Hidup; Wang Chuyi membuka totokannya setelah Zhou mengangkat lonceng."
           },
-          "key": 190112,
+          "key": 190151,
           "chapter": 19,
-          "paragraph": "p-19-112",
+          "paragraph": "p-19-151",
           "quote": "Ia melihat lonceng, mengangkat salah satu sisinya, dan mendapati Sun Bu’er masih duduk di dalam. Wang Chuyi segera membantunya keluar serta membuka totokannya. Zhou mendorong Zhao ke bawah lonceng, lalu melepaskan pegangannya. Dentang kembali mengguncang aula."
         }
       ],
       "relationships": [],
       "portraits": [
         {
-          "key": 190098,
+          "key": 190136,
           "image": {
             "file": "bab-19-ilustrasi-02.webp",
             "width": 1536,
@@ -14431,10 +14499,10 @@
             "Ilmu yang terlihat": "Ilmu Satu Jari Satu Dunia menurut lore; kemampuan dalam adegan belum diperlihatkan.",
             "Kondisi": "Hidup; menuntun muridnya."
           },
-          "key": 210024,
+          "key": 210036,
           "chapter": 21,
-          "paragraph": "p-21-024",
-          "quote": "“Maaf mengganggu tempat berteduh kalian,” kata biksu beralis putih. “Aku dipanggil Yideng. Muridku ini bernama Ci’en.”"
+          "paragraph": "p-21-036",
+          "quote": "“Aku dipanggil Yideng,” kata biksu tua itu. “Muridku ini bernama Ci’en.”"
         },
         {
           "title": "Yideng",
@@ -14444,10 +14512,10 @@
             "Ilmu yang terlihat": "Ilmu Satu Jari Satu Dunia menurut lore; kemampuan dalam adegan belum diperlihatkan.",
             "Kondisi": "Terluka, terhuyung dan mengeluarkan darah; tidak turun tingkat penguasaan ilmu."
           },
-          "key": 210045,
+          "key": 210067,
           "chapter": 21,
-          "paragraph": "p-21-045",
-          "quote": "Telapak Besi menyambar. Yideng menerima pukulan itu tanpa membalas. Tubuhnya terhuyung; darah membasahi janggut putihnya. Ci’en mengangkat tangan lagi, seakan setiap pukulan akan membungkam suara yang tidak tahan didengarnya dari dalam diri sendiri."
+          "paragraph": "p-21-067",
+          "quote": "Telapak Besi menyambar. Yideng menerima pukulan itu tanpa membalas. Tubuhnya terhuyung dan darah membasahi janggut putihnya. Ci’en mendengar batuk gurunya; sesaat tangannya berhenti, kemudian bergerak lagi dengan kemarahan yang kini tidak lagi membedakan orang lain dari dirinya sendiri."
         },
         {
           "title": "Yideng",
@@ -14457,9 +14525,9 @@
             "Ilmu yang terlihat": "Tenaga jari terpusat mengalihkan sisi Xuantie; tidak mengandalkan benturan seluruh tubuh.",
             "Kondisi": "Masih terluka."
           },
-          "key": 210058,
+          "key": 210084,
           "chapter": 21,
-          "paragraph": "p-21-058",
+          "paragraph": "p-21-084",
           "quote": "Jari Yideng menyentuh sisi bilah, mengalihkannya sedikit. Dani merasakan tenaga yang sangat terpusat merambat melalui besi. Ia menahan dorongannya, kemudian menarik pedang."
         },
         {
@@ -14470,9 +14538,9 @@
             "Ilmu yang terlihat": "Tenaga jari terpusat; pemeriksaan nadi dan pengetahuan obat. Mengakui pengetahuan racun Biksu Tianzhu lebih tinggi.",
             "Kondisi": "Masih terluka; tidak sanggup menyelesaikan pengobatan dengan tenaga sendiri."
           },
-          "key": 210072,
+          "key": 210098,
           "chapter": 21,
-          "paragraph": "p-21-072",
+          "paragraph": "p-21-098",
           "quote": "“Obat ini dapat memberinya waktu tujuh hari. Kita harus mencari Biksu Tianzhu. Pengetahuannya tentang racun jauh melebihiku; ia berada di Lembah Tanpa Cinta bersama Zhu Ziliu.”"
         },
         {
@@ -14484,9 +14552,9 @@
             "Kondisi": "Luka membuat langkah melemah; tetap hidup.",
             "Lokasi": "Perjalanan menuju Lembah Tanpa Cinta."
           },
-          "key": 210093,
+          "key": 210124,
           "chapter": 21,
-          "paragraph": "p-21-093",
+          "paragraph": "p-21-124",
           "quote": "Perjalanan memakan lima hari. Mereka mengganti bekal dan beristirahat ketika Polu harus diberi susu; Xiaolongnü tidak lagi berlomba. Pada hari keenam sejak obat diminum, luka Yideng membuat langkahnya melemah, sehingga Ci’en menggendong gurunya melewati jalan terakhir menuju lembah."
         }
       ],
@@ -14494,15 +14562,15 @@
         {
           "status": "Tetua yang menasihati dan menolong",
           "explanation": "Mengingatkan Dani bahwa maksud dan akibat perlu dipertimbangkan bersama.",
-          "key": 210064,
+          "key": 210090,
           "chapter": 21,
-          "paragraph": "p-21-064",
+          "paragraph": "p-21-090",
           "quote": "Yideng memandangnya lama. “Maksudmu tidak sama dengan akibatnya. Ingatlah keduanya, agar lain kali tanganmu lebih bijaksana.”"
         }
       ],
       "portraits": [
         {
-          "key": 210024,
+          "key": 210036,
           "image": {
             "file": "bab-21-ilustrasi-01.webp",
             "width": 1536,
@@ -14529,69 +14597,86 @@
       "stages": [
         {
           "title": "Ci’en",
-          "summary": "Murid Yideng yang datang dengan belenggu tangan dan kaki.",
+          "summary": "Datang bersama Yideng.",
           "fields": {
             "Tingkat": "Belum ditetapkan dalam lore; kemampuan teramati dicatat di bawah.",
             "Usia": "Tetua; usia tepat belum disebut.",
             "Ilmu yang terlihat": "Belum diperlihatkan dalam adegan.",
-            "Kondisi": "Hidup; dapat melihat, masih terbelenggu."
+            "Kondisi": "Hidup; murid Yideng."
           },
-          "key": 210024,
+          "key": 210036,
           "chapter": 21,
-          "paragraph": "p-21-024",
-          "quote": "“Maaf mengganggu tempat berteduh kalian,” kata biksu beralis putih. “Aku dipanggil Yideng. Muridku ini bernama Ci’en.”"
+          "paragraph": "p-21-036",
+          "quote": "“Aku dipanggil Yideng,” kata biksu tua itu. “Muridku ini bernama Ci’en.”"
         },
         {
           "title": "Ci’en",
-          "summary": "Dikenali Peng sebagai Qiu Qianren.",
+          "summary": "Memasang belenggu untuk menahan dorongan membunuh.",
           "fields": {
-            "Tingkat": "Belum ditetapkan dalam lore; kemampuan teramati dicatat di bawah.",
-            "Ilmu yang terlihat": "Dikenal dengan julukan Tapak Besi Mengapung di Air; kekuatan pukulannya belum diperlihatkan dalam adegan.",
-            "Identitas": "Ci’en adalah nama pertapa Qiu Qianren."
-          },
-          "key": 210026,
-          "chapter": 21,
-          "paragraph": "p-21-026",
-          "quote": "“Qiu Qianren… Tapak Besi Mengapung di Air,” gumam Peng."
-        },
-        {
-          "title": "Ci’en",
-          "summary": "Memasang belenggu sendiri untuk mengendalikan dorongan membunuh.",
-          "fields": {
-            "Tingkat": "Belum ditetapkan dalam lore; kemampuan teramati dicatat di bawah.",
-            "Ilmu yang terlihat": "Dikenal dengan julukan Tapak Besi Mengapung di Air; kekuatan pukulannya belum diperlihatkan dalam adegan.",
-            "Kondisi": "Dapat melihat; pergulatan utamanya ialah amarah dan dorongan kekerasan."
-          },
-          "key": 210027,
-          "chapter": 21,
-          "paragraph": "p-21-027",
-          "quote": "“Nama muridku sekarang Ci’en,” kata Yideng. “Belenggu itu dipasangnya sendiri untuk menahan dorongan yang masih mengganggunya.”"
-        },
-        {
-          "title": "Ci’en",
-          "summary": "Membunuh pengemis yang tersembunyi dalam manusia salju.",
-          "fields": {
-            "Tingkat": "Belum ditetapkan dalam lore; kemampuan teramati dicatat di bawah.",
-            "Ilmu yang terlihat": "Pukulan telapak melontarkan dan membunuh orang di dalam manusia salju.",
-            "Kondisi": "Amarah dan hasutan mengalahkan kendali dirinya; penglihatan tetap berfungsi."
-          },
-          "key": 210033,
-          "chapter": 21,
-          "paragraph": "p-21-033",
-          "quote": "Salju meledak. Sosok yang tersembunyi di dalamnya terpental ke batang pohon, lalu jatuh tanpa bergerak. Darah mengalir dari mulutnya ke permukaan putih. Dani melompat mendekat, tetapi denyut yang dicarinya sudah lenyap."
-        },
-        {
-          "title": "Ci’en",
-          "summary": "Memutus belenggu, lalu membunuh Peng.",
-          "fields": {
-            "Tingkat": "Belum ditetapkan dalam lore; kemampuan teramati dicatat di bawah.",
-            "Ilmu yang terlihat": "Tenaga memutus rantai dan pukulan telapak mematikan.",
-            "Kondisi": "Belenggu tangan dan kaki putus; mengamuk, dapat melihat."
+            "Kondisi": "Hidup; tangan dan kaki terbelenggu untuk menahan dorongan kekerasan."
           },
           "key": 210040,
           "chapter": 21,
           "paragraph": "p-21-040",
-          "quote": "Peng baru sempat membuka mulut. Ci’en menerjang dan menghantam dadanya. Tubuh gemuk itu terempas ke salju; kali ini Dani bahkan tidak sempat mencapai jarak untuk menolong."
+          "quote": "Ci’en mengambil belenggu dari bawaannya dan memasangnya pada tangan serta kaki. Bunyi besi mengisi pondok. Dani mendekat hendak membantu, tetapi Yideng memberi isyarat agar menyediakan ruang."
+        },
+        {
+          "title": "Ci’en",
+          "summary": "Yideng menjelaskan kebutaannya.",
+          "fields": {
+            "Kondisi": "Buta; mengenali tempat melalui suara. Masih terbelenggu."
+          },
+          "key": 210041,
+          "chapter": 21,
+          "paragraph": "p-21-041",
+          "quote": "“Penglihatannya telah hilang,” kata Yideng pelan. “Ia mengenali tempat dari suara. Biarkan ia mengetahui di mana kita duduk.”"
+        },
+        {
+          "title": "Ci’en",
+          "summary": "Dikenali Huodu sebagai Qiu Qianren.",
+          "fields": {
+            "Identitas": "Ci’en adalah nama pertapa Qiu Qianren.",
+            "Ilmu yang terlihat": "Dikenal dengan julukan Tapak Besi Mengapung di Air."
+          },
+          "key": 210042,
+          "chapter": 21,
+          "paragraph": "p-21-042",
+          "quote": "Huodu memperhatikan tangan biksu yang gemetar. “Bukankah Tetua dahulu dikenal sebagai Qiu Qianren, Tapak Besi Mengapung di Air?”"
+        },
+        {
+          "title": "Ci’en",
+          "summary": "Membunuh He Shiwo dalam salju akibat hasutan Huodu.",
+          "fields": {
+            "Ilmu yang terlihat": "Telapak Besi mematikan; pukulannya membunuh He Shiwo.",
+            "Kondisi": "Buta; terkejut setelah mendengar manusia berada dalam salju."
+          },
+          "key": 210056,
+          "chapter": 21,
+          "paragraph": "p-21-056",
+          "quote": "Yideng berlutut di sisi korban. Dani menyusul, meraba nadi yang sudah hilang. Beberapa saat sebelumnya mata He Shiwo masih bergerak mengikuti Huodu. Sekarang salju yang mencair pada pipinya tidak membuat kelopak itu berkedip."
+        },
+        {
+          "title": "Ci’en",
+          "summary": "Memutus belenggu dan menyerang Huodu yang melarikan diri.",
+          "fields": {
+            "Ilmu yang terlihat": "Tenaga memutus rantai; Telapak Besi menghancurkan ambang kayu.",
+            "Kondisi": "Buta; belenggu putus, amuk belum berhenti."
+          },
+          "key": 210061,
+          "chapter": 21,
+          "paragraph": "p-21-061",
+          "quote": "Rantai menegang, lalu putus. Huodu melompat sebelum pukulan pertama mencapainya. Telapak Ci’en menghancurkan tepi ambang; serpihan kayu melesat ke tempat Huodu baru berdiri. Ia berlari melalui sisi pondok dan menghilang di antara pepohonan tanpa menolong orang yang dibawanya sendiri."
+        },
+        {
+          "title": "Ci’en",
+          "summary": "Melukai Yideng yang mencoba menghentikannya.",
+          "fields": {
+            "Kondisi": "Buta; amuknya melukai guru yang tidak membalas."
+          },
+          "key": 210067,
+          "chapter": 21,
+          "paragraph": "p-21-067",
+          "quote": "Telapak Besi menyambar. Yideng menerima pukulan itu tanpa membalas. Tubuhnya terhuyung dan darah membasahi janggut putihnya. Ci’en mendengar batuk gurunya; sesaat tangannya berhenti, kemudian bergerak lagi dengan kemarahan yang kini tidak lagi membedakan orang lain dari dirinya sendiri."
         },
         {
           "title": "Ci’en",
@@ -14599,12 +14684,12 @@
           "fields": {
             "Tingkat": "Belum ditetapkan dalam lore; kemampuan teramati dicatat di bawah.",
             "Ilmu yang terlihat": "Telapak Besi; tenaga memutus rantai dan memecahkan batu. Dani menghentikannya dalam duel ini.",
-            "Kondisi": "Hidup, menyesal; dapat melihat. Belenggu sudah putus."
+            "Kondisi": "Hidup, menyesal; buta. Belenggu sudah putus."
           },
-          "key": 210059,
+          "key": 210085,
           "chapter": 21,
-          "paragraph": "p-21-059",
-          "quote": "Ci’en berdiri mematung. Di belakang Yideng, Xiaolongnü sedang menenangkan Polu. Matanya berpindah dari bayi itu kepada darah pada janggut gurunya. Kedua lututnya jatuh ke salju."
+          "paragraph": "p-21-085",
+          "quote": "Ci’en berdiri mematung. Dari belakang Yideng terdengar Xiaolongnü menenangkan Polu. Tangis bayi itu berangsur mengecil; batuk gurunya belum berhenti. Ci’en mengulurkan tangan dan menyentuh lengan Yideng, lalu merasakan jubah yang basah oleh darah. Kedua lututnya jatuh ke salju."
         },
         {
           "title": "Ci’en",
@@ -14612,12 +14697,12 @@
           "fields": {
             "Tingkat": "Belum ditetapkan dalam lore; kemampuan teramati dicatat di bawah.",
             "Ilmu yang terlihat": "Telapak Besi; tenaga memutus rantai dan memecahkan batu. Dani menghentikannya dalam duel ini.",
-            "Kondisi": "Sadar dan menyesali amuknya; dapat melihat.",
+            "Kondisi": "Sadar dan menyesali amuknya; buta.",
             "Keluarga": "Qiu Qianchi, adik ketiga yang lama tidak ditemuinya."
           },
-          "key": 210080,
+          "key": 210111,
           "chapter": 21,
-          "paragraph": "p-21-080",
+          "paragraph": "p-21-111",
           "quote": "“Dia adik ketigaku. Sudah lama aku tidak menemuinya.”"
         },
         {
@@ -14626,12 +14711,12 @@
           "fields": {
             "Tingkat": "Belum ditetapkan dalam lore; kemampuan teramati dicatat di bawah.",
             "Ilmu yang terlihat": "Telapak Besi; tenaga memutus rantai dan memecahkan batu. Dani menghentikannya dalam duel ini.",
-            "Kondisi": "Sadar, hidup, dapat melihat.",
+            "Kondisi": "Sadar, hidup, buta.",
             "Keluarga": "Sedang menuju tempat tinggal Qiu Qianchi bersama rombongan."
           },
-          "key": 210093,
+          "key": 210124,
           "chapter": 21,
-          "paragraph": "p-21-093",
+          "paragraph": "p-21-124",
           "quote": "Perjalanan memakan lima hari. Mereka mengganti bekal dan beristirahat ketika Polu harus diberi susu; Xiaolongnü tidak lagi berlomba. Pada hari keenam sejak obat diminum, luka Yideng membuat langkahnya melemah, sehingga Ci’en menggendong gurunya melewati jalan terakhir menuju lembah."
         },
         {
@@ -14640,20 +14725,20 @@
           "fields": {
             "Tingkat": "Belum ditetapkan dalam lore; kemampuan teramati dicatat di bawah.",
             "Ilmu yang terlihat": "Telapak Besi; tenaga memutus rantai dan memecahkan batu. Dani menghentikannya dalam duel ini.",
-            "Kondisi": "Hidup, dapat melihat; amuk sudah berhenti.",
+            "Kondisi": "Hidup, buta; amuk sudah berhenti.",
             "Keluarga": "Qiu Qianchi memanggilnya kakak kedua.",
             "Lokasi": "Aula Lembah Tanpa Cinta."
           },
-          "key": 210159,
+          "key": 210193,
           "chapter": 21,
-          "paragraph": "p-21-159",
-          "quote": "Ci’en melangkah mendekat. Qiu mencoba mengangkat tangan yang lumpuh, lalu membiarkannya jatuh kembali. Untuk sesaat tidak seorang pun berbicara."
+          "paragraph": "p-21-193",
+          "quote": "Lü’e membimbing tangannya mendekati tangan ibunya. Ci’en menyentuh pergelangan yang kurus dan tidak menyambut genggaman itu. Untuk sesaat tidak seorang pun berbicara."
         }
       ],
       "relationships": [],
       "portraits": [
         {
-          "key": 210024,
+          "key": 210036,
           "image": {
             "file": "bab-21-ilustrasi-01.webp",
             "width": 1536,
@@ -14668,107 +14753,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "tetua-peng",
-      "type": "tokoh",
-      "aliases": [
-        "Tetua Peng",
-        "Peng"
-      ],
-      "stages": [
-        {
-          "title": "Tetua Peng",
-          "summary": "Menjanjikan pelajaran ilmu pengendali pikiran setelah memperoleh kedudukan dari pihak Mongol.",
-          "fields": {
-            "Tingkat": "Belum ditetapkan dalam lore; kemampuan teramati dicatat di bawah.",
-            "Ilmu yang terlihat": "Ilmu pengendali pikiran baru disebut dalam percakapan.",
-            "Kondisi": "Hidup; bermalam di pondok bersama pengemis kurus."
-          },
-          "key": 210017,
-          "chapter": 21,
-          "paragraph": "p-21-017",
-          "quote": "Namun setelah lampu dikecilkan, suara mereka terdengar dari balik dinding. Pengemis kurus menuntut pelajaran ilmu pengendali pikiran. Kawannya, yang dipanggil Tetua Peng, menjanjikannya sesudah memperoleh kedudukan dari pihak Mongol."
-        },
-        {
-          "title": "Tetua Peng",
-          "summary": "Mulai memengaruhi Ci’en dengan suara berulang dan tatapan.",
-          "fields": {
-            "Tingkat": "Belum ditetapkan dalam lore; kemampuan teramati dicatat di bawah.",
-            "Ilmu yang terlihat": "Hipnosis melalui suara dan tatapan untuk memperkuat dorongan memukul.",
-            "Kondisi": "Hidup; menghasut Ci’en di dekat manusia salju."
-          },
-          "key": 210029,
-          "chapter": 21,
-          "paragraph": "p-21-029",
-          "quote": "Pandangan Ci’en tertahan pada manusia salju. Tangannya gemetar. Peng mendekat, berbicara dengan suara rendah yang berulang-ulang, sementara matanya tidak lepas dari wajah biksu itu."
-        },
-        {
-          "title": "Tetua Peng",
-          "summary": "Dibunuh Ci’en setelah mencoba pergi dari pondok.",
-          "fields": {
-            "Tingkat": "Belum ditetapkan dalam lore; kemampuan teramati dicatat di bawah.",
-            "Ilmu yang terlihat": "Hipnosis melalui suara dan tatapan untuk memperkuat dorongan memukul.",
-            "Kondisi": "Tewas akibat pukulan di dada."
-          },
-          "key": 210040,
-          "chapter": 21,
-          "paragraph": "p-21-040",
-          "quote": "Peng baru sempat membuka mulut. Ci’en menerjang dan menghantam dadanya. Tubuh gemuk itu terempas ke salju; kali ini Dani bahkan tidak sempat mencapai jarak untuk menolong."
-        }
-      ],
-      "relationships": [],
-      "portraits": []
-    },
-    {
-      "id": "pengemis-kurus",
-      "type": "tokoh",
-      "aliases": [
-        "pengemis kurus"
-      ],
-      "stages": [
-        {
-          "title": "Pengemis kurus",
-          "summary": "Menuntut Peng memenuhi janji pelajaran ilmu.",
-          "fields": {
-            "Tingkat": "Belum ditetapkan dalam lore; kemampuan teramati dicatat di bawah.",
-            "Ilmu yang terlihat": "Belum diperlihatkan.",
-            "Kondisi": "Hidup; tidak disebut dengan nama pribadi."
-          },
-          "key": 210017,
-          "chapter": 21,
-          "paragraph": "p-21-017",
-          "quote": "Namun setelah lampu dikecilkan, suara mereka terdengar dari balik dinding. Pengemis kurus menuntut pelajaran ilmu pengendali pikiran. Kawannya, yang dipanggil Tetua Peng, menjanjikannya sesudah memperoleh kedudukan dari pihak Mongol."
-        },
-        {
-          "title": "Pengemis kurus",
-          "summary": "Dilumpuhkan Dani ketika mendekati Peng dengan pisau.",
-          "fields": {
-            "Tingkat": "Belum ditetapkan dalam lore; kemampuan teramati dicatat di bawah.",
-            "Ilmu yang terlihat": "Belum diperlihatkan.",
-            "Kondisi": "Hidup, tertotok; dibawa keluar pondok."
-          },
-          "key": 210020,
-          "chapter": 21,
-          "paragraph": "p-21-020",
-          "quote": "Belum lama kemudian, si kurus merayap mendekati Peng dengan pisau. Dani bangkit tanpa suara. Tangan kirinya menangkap pergelangan itu, dua totokan menyusul, dan tubuh pengemis tersebut menjadi kaku. Dani membawanya keluar sebelum senjata jatuh membangunkan Polu."
-        },
-        {
-          "title": "Pengemis kurus",
-          "summary": "Tewas akibat pukulan Ci’en saat tersembunyi dalam salju.",
-          "fields": {
-            "Tingkat": "Belum ditetapkan dalam lore; kemampuan teramati dicatat di bawah.",
-            "Ilmu yang terlihat": "Belum diperlihatkan.",
-            "Kondisi": "Tewas; denyutnya sudah lenyap saat diperiksa Dani."
-          },
-          "key": 210033,
-          "chapter": 21,
-          "paragraph": "p-21-033",
-          "quote": "Salju meledak. Sosok yang tersembunyi di dalamnya terpental ke batang pohon, lalu jatuh tanpa bergerak. Darah mengalir dari mulutnya ke permukaan putih. Dani melompat mendekat, tetapi denyut yang dicarinya sudah lenyap."
-        }
-      ],
-      "relationships": [],
-      "portraits": []
     },
     {
       "id": "telapak-besi",
@@ -14786,10 +14770,10 @@
             "Akibat teramati": "Yideng terhuyung dan berdarah.",
             "Batas": "Korban sengaja tidak membalas; adegan tidak menetapkan peringkat mutlak mereka."
           },
-          "key": 210045,
+          "key": 210067,
           "chapter": 21,
-          "paragraph": "p-21-045",
-          "quote": "Telapak Besi menyambar. Yideng menerima pukulan itu tanpa membalas. Tubuhnya terhuyung; darah membasahi janggut putihnya. Ci’en mengangkat tangan lagi, seakan setiap pukulan akan membungkam suara yang tidak tahan didengarnya dari dalam diri sendiri."
+          "paragraph": "p-21-067",
+          "quote": "Telapak Besi menyambar. Yideng menerima pukulan itu tanpa membalas. Tubuhnya terhuyung dan darah membasahi janggut putihnya. Ci’en mendengar batuk gurunya; sesaat tangannya berhenti, kemudian bergerak lagi dengan kemarahan yang kini tidak lagi membedakan orang lain dari dirinya sendiri."
         },
         {
           "title": "Telapak Besi",
@@ -14799,9 +14783,9 @@
             "Akibat teramati": "Batu pecah menjadi serpihan sebesar kepalan.",
             "Batas": "Tenaga besar belum disertai kendali atas amarah."
           },
-          "key": 210052,
+          "key": 210074,
           "chapter": 21,
-          "paragraph": "p-21-052",
+          "paragraph": "p-21-074",
           "quote": "Ci’en menyerang dari bawah. Dani menurunkan bidang Xuantie; pukulan kedua menyusul pada sisi yang ditinggalkan bilah. Ia memutar pinggang dan melangkah serong. Telapak lawan menghantam batu di belakangnya, memecah permukaannya menjadi serpihan sebesar kepalan."
         }
       ],
@@ -14823,10 +14807,69 @@
             "Fungsi": "Menahan keadaan sementara; bukan penawar.",
             "Batas": "Tidak menyembuhkan luka dan racun. Biksu Tianzhu masih harus dicari."
           },
-          "key": 210072,
+          "key": 210098,
           "chapter": 21,
-          "paragraph": "p-21-072",
+          "paragraph": "p-21-098",
           "quote": "“Obat ini dapat memberinya waktu tujuh hari. Kita harus mencari Biksu Tianzhu. Pengetahuannya tentang racun jauh melebihiku; ia berada di Lembah Tanpa Cinta bersama Zhu Ziliu.”"
+        }
+      ],
+      "relationships": [],
+      "portraits": []
+    },
+    {
+      "id": "he-shiwo",
+      "type": "tokoh",
+      "aliases": [
+        "He Shiwo"
+      ],
+      "stages": [
+        {
+          "title": "He Shiwo",
+          "summary": "Menolak perintah Huodu untuk merusak Klan Pengemis dari dalam.",
+          "fields": {
+            "Tingkat": "Belum terukur.",
+            "Ilmu yang terlihat": "Belum diperlihatkan.",
+            "Kondisi": "Hidup; bertengkar dengan Huodu.",
+            "Identitas": "Pengemis yang datang bersama Huodu."
+          },
+          "key": 210021,
+          "chapter": 21,
+          "paragraph": "p-21-021",
+          "quote": "Dari balik dinding terdengar Huodu memanggil kawannya, “He Shiwo.” Pembicaraan mereka yang semula lirih mulai meninggi. Huodu hendak memakai orang itu untuk membantu merusak Klan Pengemis dari dalam; He Shiwo menolak menerima perintah lebih jauh."
+        },
+        {
+          "title": "He Shiwo",
+          "summary": "Dilumpuhkan Dani setelah kembali lebih dahulu ke pondok.",
+          "fields": {
+            "Kondisi": "Hidup; tertotok dan tidak dapat menggerakkan tubuh."
+          },
+          "key": 210025,
+          "chapter": 21,
+          "paragraph": "p-21-025",
+          "quote": "Yang pulang lebih dahulu ternyata He Shiwo. Pengemis itu menoleh ke jalan, memastikan tidak diikuti. Dani muncul di belakangnya dan menotok dada serta pinggangnya sebelum ia sempat berseru. Tubuhnya kaku, tetapi matanya masih dapat bergerak."
+        },
+        {
+          "title": "He Shiwo",
+          "summary": "Disembunyikan dalam manusia salju oleh Dani dan Long’er.",
+          "fields": {
+            "Kondisi": "Hidup; tertotok dalam timbunan salju dengan celah bernapas."
+          },
+          "key": 210032,
+          "chapter": 21,
+          "paragraph": "p-21-032",
+          "quote": "Dani menyisakan celah di depan hidungnya. Ia menganggap beberapa saat ketakutan cukup menjadi hukuman; tidak terbayang olehnya bahwa orang yang ditotoknya akan segera memerlukan kaki untuk melarikan diri. Saat langkah Huodu kembali terdengar, keduanya masuk ke bilik dan menutup pintu."
+        },
+        {
+          "title": "He Shiwo",
+          "summary": "Tewas ketika Ci’en menghantam manusia salju akibat hasutan Huodu.",
+          "fields": {
+            "Kondisi": "Tewas; nadi tidak ditemukan Dani.",
+            "Batas": "Orang yang hadir bersama Huodu; jangan disamakan dengan penyamaran yang belum terjadi."
+          },
+          "key": 210056,
+          "chapter": 21,
+          "paragraph": "p-21-056",
+          "quote": "Yideng berlutut di sisi korban. Dani menyusul, meraba nadi yang sudah hilang. Beberapa saat sebelumnya mata He Shiwo masih bergerak mengikuti Huodu. Sekarang salju yang mencair pada pipinya tidak membuat kelopak itu berkedip."
         }
       ],
       "relationships": [],

@@ -34,23 +34,57 @@ Dani menangkap pinggangnya dengan lengan kiri, menariknya ke dada sambil menekuk
 
 “Bibi, aku di sini.”
 
-Matanya terbuka. Ia menatap wajah di hadapannya, lalu mengangkat tangan dengan susah payah. Ujung jarinya menyentuh pipi Dani yang hangat.
+Matanya terbuka. Untuk sesaat ia hanya melihat jubah kelabu, langit yang terpotong wajah seseorang, dan bibir yang bergerak menyebut namanya. Ia sudah pernah melihat wajah itu dalam mimpi. Biasanya, ketika ia mengulurkan tangan, ia terbangun di tepi sungai.
 
-“Aku mencarimu di sungai,” bisiknya. “Mereka mengatakan engkau sudah mati. Aku memanggilmu, tetapi engkau tidak pernah menjawab.”
+“Dani?”
 
-“Arus membawaku jauh. Ada yang menolongku. Aku akan menceritakannya setelah kita pulang.”
+“Aku di sini, Bibi.”
 
-Xiaolongnü mencoba merangkulnya. Tangannya menyusuri bahu kanan Dani dan meremas kain di bawahnya. Ia berhenti. Di tempat yang seharusnya menyangga lengan, kain itu melipat tanpa tahanan. Tatapannya turun, kemudian kembali ke wajahnya.
+Ujung jarinya menyentuh pipinya. Hangat. Ada debu pada kulitnya, ada napas yang memburu di dekat dahinya. Xiaolongnü menekan telapak lebih erat, takut sentuhan ringan tidak cukup menahannya.
 
-“Dani, lenganmu... siapa yang melakukannya?”
+“Jangan bergerak dahulu.”
 
-“Guo Fu. Kami bertengkar, lalu ia mengayunkan pedang.” Dani menahan getar suaranya. “Tetapi aku sudah dapat memegang pedang lagi. Jangan memaksakan diri bergerak.”
+Dani berhenti merapikan sanggaan tubuhnya. “Aku tidak akan pergi.”
 
-“Aku menitipkanmu kepadanya.” Air mata memenuhi mata Xiaolongnü. “Engkau sedang sakit. Seharusnya aku tinggal bersamamu.”
+Ia memandang mata, kening, lalu bekas luka di wajah pemuda itu. Tangan yang hendak merangkul lehernya gemetar. Ketika ia akhirnya menyembunyikan wajah pada dada Dani, tangisnya terdengar di sela dengung senjata yang belum seluruhnya reda.
 
-Dani menempelkan pipinya sejenak pada rambut perempuan itu. Ia telah membayangkan pertemuan mereka berkali-kali selama latihan, tetapi tidak sekali pun membayangkan harus memeluknya dengan darah terus membasahi pakaiannya.
+“Aku memanggilmu di sungai. Aku mencari sampai ke hilir. Mereka mengatakan engkau sudah tenggelam.” Ia berusaha menarik napas, tersedak darah, lalu mencengkeram bajunya lagi. “Mengapa engkau tidak menjawabku?”
 
-“Bibi sudah menemukanku. Sekarang biarkan aku membawamu pulang.”
+“Aku tidak mendengarnya. Arus membawaku jauh.” Dani menunduk sampai bibirnya menyentuh rambut perempuan itu. “Seandainya aku mendengar, bagaimana mungkin aku membiarkan Bibi menunggu?”
+
+“Aku tidak tahu harus mencari ke mana lagi.”
+
+“Sekarang tidak perlu mencari.” Suaranya ikut bergetar. “Lihatlah aku. Aku hidup.”
+
+Xiaolongnü mengangkat wajah. Ia ingin tersenyum agar Dani tidak mencemaskannya, tetapi justru air matanya semakin deras. Dua bulan ia menahan pertanyaan yang tidak dijawab siapa pun; kini pemuda itu ada dalam jangkauan tangannya, sedangkan dadanya sendiri tidak sanggup menampung kegembiraan tanpa rasa nyeri.
+
+Ia mencoba merangkulnya dengan kedua lengan. Jemarinya menyusuri bahu kanan Dani, lalu berhenti pada kain yang melipat tanpa tahanan. Xiaolongnü meraba sekali lagi, lebih perlahan. Pandangannya turun.
+
+“Lenganmu…”
+
+Dani menarik sedikit sisi jubahnya, gerak kecil yang segera disesalinya. Di gua Kondor ia pernah memikirkan bagaimana berdiri di hadapan perempuan ini. Ia telah menyiapkan kelakar, penjelasan tentang pedang, bahkan cara berjalan supaya lengan kosongnya tidak terlalu tampak. Tidak satu pun siap keluar sekarang.
+
+“Siapa yang melakukannya, Dani?”
+
+“Guo Fu. Kami bertengkar, lalu ia mengayunkan pedang.”
+
+Xiaolongnü menatapnya tanpa mengerti. “Aku menitipkanmu kepadanya. Aku memintanya merawatmu.”
+
+“Bibi tidak menyuruhnya mengangkat pedang.”
+
+Ia menyentuh lipatan jubah itu lagi, kali ini seolah takut membuatnya sakit. “Ketika darahnya keluar, siapa yang menolongmu?”
+
+Dani tidak segera menjawab. Keterlambatan itulah yang membuat bibir Xiaolongnü bergetar. Ia merapatkan tubuh, melupakan luka di dadanya sampai batuk kembali merobek napasnya.
+
+“Jangan memaksakan diri,” kata Dani cepat. “Lukaku sudah menutup. Ada yang menyelamatkanku sesudah jatuh ke sungai. Aku akan menceritakan semuanya.”
+
+“Aku seharusnya berada di sisimu.”
+
+“Sekarang Bibi ada di sisiku.” Ia mencoba tersenyum. “Hanya saja aku memerlukan sedikit bantuan. Tangan yang tinggal ini harus cukup untuk membawa kita pulang.”
+
+Xiaolongnü menyambut tangan kirinya dan menekankannya pada pipi. “Jangan mengira aku akan melepaskannya.”
+
+Tidak ada rasa jijik atau penyesalan di wajahnya, hanya duka yang begitu terbuka sehingga Dani tidak dapat lagi menyembunyikan miliknya. Ia menutup mata sebentar. Di sekeliling mereka masih berdiri orang-orang bersenjata; ketika matanya kembali terbuka, ia sudah tahu siapa yang harus dibawanya keluar dari sana.
 
 ***
 
@@ -60,17 +94,21 @@ Dani menoleh. “Di tebing itu engkau tidak meminta aku menghunus senjata. Hari 
 
 Ia membantu Xiaolongnü berdiri di dekat tiang, beberapa langkah dari tempatnya menghadang para lawan. Perempuan itu bertumpu pada batu dengan telapak tangan, mengatur napas sampai lututnya tidak lagi gemetar. Setelah memastikan ia dapat bertahan di sana, Dani maju dan menarik Xuantie dengan tangan kiri.
 
-Nimoxing lebih dahulu menerjang. Ular besinya berdesing menuju kepala Dani. Pedang berat menyambut dari bawah; benturan itu mematahkan senjata lawan dan membuat kedua telapak Nimoxing terbuka. Ia terhuyung, tidak sanggup mengangkat senjatanya lagi.
+Nimoxing lebih dahulu menerjang. Ular besinya berdesing menuju kepala Dani, lalu membelit turun untuk mengait pergelangan kiri. Dani tidak mengejar ujung senjata itu. Ia menanam kaki belakang dan mengangkat bidang Xuantie tepat pada ruas yang menerima tarikan lawan.
 
-Tongkat Xiaoxiangzi menyusul dari samping. Dani menggeser kaki, membiarkan serangan melintas, kemudian mendorong Xuantie lurus ke depan. Tongkat tertekan ke dada pemiliknya. Xiaoxiangzi terlempar ke tangga; ketika bangkit, ia hanya berhasil bertumpu pada satu lutut.
+Benturan logam meledak. Dua ruas ular besi patah; bagian yang masih dipegang Nimoxing menghantam lengannya sendiri. Dani maju setengah langkah, menekan dengan pangkal bilah. Nimoxing terhuyung ke samping, kedua telapaknya terbuka dan berdarah.
 
-Yin Kexi tersenyum sambil melilitkan cambuk berhias permata pada bilah hitam itu.
+Tongkat Xiaoxiangzi sudah datang sebelum serpihan pertama jatuh. Dani terpaksa menarik pedang dari lawan yang belum roboh. Ujung tongkat menggores jubah di rusuknya. Ia merasakan kain robek, berputar mengikuti arah pukulan, lalu mendorong Xuantie lurus dari pinggang. Tongkat tertekan ke dada pemiliknya. Xiaoxiangzi terlempar ke tangga; ketika mencoba bangkit, ia hanya berhasil bertumpu pada satu lutut.
 
-“Saudara Dani memperoleh senjata yang luar biasa. Bolehkah aku melihatnya lebih dekat?”
+“Saudara Dani memperoleh senjata yang luar biasa.” Yin Kexi tersenyum sambil melilitkan cambuk berhias permata pada bilah hitam itu. “Bolehkah aku melihatnya lebih dekat?”
 
 “Bukankah sudah cukup dekat?”
 
-Yin Kexi menarik cambuk, tetapi Xuantie tidak bergeser. Senyumnya bertahan ketika tangan yang lain mengeluarkan belati. Ia mencoba menyelinap melewati Dani menuju tiang tempat Xiaolongnü berdiri. Dani mendorong pedang sebelum lawannya dapat melewatinya. Cambuk yang melilit justru menahan pemiliknya dalam jalur benturan. Yin Kexi tersentak mundur; senyumnya hilang saat darah memenuhi mulut.
+Dani membiarkan lilitan itu mengencang. Yin Kexi menarik ke kiri, lalu mengeluarkan belati dengan tangan lain. Yang ditujunya bukan Dani, melainkan tiang di belakangnya.
+
+Xiaolongnü melihat kilatan belati dan mengangkat tangan, tetapi belum sempat mengerahkan tenaga. Dani sudah menjejak serong, menutup jalan. Ia mendorong pedang ke depan bersamaan dengan tarikan cambuk lawan. Yin Kexi tidak sempat melepaskan gagangnya; tubuhnya tersentak masuk ke jalur bidang besi. Pukulan itu mengenai bahunya dan memutarnya sampai jatuh menghadap tanah.
+
+Dani tidak mengejar. Ia segera kembali pada garis antara Xiaolongnü dan para penyerang, napasnya berat. Dengan satu tangan, setiap lawan yang lolos dari depan pedang akan memaksanya memutar seluruh tubuh. Ia tidak boleh memberi mereka kesempatan menyerang Xiaolongnü dari dua arah sekaligus.
 
 Tidak ada sorak. Tiga orang yang tadi menutup jalan Xiaolongnü kini tidak sanggup maju.
 
@@ -78,7 +116,11 @@ Jinlun mengeluarkan kelima rodanya. “Pedang yang baik memang dapat mengubah na
 
 “Kalau begitu, Guru Negara tentu tidak keberatan berhadapan dengannya.”
 
-Roda timah melesat rendah, disusul kilatan perak dari atas. Dani menggeser kaki dan memutar Xuantie, memukul keduanya keluar dari jalur. Jinlun segera mengirim roda berikutnya ke sisi kanan Dani, memaksanya terus berputar. Ketika sebuah roda membelok menuju tiang, Dani menyilang ke lintasannya dan menghantamnya kembali. Xiaolongnü tetap berdiri beberapa langkah di belakangnya.
+Roda timah melesat rendah, disusul kilatan perak dari atas. Dani memukul yang pertama ke tanah, memutar bahu untuk menahan yang kedua. Roda ketiga telah datang ke sisi kanannya sebelum Xuantie kembali ke tengah. Ia melangkah serong, membiarkannya mengiris udara di dekat jubah kosong.
+
+Jinlun melihat arah langkah itu. Roda berikutnya tidak memburu Dani, melainkan melengkung menuju tiang. Dani segera kembali ke lintasannya. Xuantie menghantam tepi logam; percikan menyentuh pipinya. Untuk menahan satu serangan terhadap Xiaolongnü, ia harus melepaskan kesempatan mendesak Jinlun.
+
+Rahib itu maju. Ia tidak lagi tersenyum. Pedang berat dapat mematahkan rodanya, tetapi pemuda itu hanya mempunyai satu tangan dan satu tempat yang tidak bersedia ditinggalkannya.
 
 Xiaolongnü mengangkat wajah. “Carikan aku pedang. Kita dapat menghadapinya bersama.”
 
@@ -156,6 +198,18 @@ Dani membantu Xiaolongnü bersandar pada tiang. Ia memeriksa aliran nadi di perg
 
 “Aku tetap menginginkanmu. Ketika pergi mencari Bibi, tidak ada orang lain yang hendak kutemui sebagai istriku.”
 
+“Tetapi engkau mengatakan akan tinggal serumah dengannya. Aku mendengar sendiri.”
+
+Dani menunduk. Ia ingat betapa mudahnya kata-kata itu keluar ketika ia hendak menyakiti hati kedua Wu. “Aku ingin mereka percaya. Aku menyebut hal-hal yang pernah kudengar di taman, lalu membiarkan mereka menyangka Fu menceritakannya kepadaku. Semuanya tipu daya.”
+
+“Aku juga percaya.”
+
+Ucapan itu lebih menyakitkan daripada teguran. Dani mengusap darah di sudut bibirnya dengan tepi lengan baju. “Aku tahu sekarang. Aku menyelamatkan mereka dengan kata-kata yang melukai Bibi. Tidak seharusnya aku menganggap nama calon istri dapat dipakai sesuka hati.”
+
+Xiaolongnü menahan tangannya. “Kalau aku mendengar sesuatu lagi, aku akan bertanya kepadamu dahulu. Tetapi engkau harus menjawab sungguh-sungguh. Jangan membuatku menebak saat engkau sedang bergurau.”
+
+“Aku berjanji.”
+
 Xiaolongnü memegang tangan kirinya. Ada ketenangan pada wajahnya, tetapi ketenangan itu membuat Dani semakin takut.
 
 “Sekarang aku sudah tahu,” katanya. “Hanya saja, kalau lukaku tidak sembuh, siapa yang akan tinggal bersamamu? Engkau baru kehilangan lengan. Aku tidak ingin engkau sendirian lagi.”
@@ -172,7 +226,11 @@ Ia mengangguk, lalu mengusap pipi Dani dengan ibu jari. “Kalau begitu, bantula
 
 Sun Bu’er menghalangi jalan ke aula. “Kalian hendak mempermainkan aturan di hadapan leluhur kami? Guru dihormati seperti orang tua. Tempat ini tidak boleh dipakai mengesahkan hubungan semacam itu.”
 
-“Tetua Sun, kami datang untuk membungkuk di hadapan leluhur, bukan meminta beliau bangkit dan mengubah keputusan kami,” jawab Dani.
+“Tetua Sun, ketika ia mengajariku, aku menghormatinya. Ketika ia menolongku, aku berterima kasih. Sekarang aku mencintainya dan hendak menjadi suaminya. Di bagian mana aku harus menyakitinya agar Tetua menganggapku berbudi?”
+
+Sun Bu’er mengangkat dagu. “Jangan putarbalikkan tata hubungan manusia dengan lidahmu.”
+
+“Aku tidak meminta seluruh dunia mengikuti kami.” Dani merasakan jemari Xiaolongnü merapat pada bajunya. “Aku hanya meminta kalian berhenti memakai penghormatanku kepadanya sebagai alasan untuk memisahkan kami.”
 
 “Bawa dia pergi. Jangan memaksaku mengusir kalian.”
 
@@ -190,17 +248,37 @@ Wajah Wang Chongyang dalam lukisan tampak muda dan tenang. Xiaolongnü mengenali
 
 Dani membantunya berlutut. “Kalau demikian, kita memberi hormat kepada keduanya.”
 
-Xiaolongnü berusaha merapikan pakaiannya. Darah telah mengering di bagian dada, rambutnya terlepas dari beberapa ikatan. Dani melihat gerak itu dan menahan napas; ia tidak mempunyai pakaian pengantin atau perhiasan untuk diberikan kepadanya, hanya satu tangan yang masih dapat diulurkan.
+Xiaolongnü berusaha merapikan pakaiannya. Darah telah mengering di bagian dada, rambutnya terlepas dari beberapa ikatan. Ia menarik ujung bajunya sampai lurus, lalu menyadari Dani sedang memandangnya.
 
-Xiaolongnü menyambut tangan itu tanpa memandang pakaian mereka lagi.
+“Apakah terlalu kotor?”
 
-“Dani Moan dan Xiaolongnü memberi hormat kepada langit dan bumi,” ucap Dani. “Di hadapan kedua leluhur, dengan Tetua Sun sebagai saksi, kami menjadi suami-istri.”
+Dani menggeleng. Ia hendak mengatakan bahwa mereka dapat mencari pakaian yang lebih baik nanti, tetapi kata *nanti* terasa kejam ketika napas perempuan itu demikian pendek. Dengan ibu jari ia menyeka noda di dagunya. “Aku hanya ingin dapat melihat wajahmu.”
 
-Mereka membungkuk. Pada penghormatan berikutnya Dani menopang tubuh Xiaolongnü agar tidak jatuh. Ketika keduanya saling menghadap, perempuan itu tersenyum kepadanya dengan mata basah.
+Xiaolongnü mengangkat kepala. Di luar pintu orang-orang masih berdebat; di dalam, tangannya berada di tangan Dani. Ia pernah membayangkan perkawinan berarti semua orang akhirnya berhenti menyuruh mereka pergi. Ternyata suara-suara itu tetap ada. Namun Dani sudah berlutut di sampingnya dan tidak sedang mencari alasan untuk bangkit meninggalkannya.
+
+“Kalau aku tidak kuat membungkuk sampai ke lantai, bantulah aku,” bisiknya. “Aku ingin menyelesaikannya.”
+
+Dani mengangguk. Ia menggeser bantalan lebih dekat agar bahu mereka bersentuhan.
+
+“Dani Moan dan Xiaolongnü memberi hormat kepada langit dan bumi.” Suaranya mula-mula serak. Ia menelan, lalu melanjutkan dengan lebih jelas. “Kami memilih menjadi suami-istri. Kami sendiri yang akan menjalani pilihan ini.”
+
+Mereka membungkuk. Xiaolongnü berhenti di tengah gerakan, menahan nyeri yang menembus punggung. Dani merangkul pinggangnya dengan lengan kiri dan menunggu. Ia tidak mendesaknya segera tegak; setelah napasnya kembali, keduanya menyelesaikan penghormatan bersama.
+
+Di hadapan lukisan Wang Chongyang mereka memberi hormat kepada para leluhur. Xiaolongnü memandang goresan kuas Lin Chaoying sebelum menunduk. *Pendiri, hari ini aku membawa orang yang ingin kujaga. Aku tidak ingin menghabiskan sisa hidup dengan menunggunya di ruang yang kosong.*
+
+Ketika mereka saling menghadap, Dani melihat air mata turun pada pipinya. Ia hendak menyekanya, tetapi Xiaolongnü menggeleng kecil.
+
+“Biarkanlah. Aku sedang bahagia.”
+
+Mereka saling membungkuk. Dani tidak melepaskan tangannya saat kembali tegak. “Sejak hari ini, rumahku adalah tempat engkau berada.”
+
+Xiaolongnü memandangnya lama, seperti menyimpan wajah itu untuk masa yang belum berani dimintanya.
 
 “Sekarang engkau suamiku,” katanya pelan, seakan ingin mendengar sendiri bunyi kalimat tersebut.
 
 “Dan engkau istriku.”
+
+Ia mengulang kata itu tanpa suara. Lalu ia mendekat, menempelkan kening pada kening Dani. Hanya sebentar; cukup untuk membuat Dani merasakan betapa panas tubuhnya dan betapa sungguh-sungguh ia berusaha tetap tersenyum.
 
 Genteng pecah di atas mereka.
 
@@ -280,9 +358,41 @@ Xiaolongnü memandang langit-langit, lalu ruang di sekeliling mereka. “Ketika 
 
 “Kita sudah sampai, Bibi.” Dani merapikan kain di bahunya. “Aku akan mencari cara merawat lukamu.”
 
-“Duduklah sebentar sebelum engkau melakukan yang lain.” Xiaolongnü mengulurkan tangan. “Aku ingin melihat suamiku di rumah kita.”
+Xiaolongnü menangkap ujung lengan bajunya sebelum ia berdiri. “Tadi engkau sudah menikahiku.”
 
-Dani menyambutnya dengan tangan kiri. Di sebelah mereka Polu kembali tenang. Dari ruang tinggal makam yang sunyi, tidak terdengar lagi dentang senjata atau orang-orang yang menyuruh mereka berpisah.
+“Itu sebabnya aku harus lebih rajin merawatmu. Kalau tidak, aku akan menjadi suami yang lebih buruk daripada murid.”
+
+“Aku tidak sedang memarahimu.” Pipi Xiaolongnü sedikit memerah. “Aku hanya ingin mendengar sapaan yang lain.”
+
+Dani kembali duduk. Di aula ia sanggup membantah para tetua tanpa kehabisan kata; permintaan sederhana ini justru membuatnya ragu. Hampir setiap kenangan baik dalam hidupnya dimulai dengan panggilan yang sama, dari anak yang mencari makanan sampai pemuda yang mencarinya di antara gunung.
+
+“Dahulu, sewaktu engkau masih kecil, bagaimana Shifu memanggilmu?”
+
+“Long’er.” Senyum Xiaolongnü muncul perlahan. “Kalau aku terlalu jauh bermain, beliau memanggil begitu dari pintu. Aku harus segera pulang.”
+
+Dani menunduk mendekati wajahnya. “Long’er.”
+
+Ia mengangguk. “Ya.”
+
+“Kalau kupanggil begitu, apakah engkau masih akan menyuruhku berlatih sampai lewat waktu makan?”
+
+Xiaolongnü tertawa, lalu menahan dada. Dani segera mendukung bahunya. Ketika nyerinya mereda, ia tetap menggenggam bajunya, dengan senyum yang belum seluruhnya hilang.
+
+“Kalau engkau lupa makan, aku akan memanggilmu. Sekarang aku boleh mencarimu tanpa takut orang menyuruhku pulang sendiri.”
+
+“Engkau boleh datang bahkan sebelum aku lapar.”
+
+Matanya kembali basah. “Dani, aku ingin benar-benar sembuh. Aku ingin tinggal bersamamu. Tadi di halaman aku mengatakan seolah-olah aku sudah tidak takut, tetapi aku takut tidak sempat menjalani semua ini.”
+
+Dani meletakkan pipinya pada jemari Xiaolongnü. Ia tidak menjanjikan sesuatu yang belum diketahuinya. “Malam ini aku di sini. Besok kita mencoba pengobatan lagi. Kalau cara yang kuketahui tidak cukup, kita mencari pertolongan.”
+
+“Bersama-sama?”
+
+“Bersama-sama, Long’er.”
+
+Ia membimbing tangan Dani hingga beristirahat di dekat pipinya, lalu menutup mata tanpa melepaskannya. Polu bergerak kecil pada alas di sebelah mereka. Dani mendengarkan napas istrinya sampai kembali teratur. Baru setelah itu ia berani membiarkan air mata yang sejak halaman Quanzhen ditahannya jatuh, jauh dari wajah perempuan yang baru saja meminta hari esok kepadanya.
+
+
 
 ---
 
@@ -290,5 +400,5 @@ Dani menyambutnya dengan tangan kiri. Di sebelah mereka Polu kembali tenang. Dar
 - Jinlun mulai unggul dalam adu tenaga. Jarum Xiaolongnü yang tidak terlihat pihak lain memutus tekanannya; kemenangan Dani tidak membuktikan tenaga dalamnya telah melampaui Jinlun.
 - Daerba serta Ma Guangzuo hadir tanpa ikut mengeroyok Xiaolongnü. Daerba melindungi Jinlun dan memohon dalam bahasa Tibet; Dani membaca kesetiaannya melalui tindakan. Huodu melarikan diri dan tetap hidup.
 - Zhen mengakui percobaan penyerangan yang dahulu digagalkan Dani serta fitnahnya, lalu tewas sesudah pertempuran. Zhao tewas melalui rangkaian lonceng, celah udara, madu, dan lebah; Zhou tidak bertemu pasangan tersebut.
-- Dani dan Xiaolongnü menikah di hadapan lukisan Wang Chongyang dengan Sun Bu’er sebagai sandera, kemudian lolos menggunakan lebah. Bab ditutup setelah keduanya masuk hingga ruang tinggal Makam Kuno bersama Polu.
+- Dani dan Xiaolongnü menikah di hadapan lukisan Wang Chongyang dengan Sun Bu’er sebagai sandera, kemudian lolos menggunakan lebah. Bab ditutup di ruang tinggal Makam Kuno bersama Polu: percakapan panggilan masa kecil menetapkan Long’er sebagai sapaan Dani kepada istrinya sejak saat itu.
 - Luka Xiaolongnü belum sembuh. Pengejaran bayi, racun Li Mochou, dan jarum es Fu belum terjadi; rahasia Kang, Tapak Melankolis, serta lompatan tujuh tahun belum dibuka.

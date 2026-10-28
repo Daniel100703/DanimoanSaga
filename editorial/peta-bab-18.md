@@ -1,5 +1,7 @@
 # Peta Bab 18 — Orang yang Telah Dikabarkan Mati
 
+**Pembaruan 28 Oktober 2026:** naskah Bab 18–21 telah direvisi. Koreksi terbaru dan alasan adaptasi ada di [catatan revisi](https://daniel100703.github.io/DanimoanSaga/editorial/revisi-bab-18-21-2026-10-28.md); pegangan terkini ada di `pegangan-chat-berikutnya.md`. Ketentuan lama yang bertentangan tidak berlaku.
+
 Peta sebelumnya disetujui penulis untuk dilanjutkan menjadi naskah, bersama revisi Bab 16–17. Penajaman terakhir: Zhou Botong tetap hadir dalam pengejaran Xiaolongnü; sumber kabar kematian dipilih dari pihak Mongol. Peta ini memuat bocoran seluruh Bab 18.
 
 ## Poin lorebook yang dipakai

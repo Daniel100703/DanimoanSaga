@@ -1,5 +1,7 @@
 # Bab 20 — Kontinuitas
 
+**Pembaruan 28 Oktober 2026:** naskah Bab 18–21 telah direvisi. Koreksi terbaru dan alasan adaptasi ada di [catatan revisi](https://daniel100703.github.io/DanimoanSaga/editorial/revisi-bab-18-21-2026-10-28.md); pegangan terkini ada di `pegangan-chat-berikutnya.md`. Ketentuan lama yang bertentangan tidak berlaku.
+
 Naskah diminta langsung oleh penulis pada 17 Oktober 2026, sesudah peta Bab 20. Publikasi GitHub mengikuti izin tetap dan penegasan terbaru penulis; tidak meminta konfirmasi unggah lagi.
 
 - Melanjutkan akhir Bab 19: pasangan sudah menikah dan sudah pulang ke ruang tinggal makam. Perawatan berlangsung beberapa hari; tidak ada upacara kedua.

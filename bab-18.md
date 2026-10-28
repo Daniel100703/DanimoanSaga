@@ -110,25 +110,61 @@ Jinlun mengamati pedang di tangannya. “Dahulu Dani dapat berdiri di sisimu. Se
 
 “Huodu menemukannya di jalan tebing dekat Xiangyang. Pakaiannya penuh darah. Muridku menusuknya, lalu menjatuhkannya ke sungai. Ia sendiri menyaksikan tubuhnya tenggelam.”
 
-Xiaolongnü tidak menjawab. Ujung Pedang Perempuan turun sedikit. Ia teringat permintaannya kepada Fu sebelum pergi: jagalah dia. Kalimat itu begitu sederhana ketika diucapkan; kini ia mendengarnya kembali tanpa dapat memahami bagaimana permintaan tersebut berakhir di sebuah tebing.
+Xiaolongnü tidak menjawab. Pedang Perempuan masih mengarah kepada Jinlun, tetapi jari-jarinya tiba-tiba tidak merasakan gagangnya. Yang terbayang olehnya justru kamar tempat ia meninggalkan Dani: baskom air, bau obat, dan ranjang yang tidak berani didekatinya sebelum pergi.
 
-“Engkau melihat tubuhnya?” tanyanya akhirnya.
+“Kapan?” tanyanya.
+
+Jinlun menyebut hari itu. Hari ketika ia meminta Fu menjaga Dani.
+
+“Tidak.” Xiaolongnü menggeleng. “Ia sedang dirawat. Ada orang-orang di rumah itu. Mengapa ia berada di tebing?”
+
+“Tanyakan kepada sungai. Muridku tidak berkewajiban mencari tahu urusan rumah keluarga Guo.”
+
+Ia melangkah maju tanpa sadar. “Huodu ada di mana? Bawalah ia ke sini. Aku hendak mendengar sendiri apa yang dilakukannya.”
+
+Jinlun menggeser roda, menutup jalan. Xiaolongnü baru melihat senjata itu ketika tepinya hampir menyentuh pedangnya. Ia menangkis terlalu lambat; getaran logam mengguncang lengannya sampai ke bahu. Zhou memanggilnya dari belakang, tetapi suara itu terdengar jauh.
+
+“Engkau melihat jasadnya?” Ia memaksa setiap kata keluar. “Atau hanya mendengar perkataan Huodu?”
 
 “Arus membawanya. Bahkan orang yang sehat sukar keluar dari sungai itu.”
 
-“Jadi, engkau tidak melihatnya.”
+Xiaolongnü menangkap satu-satunya hal yang masih dapat dipegangnya. “Jadi kalian tidak menemukannya.”
 
-Jinlun tersenyum tipis. “Peganglah harapan itu jika engkau memerlukannya. Huodu tidak meninggalkan lawan yang masih sanggup menolong dirinya sendiri.”
+“Peganglah harapan itu jika engkau memerlukannya.” Jinlun tersenyum tipis. “Huodu tidak meninggalkan lawan yang masih sanggup menolong dirinya sendiri.”
 
-Xiaolongnü menyerang. Pedangnya menyambar leher Jinlun, berbalik menembus sela roda, lalu memaksa rahib itu menggeser kaki. Jinlun menahan dengan kedua roda. Pada benturan berikutnya, Xiaolongnü merasakan tenaga berat menjalar ke siku; di belakangnya Zhou berseru memperingatkan laba-laba yang jatuh dari atas pintu.
+Pedang Xiaolongnü menyambar lehernya. Kali ini tidak ada teguran atau ancaman. Jinlun mengangkat roda; ujung pedang tergelincir pada tepi emas, lalu kembali menusuk dari bawah. Ia terpaksa mundur setapak. Pada serangan ketiga, Xiaolongnü nyaris membiarkan dadanya terbuka hanya untuk mencapai tenggorokan rahib itu.
 
-Ia terpaksa mundur. Jinlun membawa Zhao menjauh, membiarkan benang-benang beracun menutup jalan. Xiaolongnü berdiri lama memandang celah tempat wajah mereka tadi terlihat. Ketika Zhou memanggilnya, air mata baru jatuh ke punggung tangannya.
+“Nona Long! Di atas!”
 
-“Aku meninggalkannya ketika ia sakit,” katanya. “Ia belum tahu mengapa aku pergi.”
+Seekor laba-laba jatuh ke lengan Zhou. Xiaolongnü berbalik, menyentaknya dengan tangan bersarung, lalu kembali menghadapi pintu. Jinlun sudah menarik Zhao menjauh. Benang-benang beracun bergetar di antara batu, menutup celah yang baru saja dilaluinya.
 
-Zhou membuka mulut, lalu mengurungkan lelucon yang hampir keluar. “Rahib itu mengulang perkataan muridnya. Aku belum melihat Dani mati. Engkau pun belum.”
+“Kembalilah!” Suara Xiaolongnü pecah. “Katakan di mana Huodu meninggalkannya!”
 
-“Aku akan mencarinya di sungai.” Xiaolongnü menyarungkan pedang dengan susah payah. “Tetapi jika kabar itu benar, aku tidak akan membiarkan Huodu menganggap dirinya menang hanya karena Dani sudah tidak dapat membalas.”
+Tidak ada jawaban. Ia mengangkat pedang untuk membelah jaring, tetapi Zhou mencengkeram pergelangan bajunya.
+
+“Kalau engkau terkena racun, siapa yang akan pergi ke sungai?”
+
+Pedangnya berhenti. Beberapa saat ia masih berdiri begitu, seolah hanya memerlukan satu jawaban lagi agar dunia kembali pada tempatnya. Kemudian lututnya menyerah. Zhou menahan bahunya ketika ia terduduk pada batu.
+
+“Aku menyuruh orang lain menjaganya,” ucapnya. “Ia demam. Aku tahu ia demam, tetapi aku pergi.”
+
+Air mata jatuh tanpa dapat ditahannya. Ia menutup mulut, menunduk, lalu terisak begitu keras hingga Zhou tidak lagi mencoba mengatakan sesuatu. Selama meninggalkan Xiangyang ia membayangkan Dani akan sehat kembali, mungkin akan memanggil nama perempuan lain. Bayangan itu menyakitkan. Namun di dalamnya Dani masih bernapas, masih dapat tertawa, masih mempunyai hari esok.
+
+“Kalau ia terbangun dan mencariku, siapa yang menjawabnya?”
+
+Zhou melepaskan pergelangan bajunya. Tangan perempuan itu dingin sekali.
+
+“Aku tidak tahu,” jawabnya akhirnya. “Tetapi rahib itu pun tidak tahu semua yang terjadi. Jangan serahkan nyawa anak itu kepada satu cerita dari mulut musuhnya.”
+
+Xiaolongnü mengusap wajah dengan punggung tangan. Air mata yang baru segera menggantikan yang dihapusnya.
+
+“Aku ingin ia memanggilku sekali saja. Aku akan menjawab. Sekalipun ia tidak lagi menghendakiku, aku akan datang.”
+
+Zhou menunduk memungut pedang yang terlepas dari genggamannya. Ia meletakkannya melintang di dekat lutut Xiaolongnü, gagangnya menghadap tangan perempuan itu.
+
+“Kalau begitu, kita harus keluar dari sini.”
+
+Lama kemudian Xiaolongnü meraih gagangnya. Ia belum tenang, dan kabar itu belum dapat dipercayainya ataupun dibuangnya. Namun di luar gua ada sungai yang harus didatanginya; selama jasad Dani belum ditemukan, ia tidak akan meninggalkan pencarian.
 
 ***
 
@@ -168,7 +204,11 @@ Xiaolongnü mengangguk. “Jika aku menemukannya, Senior tidak perlu menyuruh. A
 
 Dalam pekan-pekan berikutnya Xiaolongnü menyusuri sungai, bertanya kepada para pencari, dan kembali ke tebing yang disebut dalam kabar Huodu. Tidak ada seorang pun yang melihat Dani selamat. Orang-orang yang diutus Guo Jing pun belum menemukan jejaknya di sepanjang tepian. Semakin lama pencarian itu berlangsung tanpa hasil, semakin sukar bagi Xiaolongnü mempertahankan harapannya.
 
-Ia tidak menemukan jasad untuk dikubur. Pada malam terakhir di tepian, ia meletakkan tangan pada air yang dingin dan menyebut nama Dani. Tidak ada jawaban selain arus. Keesokan harinya ia kembali mencari jejak Zhen dan Zhao, dua orang yang masih dapat ditemuinya, sementara Huodu tetap berada di bawah perlindungan gurunya.
+Setiap kain kelabu yang tersangkut pada akar membuatnya turun ke air. Setiap kabar tentang pemuda yang ditemukan di hilir membuatnya berjalan lagi. Sekali ia tiba di rumah seorang penjala sebelum fajar; orang yang diselamatkan di sana bukan Dani. Xiaolongnü meminta maaf karena membangunkan mereka, lalu duduk di luar sampai kakinya sanggup bergerak. Ia malu karena telah kecewa melihat orang lain masih hidup.
+
+Pada malam terakhir di tepian, ia meletakkan tangan pada air yang dingin. “Dani, aku sudah datang.” Kalimat itu diulangnya pelan, seperti panggilan dari ambang kamar agar orang yang tidur tidak terkejut. Air terus melewati jemarinya. Ia tidak menemukan jasad untuk dikubur, tidak pula alasan untuk percaya bahwa panggilannya akan dijawab.
+
+Keesokan harinya ia kembali mengikuti jejak Zhen dan Zhao. Kabar terakhir menempatkan Huodu bersama Jinlun menuju Quanzhen. Kalau Dani tidak dapat ditemuinya, orang yang mengaku membunuhnya harus menjelaskan di hadapannya. Di sepanjang jalan ia masih bertanya kepada setiap penyeberang sungai yang ditemuinya; memburu Huodu belum membuatnya sanggup berhenti mencari Dani.
 
 Menjelang akhir bulan kedua, jejak itu membawanya ke Zhongnan. Selama lima tetua Quanzhen menutup diri untuk berlatih, Zhao menggunakan dukungan Mongol untuk menguasai urusan perguruan. Orang-orang yang menentangnya dipisahkan dari gerbang dan ruang pertemuan; Zhen sudah kembali, tetapi tidak menghentikan persekutuan tersebut. Kedudukan Zhao belum kukuh. Karena itu ia semakin bergantung pada tamu-tamu bersenjata yang menjanjikannya kekuasaan.
 

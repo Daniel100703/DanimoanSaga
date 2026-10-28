@@ -1,5 +1,7 @@
 # Peta Bab 19 — Di Hadapan Langit dan Leluhur
 
+**Pembaruan 28 Oktober 2026:** naskah Bab 18–21 telah direvisi. Koreksi terbaru dan alasan adaptasi ada di [catatan revisi](https://daniel100703.github.io/DanimoanSaga/editorial/revisi-bab-18-21-2026-10-28.md); pegangan terkini ada di `pegangan-chat-berikutnya.md`. Ketentuan lama yang bertentangan tidak berlaku.
+
 Peta revisi berdasarkan koreksi penulis 15–16 Oktober 2026. Menggantikan seluruh peta Bab 19 sebelumnya. Penulis telah meminta penulisan langsung; peta ini sudah diadaptasi menjadi naskah Bab 19 lengkap dengan tiga ilustrasi. Rangka adegan kanon dipertahankan terlebih dahulu, lalu disesuaikan dengan percabangan Saga dan rincian terbaru yang ditetapkan penulis.
 
 ## Lima pegangan lore dan arahan

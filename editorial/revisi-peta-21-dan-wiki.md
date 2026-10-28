@@ -1,5 +1,7 @@
 # Koreksi peta Bab 21 dan Wiki Persilatan
 
+**Pembaruan 28 Oktober 2026:** naskah Bab 18–21 telah direvisi. Koreksi terbaru dan alasan adaptasi ada di [catatan revisi](https://daniel100703.github.io/DanimoanSaga/editorial/revisi-bab-18-21-2026-10-28.md); pegangan terkini ada di `pegangan-chat-berikutnya.md`. Ketentuan lama yang bertentangan tidak berlaku.
+
 Arahan penulis: 18 Oktober 2026. Peta direvisi dan wiki diperbaiki; naskah Bab 21 belum dibuat. Unggah langsung mengikuti izin tetap penulis, bukan menunggu izin baru.
 
 ## Pegangan untuk sesi berikutnya
@@ -37,3 +39,4 @@ Tokoh tanpa angka dalam lore tetap ditandai belum ditetapkan/terukur, disertai k
 - Periksa data tertanam maupun reader-data.js dengan tests/check-lore.cjs sebelum publikasi.
 
 Validasi: batas sebelum/sesudah latihan Bab 17; Seni Dua Tangan Bab 18; luka mutakhir Bab 20; bukti latihan tetap tertaut; tahap kondisi baru tidak menghapus tingkat; seluruh tokoh mempunyai keterangan tingkat pada batas terbaru. Berkas cerita tidak diubah oleh koreksi wiki ini.
+

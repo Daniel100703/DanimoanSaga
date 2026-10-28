@@ -1,5 +1,7 @@
 # Ilustrasi Bab 21 — Tujuh Hari
 
+**Pembaruan 28 Oktober 2026:** naskah Bab 18–21 telah direvisi. Koreksi terbaru dan alasan adaptasi ada di [catatan revisi](https://daniel100703.github.io/DanimoanSaga/editorial/revisi-bab-18-21-2026-10-28.md); pegangan terkini ada di `pegangan-chat-berikutnya.md`. Ketentuan lama yang bertentangan tidak berlaku.
+
 Tiga ilustrasi dibuat untuk bab ini, kemudian dipulihkan dari hasil asli sesi yang terputus. Berkas final dikonversi dari PNG ke WebP dengan quality 88 dan method 6; tidak ada pemotongan komposisi. Gaya, wajah, dan pakaian mengikuti ilustrasi bab sebelumnya.
 
 | Berkas | Ukuran | Posisi |
@@ -21,3 +23,4 @@ Penyelamatan: Dani berlutut di tanah bebas di luar bunga berduri, Xuantie di pun
 Potret Yideng dan Ci’en berasal dari ilustrasi duel; tersedia setelah perkenalan mereka pada p-21-024. Potret Dani berasal dari ilustrasi penyelamatan mulai p-21-106. Potret Cheng Ying dan Wushuang diperbarui pada p-21-107, sesudah mereka diselamatkan. Tidak dibuat potret rekaan bagi Peng atau pengemis kurus yang tidak tampil dalam ketiga ilustrasi.
 
 Versi cache gambar dihitung dari isi berkas final. Semua gambar bab terdahulu dipertahankan.
+

@@ -1,5 +1,7 @@
 # Peta Bab 20 — Racun di Rumah Mereka
 
+**Pembaruan 28 Oktober 2026:** naskah Bab 18–21 telah direvisi. Koreksi terbaru dan alasan adaptasi ada di [catatan revisi](https://daniel100703.github.io/DanimoanSaga/editorial/revisi-bab-18-21-2026-10-28.md); pegangan terkini ada di `pegangan-chat-berikutnya.md`. Ketentuan lama yang bertentangan tidak berlaku.
+
 Status: disetujui melalui perintah langsung penulis untuk membuat dan mengunggah Bab 20 pada 17 Oktober 2026; telah diadaptasi menjadi naskah lengkap. Satu arc: kepulangan yang sempat memberi harapan, penyusupan ke makam, rusaknya pengobatan, dan keberangkatan mencari pertolongan. Naskah berjumlah sekitar 2.800 kata, dengan satu ilustrasi pembuka dan dua adegan.
 
 ## Pegangan lore dan kontinuitas

@@ -16,13 +16,13 @@ Dengan abu dingin dan sedikit arang, mereka mengubah wajah masing-masing. Rambut
 
 “Beginikah rupa kita kalau sudah tua?”
 
-“Suamimu mungkin lebih buruk. Tetapi aku akan melarang cermin masuk ke rumah agar Bibi tidak menyesal.”
+“Suamimu mungkin lebih buruk. Tetapi aku akan melarang cermin masuk ke rumah agar Long’er tidak menyesal.”
 
 “Aku masih dapat melihat wajahmu tanpa cermin,” jawab Xiaolongnü lembut. “Kalau engkau menjadi tua, aku ingin melihatnya.”
 
 Tawa Dani berhenti. Ia merapatkan jubah di bahu istrinya.
 
-“Kalau begitu, Bibi harus tetap bersamaku sampai dapat membuktikannya.”
+“Kalau begitu, Long’er harus tetap bersamaku sampai dapat membuktikannya.”
 
 “Aku tidak ingin pergi.”
 
@@ -32,79 +32,123 @@ Di luar pintu mereka membuat dua gundukan kecil menyerupai orang tua. Xiaolongn�
 
 ***
 
-Dua pengemis tiba ketika langit gelap. Yang gemuk meminta tempat bermalam dengan sopan; kawannya yang kurus langsung mencari sudut dekat api. Mereka mengira pasangan tua itu tidak mempunyai urusan dengan dunia persilatan.
+Dua orang tiba ketika langit gelap. Yang seorang berpakaian pengemis; kawannya merendahkan tudung hingga menutupi kening. Dani mempersilakan mereka masuk, berbicara dengan suara serak seorang pemburu tua. Xuantie telah disembunyikannya di bilik tempat Xiaolongnü menjaga Polu.
 
-Namun setelah lampu dikecilkan, suara mereka terdengar dari balik dinding. Pengemis kurus menuntut pelajaran ilmu pengendali pikiran. Kawannya, yang dipanggil Tetua Peng, menjanjikannya sesudah memperoleh kedudukan dari pihak Mongol.
+Ia mengenali lelaki bertudung itu sebelum tamunya duduk. Di Quanzhen, suara yang sama pernah berteriak hendak menuntut balas sambil meninggalkan gurunya.
 
-“Janji itu sudah terlalu lama,” bisik si kurus. “Atau semua jasamu harus lebih dahulu kudatangi dan kuceritakan kepada orang yang kaukhianati?”
+Huodu belum mengenali wajah di balik abu. Dani meletakkan kayu dekat api, lalu kembali ke bilik. Xiaolongnü melihat perubahan pada matanya dan meraih pergelangan tangan kirinya.
 
-Peng tertawa pelan. “Tidurlah dahulu. Orang yang kurang tidur mudah salah menimbang nyawanya.”
+“Jangan tinggalkan aku di sini,” bisiknya.
 
-Belum lama kemudian, si kurus merayap mendekati Peng dengan pisau. Dani bangkit tanpa suara. Tangan kirinya menangkap pergelangan itu, dua totokan menyusul, dan tubuh pengemis tersebut menjadi kaku. Dani membawanya keluar sebelum senjata jatuh membangunkan Polu.
+Dani mengangguk. “Aku hanya hendak mendengar apa yang dibawanya ke gunung ini.”
 
-Ia mendudukkan orang itu di dekat gundukan salju, menutup tubuhnya dengan salju longgar, lalu membentuk bahu dan kepala di luarnya. Wajah pengemis masih memperoleh udara melalui celah kecil. Dani bermaksud memberinya ketakutan sebelum melepaskannya; ia belum mengetahui betapa mahal harga kejahilan itu.
+Dari balik dinding terdengar Huodu memanggil kawannya, “He Shiwo.” Pembicaraan mereka yang semula lirih mulai meninggi. Huodu hendak memakai orang itu untuk membantu merusak Klan Pengemis dari dalam; He Shiwo menolak menerima perintah lebih jauh.
 
-Denting besi terdengar dari jalan.
+“Aku sudah cukup banyak membantu,” kata pengemis itu. “Carilah orang lain kalau engkau ingin seluruh klan menjadi musuhmu.”
 
-Dua biksu muncul di antara pepohonan. Yang pertama berwajah tenang, alis putihnya panjang. Biksu di belakangnya bertubuh tegap; belenggu menghubungkan kedua pergelangan tangan serta kakinya. Ia dapat berjalan, tetapi setiap langkah menyeret bunyi rantai.
+“Engkau mengira dapat mundur sesuka hati?”
 
-“Maaf mengganggu tempat berteduh kalian,” kata biksu beralis putih. “Aku dipanggil Yideng. Muridku ini bernama Ci’en.”
+He Shiwo bangkit dan membuka pintu. Huodu menyusul, masih berbicara dengan suara rendah yang tajam. Langkah keduanya menjauh ke jalan. Dani menunggu, kemudian keluar melalui sisi pondok. Ia tidak ingin mereka kembali bertengkar di sebelah tempat tidur Long’er.
 
-Dani membungkuk. Nama Yideng membuatnya teringat para tetua yang dibicarakan Guo Jing. Ia hendak memohon pertolongan ketika mata Peng melebar memandang biksu yang terbelenggu.
+Yang pulang lebih dahulu ternyata He Shiwo. Pengemis itu menoleh ke jalan, memastikan tidak diikuti. Dani muncul di belakangnya dan menotok dada serta pinggangnya sebelum ia sempat berseru. Tubuhnya kaku, tetapi matanya masih dapat bergerak.
 
-“Qiu Qianren… Tapak Besi Mengapung di Air,” gumam Peng.
+“Tadi engkau begitu ingin pergi,” kata Dani. “Sekarang berdirilah dengan tenang sebentar.”
 
-“Nama muridku sekarang Ci’en,” kata Yideng. “Belenggu itu dipasangnya sendiri untuk menahan dorongan yang masih mengganggunya.”
+Melihat salju yang menumpuk pada tunggul, kejahilan lamanya timbul. Ia menyandarkan He Shiwo, lalu mulai menimbun tubuh itu dengan salju longgar. Xiaolongnü keluar setelah memastikan Polu tertidur. Mula-mula ia mengira Dani sedang membetulkan gundukan mereka; ketika melihat mata orang itu, ia memandang suaminya dengan heran.
 
-Peng berlutut menyambut kedua pendatang. Dani mengingat nama keluarga penguasa Lembah Tanpa Cinta. Ia belum sempat menanyakan hubungan mereka; Peng sudah menggeser tempat duduknya mendekati Ci’en.
+“Engkau membuat orang menjadi manusia salju?”
 
-Pandangan Ci’en tertahan pada manusia salju. Tangannya gemetar. Peng mendekat, berbicara dengan suara rendah yang berulang-ulang, sementara matanya tidak lepas dari wajah biksu itu.
+“Kalau ia tidak membawa urusan Huodu ke rumah orang, tentu ia masih duduk dekat api.”
 
-“Hanya salju, Tetua. Benda mati tidak mengenal sakit. Kalau tangan itu ingin bergerak, mengapa harus ditahan?”
+Xiaolongnü membantu merapikan salju di bahunya, lalu menyentuh lengan Dani. “Nanti lepaskanlah. Jangan sampai ia mati kedinginan.”
 
-Yideng berpaling. “Ci’en, dengarkan aku.”
+“Sebentar saja, Long’er.”
 
-Telapak Ci’en lebih dahulu menghantam.
+Dani menyisakan celah di depan hidungnya. Ia menganggap beberapa saat ketakutan cukup menjadi hukuman; tidak terbayang olehnya bahwa orang yang ditotoknya akan segera memerlukan kaki untuk melarikan diri. Saat langkah Huodu kembali terdengar, keduanya masuk ke bilik dan menutup pintu.
 
-Salju meledak. Sosok yang tersembunyi di dalamnya terpental ke batang pohon, lalu jatuh tanpa bergerak. Darah mengalir dari mulutnya ke permukaan putih. Dani melompat mendekat, tetapi denyut yang dicarinya sudah lenyap.
+Huodu memeriksa tempat dekat api. He Shiwo tidak ada. Dani sudah bersiap keluar untuk menotok tamu kedua ketika suara seorang tua terdengar dari jalan.
 
-*Akulah yang meletakkannya di sana.*
+“Amitabha. Bolehkah dua orang yang kemalaman berteduh di sini?”
 
-“Pandang aku, Ci’en!” Suara Yideng menembus bisikan Peng. “Kembalilah kepada kesadaranmu.”
+Seorang biksu beralis putih tiba bersama muridnya. Biksu kedua mengikuti bunyi langkah sang guru, kepalanya sedikit miring. Dani mengurungkan serangan dan membuka pintu. Ia belum mengetahui siapa kedua orang itu, tetapi tidak hendak menjadikan kedatangan mereka kesempatan untuk menyergap dari belakang.
 
-Ci’en menatap kedua telapaknya. “Aku membunuh lagi, Shifu. Bertahun-tahun aku menjaga tangan ini. Mengapa ia masih mengingat jalan yang sama?”
+“Aku dipanggil Yideng,” kata biksu tua itu. “Muridku ini bernama Ci’en.”
 
-“Orang itu menyesatkan pikiranmu,” ujar Yideng. “Tetapi dorongan yang disambutnya masih harus engkau hadapi. Belenggu hanya menahan tubuh.”
+Nama tersebut membuat Dani membungkuk lebih dalam. Ia pernah mendengarnya dari keluarga Guo. Sebelum ia dapat meminta pertolongan, Ci’en mendadak mengepalkan tangan dan mengatur napas dengan susah payah.
 
-Peng beringsut menuju jalan. Ci’en melihat gerak itu. Wajahnya berubah; penyesalan yang sesaat melumpuhkannya pecah menjadi amarah. Ia merentangkan tangan dan menjejak kuat; rantai di pergelangan tangan serta kakinya putus dengan letupan tajam.
+“Shifu, keinginan itu datang lagi.”
 
-“Engkau menjadikan pertobatanku permainan!”
+Yideng menyentuh bahunya. “Duduklah. Dengarkan suaraku.”
 
-Peng baru sempat membuka mulut. Ci’en menerjang dan menghantam dadanya. Tubuh gemuk itu terempas ke salju; kali ini Dani bahkan tidak sempat mencapai jarak untuk menolong.
+Ci’en mengambil belenggu dari bawaannya dan memasangnya pada tangan serta kaki. Bunyi besi mengisi pondok. Dani mendekat hendak membantu, tetapi Yideng memberi isyarat agar menyediakan ruang.
 
-Yideng melangkah di antara muridnya dan mayat Peng. Ci’en berbalik kepadanya, napasnya memburu.
+“Penglihatannya telah hilang,” kata Yideng pelan. “Ia mengenali tempat dari suara. Biarkan ia mengetahui di mana kita duduk.”
 
-“Shifu menyuruhku mengendalikan diri, tetapi orang-orang ini selalu datang membawa pisau. Haruskah aku menunggu mereka menikamku agar menjadi orang baik?”
+Huodu memperhatikan tangan biksu yang gemetar. “Bukankah Tetua dahulu dikenal sebagai Qiu Qianren, Tapak Besi Mengapung di Air?”
 
-“Engkau sedang menyerang orang yang tidak lagi dapat melawan.”
+“Nama itu milik kehidupan yang hendak kutinggalkan.” Ci’en menunduk. “Jangan mengingatkanku kepada orang-orang yang telah kubunuh.”
 
-“Kalau begitu, hukumlah aku!”
+Yideng menuntun muridnya mengulang doa. Untuk beberapa saat genggaman Ci’en mengendur. Dani kembali ke bilik mengambil Xuantie dan memberi tahu Long’er bahwa Yideng ada di luar. Ia ingin meminta pertolongan segera setelah murid biksu itu tenang.
 
-Telapak Besi menyambar. Yideng menerima pukulan itu tanpa membalas. Tubuhnya terhuyung; darah membasahi janggut putihnya. Ci’en mengangkat tangan lagi, seakan setiap pukulan akan membungkam suara yang tidak tahan didengarnya dari dalam diri sendiri.
+Huodu berjalan ke ambang. Di dekat tunggul ia melihat mata yang dikenalnya pada celah salju. He Shiwo berusaha berseru; totokan menahan suara di tenggorokannya. Huodu berhenti, lalu melirik Ci’en. Ketakutan pengemis itu bertambah ketika bekas kawannya justru tersenyum.
+
+“Tetua tidak perlu melukai siapa pun untuk meredakan tenaga di tangan,” ujar Huodu. “Di luar ada manusia salju. Pukullah benda itu; tak seorang pun akan menanggung sakit.”
+
+Ci’en mengangkat kepala. “Hanya salju?”
+
+“Hanya salju. Bayangkan musuh yang paling ingin Tetua hancurkan berdiri di sana. Setelah dihantam, semuanya kembali menjadi air.”
+
+Yideng membuka mata. “Ci’en, jangan pelihara niat membunuh sekalipun yang kauhadapi benda mati.”
+
+Huodu telah berpindah ke samping tunggul. Ia mengetuk permukaan salju, memberi arah kepada orang yang tidak dapat melihatnya. “Di sini. Satu pukulan saja.”
+
+Dalam pikiran Ci’en, nama-nama lama bangkit bersama suara itu. Ia tahu gurunya menyuruh berhenti, tetapi musuh yang dibangkitkan dalam bayangannya terasa lebih dekat daripada nasihat yang bertahun-tahun diulangnya. Tangan terangkat; belenggu berderak menahan jarak kedua pergelangan.
+
+Dari bilik Dani mendengar ajakan terakhir Huodu. Ia berbalik begitu keras hingga bahunya membentur kusen.
+
+“Jangan pukul! Ada orang—”
+
+Telapak Besi telah menghantam. Salju pecah di sekitar tubuh He Shiwo. Jerit pendek keluar ketika pukulan itu sekaligus membuyarkan totokannya; sesudah itu tubuhnya jatuh dan tidak bergerak lagi.
+
+Ci’en menarik tangan seperti menyentuh api. “Shifu… ada orang di dalamnya?”
+
+Yideng berlutut di sisi korban. Dani menyusul, meraba nadi yang sudah hilang. Beberapa saat sebelumnya mata He Shiwo masih bergerak mengikuti Huodu. Sekarang salju yang mencair pada pipinya tidak membuat kelopak itu berkedip.
+
+“Engkau mengetahuinya,” kata Dani kepada Huodu. Suaranya pelan sekali. “Engkau berdiri di depannya.”
+
+Huodu mundur. Abu pada wajah Dani belum seluruhnya hilang, tetapi ia mengenali mata dan pedang di punggungnya. Tangannya bergerak ke kipas.
+
+“Aku tidak memukulnya.”
+
+Ci’en berbalik ke arah suara itu. “Engkau mengatakan tidak ada orang!”
+
+Rantai menegang, lalu putus. Huodu melompat sebelum pukulan pertama mencapainya. Telapak Ci’en menghancurkan tepi ambang; serpihan kayu melesat ke tempat Huodu baru berdiri. Ia berlari melalui sisi pondok dan menghilang di antara pepohonan tanpa menolong orang yang dibawanya sendiri.
+
+Dani hendak mengejar, tetapi amuk Ci’en sudah berpaling kepada orang-orang di dekatnya. Yideng berdiri di antara muridnya dan pintu bilik.
+
+“Cukup, Ci’en. Jangan tambah korban lagi.”
+
+“Shifu memintaku menjaga tangan ini. Aku menjaganya bertahun-tahun!” Suaranya pecah. “Satu dusta saja membuat semuanya sia-sia. Aku masih orang yang sama!”
+
+“Apa yang kaulakukan sesudah mendengar dusta itu tetap menjadi pilihanmu. Hentikanlah sekarang.”
+
+“Kalau tidak dapat berhenti, mengapa Shifu masih menghendaki murid seperti aku?”
+
+Telapak Besi menyambar. Yideng menerima pukulan itu tanpa membalas. Tubuhnya terhuyung dan darah membasahi janggut putihnya. Ci’en mendengar batuk gurunya; sesaat tangannya berhenti, kemudian bergerak lagi dengan kemarahan yang kini tidak lagi membedakan orang lain dari dirinya sendiri.
 
 ***
 
 Dani menoleh ke pintu. Xiaolongnü sudah berdiri dengan Polu dalam dekapan.
 
-“Bibi, berlindunglah di balik batu sebelah kiri!”
+“Long’er, berlindunglah di balik batu sebelah kiri!”
 
 Sesudah istrinya melewati sisi pondok, Dani menarik Xuantie. Bilah hitam masuk di antara kedua biksu. Benturannya dengan telapak Ci’en mengirimkan getaran sampai ke bahu kiri Dani; salju di sekitar kaki mereka tersapu membentuk lingkaran.
 
 “Kalau Tetua masih hendak memukul, hadapilah orang yang akan menangkis.”
 
-Ci’en menatap pedang itu, kemudian wajah yang masih berlumur abu. “Seorang tua cacat hendak mengajariku?”
+Ci’en mendengar dengung bilah berat dan langkah yang bergeser di atas salju. “Minggir! Ini urusanku dengan guruku!”
 
-Dani tersenyum tipis. “Umurku memang belum panjang. Karena itulah aku belum ingin menghabiskannya dengan melihat guru dipukuli murid sendiri.”
+Dani tersenyum tipis. “Kalau itu urusan guru dan murid, seharusnya Tetua lebih malu memaksaku ikut campur.”
 
 Ci’en menyerang dari bawah. Dani menurunkan bidang Xuantie; pukulan kedua menyusul pada sisi yang ditinggalkan bilah. Ia memutar pinggang dan melangkah serong. Telapak lawan menghantam batu di belakangnya, memecah permukaannya menjadi serpihan sebesar kepalan.
 
@@ -112,21 +156,29 @@ Dani membalas dengan satu dorongan lurus. Ci’en menekan sisi pedang dengan ked
 
 Ci’en meraung. Ia melepaskan tekanan, menyelinap ke samping, lalu menghantam tiang pondok ketika Dani berkelit. Kayu penyangga patah. Atap miring, menjatuhkan hujan salju dan pecahan genting.
 
-Yideng mencapai tempat Xiaolongnü berlindung dan mengalihkan balok yang meluncur ke arah mereka. Polu menangis. Suara bayi itu membuat Dani menoleh sesaat; ujung telapak Ci’en menyambar lehernya. Dani merunduk, lalu menjejak tanah begitu keras hingga salju terlempar ke wajah lawan.
+Yideng mencapai tempat Xiaolongnü berlindung dan mengalihkan balok yang meluncur ke arah mereka. Polu menangis. Ci’en memutar tubuh mengikuti suara itu; Dani segera bergeser, menutup jalannya dengan bidang Xuantie.
 
-Pandangan Ci’en tertutup sekejap. Ketika ia mengibaskan kepala, bidang ujung Xuantie sudah menekan dadanya. Satu dorongan lagi dapat meremukkan tulang di balik jubah cokelat itu.
+“Orang yang menipumu sudah lari!” seru Dani. “Mengapa Tetua justru memukul orang yang tetap tinggal untuk menolongmu?”
+
+Ci’en menyerang ke arah suaranya. Dani menahan dan mundur setapak ke tanah terbuka, menjauhkan benturan dari istri serta bayi itu.
+
+Telapak Ci’en menyambar leher Dani. Dani merunduk dan menahan pukulan berikutnya dengan bidang Xuantie. Ia berhenti berusaha mengimbangi setiap serangan. Pedang berat memerlukan ruang, sedangkan rantai yang telah putus memungkinkan Ci’en merapat lebih cepat.
+
+Pada desakan berikutnya Dani mundur dua langkah ke tanah terbuka. Ci’en mengejar suara pijakannya. Ketika telapak lawan bergerak mencari bilah, Dani menurunkan ujung Xuantie lalu mendorong dari bawah. Tumitnya menancap pada tanah beku. Dorongan itu mengangkat kedua lengan Ci’en keluar dari garis dada dan membuat tumpuannya terputus sesaat.
+
+Bidang ujung Xuantie berhenti menekan dada biksu tersebut. Lengan kiri Dani gemetar; ia tahu kesempatan ini hanya berlangsung satu tarikan napas.
 
 “Anak muda, cukup.”
 
 Jari Yideng menyentuh sisi bilah, mengalihkannya sedikit. Dani merasakan tenaga yang sangat terpusat merambat melalui besi. Ia menahan dorongannya, kemudian menarik pedang.
 
-Ci’en berdiri mematung. Di belakang Yideng, Xiaolongnü sedang menenangkan Polu. Matanya berpindah dari bayi itu kepada darah pada janggut gurunya. Kedua lututnya jatuh ke salju.
+Ci’en berdiri mematung. Dari belakang Yideng terdengar Xiaolongnü menenangkan Polu. Tangis bayi itu berangsur mengecil; batuk gurunya belum berhenti. Ci’en mengulurkan tangan dan menyentuh lengan Yideng, lalu merasakan jubah yang basah oleh darah. Kedua lututnya jatuh ke salju.
 
 “Aku telah memukul Shifu.”
 
 Yideng berjongkok dengan susah payah. “Sekarang engkau menyadarinya. Jangan berpaling dari kesadaran itu hanya karena terasa menyakitkan.”
 
-Dani menyimpan Xuantie. Ia memandang kedua pengemis yang tewas, lalu menundukkan kepala.
+Dani menyimpan Xuantie. Ia memandang He Shiwo yang terbaring, lalu menundukkan kepala.
 
 “Orang dalam salju itu kutotok dan kusembunyikan. Aku menganggapnya hukuman yang lucu.”
 
@@ -136,13 +188,13 @@ Dani tidak membela diri.
 
 ***
 
-Mereka memindahkan alas Polu ke bagian pondok yang masih beratap. Setelah menguburkan kedua pengemis, Ci’en duduk di luar, jauh dari api. Yideng membersihkan darahnya sendiri, kemudian meminta izin memeriksa Xiaolongnü.
+Mereka memindahkan alas Polu ke bagian pondok yang masih beratap. Setelah menguburkan He Shiwo, Ci’en duduk di luar, jauh dari api. Yideng membersihkan darahnya sendiri, kemudian meminta izin memeriksa Xiaolongnü.
 
 Dani menceritakan luka Quanzhen, racun telapak Li Mochou, serta dua jarum yang memutus pengobatan. Ia tidak meninggalkan satu kejadian pun hanya karena malu atas kegagalannya.
 
 Yideng menempelkan jari pada pergelangan Xiaolongnü. Makin lama ia memeriksa, makin sunyi pondok itu.
 
-“Dapatkah Bibi disembuhkan?” tanya Dani.
+“Dapatkah istri saya disembuhkan?” tanya Dani.
 
 “Ada kerusakan yang tidak dapat kuatasi hanya dengan menyalurkan tenaga. Keadaanku sendiri juga tidak memungkinkan aku menahan penyebarannya selama yang diperlukan.”
 
@@ -156,9 +208,19 @@ Dani melirik darah di jubah biksu itu. Sebelum penyesalan sempat menjadi permoho
 
 Xiaolongnü menerima obat itu. “Kalau aku dapat berjalan, ia tidak perlu selalu menggendongku.”
 
-Dani memandangnya. “Bibi tidak memberatkan aku.”
+Dani memandangnya. “Long’er tidak memberatkan aku.”
 
 “Aku tahu. Tetapi aku ingin engkau mempunyai kesempatan berjalan di sampingku.”
+
+Xiaolongnü menatap obat di telapak tangan. Tujuh hari dahulu terdengar begitu panjang ketika mereka berlatih di makam: ada waktu mengulang jurus yang salah, waktu menunggu lebah pulang, waktu merajuk karena Dani sengaja membuatnya bingung. Sekarang ia menghitung pagi yang dapat dilihatnya dan kehilangan keberanian sebelum mencapai hitungan terakhir.
+
+“Biksu,” tanyanya, “kalau tabib itu belum dapat ditemukan dalam tujuh hari, apakah aku akan mengetahui saat obat ini mulai habis khasiatnya?”
+
+Yideng tidak berpura-pura memahami sesuatu yang belum dapat dipastikannya. “Tenagamu dapat kembali melemah. Jangan menyembunyikan perubahan itu dariku ataupun suamimu.”
+
+Xiaolongnü mengangguk. Ketika Dani menatapnya, ia memegang tangannya lebih erat. “Aku bertanya supaya kita dapat meminta pertolongan tepat waktu. Aku ingin hidup, Dani.”
+
+“Aku tahu, Long’er.” Ia hampir tidak dapat mengucapkan namanya. “Besok kita berangkat sepagi mungkin.”
 
 Yideng menutup wadahnya. Ia tidak menyela ketika Dani meraih tangan istrinya.
 
@@ -184,7 +246,7 @@ Di ujung tanjakan, Zhou menurunkan Xiaolongnü. Dani menyusul tanpa memaksa lari
 
 “Jadi engkau sungguh hidup!” Zhou memandang lengan baju kanan yang kosong. “Muridku mengatakan banyak hal di Quanzhen. Mulut Qiu Chuji bahkan lebih panjang daripada biasanya.”
 
-“Dan Bibi telah menolongku tetap hidup,” jawab Dani. “Termasuk dengan pelajaran Tetua.”
+“Dan Long’er telah menolongku tetap hidup,” jawab Dani. “Termasuk dengan pelajaran Tetua.”
 
 Zhou hendak membanggakan ilmunya ketika melihat Yideng datang di kejauhan. Senyum di wajahnya mendadak kaku.
 
@@ -322,7 +384,7 @@ Qiu Qianchi menunggu di kursinya. Cahaya dari pintu menyentuh kepala yang hampir
 
 Pandangan Qiu melewati Xiaolongnü, lalu terpaku pada Huang Rong. Kebencian mengeras pada wajahnya. Dani bergerak sedikit ke samping, memberi ruang bagi biksu yang berdiri di belakang Yideng.
 
-Ci’en tidak ikut maju. Sejak memasuki aula, ia terus memandangi perempuan dalam kursi itu. Nama pertapa yang disandangnya bertahun-tahun seakan tidak mempunyai tempat di antara mereka.
+Ci’en tidak ikut maju. Sejak mendengar suara perempuan di dalam aula, kepalanya terus miring ke arah kursi. Tahun-tahun telah mengubah suara itu, tetapi cara ia menahan amarah pada ujung kalimat masih dikenalnya. Nama pertapa yang disandangnya seakan tidak mempunyai tempat di antara mereka.
 
 “Adik ketiga?”
 
@@ -330,14 +392,20 @@ Qiu Qianchi menatapnya. Bibirnya terbuka; kemarahan yang sudah siap diucapkan te
 
 “Kakak kedua…”
 
-Ci’en melangkah mendekat. Qiu mencoba mengangkat tangan yang lumpuh, lalu membiarkannya jatuh kembali. Untuk sesaat tidak seorang pun berbicara.
+Ci’en melangkah mendekat mengikuti suara adiknya. Qiu mencoba mengangkat tangan yang lumpuh. Melihat tatapan kakaknya tidak mengikuti gerak itu, bibirnya bergetar.
+
+“Kakak tidak dapat melihatku?”
+
+“Tidak.” Ci’en berjongkok dan mencari tepi kursi dengan jemari. “Tetapi aku mendengar suaramu.”
+
+Lü’e membimbing tangannya mendekati tangan ibunya. Ci’en menyentuh pergelangan yang kurus dan tidak menyambut genggaman itu. Untuk sesaat tidak seorang pun berbicara.
 
 Dani berdiri di samping Xiaolongnü, menggenggam jemarinya dengan tangan kiri. Mereka sudah sampai. Di hadapan mereka, keluarga yang lama tercerai akhirnya saling mengenali; di belakang harapan itu, tinggal satu hari yang tidak berani ia sia-siakan.
 
 ---
 
-- Dani 19 tahun, Xiaolongnü 21 tahun; telah menikah. Lengan kanan Dani tetap terputus di atas siku; Xuantie dan tindakan penyelamatan memakai kiri.
-- Ci’en/Qiu Qianren dapat melihat; gelap mata akibat amarah. Peng serta pengemis kurus tewas dalam insiden salju. Huodu tidak terlibat.
+- Dani 19 tahun, Xiaolongnü 21 tahun; telah menikah; Dani memanggil istrinya Long’er. Lengan kanan Dani tetap terputus di atas siku; Xuantie dan tindakan penyelamatan memakai kiri.
+- Acuan manusia salju ialah serial 2014: He Shiwo ditotok Dani dan ditimbun salju bersama Long’er; Huodu menghasut Ci’en menghantamnya, lalu melarikan diri. He Shiwo tewas. Ci’en tetap buta sesuai lore; ia mengenali arah melalui suara. Tetua Peng tidak dicampurkan ke adegan versi serial ini.
 - Yideng terluka ketika menerima serangan muridnya. Obat Xiaolongnü hanya menahan keadaan tujuh hari; rombongan mencapai lembah pada hari keenam.
 - Polu tetap bayi sekitar dua bulan dan dikembalikan kepada Huang Rong. Xiang bukan bayi. Zhou hadir di perjalanan tanpa menjadi saksi pernikahan Bab 19.
 - Dani kembali terkena racun Bunga Cinta saat menyelamatkan Cheng Ying–Wushuang. Hong Lingbo tewas; Li Mochou keracunan tetapi tetap hidup. Dani tetap tingkat 4, belum menciptakan Tapak Melankolis.

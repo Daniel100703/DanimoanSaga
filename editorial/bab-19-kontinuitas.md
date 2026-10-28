@@ -1,5 +1,7 @@
 # Bab 19 — Di Hadapan Langit dan Leluhur
 
+**Pembaruan 28 Oktober 2026:** naskah Bab 18–21 telah direvisi. Koreksi terbaru dan alasan adaptasi ada di [catatan revisi](https://daniel100703.github.io/DanimoanSaga/editorial/revisi-bab-18-21-2026-10-28.md); pegangan terkini ada di `pegangan-chat-berikutnya.md`. Ketentuan lama yang bertentangan tidak berlaku.
+
 Naskah lengkap diminta penulis 16 Oktober 2026 setelah peta dan penutup dikoreksi. 3.111 kata cerita, 137 paragraf, satu pembuka dan dua ilustrasi adegan. Bab berakhir di dalam ruang tinggal Makam Kuno, bukan pada kematian Zhao atau perjalanan pulang.
 
 - Dani dan Xiaolongnü menikah di dalam aula leluhur Quanzhen yang tertutup, di depan lukisan Wang Chongyang. Sun Bu’er ditotok dan disandera, diselamatkan dari bibir lonceng oleh Dani, lalu dibebaskan ketika Zhou datang. Tidak ada restu serentak dari Quanzhen.

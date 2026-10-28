@@ -1,6 +1,6 @@
 {
   "title": "Saga Dani Moan",
-  "description": "Novel wuxia berilustrasi karya Daniel Halomoan Siregar. Bab 1–21, dengan Wiki Persilatan yang mengikuti cerita.",
+  "description": "Fanfiksi wuxia berilustrasi karya Daniel Halomoan Siregar, terinspirasi The Return of the Condor Heroes dengan lore Saga Dani Moan. Bab 1–21.",
   "chapters": [
     {
       "id": 1,
@@ -1702,17 +1702,12 @@
         {
           "name": "Ci’en",
           "age": "Tetua",
-          "description": "Murid Yideng yang bergulat dengan amarahnya."
+          "description": "Murid Yideng yang buta dan bergulat dengan amarahnya."
         },
         {
-          "name": "Tetua Peng",
-          "age": "Dewasa; usia belum disebut",
-          "description": "Pengemis yang memakai ilmu pengendali pikiran."
-        },
-        {
-          "name": "Pengemis kurus",
-          "age": "Dewasa; usia belum disebut",
-          "description": "Rekan Peng yang menuntut janji pelajaran ilmu."
+          "name": "He Shiwo",
+          "age": "Dewasa; usia tepat belum disebut",
+          "description": "Pengemis yang menolak perintah Huodu dan terperangkap dalam manusia salju."
         }
       ]
     }
