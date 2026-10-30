@@ -1,18 +1,16 @@
-# Saga Dani Moan — Bab 1–21
+# Saga Dani Moan — Bab 1–22
 
-Novel wuxia berilustrasi karya Daniel Halomoan Siregar.
+Fanfiksi wuxia berilustrasi karya Daniel Halomoan Siregar, terinspirasi The Return of the Condor Heroes karya Jin Yong dan serial 2014, dengan lore Saga tersendiri.
 
-**Baca langsung:** https://daniel100703.github.io/DanimoanSaga/
+**Baca:** https://daniel100703.github.io/DanimoanSaga/
 
-## Publikasi terbaru — 19 Oktober 2026
+## Pembaruan 29 Oktober 2026
 
-**Bab 21 — [Tujuh Hari](https://daniel100703.github.io/DanimoanSaga/bab-21.html)** terbit dengan 2.886 kata, 160 paragraf, dan tiga ilustrasi. Cerita berlanjut dari pondok bersalju, amuk Ci’en dan obat Yideng, perjalanan ke lembah, penyelamatan kedua sepupu serta kematian Hong Lingbo, sampai pertemuan rombongan dengan Qiu Qianchi di dalam aula. [Naskah Bab 21](bab-21.md) · [Peta yang telah diadaptasi](https://daniel100703.github.io/DanimoanSaga/peta-bab-21.html).
+[Bab 20](https://daniel100703.github.io/DanimoanSaga/bab-20.html) dan [Bab 21](https://daniel100703.github.io/DanimoanSaga/bab-21.html) diperbaiki mengikuti koreksi penulis: sasaran jarum, amarah Dani, pengkhianatan sebelum manusia salju, kemenangan atas Ci’en, perkenalan Si Bodoh, serta pengepungan Li dan nasib Hong. Dua ilustrasi lama diganti dengan versi yang sesuai.
 
-[Wiki Persilatan](https://daniel100703.github.io/DanimoanSaga/wiki.html) diperbarui sampai akhir Bab 21 dengan 63 tahap informasi baru. Dani tetap tingkat 4; keadaan luka, racun, kemampuan, hubungan dan potret mengikuti paragraf. Ci’en dapat melihat dan gelap mata akibat amarah. Polu telah kembali kepada Huang Rong; Hong tewas, sedangkan Li Mochou masih hidup dan keracunan.
+[Bab 22 — Janji di Tebing Patah Hati](https://daniel100703.github.io/DanimoanSaga/bab-22.html) menuntaskan kunjungan lembah sampai perpisahan dan awal penantian tujuh tahun, dengan enam ilustrasi. [Peta yang telah diadaptasi](https://daniel100703.github.io/DanimoanSaga/peta-bab-22.html) · [Pegangan kelanjutan](editorial/pegangan-chat-berikutnya.md) · [Koreksi dan rujukan kanon](editorial/koreksi-kanon-2026-10-29.md).
 
-[Kontinuitas Bab 21](editorial/bab-21-kontinuitas.md) · [Arahan ilustrasi](editorial/bab-21-visual.md). Publikasi bab dan revisi mengikuti izin unggah tetap dari penulis. Kelanjutan pertemuan di aula menjadi bagian Bab 22; belum ditulis.
-
-[Bab 20 — Racun di Rumah Mereka](https://daniel100703.github.io/DanimoanSaga/bab-20.html) serta revisi Bab 18–19 tetap tersedia, termasuk koreksi pengetahuan Xiaolongnü, posisi duel, dan pernikahan di dalam aula Quanzhen.
+Wiki dan posisi baca disesuaikan dengan paragraf baru. Kanon diperiksa dahulu, kemudian dicocokkan dengan lore; dialog merupakan adaptasi dengan kalimat baru, bukan transkrip resmi. Publikasi mengikuti izin unggah tetap penulis.
 
 ## Edisi revisi Bab 1–10
 

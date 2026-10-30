@@ -1,6 +1,6 @@
 {
   "title": "Saga Dani Moan",
-  "description": "Fanfiksi wuxia berilustrasi karya Daniel Halomoan Siregar, terinspirasi The Return of the Condor Heroes dengan lore Saga Dani Moan. Bab 1–21.",
+  "description": "Fanfiksi wuxia berilustrasi karya Daniel Halomoan Siregar, terinspirasi The Return of the Condor Heroes dengan lore Saga Dani Moan. Bab 1–22.",
   "chapters": [
     {
       "id": 1,
@@ -1630,15 +1630,15 @@
       },
       "plates": [
         {
-          "anchor": "Xiaolongnü menyentuh rambutnya. “Aku mengetahui engkau telah berusaha. Tetapi kakimu juga terluka. Jangan membuatku harus mencemaskan dua hal sekaligus.”",
+          "anchor": "“Jangan menangis,” ujar Xiaolongnü.",
           "image": {
-            "file": "bab-20-ilustrasi-01.webp",
+            "file": "bab-20-ilustrasi-01-v2.webp",
             "width": 1536,
             "height": 1024,
-            "version": "312d27208614"
+            "version": "391d40c23ffa"
           },
-          "alt": "Dani berlutut di sisi peti batu; Xiaolongnü menyentuh rambutnya sambil menawarkan penawar. Guo Fu berdiri beberapa langkah dari mereka.",
-          "caption": "Harapan yang hampir tercapai patah ketika dua jarum mengacaukan pengobatan."
+          "alt": "Xiaolongnü yang terluka menyentuh rambut Dani ketika ia menangis di sisi peti; Fu berdiri di belakang mereka.",
+          "caption": "Hanya Long’er terkena jarum; pengobatan yang hampir berhasil telah terputus."
         },
         {
           "anchor": "Fu memandangnya tanpa mampu mengangkat kepala lebih jauh. Dani menjejakkan kaki di tanah yang telah hangus, menurunkan Xuantie mendatar, lalu menyelipkan bidang lebar pedang di bawah pinggangnya. Dengan satu ungkitan kuat ia melontarkan tubuh Fu melewati lidah api menuju aliran air yang memisahkan kedua sisi hutan.",
@@ -1671,18 +1671,18 @@
       },
       "plates": [
         {
-          "anchor": "Ci’en meraung. Ia melepaskan tekanan, menyelinap ke samping, lalu menghantam tiang pondok ketika Dani berkelit. Kayu penyangga patah. Atap miring, menjatuhkan hujan salju dan pecahan genting.",
+          "anchor": "Dani berdiri tegap dengan tangan kiri",
           "image": {
-            "file": "bab-21-ilustrasi-01.webp",
+            "file": "bab-21-ilustrasi-01-v2.webp",
             "width": 1536,
             "height": 1024,
-            "version": "81690f1ca1ce"
+            "version": "b4100b8928e7"
           },
-          "alt": "Dani mengayunkan Xuantie yang lebar dengan tangan kiri menghadapi Ci’en di salju. Yideng berdiri di belakang; Xiaolongnü dan Polu telah berlindung.",
-          "caption": "Xuantie menghadapi amarah yang tak sanggup ditahan belenggu."
+          "alt": "Dani menahan Xuantie dengan tangan kiri di hadapan Ci’en yang telah kalah. Yideng duduk terluka di belakang.",
+          "caption": "Ci’en mengakui kekalahan; Yideng masih terlalu lemah untuk bangkit."
         },
         {
-          "anchor": "Dani merapikan kain itu. “Lukanya sudah menutup.”",
+          "anchor": "Ia tetap menyelesaikan lompatan dan menurunkan Wushuang",
           "image": {
             "file": "bab-21-ilustrasi-02.webp",
             "width": 1536,
@@ -1707,7 +1707,87 @@
         {
           "name": "He Shiwo",
           "age": "Dewasa; usia tepat belum disebut",
-          "description": "Pengemis yang menolak perintah Huodu dan terperangkap dalam manusia salju."
+          "description": "Anggota Klan Pengemis yang bersekongkol dengan Huodu sebelum tertotok di dalam manusia salju."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "slug": "bab-22",
+      "han": "二十二",
+      "source": "bab-22.md",
+      "title": "Janji di Tebing Patah Hati",
+      "accent": "#66788b",
+      "description": "Di Lembah Tanpa Cinta, penawar ditukar dengan tuntutan dan pengorbanan. Dani dan Long’er menghadapi hari terakhir bersama sebelum sebuah janji membuka penantian tujuh tahun.",
+      "quote": "Kalau suatu hari engkau harus menunggu, tunggulah aku sambil tetap hidup.",
+      "cover": {
+        "file": "bab-22-pembuka.webp",
+        "width": 1024,
+        "height": 1536,
+        "version": "5f03c3686315"
+      },
+      "plates": [
+        {
+          "anchor": "Ketika genggamannya terlepas,",
+          "image": {
+            "file": "bab-22-ilustrasi-01.webp",
+            "width": 1536,
+            "height": 1024,
+            "version": "fc03ec34fb75"
+          },
+          "alt": "Dani dan Long’er menopang Lü’e yang telah kehilangan nyawa; Qiu menangis dan Gongsun membawa obat.",
+          "caption": "Lü’e tidak menuntut cintanya dibalas."
+        },
+        {
+          "anchor": "Goloknya terpukul menyamping.",
+          "image": {
+            "file": "bab-22-ilustrasi-02.webp",
+            "width": 1536,
+            "height": 1024,
+            "version": "9a85a42612c7"
+          },
+          "alt": "Dua pedang Long’er menaklukkan Gongsun di Tebing Patah Hati; Dani telah tiba di belakangnya.",
+          "caption": "Long’er merebut kesempatan hidup bagi suaminya."
+        },
+        {
+          "anchor": "“Kakak!”",
+          "image": {
+            "file": "bab-22-ilustrasi-03.webp",
+            "width": 1536,
+            "height": 1024,
+            "version": "626e5069011e"
+          },
+          "alt": "Long’er memanggil Li Mochou di antara api; Dani menahan istrinya dengan lengan kiri.",
+          "caption": "Panggilan terakhir kepada kakak seperguruan."
+        },
+        {
+          "anchor": "Dani menunduk dan mencium keningnya.",
+          "image": {
+            "file": "bab-22-ilustrasi-04.webp",
+            "width": 1536,
+            "height": 1024,
+            "version": "e25f1884cafa"
+          },
+          "alt": "Dani mencium kening Long’er pada malam terakhir mereka bersama.",
+          "caption": "Aku ingin menjadi istrimu lama sekali."
+        },
+        {
+          "anchor": "“Aku akan hidup, Long’er.",
+          "image": {
+            "file": "bab-22-ilustrasi-05.webp",
+            "width": 1536,
+            "height": 1024,
+            "version": "e97d21405827"
+          },
+          "alt": "Dani menyentuh pesan tujuh tahun di Tebing Patah Hati, dengan lengan kanan yang telah putus.",
+          "caption": "Penantian dimulai dengan memilih tetap hidup."
+        }
+      ],
+      "cast": [
+        {
+          "name": "Biksu Tianzhu",
+          "age": "Tetua",
+          "description": "Tabib yang mempertaruhkan dirinya untuk menemukan penawar racun Bunga Cinta."
         }
       ]
     }

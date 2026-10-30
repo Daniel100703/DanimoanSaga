@@ -142,11 +142,11 @@ Tangisan Polu terdengar samar melalui celah udara ruang kurungan. Kelima tawanan
 
 Di bilik kecil, Polu menangis di atas alas kering. Ada lampu, selimut, dan kendi susu di dekatnya. Fu mengangkat adiknya. Wu Santong memeriksa susu yang masih layak lalu membantu memberinya minum, sementara Yelü Qi mengawasi lorong.
 
-“Ia dipelihara dengan baik,” kata Yelü Qi. “Orang yang membawanya tentu ada di dekat sini.”
+“Ia dirawat dengan baik,” kata Yelü Qi. “Orang yang membawanya tentu ada di dekat sini.”
 
 Fu menunduk pada wajah Polu. Ia teringat jubah kelabu yang diceritakan ibunya, kemudian membuang pandangan ke pintu. “Kita harus menemukan jalan keluar sebelum perempuan iblis itu kembali.”
 
-Di ruang Ranjang Giok Dingin, mereka menemukan bekas perkelahian. Fu melihat jarum-jarum yang tercecer. Dengan saputangan tebal ia memungut dua batang, membungkus pangkalnya, lalu menyimpannya terpisah agar ujung beracun tidak menyentuh kulit.
+Di ruang Ranjang Giok Dingin, mereka menemukan bekas perkelahian. Fu melihat jarum-jarum yang tercecer. Dengan saputangan tebal ia memungut sebatang, membungkus pangkalnya, lalu menyelipkannya di balik lengan baju agar ujung beracun tidak menyentuh kulit.
 
 “Fu, untuk apa kaubawa?” tanya Wu Xiuwen.
 
@@ -162,61 +162,81 @@ Yelü Qi berhenti di depan tumpukan peti. Dari peti atas terdengar napas manusia
 
 Dani hendak menjawab, tetapi saat itulah aliran racun mencapai bagian paling sempit. Satu kata dapat memecahkan napas yang sedang ditahannya. Ia mengira mereka akan menunggu jawaban.
 
-Fu tidak menunggu. Polu diserahkannya kepada Wu Dunru. Ketika Yelü Qi baru menyentuh tutup peti, Fu mendorongnya lebih jauh dan melontarkan kedua jarum ke dalam kegelapan.
+Fu tidak menunggu. Polu diserahkannya kepada Wu Dunru. Ketika Yelü Qi baru menyentuh tutup peti, Fu mendorongnya lebih jauh dan melontarkan jarum yang dipungutnya ke dalam kegelapan.
 
 “Rasakan senjatamu sendiri!”
 
-Jarum pertama menancap di kaki kanan Dani. Jarum kedua mengenai bahu kiri Xiaolongnü. Rasa nyeri menyentak tubuh mereka; telapak terlepas. Racun yang hampir keluar berbalik menghantam aliran yang belum pulih. Xiaolongnü terkulai dengan darah mengalir di sudut bibir.
+Jarum itu menancap di bahu Xiaolongnü. Tubuhnya tersentak; telapak yang bertemu tangan Dani terlepas. Racun yang tinggal sedikit lagi terdorong keluar seketika berbalik, menerjang bagian dalam tubuh yang belum pulih. Darah membasahi bibirnya. Ia mencoba menyebut nama Dani, tetapi yang keluar hanya embusan napas pendek.
 
-Tutup peti terdorong jatuh. Dani mengangkat istrinya ke tepi peti, kemudian mencabut jarum dari bahunya. Barulah ia menarik jarum yang menancap di kakinya sendiri. Ketika ia menoleh, Fu mundur sampai punggungnya menyentuh dinding.
+Tutup peti terlempar. Dani bangkit dengan wajah yang membuat Fu kehilangan kata-kata. Ia segera mendudukkan Xiaolongnü di bibir peti dan mencabut jarum dari bahunya. Ujung perak itu berkilat di antara jemarinya. Ia tidak terluka oleh jarum; seluruh ketakutannya tertuju pada darah yang terus keluar dari mulut istrinya.
 
-“Aku mengira Li Mochou berada di dalam!”
+“Long’er, lihat aku. Jangan pejamkan matamu.”
 
-Dani memandangi jarum itu. “Engkau melempar sebelum melihat siapa yang hendak kaubunuh?”
+Xiaolongnü berusaha mengangkat kepala. “Aku masih mendengarmu.”
 
-“Aku tidak bermaksud melukainya. Mengapa kalian bersembunyi di tempat seperti itu?” Suara Fu meninggi karena takut. “Ibuku mempunyai obat. Lukanya hanya sebesar ujung jarum—”
+Dani meraba denyutnya. Sesaat lalu ia masih dapat mengikuti aliran racun menuju ujung jari; kini aliran itu pecah ke mana-mana. Ia menempelkan telapak ke punggung istrinya, mencoba menghimpunnya kembali. Xiaolongnü menggigil, lalu terbatuk sampai tubuhnya terlipat. Dani segera menarik tenaga. Memaksa lebih jauh hanya akan menambah kerusakan.
 
-“Diamlah!” Wu Santong membentak. “Apakah engkau masih tidak melihat keadaannya?”
+“Sedikit lagi,” bisiknya. “Tadi tinggal sedikit lagi.”
 
-Xiaolongnü mengeluarkan botol kecil dari bajunya. Ia mengenal racun Jarum Es serta penawar yang diwariskan perguruannya, tetapi Tapak Lima Racun merupakan olahan Li sendiri. Obat ini dapat melawan racun jarum; ia tidak dapat menarik kembali racun tapak yang sudah menyebar bersama aliran tenaga yang kacau.
+Fu menatap wajah mereka bergantian. “Aku mengira yang bersembunyi di dalam adalah Li Mochou. Kalau aku tahu kalian—”
 
-“Dani, makanlah dahulu,” katanya sambil menyodorkan sebutir obat.
+“Keluar!”
 
-Dani tidak menyambutnya. Ia berlutut di sisi peti, tangan kirinya mencengkeram bibir batu. Beberapa saat lalu ia masih merasakan racun bergerak menuju ujung jari istrinya. Kini denyut yang dirabanya kacau dan semakin lemah. Air mata jatuh ke punggung tangannya; ia tidak berusaha menyembunyikannya.
+Seruan Dani memantul di dinding batu. Kedua Wu tersentak. Fu melangkah mundur, tetapi ketakutan dan rasa malu segera membuatnya mencoba mempertahankan diri.
 
-“Sedikit lagi, Long’er,” ucapnya. “Tadi tinggal sedikit lagi.”
+“Jarumnya dapat diobati. Ibuku mengenal penawarnya. Aku tidak sengaja mengenai dia!”
 
-Xiaolongnü menyentuh rambutnya. “Aku mengetahui engkau telah berusaha. Tetapi kakimu juga terluka. Jangan membuatku harus mencemaskan dua hal sekaligus.”
+Dani berpaling. “Engkau mengira yang harus kuobati hanya lubang sebesar ujung jarum itu?”
 
-Dani akhirnya menelan obat itu. Xiaolongnü meminum bagiannya, lalu membiarkan suaminya membalut bahunya. Tidak seorang pun di ruangan tersebut berani menyela.
+Ia mengangkat tangan kirinya yang berlumur darah Xiaolongnü. Fu tidak lagi memandangnya; matanya jatuh pada noda merah tersebut.
 
-Wu Santong akhirnya maju setapak. “Saudara Dani, Nyonya Guo berada di luar. Ia mengenal racun perempuan itu. Biarkan kami membantu membawa istrimu kepadanya.”
+“Racunnya sudah hampir kukeluarkan. Engkau memutus pengobatan itu. Sekarang racun masuk ke nadi yang paling dalam. Bawalah semua penawar ibumu kemari—apakah itu dapat mengembalikan saat sebelum engkau melempar?”
 
-“Kalau hanya racun jarum, obatnya sudah diminum,” jawab Dani. “Racun tapaknya hampir dapat kukeluarkan. Sekarang semuanya berbalik masuk. Apakah Paman dapat menariknya dari titik-titik nadi yang sudah dirusaknya?”
+Yelü Qi maju dengan kedua tangan terbuka. “Saudara Dani, Nona Guo benar-benar tidak mengetahui—”
 
-Wu Santong terdiam. Dani pernah membaca petunjuk penawar dalam kitab Wushuang, tetapi mengenali racun tidak memberinya bahan obat, terlebih kemampuan memperbaiki kerusakan yang telah terjadi. Harapan yang tadi masih berada dalam jangkauan tangannya kini tidak dapat ditemukan lagi.
+“Karena tidak mengetahui, ia boleh melemparkan jarum beracun kepada siapa saja?”
 
-Xiaolongnü memandang Fu. Gadis itu terus memegang ujung bajunya, seolah masih mencari alasan yang dapat membatalkan apa yang telah terjadi.
+Yelü Qi terdiam. Dani berlutut lagi di hadapan istrinya. Xiaolongnü mengeluarkan penawar Jarum Es dari botol kecil di bajunya; ia menelan obat itu dengan bantuan Dani. Penawar warisan perguruan dapat menahan racun jarum. Namun racun Tapak Lima Racun yang tadi dihimpun untuk dikeluarkan telah menyebar kembali, bercampur luka dalam Quanzhen. Sebutir obat tidak dapat membalikkan akibat itu.
 
-“Ketika aku memintamu menjaga Dani, aku mengira ia akan aman,” kata Xiaolongnü. Suaranya lemah, tetapi Fu mendengarnya. “Sekarang lihatlah dia. Ia sedang berusaha menolongku. Jangan meminta kami menghiburmu karena engkau tidak sengaja.”
+“Jangan menangis,” ujar Xiaolongnü. Ia menyentuh rambut suaminya. Baru ketika jemarinya melewati pelipis, Dani mengetahui air matanya telah jatuh. “Dani, aku masih di sini.”
 
-Fu membuka mulut, lalu menutupnya lagi. Xiaolongnü tidak menunggu jawabannya. Ia menarik tangan Dani menjauhi bibir batu yang dicengkeramnya sampai memutih.
+“Aku sudah membawamu pulang,” katanya, suaranya nyaris hilang. “Di rumah kita sendiri pun aku tidak dapat melindungimu.”
 
-“Aku ingin bersama suamiku. Tolong tinggalkan ruangan ini.”
+Xiaolongnü menggeleng. Ia ingin menenangkannya, tetapi batuk kembali merampas napasnya. Dani menopang bahunya sampai tubuh itu berhenti gemetar. Di belakang mereka, Dunru mengembalikan Polu kepada Fu. Bayi itu mulai menangis dalam pelukan kakaknya.
 
-Fu menerima Polu kembali dari Wu Dunru. Tangis bayi itu membuatnya mencoba berbicara lagi. “Dani, aku sungguh tidak mengetahui—”
+Tangis itu membuat Dani berdiri.
 
-Dani berdiri. Ia membantu Xiaolongnü menjauh dan bersandar pada dinding, lalu mengambil Xuantie. Fu menutup muka ketika bilah hitam terangkat. Namun pedang jatuh ke peti kosong, menghancurkan bibirnya dengan bunyi yang memekakkan. Pukulan kedua membelah badan peti; beban yang ambruk meretakkan penutup kurungan Li di bawahnya.
+“Serahkan Polu.”
 
-“Lengan ini sudah kautebas,” kata Dani. “Sekarang engkau masih hendak mengambil apa dariku?”
+Fu mendekap adiknya lebih erat. “Ia adikku. Untuk apa engkau mengambilnya lagi?”
 
-Yelü Qi menahan Fu agar tidak maju. Wu Santong membungkuk kepada Dani, tetapi pemuda itu telah menyarungkan pedangnya. Ia mengambil Polu dari pelukan Fu, menyerahkannya kepada Xiaolongnü yang masih mampu mendekap bayi itu sambil duduk, kemudian mengangkat istrinya dengan lengan kiri. Berat mereka membuat napasnya tersengal; ia tetap melangkah tanpa meminta bantuan siapa pun.
+Dani melangkah. Fu mundur ke belakang Yelü Qi. Ketika pemuda itu mengangkat lengan untuk menghalangi, telapak Dani menghantam lengannya dan mendorongnya menjauh. Yelü Qi terhuyung; punggungnya membentur sisi peti. Kedua Wu segera masuk dari kiri dan kanan.
 
-“Saudara Dani, izinkan kami—” Yelü Qi berhenti ketika Dani memalingkan wajah.
+“Saudara Dani, jangan melukai Fu!” seru Dunru.
 
-“Jangan mendekatinya.”
+Dani menepis pergelangan Dunru, memutar badan, lalu menyikut Xiuwen yang hendak meraih bahunya. Kedua bersaudara itu terpental ke belakang. Gerak Dani singkat dan keras; mereka bahkan belum sempat membentuk serangan bersama. Wu Santong menyambut telapak berikutnya untuk melindungi anak-anaknya. Getaran benturan menjalar sampai ke bahunya, memaksanya mundur beberapa langkah.
 
-Mereka menyingkir dari jalan. Suara langkah Dani menghilang dalam lorong. Ketika Wu Santong hendak menyusul, batu penyangga melesat keluar dari peti yang retak. Ia menangkisnya dengan bahu sambil mendorong kedua putranya menjauh. Li Mochou melompat dari celah yang terbuka dan menyambar lampu. Dalam kegelapan sesudahnya, kebutannya memaksa mereka berpencar.
+“Dani, bayi itu tidak bersalah!”
+
+“Aku tidak akan melukai Polu.” Dani menunjuk pintu. “Tetapi jangan seorang pun menghalangiku.”
+
+Dalam suara itu Wu Santong mendengar kemarahan yang tak dapat lagi dijawab dengan pembelaan bagi Fu. Ia menahan kedua anaknya sebelum mereka maju lagi. Fu masih berusaha menghindar, tetapi Dani telah berada di depannya. Dengan tangan kiri ia merengkuh bayi itu, menariknya dari pelukan Fu. Gadis itu melepaskan genggamannya ketika Polu menjerit; ia tidak berani berebut hingga mencederai adiknya.
+
+“Lenganku sudah kautebas,” kata Dani. “Long’er tidak pernah memutus lenganmu, tidak pernah mengangkat pedang kepadamu. Mengapa dia pun tidak kaubiarkan hidup tenang?”
+
+Fu membuka mulut, tetapi untuk pertama kalinya tidak ada pembelaan yang sanggup keluar.
+
+Dani membawa Polu kepada Xiaolongnü. Ia mendekap bayi itu sambil bersandar pada peti; tangannya masih dapat menenangkan tangis kecil tersebut. Dani menarik Xuantie dari sisi batu. Ujung pedangnya menghantam bibir peti kosong, membelahnya dengan bunyi yang membuat debu berjatuhan dari langit-langit. Retakan menjalar hingga penutup kurungan Li Mochou di bawahnya.
+
+“Pergilah dari makam kami!”
+
+Yelü Qi membantu kedua Wu bangkit. Wu Santong memandang Xiaolongnü dengan pedih. “Kami akan mencari pertolongan. Saudara Dani, jangan menyangka kami tidak memikirkan keselamatannya.”
+
+Dani tidak menjawab. Ia menyandangkan pedangnya, membetulkan gendongan Polu di dada Xiaolongnü, lalu mengangkat istrinya dengan lengan kiri. Long’er menyandarkan kepala pada bahunya. Begitu mereka melewati ambang, Fu hendak menyusul, tetapi Wu Santong menahan lengannya.
+
+“Biarkan ia membawa istrinya dahulu.”
+
+Langkah Dani lenyap dalam lorong. Hantaman dari peti bawah segera terdengar lagi. Retak yang ditinggalkan Xuantie melebar, lalu sepotong batu melesat keluar. Wu Santong menangkisnya sambil mendorong putra-putranya menjauh. Li Mochou melompat dari celah, menyambar lampu, dan memadamkannya. Dalam gelap, kebutannya memaksa rombongan berpencar.
 
 ***
 
@@ -236,11 +256,11 @@ Dani melihat kain merah itu dari balik batu. Untuk sesaat ia tidak bergerak.
 
 Ia menoleh kepada istrinya. “Long’er masih dapat memintaku menolongnya?”
 
-“Aku melihat orang yang masih hidup menunggu dibakar. Kalau engkau dapat menyelamatkannya, selamatkanlah.”
+“Ia sudah ditotok dan tidak dapat bergerak. Engkau dapat menolongnya, Dani. Jangan biarkan ia mati dalam api.”
 
 “Sesudah semua yang dilakukannya?”
 
-Xiaolongnü memandang tangan kiri Dani yang menegang. “Aku belum lupa. Aku juga marah. Tetapi kalau ia mati di sana, lukamu tidak kembali utuh dan racunku tidak keluar. Aku tidak ingin api itu menjadi hal lain yang harus kaubawa pulang.”
+Xiaolongnü memandang tangan kiri Dani yang menegang. “Aku tidak melupakan perbuatannya. Tetapi kalau ia mati, Paman Guo dan Bibi Guo akan kehilangan putri mereka. Mereka pernah merawatmu. Tolonglah dia sekali ini.”
 
 Dani mengalihkan wajah. Dari balik asap terdengar seseorang memanggil nama Fu berulang-ulang.
 
@@ -275,8 +295,8 @@ Dani menarik tepi jubah menutupi kaki istrinya. Polu bergerak kecil dalam tidur.
 ---
 
 - Dani berusia 19 tahun, Xiaolongnü 21 tahun; mereka sudah menikah sejak Bab 19; sapaan pribadi Dani kepada istrinya ialah Long’er. Kanan Dani terputus di atas siku, kiri tetap menjadi tangan pedang.
-- Luka Quanzhen mendahului racun Tapak Lima Racun; Jarum Es Fu kemudian menggagalkan pengeluaran racun. Penawar jarum tidak menyelesaikan racun tapak.
-- Polu menggantikan peran bayi Xiang. Fu, Yelü Qi, Wu Santong, dan kedua Wu masuk bersama Li; Huang Rong, Yelü Yan, serta Wanyan Ping menunggu di luar.
+- Luka Quanzhen mendahului racun Tapak Lima Racun; jarum Fu mengenai Xiaolongnü saja dan menggagalkan pengeluaran racun. Dani tidak terkena jarum. Penawar jarum tidak menyelesaikan racun tapak.
+- Polu menggantikan bayi Xiang. Dani merebutnya dari Fu dalam amarah dan menyingkirkan penghalang. Fu, Yelü Qi, Wu Santong, dan kedua Wu masuk bersama Li; Huang Rong, Yelü Yan, serta Wanyan Ping di luar.
 - Zhou bertemu muridnya di Quanzhen, tetapi bukan saksi reuni atau pernikahan. Qiu Chuji menyampaikan kabar Dani hidup kepada rombongan.
 - Li lolos hidup dari peti yang retak. Dani menyelamatkan Fu dari kebakaran tanpa menyatakan pengampunan; Polu tetap dibawanya bersama Xiaolongnü.
 - Bab berakhir sesudah keluar dari kawasan kebakaran. Yideng, salju, penyamaran, perpisahan tujuh tahun, dan Tapak Melankolis belum terjadi; Pedang Perempuan belum diambil dari Quanzhen.

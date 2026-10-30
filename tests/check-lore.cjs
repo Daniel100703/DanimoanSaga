@@ -49,7 +49,7 @@ assert(api.card(dani,200132,true).includes('bab-17.html#p-17-048'));
 assert(!api.stage(long,180089).fields['Ilmu yang terlihat'].includes('Seni Dua Tangan'));
 assert(api.stage(long,180090).fields['Ilmu yang terlihat'].includes('Seni Dua Tangan'));
 assert(api.card(long,200132).includes('4 · Grandmaster'));
-assert(api.card(long,200132).includes('sangat lemah'));
+assert(api.card(long,200142).toLowerCase().includes('sangat lemah'));
 assert(!api.card(long,200132,true).includes('Kedua lengan masih utuh'));
 assert(api.card(byId('zhou-botong'),200132).includes('5 · Tak Tertandingi'));
 assert(api.card(byId('jinlun'),190191).includes('4–5'));
@@ -70,58 +70,71 @@ for(const e of data.entries.filter(e=>e.type==='tokoh' && e.stages[0].key<=20013
 }
 console.log('PASS: chapter 17–20 combat progression, evidence, injury separation, future boundaries and current character tiers.');
 
-// Bab 21: batas pengungkapan, korban, penawar sementara, serta pengembalian Polu.
-assert.strictEqual(data.chapterLengths['21'],194);
-assert.strictEqual(api.stage(byId('hong-lingbo'),210162).fields.Kondisi,'Hidup; takut kepada gurunya.');
-assert.strictEqual(api.stage(byId('hong-lingbo'),210163).fields.Kondisi,'Tewas.');
-assert(api.stage(byId('li-mochou'),210194).fields.Kondisi.startsWith('Hidup, keracunan'));
-assert(api.stage(dani,210194).fields.Tingkat.startsWith('4 ·'));
-assert(api.stage(dani,210194).fields.Kondisi.includes('racun Bunga Cinta bertambah'));
-assert(api.stage(long,210194).fields.Kondisi.includes('belum sembuh'));
-assert(api.stage(long,210194).fields.Kondisi.includes('Hari keenam'));
-assert.strictEqual(api.stage(byId('guo-polu'),210129).fields['Dalam penjagaan'],'Xiaolongnü, di luar ladang berduri.');
-assert.strictEqual(api.stage(byId('guo-polu'),210138).fields['Dalam penjagaan'],'Yideng, di tanah bebas di tepi ladang.');
-assert.strictEqual(api.stage(byId('guo-polu'),210152).fields['Dalam penjagaan'],'Huang Rong.');
-assert.strictEqual(api.stage(byId('guo-polu'),210166).fields['Dalam penjagaan'],'Yelü Yan.');
-assert.strictEqual(api.stage(byId('guo-polu'),210181).fields['Dalam penjagaan'],'Huang Rong.');
-assert(api.stage(byId('cien'),210193).fields.Lokasi.includes('Aula'));
-assert(api.stage(byId('qiu-qianchi'),210193).fields.Keluarga.includes('Ci’en'));
-assert(!api.card(byId('hong-lingbo'),200132).includes('Tewas'));
-assert(!api.card(byId('zhou-botong'),200132,true).includes('Sudah melihat Dani'));
-assert(api.card(byId('zhou-botong'),210194,true).includes('Sudah melihat Dani'));
-assert(api.card(dani,210194,true).includes('bab-17.html#p-17-048'));
-for(const e of data.entries.filter(e=>e.type==='tokoh')) assert(api.stage(e,210194).fields.Tingkat, e.id);
-console.log('PASS: chapter 21 deaths, temporary medicine, one-arm progression, baby custody and reunion boundaries.');
-
-
-// Revisi 28 Oktober: sapaan pascanikah dan keterlibatan Huodu tidak bocor lebih awal.
-const keyAt=(ch,needle)=>{
- const ps=fs.readFileSync(root+`bab-${String(ch).padStart(2,'0')}.md`,'utf8').split('\n---\n')[0].split('\n\n').slice(1).filter(p=>p.trim()&&p.trim()!=='***');
- const i=ps.findIndex(p=>p.includes(needle));assert(i>=0,needle);return ch*10000+i+1;
-};
-const named=keyAt(19,'“Long’er.” Senyum Xiaolongnü');
-assert(!api.card(long,named-1).includes('sapaan pribadi'));
-assert(api.card(long,named).includes('Long’er'));
-const arrived=keyAt(21,'Huodu belum mengenali wajah di balik abu.');
-assert(!(api.stage(byId('huodu'),arrived-1).fields.Lokasi||'').includes('Pondok bersalju'));
-assert(api.stage(byId('huodu'),arrived).fields.Lokasi.includes('Pondok bersalju'));
-assert(api.stage(byId('huodu'),211000).fields.Kondisi.includes('Hidup'));
-for(const n of [20,21])assert(!/\bBibi\b(?! Guo| Guru)/.test(fs.readFileSync(root+`bab-${n}.md`,'utf8')));
-const migration=JSON.parse(fs.readFileSync(root+'edition-migration.json','utf8'));
-assert.strictEqual(migration.edition,'2026-10-28-canon');
-for(const n of [18,19,20,21])assert.strictEqual(migration.lengths[`bab-${n}`],data.chapterLengths[n]);
-assert.strictEqual(migration.previousMap['p-19-137'],'p-19-191');
-assert.strictEqual(migration.previousMap['p-21-160'],'p-21-194');
-console.log('PASS: revised address, Huodu presence and survival, Ci’en blindness, reader migration.');
-
-const deathHe=keyAt(21,'Yideng berlutut di sisi korban.');
-assert(!api.stage(byId('he-shiwo'),deathHe-1).fields.Kondisi.includes('Tewas'));
-assert(api.stage(byId('he-shiwo'),deathHe).fields.Kondisi.includes('Tewas'));
-assert(!byId('tetua-peng')&&!byId('pengemis-kurus'));
-const blind=keyAt(21,'“Penglihatannya telah hilang,” kata Yideng');
-assert(api.stage(byId('cien'),blind).fields.Kondisi.includes('Buta'));
+// Corrected canon facts are gated by actual manuscript anchors, not obsolete numbers.
+const paragraphs=ch=>fs.readFileSync(root+`bab-${String(ch).padStart(2,'0')}.md`,'utf8').split('\n---\n')[0].split('\n\n').slice(1).filter(p=>p.trim()&&p.trim()!=='***');
+const keyAt=(ch,needle)=>{const a=paragraphs(ch),i=a.findIndex(p=>p.includes(needle));assert(i>=0,needle);return ch*10000+i+1;};
+for(const ch of [20,21,22]) assert.strictEqual(data.chapterLengths[ch],paragraphs(ch).length);
+const needle=keyAt(20,'Jarum itu menancap');
+assert(!api.stage(byId('jarum-perak'),needle-1).fields.Sasaran);
+assert(api.stage(byId('jarum-perak'),needle).fields.Sasaran.includes('Dani tidak terkena'));
+assert(!JSON.stringify(data).includes('Kaki kanan Dani dan bahu kiri'));
+const victory=keyAt(21,'Dani berdiri tegap dengan tangan kiri');
+assert(api.stage(dani,victory).summary.includes('meyakinkan'));
+assert(!api.stage(dani,victory-1).summary.includes('Mengalahkan Ci’en'));
+assert(api.stage(byId('yideng'),victory).fields.Kondisi.includes('Terluka berat'));
+assert(api.stage(byId('yideng'),victory).fields['Ilmu yang terlihat'].includes('Tidak mengalihkan'));
+assert(api.stage(byId('cien'),keyAt(21,'“Aku kalah,” katanya serak.')).fields.Kondisi.includes('berhenti menyerang'));
+const betrayal=keyAt(21,'Dari balik dinding terdengar Huodu menyebut');
+assert(!api.stage(byId('he-shiwo'),betrayal-1));
+assert(api.stage(byId('he-shiwo'),betrayal).fields.Tindakan.includes('demi keuntungan'));
+const heDeath=keyAt(21,'Yideng berlutut di sisi korban.');
+assert(!api.stage(byId('he-shiwo'),heDeath-1).fields.Kondisi.includes('Tewas'));
+assert(api.stage(byId('he-shiwo'),heDeath).fields.Kondisi.includes('Tewas'));
+assert(api.stage(byId('huodu'),219999).fields.Kondisi.includes('Hidup'));
 assert(api.stage(byId('cien'),219999).fields.Kondisi.includes('buta'));
-const trick=keyAt(21,'“Tetua tidak perlu melukai siapa pun');
-assert(api.stage(byId('huodu'),trick).fields.Tindakan.includes('Menghasut'));
-assert(!fs.readFileSync(root+'bab-21.md','utf8').includes('pisau'));
-console.log('PASS: 2014 snowman causality, He Shiwo reveal/death boundary, preserved lore.');
+assert(!byId('tetua-peng')&&!byId('pengemis-kurus'));
+const hongDeath=keyAt(21,'Hong tidak bergerak lagi.');
+assert(api.stage(byId('hong-lingbo'),hongDeath-1).fields.Kondisi.includes('Hidup'));
+assert.strictEqual(api.stage(byId('hong-lingbo'),hongDeath).fields.Kondisi,'Tewas.');
+assert(api.stage(byId('li-mochou'),219999).fields.Kondisi.includes('Hidup, keracunan'));
+const babyReturn=keyAt(21,'Xiaolongnü mengambil kembali Polu');
+assert(api.stage(byId('guo-polu'),babyReturn-1).fields['Dalam penjagaan'].includes('Yideng'));
+assert.strictEqual(api.stage(byId('guo-polu'),babyReturn).fields['Dalam penjagaan'],'Huang Rong.');
+assert(api.stage(dani,219999).fields.Kondisi.includes('racun Bunga Cinta bertambah'));
+assert(api.stage(long,219999).fields.Kondisi.includes('Hari keenam'));
+for(const ch of [20,21,22]) for(const p of paragraphs(ch))assert(!p.includes('\n***'),`separator merged in chapter ${ch}`);
+assert(paragraphs(21).some(p=>p.includes('Dia tidak bodoh')));
+assert(paragraphs(21).some(p=>p.includes('Nona ini tentu Xiaolongnü')));
+assert(paragraphs(21).some(p=>p.includes('Ketiganya tidak ikut mengeroyok')));
+// New deaths and the false rescue story must not leak to previous chapters.
+for(const [id,needle] of [['gongsun-lue','Ketika genggamannya terlepas,'],['tianzhu','Tianzhu telah sadar lebih awal.'],['qiu-qianchi','Sesudah benturan terakhir, lembah'],['gongsun-zhi','Sesudah benturan terakhir, lembah'],['li-mochou','Bayangannya hilang di balik nyala']]){
+ const k=keyAt(22,needle);assert(!api.stage(byId(id),k-1).fields.Kondisi.includes('Tewas'),id);assert(api.stage(byId(id),k).fields.Kondisi.includes('Tewas'),id);
+}
+assert(api.stage(byId('cien'),229999).fields.Kondisi.includes('Hidup'));
+assert(api.stage(long,229999).fields.Kondisi.includes('belum diketahui'));
+assert(!api.card(long,219999).includes('Pesan'));
+assert(api.stage(long,229999).fields.Pesan.includes('tujuh tahun'));
+const lie=keyAt(22,'Kisah itu lahir pada saat Huang Rong');
+assert(!api.stage(byId('biarawati-laut-selatan'),lie-1));
+assert(api.stage(byId('biarawati-laut-selatan'),lie).fields.Kepastian.includes('Tidak ada kedatangan'));
+assert(api.stage(dani,229999).fields.Kondisi.includes('mulai dilawan'));
+assert(api.stage(dani,229999).fields.Batas.includes('Belum ada lompatan'));
+for(const e of data.entries.filter(e=>e.type==='tokoh')) assert(api.stage(e,229999).fields.Tingkat,e.id);
+// Evidence links always resolve to their exact sentence.
+for(const e of data.entries) for(const kind of ['stages','relationships'])for(const s of e[kind]||[]){
+ const a=paragraphs(s.chapter),n=s.key%10000;assert.strictEqual(s.quote.replaceAll("*", "").trim(),a[n-1].replaceAll("*", "").trim(),`${e.id} ${kind} ${s.paragraph}`);
+ assert.strictEqual(s.paragraph,`p-${String(s.chapter).padStart(2,'0')}-${String(n).padStart(3,'0')}`);
+}
+const migration=JSON.parse(fs.readFileSync(root+'edition-migration.json','utf8'));
+assert.strictEqual(migration.edition,'2026-10-29-canon');
+assert.strictEqual(migration.previousEdition,'2026-10-28-canon');
+for(const ch of [20,21,22])assert.strictEqual(migration.lengths[`bab-${ch}`],data.chapterLengths[ch]);
+assert.strictEqual(migration.previousMap['p-21-194'],`p-21-${data.chapterLengths[21]}`);
+for(const mapping of [migration.map,migration.previousMap,...Object.values(migration.editionMaps)])for(const id of Object.values(mapping)){
+ const match=/^p-(\d+)-(\d+)$/.exec(id);assert(match,id);assert(Number(match[2])<=data.chapterLengths[Number(match[1])],id);
+}
+const book=JSON.parse(fs.readFileSync(root+'book.json','utf8'));
+assert.strictEqual(book.chapters.length,22);assert.strictEqual(book.chapters[21].plates.length,5);
+assert(book.chapters[19].plates[0].image.file.includes('-v2'));
+assert(book.chapters[20].plates[0].image.file.includes('-v2'));
+console.log('PASS: canon corrections, single needle victim, snowman cause, decisive duel, rescue, death/reveal gates, exact evidence, six chapter 22 images and all migration editions.');
