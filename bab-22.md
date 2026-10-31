@@ -2,9 +2,9 @@
 
 Ci’en masih menggenggam pergelangan adiknya ketika Qiu Qianchi mulai bercerita. Suaranya bergetar saat menyebut tahun-tahun di dasar lubang, makanan yang harus dijatuhkan dari pohon dengan biji kurma, dan Gongsun Zhi yang membiarkannya menunggu kematian. Lü’e berdiri di belakang kursi dengan wajah menunduk. Ia telah mendengar kisah itu, tetapi mendengarnya diucapkan kepada seorang kakak membuat penderitaan ibunya terasa baru.
 
-“Lihatlah apa yang dilakukannya kepadaku, Kakak Kedua.” Qiu berhenti; ia baru ingat mata Ci’en tidak dapat melihatnya. “Rasakan tanganku. Adikmu tidak sanggup mengangkat mangkuk sendiri.”
+“Lihatlah apa yang dilakukannya kepadaku, Kakak Kedua.” Qiu menatap wajah kakaknya, memastikan ia melihat kaki dan tangan yang telah dirusak suaminya. “Adikmu bahkan tidak sanggup mengangkat mangkuk sendiri.”
 
-Jemari Ci’en meraba pergelangan yang kehilangan tenaga. Dahulu adik itu dapat menghentakkan kaki dan membuat orang-orang di rumah menjauh. Kini tangan yang sedang dipegangnya bahkan tidak mampu membalas genggaman.
+Ci’en menunduk memandang pergelangan yang kehilangan tenaga. Dahulu adik itu dapat menghentakkan kaki dan membuat orang-orang di rumah menjauh. Kini tangan yang sedang dipegangnya bahkan tidak mampu membalas genggaman.
 
 “Adik Ketiga, mengapa tidak ada kabar yang sampai kepadaku?”
 
@@ -38,7 +38,7 @@ Dani menyambar pedang Fu dari sarungnya dan mengangkatnya melintang. Denting taj
 
 “Lalu dengan apa engkau hendak membeli hidupmu?”
 
-Dani merasakan jemari Long’er mengencang di tangan kirinya. Ia tidak menutupi kenyataan bahwa duri kembali melukainya. “Aku datang meminta pertolongan, tetapi bukan dengan membunuh orang yang telah menolongku.”
+Dani merasakan jemari Xiaolongnü mengencang di tangan kirinya. Ia tidak menutupi kenyataan bahwa duri kembali melukainya. “Aku datang meminta pertolongan, tetapi bukan dengan membunuh orang yang telah menolongku.”
 
 Lü’e maju. “Ibu, Kakak Dani telah membawa Ibu keluar dari bawah tanah. Kalau bukan karena dia, kita tidak akan bertemu lagi. Berikanlah sisa penawarnya.”
 
@@ -48,7 +48,7 @@ Lü’e maju. “Ibu, Kakak Dani telah membawa Ibu keluar dari bawah tanah. Kala
 
 “Aku juga masih mempunyai seorang anak perempuan.” Mata Qiu beralih dari Lü’e kepada Dani. “Penawar dapat kuberikan kepada menantuku. Kepada orang asing, untuk apa aku menyia-nyiakannya?”
 
-Dani menarik Long’er berdiri di sisinya. “Kami telah menikah di Quanzhen. Di hadapan langit dan leluhur, aku menerimanya sebagai istriku. Nyawaku memang berharga, tetapi aku tidak akan mempertahankannya dengan menyangkal perkawinan kami.”
+Dani menarik Xiaolongnü berdiri di sisinya. “Kami telah menikah di Quanzhen. Di hadapan langit dan leluhur, aku menerimanya sebagai istriku. Nyawaku memang berharga, tetapi aku tidak akan mempertahankannya dengan menyangkal perkawinan kami.”
 
 Lü’e menatap tangan mereka. Kabar itu mengakhiri sesuatu yang selama ini masih disembunyikannya dari dirinya sendiri. Ia sudah mengetahui siapa perempuan yang dicintai Dani. Namun mengetahui mereka kini suami-istri berbeda dari sekadar mengetahui bahwa Dani sedang mencari seseorang.
 
@@ -58,7 +58,7 @@ Qiu menatap putrinya, lalu kembali kepada Dani. “Baik. Pergilah bersama istrim
 
 “Engkau mempunyai terlalu banyak permintaan untuk orang yang menolak syaratku.”
 
-Dani membungkuk singkat. Ia tidak akan menghabiskan hari terakhir Long’er dengan pertengkaran yang sama. Ketika ia berbalik hendak mencari jalan lain, suara Lü’e menahannya.
+Dani membungkuk singkat. Ia tidak akan menghabiskan hari terakhir Xiaolongnü dengan pertengkaran yang sama. Ketika ia berbalik hendak mencari jalan lain, suara Lü’e menahannya.
 
 “Kakak Dani, setelah semua pertolonganku, engkau akan pergi begitu saja?”
 
@@ -66,29 +66,29 @@ Dani menoleh, terkejut oleh nada yang tidak pernah didengarnya dari gadis itu. L
 
 “Maafkan aku, Nona Gongsun. Ada kebaikan yang tidak dapat kubalas dengan apa yang engkau minta.”
 
-Lü’e menunduk. Dari kursinya, Qiu hanya melihat putrinya dipermalukan. Dani membawa Long’er keluar sebelum kemarahan perempuan itu kembali mencari sasaran.
+Lü’e menunduk. Dari kursinya, Qiu hanya melihat putrinya dipermalukan. Dani membawa Xiaolongnü keluar sebelum kemarahan perempuan itu kembali mencari sasaran.
 
-Di balik belokan lorong, Long’er membuka biji kurma yang diserahkan Dani. Di dalamnya terselip kertas kecil. Lü’e menyebut tempat Biksu Tianzhu dan Zhu Ziliu ditahan serta berjanji mencari kesempatan mengambil penawar. Dani membaca sampai selesai, kemudian melipat kembali kertas itu.
+Di balik belokan lorong, Xiaolongnü membuka biji kurma yang diserahkan Dani. Di dalamnya terselip kertas kecil. Lü’e menyebut tempat Biksu Tianzhu dan Zhu Ziliu ditahan serta berjanji mencari kesempatan mengambil penawar. Dani membaca sampai selesai, kemudian melipat kembali kertas itu.
 
-“Dia masih hendak menolongmu,” kata Long’er.
+“Dia masih hendak menolongmu,” kata Xiaolongnü.
 
 “Aku tahu.” Dani memandang ke arah aula. “Itulah sebabnya aku tidak boleh menjawabnya dengan dusta.”
 
 ***
 
-Pintu ruang tahanan tertutup rantai. Dari dalam terdengar suara Zhu Ziliu menyambut panggilan Dani. Xuantie turun sekali; mata rantai terbelah dan jatuh ke batu. Dani membuka pintu, lalu menyingkir agar Long’er dapat masuk lebih dahulu.
+Pintu ruang tahanan tertutup rantai. Dari dalam terdengar suara Zhu Ziliu menyambut panggilan Dani. Xuantie turun sekali; mata rantai terbelah dan jatuh ke batu. Dani membuka pintu, lalu menyingkir agar Xiaolongnü dapat masuk lebih dahulu.
 
 Biksu Tianzhu terbaring pada pembaringan rendah. Tubuhnya kurus, wajahnya tenang, tetapi ia tidak membuka mata ketika mereka mendekat. Zhu Ziliu menjelaskan bahwa biksu itu telah mencoba racun Bunga Cinta pada tubuhnya sendiri untuk mengetahui cara melawannya.
 
 “Di negerinya, bunga seperti ini sudah sukar ditemukan. Ia tidak puas menebak dari keterangan orang. Sudah dua hari beliau tidak sadar; menurut perhitungannya, sesudah tiga hari ia akan bangun.”
 
-Long’er berlutut di samping pembaringan. “Beliau meminum racun demi orang yang belum dikenalnya?”
+Xiaolongnü berlutut di samping pembaringan. “Beliau meminum racun demi orang yang belum dikenalnya?”
 
 Zhu Ziliu mengangguk. “Begitulah cara beliau menolong.”
 
 Dani meletakkan pedangnya. Orang yang dicarinya telah berada dalam jangkauan, tetapi harapan itu mempunyai mata yang tetap terpejam. Ia ingin mengguncang pembaringan, meminta biksu tersebut bangun sekarang juga, lalu merasa malu karena bahkan dalam ketidaksadarannya orang tua itu sedang mempertaruhkan hidup untuk orang lain.
 
-Zhu Ziliu melihat lengan baju Dani yang kosong. Pertanyaannya tertahan ketika memandang wajah Long’er. Dani menyebut amputasinya dengan singkat, kemudian menerangkan urutan luka istrinya: serangan di Quanzhen, Tapak Lima Racun, dan jarum Fu yang menggagalkan pengeluaran racun. Long’er mendengarkan tanpa mengalihkan wajah. Ia tidak hendak menyembunyikan keadaan tubuhnya lagi.
+Zhu Ziliu melihat lengan baju Dani yang kosong. Pertanyaannya tertahan ketika memandang wajah Xiaolongnü. Dani menyebut amputasinya dengan singkat, kemudian menerangkan urutan luka istrinya: serangan di Quanzhen, Tapak Lima Racun, dan jarum Fu yang menggagalkan pengeluaran racun. Xiaolongnü mendengarkan tanpa mengalihkan wajah. Ia tidak hendak menyembunyikan keadaan tubuhnya lagi.
 
 “Obat Shifu hanya memberi waktu tujuh hari?” tanya Zhu.
 
@@ -96,7 +96,7 @@ Zhu Ziliu melihat lengan baju Dani yang kosong. Pertanyaannya tertahan ketika me
 
 Zhu memandang pembaringan. “Pintunya sudah terbuka. Aku akan menjaga beliau sampai sadar. Temuilah Shifu dahulu. Jika ada perubahan, kalian harus segera mengetahuinya.”
 
-Dani membantu menyingkirkan belenggu dan memeriksa jalan keluar. Mereka tidak lagi menjadi tawanan; Zhu memilih tetap merawat tabib di tempat yang terlindung. Long’er membetulkan selimut biksu itu sebelum pergi. Sentuhan tersebut begitu hati-hati, seakan ia takut membangunkan orang yang justru sangat ingin ditemuinya.
+Dani membantu menyingkirkan belenggu dan memeriksa jalan keluar. Mereka tidak lagi menjadi tawanan; Zhu memilih tetap merawat tabib di tempat yang terlindung. Xiaolongnü membetulkan selimut biksu itu sebelum pergi. Sentuhan tersebut begitu hati-hati, seakan ia takut membangunkan orang yang justru sangat ingin ditemuinya.
 
 Di aula, tangis Polu telah berubah menjadi jeritan.
 
@@ -126,7 +126,7 @@ Ci’en meraba kain pembungkus Polu. Bayi itu menangis, hangat dan tidak memaham
 
 Genggaman biksu itu melonggar. Huang Rong bergerak, meraih Polu dan melemparkannya pendek kepada Yelü Qi yang telah bersiap. Pemuda itu menangkap bayi tersebut dengan kedua lengan. Fu jatuh berlutut di sampingnya. Barulah Huang Rong membiarkan napasnya pecah.
 
-Ci’en menurunkan tangan. Ia membungkuk kepada gurunya, kemudian kepada arah suara Huang Rong. “Aku tidak berhak meminta kalian melupakan perbuatanku. Tetapi anak ini tidak akan kulukai lagi.”
+Ci’en menurunkan tangan. Ia membungkuk kepada gurunya, kemudian kepada Huang Rong. “Aku tidak berhak meminta kalian melupakan perbuatanku. Tetapi anak ini tidak akan kulukai lagi.”
 
 Qiu berteriak memanggil kakaknya ketika Ci’en berjalan keluar. Ia tidak berbalik. Dendam keluarga masih terdengar di belakangnya, tetapi untuk sekali ini ia memilih terus melangkah. Yideng mengizinkannya pergi; wajah biksu tua itu dipenuhi keletihan dan kelegaan.
 
@@ -134,27 +134,27 @@ Qiu berteriak memanggil kakaknya ketika Ci’en berjalan keluar. Ia tidak berbal
 
 “Engkau menyelamatkan anakmu dan menahan muridku dari kesalahan lain.” Yideng mengatupkan tangan. “Tidak ada yang perlu kumaafkan.”
 
-Dani dan Long’er kembali ketika Polu telah berada dalam dekapan ibunya. Kabar bahwa Tianzhu masih menunggu saat sadar membuat aula itu sunyi sebentar. Qiu memakai kesunyian tersebut untuk menyuruh penjaga merapat dengan jaring. Ia tidak akan menyerahkan obat hanya karena kakaknya menolak membunuh.
+Dani dan Xiaolongnü kembali ketika Polu telah berada dalam dekapan ibunya. Kabar bahwa Tianzhu masih menunggu saat sadar membuat aula itu sunyi sebentar. Qiu memakai kesunyian tersebut untuk menyuruh penjaga merapat dengan jaring. Ia tidak akan menyerahkan obat hanya karena kakaknya menolak membunuh.
 
-Huang Rong memberi isyarat kepada Dani agar membawa Long’er keluar. “Pergilah menunggu tabib. Perkara di sini akan kami hadapi.”
+Huang Rong memberi isyarat kepada Dani agar membawa Xiaolongnü keluar. “Pergilah menunggu tabib. Perkara di sini akan kami hadapi.”
 
 Dani menatap Polu yang masih terisak, lalu mengangguk. Untuk pertama kalinya sejak tiba, ia bersyukur tidak harus memikirkan keselamatan bayi itu bersamaan dengan keselamatan istrinya.
 
 ***
 
-Di jalan di antara bunga, racun Dani menyerang. Ia berhenti dengan tangan kiri mencengkeram tiang pagar. Long’er langsung menopang pinggangnya. Napas Dani tertahan, lalu keluar perlahan setelah ia menekan gelombang nyeri tersebut.
+Di jalan di antara bunga, racun Dani menyerang. Ia berhenti dengan tangan kiri mencengkeram tiang pagar. Xiaolongnü langsung menopang pinggangnya. Napas Dani tertahan, lalu keluar perlahan setelah ia menekan gelombang nyeri tersebut.
 
-“Engkau memikirkanku,” kata Long’er.
+“Engkau memikirkanku,” kata Xiaolongnü.
 
 “Aku berdiri di sampingmu. Sulit sekali diminta memikirkan orang lain.”
 
-Ia mencoba tersenyum. Long’er tidak membalas. Ia telah melihatnya menaklukkan Ci’en dengan satu tangan, tetapi tak ada pedang yang dapat dipakai memotong rasa sakit di dalam dadanya.
+Ia mencoba tersenyum. Xiaolongnü tidak membalas. Ia telah melihatnya menaklukkan Ci’en dengan satu tangan, tetapi tak ada pedang yang dapat dipakai memotong rasa sakit di dalam dadanya.
 
 “Dani, Nona Gongsun sangat baik. Ia dapat menjadi istrimu juga.”
 
 Dani memandangnya. “Long’er, jangan membicarakan itu karena melihatku kesakitan.”
 
-“Aku sudah memikirkannya sejak ibunya menawarkan obat.” Long’er berbicara tenang, meskipun jemarinya terus menggenggam jubah Dani. “Aku tidak keberatan. Engkau menikahinya, menerima penawar, lalu kita tetap bersama. Asalkan engkau masih mencintaiku.”
+“Aku sudah memikirkannya sejak ibunya menawarkan obat.” Xiaolongnü berbicara tenang, meskipun jemarinya terus menggenggam jubah Dani. “Aku tidak keberatan. Engkau menikahinya, menerima penawar, lalu kita tetap bersama. Asalkan engkau masih mencintaiku.”
 
 “Apakah engkau sungguh menghendakinya?”
 
@@ -162,19 +162,19 @@ Dani memandangnya. “Long’er, jangan membicarakan itu karena melihatku kesaki
 
 Dani menunduk hingga dahi mereka hampir bersentuhan. “Aku mengetahui engkau bersungguh-sungguh. Karena itulah aku harus menjawab dengan sungguh-sungguh juga.”
 
-Ia melepaskan tiang dan menyentuh pipi Long’er dengan tangan kiri. “Nona Gongsun layak dicintai oleh orang yang memilihnya. Kalau aku menjanjikan perkawinan untuk mendapatkan obat, padahal seluruh hatiku tetap bersamamu, aku telah memperdayainya. Aku tidak hendak menjadikan dua perempuan menanggung janji yang kubuat karena takut mati.”
+Ia melepaskan tiang dan menyentuh pipi Xiaolongnü dengan tangan kiri. “Nona Gongsun layak dicintai oleh orang yang memilihnya. Kalau aku menjanjikan perkawinan untuk mendapatkan obat, padahal seluruh hatiku tetap bersamamu, aku telah memperdayainya. Aku tidak hendak menjadikan dua perempuan menanggung janji yang kubuat karena takut mati.”
 
 “Banyak laki-laki mempunyai lebih dari seorang istri.”
 
 “Aku tidak meminta hidup mereka. Aku meminta hidup bersamamu.” Dani mengusap air mata yang telah turun. “Ketika seluruh orang mengatakan kita tidak boleh menikah, engkau masih mengulurkan tangan kepadaku. Sekarang aku sudah menjadi suamimu. Jangan suruh aku melepaskan sesuatu yang begitu sukar kita pertahankan.”
 
-Long’er memejamkan mata dalam sentuhannya. Ia bahagia mendengar kesetiaan itu, dan justru kebahagiaan tersebut membuat ketakutannya semakin menyakitkan. Bagaimana mungkin jawaban yang begitu ingin didengarnya sekaligus dapat membawa Dani mendekati kematian?
+Xiaolongnü memejamkan mata dalam sentuhannya. Ia bahagia mendengar kesetiaan itu, dan justru kebahagiaan tersebut membuat ketakutannya semakin menyakitkan. Bagaimana mungkin jawaban yang begitu ingin didengarnya sekaligus dapat membawa Dani mendekati kematian?
 
 “Kalau engkau tetap memilih aku,” katanya, “berilah aku kesempatan mencari cara lain supaya engkau hidup.”
 
 Dani mengangguk. Ia belum mengetahui bahwa kalimat itulah yang kelak tidak mampu ditahannya.
 
-Di balik tikungan, Lü’e berdiri dengan tangan merapat pada dada. Ia datang hendak memberi kabar, lalu berhenti ketika mendengar namanya. Tidak ada cemooh dalam ucapan pasangan itu. Long’er bahkan bersedia menerimanya. Namun Dani tidak membagi cintanya seperti orang membagi sisa obat.
+Di balik tikungan, Lü’e berdiri dengan tangan merapat pada dada. Ia datang hendak memberi kabar, lalu berhenti ketika mendengar namanya. Tidak ada cemooh dalam ucapan pasangan itu. Xiaolongnü bahkan bersedia menerimanya. Namun Dani tidak membagi cintanya seperti orang membagi sisa obat.
 
 Lü’e menangis tanpa bersuara. Sesudah itu ia mengusap wajah dan mundur sebelum mereka melihatnya. Ia tidak dapat membuat Dani mencintainya. Ia masih dapat berusaha agar pemuda itu tidak mati.
 
@@ -224,7 +224,7 @@ Ia baru berjalan menuju Huang Rong ketika atap berguncang. Gongsun Zhi menerobos
 
 Xuantie menghantam pintu dari luar.
 
-Dani masuk bersama Long’er, Cheng Ying dan Wushuang. Bilah hitamnya menghalau golok Gongsun dari arah Huang Rong. Lelaki bermata satu itu terkejut oleh tenaga yang datang; lawan yang dahulu dapat dijatuhkannya dengan tipu daya kini sanggup menutup jalan hanya dengan satu ayunan.
+Dani masuk bersama Xiaolongnü, Cheng Ying dan Wushuang. Bilah hitamnya menghalau golok Gongsun dari arah Huang Rong. Lelaki bermata satu itu terkejut oleh tenaga yang datang; lawan yang dahulu dapat dijatuhkannya dengan tipu daya kini sanggup menutup jalan hanya dengan satu ayunan.
 
 “Ayah, kembalikan obat itu,” kata Lü’e.
 
@@ -258,15 +258,15 @@ Qiu berusaha bangkit dari kursi. Tubuhnya tidak menurut. “Lü’e, jangan berg
 
 Gongsun menarik putrinya untuk mundur. Lü’e justru bergerak ke arah senjata yang menahannya. Ayahnya terlambat—atau terlalu enggan—menarik bilah itu. Suara pendek keluar dari tenggorokan gadis tersebut. Botol masih berada di tangan Gongsun ketika tubuh putrinya kehilangan tenaga.
 
-Dani menerjang dan menangkap bahunya dengan lengan kiri. Long’er berlutut di sisi lain, menyangga kepala Lü’e ketika mereka menurunkannya ke batu halaman. Gongsun berdiri sesaat memandangi pedangnya. Kemudian ketakutan akan kepungan mengalahkan keterkejutannya; ia melarikan diri membawa obat.
+Dani menerjang dan menangkap bahunya dengan lengan kiri. Xiaolongnü berlutut di sisi lain, menyangga kepala Lü’e ketika mereka menurunkannya ke batu halaman. Gongsun berdiri sesaat memandangi pedangnya. Kemudian ketakutan akan kepungan mengalahkan keterkejutannya; ia melarikan diri membawa obat.
 
 “Jangan mengejarnya!” seru Dani kepada orang-orang di dekatnya. “Panggil tabib!”
 
-Lü’e mencoba menoleh kepada Long’er. Mulutnya bergerak; Long’er merendahkan kepala untuk mendengar.
+Lü’e mencoba menoleh kepada Xiaolongnü. Mulutnya bergerak; Xiaolongnü merendahkan kepala untuk mendengar.
 
 “Tolong… tetaplah bersama Kakak Dani.”
 
-“Aku bersamanya,” jawab Long’er dengan air mata mengalir. “Nona Gongsun, jangan memaksakan bicara.”
+“Aku bersamanya,” jawab Xiaolongnü dengan air mata mengalir. “Nona Gongsun, jangan memaksakan bicara.”
 
 Dani menggenggam tangan Lü’e. “Engkau sudah cukup menolongku. Sekarang biarkan kami menolongmu.”
 
@@ -274,7 +274,7 @@ Jemari gadis itu berusaha membalas. Ia memandang Dani lama, seakan ada kalimat y
 
 Qiu memanggil putrinya dari kursi. Berkali-kali. Lü’e tidak menoleh lagi.
 
-Long’er menutup mata gadis itu. Ia kemudian membungkuk, merapikan rambut di pipinya dengan kehati-hatian yang tadi dipakainya membetulkan selimut Tianzhu. Kali ini tidak ada orang yang akan bangun.
+Xiaolongnü menutup mata gadis itu. Ia kemudian membungkuk, merapikan rambut di pipinya dengan kehati-hatian yang tadi dipakainya membetulkan selimut Tianzhu. Kali ini tidak ada orang yang akan bangun.
 
 ***
 
@@ -284,7 +284,7 @@ Tianzhu telah sadar lebih awal. Ia menemukan petunjuk penawar dan pergi memeriks
 
 “Beliau sedang mencari obat,” kata Zhu. Suaranya pecah pada kalimat sederhana itu. “Bahkan saat jatuh, tangannya tidak melepaskan tumbuhan yang baru ditemukannya.”
 
-Dani merasa tanah di bawah kakinya bergeser. Long’er meraih lengannya sebelum ia sadar bahwa tubuhnya sendiri telah bergerak mencari pegangan.
+Dani merasa tanah di bawah kakinya bergeser. Xiaolongnü meraih lengannya sebelum ia sadar bahwa tubuhnya sendiri telah bergerak mencari pegangan.
 
 “Tidak sempat… memeriksanya?” Ia memandang istrinya. “Beliau tidak sempat melihat keadaan Long’er?”
 
@@ -292,13 +292,13 @@ Zhu menggeleng.
 
 Dani tidak mengatakan apa-apa lagi. Dua kali ia datang terlambat dalam satu pagi: pertama kepada gadis yang mencarikan penawar, kemudian kepada orang yang hendak menyembuhkan istrinya. Xuantie masih berada di sisinya, berat dan tidak berguna untuk kedua perkara tersebut.
 
-Huang Rong mendekati Long’er. “Gongsun masih membawa setengah pil itu. Kematian tabib tidak harus mengambil nyawa Dani juga.”
+Huang Rong mendekati Xiaolongnü. “Gongsun masih membawa setengah pil itu. Kematian tabib tidak harus mengambil nyawa Dani juga.”
 
-Long’er mengangkat wajah.
+Xiaolongnü mengangkat wajah.
 
 “Aku akan mengambilnya.”
 
-Ia meminta dua pedang dari kedua Wu. Ketika Dani berpaling, istrinya sudah menuju pintu. Ia hendak mengejar, tetapi racun di dadanya kembali mencengkeram. Huang Rong memanggil Yelü Qi untuk mencari jalan Gongsun; Cheng Ying dan Wushuang segera membantu Dani berdiri.
+Ia meminjam pedang Wu Dunru dan Wanyan Ping. Ketika Dani berpaling, istrinya sudah menuju pintu. Ia hendak mengejar, tetapi racun di dadanya kembali mencengkeram. Huang Rong memanggil Yelü Qi untuk mencari jalan Gongsun; Cheng Ying dan Wushuang segera membantu Dani berdiri.
 
 “Long’er!”
 
@@ -314,17 +314,17 @@ Gongsun Zhi berhenti di Tebing Patah Hati ketika dua bilah pedang menutup jalann
 
 “Dia menyuruh istrinya yang sakit mengambil obat untuknya? Rupanya keberaniannya tidak sebesar tadi.”
 
-“Dani tidak menyuruhku.” Long’er mengangkat kedua pedang. “Aku yang hendak menyelamatkan suamiku.”
+“Dani tidak menyuruhku.” Xiaolongnü mengangkat kedua pedang. “Aku yang hendak menyelamatkan suamiku.”
 
-Gongsun menggerakkan golok dan pedang hitamnya. Ia sudah mengetahui kelemahan kerja sama dua orang yang pernah dipakai pasangan itu. Tetapi serangan pertama membuatnya mundur: tangan kanan Long’er memakai ilmu Quanzhen, tangan kiri menyambutnya dengan Pedang Gadis Giok. Keduanya bergerak dengan kehendak yang berbeda dan saling menutup tanpa menunggu isyarat.
+Gongsun menggerakkan golok dan pedang hitamnya. Ia sudah mengetahui kelemahan kerja sama dua orang yang pernah dipakai pasangan itu. Tetapi serangan pertama membuatnya mundur: tangan kanan Xiaolongnü memakai ilmu Quanzhen, tangan kiri menyambutnya dengan Pedang Gadis Giok. Keduanya bergerak dengan kehendak yang berbeda dan saling menutup tanpa menunggu isyarat.
 
-Golok Gongsun menghalau satu bilah; bilah lain telah tiba di sisi lehernya. Ia memiringkan kepala dan membalas dengan pedang hitam. Long’er berputar pada satu kaki. Lengan putihnya menyapu, arah pendekatannya berubah, dan serangan yang semula tampak akan mundur justru menyusup di bawah golok.
+Golok Gongsun menghalau satu bilah; bilah lain telah tiba di sisi lehernya. Ia memiringkan kepala dan membalas dengan pedang hitam. Xiaolongnü berputar pada satu kaki. Lengan putihnya menyapu, arah pendekatannya berubah, dan serangan yang semula tampak akan mundur justru menyusup di bawah golok.
 
 Lelaki itu terpaksa melompat menjauh. Serangan bersama Dani dahulu memberi celah ketika salah seorang terlambat bergerak. Kini kedua jalur pedang berasal dari satu tubuh. Perubahan yang diketahuinya tidak lagi datang dalam urutan yang dapat dipisahkannya.
 
-Namun Long’er tetap terluka.
+Namun Xiaolongnü tetap terluka.
 
-Ketika ia menarik napas untuk serangan berikutnya, nyeri menekan dadanya. Gongsun melihat jeda tersebut dan menghantam dengan golok. Kedua pedang Long’er bersilang menahannya. Tubuhnya terdorong setapak ke dekat tepi; batu kecil jatuh tanpa segera terdengar menyentuh dasar.
+Ketika ia menarik napas untuk serangan berikutnya, nyeri menekan dadanya. Gongsun melihat jeda tersebut dan menghantam dengan golok. Kedua pedang Xiaolongnü bersilang menahannya. Tubuhnya terdorong setapak ke dekat tepi; batu kecil jatuh tanpa segera terdengar menyentuh dasar.
 
 “Obat ini untuk racun bunga,” kata Gongsun. “Bukan untuk luka yang membuatmu batuk darah. Untuk apa engkau mempertaruhkan sisa hidupmu?”
 
@@ -332,19 +332,41 @@ Ketika ia menarik napas untuk serangan berikutnya, nyeri menekan dadanya. Gongsu
 
 Ia menyerang kembali.
 
-Dani tiba ketika lengan baju istrinya tersayat. Seruannya memecah udara. Long’er tidak menoleh; ia mengenali suara itu dan mempertahankan gerak kedua tangannya. Jika ia kehilangan perhatian sekarang, Gongsun akan memakai kecemasan Dani sebagai jalan keluar.
+Dani tiba ketika lengan baju istrinya tersayat. Ia melangkah sampai pangkal tonjolan batu, lalu berhenti. Di bawah kedua petarung itu terbentang retakan; setiap hentakan kaki menjatuhkan pasir dan kepingan batu ke dalam kabut.
 
-“Jaga langkah kirimu, Long’er!”
+“Jaga langkahmu, Long’er!”
 
-Dani tidak masuk sembarangan ke dalam lingkaran dua pedang. Xuantie diangkat untuk menutup arah pelarian, sementara suaranya memperingatkan batu licin di sisi istrinya. Huang Rong mengarahkan rombongan agar Gongsun tidak dapat menyandera orang lain. Pengepungan itu mempersempit ruang lelaki tersebut, tetapi pedang Long’erlah yang mematahkan pertahanannya.
+Guo Fu menyusul bersama ibunya. Melihat Xiaolongnü terdesak setapak, ia berpaling kepada Dani. “Mengapa engkau berdiri saja? Cepat bantu bibimu!”
 
-Goloknya terpukul menyamping. Ujung pedang kanan Long’er berhenti di depan tenggorokannya; pedang kiri menahan pergelangan yang membawa senjata hitam.
+Mata Dani tetap mengikuti kedua pedang istrinya. “Batu itu sudah retak. Jika aku naik dengan pedang berat dan beradu tenaga dengannya, pijakan mereka dapat runtuh. Menambah seorang petarung di sana justru membahayakannya.”
+
+Fu menunduk melihat serpihan batu yang terus jatuh. Yelü Qi menahan langkahnya sebelum ia ikut mendekat. Huang Rong mengangkat tangan, menyuruh rombongan berhenti pada tanah yang lebih kokoh.
+
+Xiaolongnü mendengar suara Dani. Ia tidak menoleh. Pedang kirinya menahan golok, sedangkan pedang kanan menyusup di bawah senjata hitam lawan. Gongsun masih mampu bertahan; setiap kali luka memutus napasnya, lelaki itu menyerang dengan tenaga lebih berat.
+
+Huang Rong memperhatikan mata tunggal Gongsun yang terus melirik rombongan. “Tuan Gongsun, putrimu mati di depanmu. Kini engkau masih hendak membunuh perempuan yang berusaha menyelamatkan orang lain. Apakah tidak ada seorang pun yang ingin kaulindungi selain dirimu sendiri?”
+
+“Diam! Jangan ikut campur!”
+
+Jawaban itu membuat goloknya terlambat berbalik. Ujung pedang Xiaolongnü menoreh lengan bajunya. Gongsun menggertakkan gigi dan kembali memusatkan perhatian, tetapi Dani sudah menangkap maksud Huang Rong.
+
+“Long’er, ia sangat takut kehilangan obat itu,” kata Dani. Suaranya sengaja cukup keras untuk didengar lawannya. “Biarkan ia terus menjaga botol di dadanya. Suamimu ingin melihat bagaimana ia menahan dua pedang sambil melindungi hartanya.”
+
+Gongsun tanpa sadar merapatkan siku ke tempat botol disimpan. Pedang Xiaolongnü segera mengubah sudut. Gerakan menutup dada itu justru mempersempit putaran goloknya.
+
+Huang Rong melanjutkan, tajam dan tenang, “Lü’e memohon kepadamu sampai napas terakhir. Jika ia melihatmu sekarang, apakah engkau masih sanggup menyuruhnya memanggilmu Ayah?”
+
+“Kubunuh kalian setelah perempuan ini!”
+
+Kemarahan Gongsun memecahkan ketelitian yang tadi menyelamatkannya. Ia hendak melirik Huang Rong; pada saat yang sama Dani menyerukan perubahan gerak istrinya, membuatnya ragu pedang mana yang mesti ditahan. Xiaolongnü tidak membiarkan keraguan itu lewat. Satu tangan memancing goloknya keluar, tangan lain mengubah tusukan menjadi tekanan ke pergelangan. Ilmu dua tangan yang berjalan sendiri-sendiri itu menuntut perhatian penuh, dan perhatian Gongsun telah terbelah.
+
+Goloknya terpukul menyamping. Ujung pedang kanan Xiaolongnü berhenti di depan tenggorokannya; pedang kiri menahan pergelangan yang membawa senjata hitam.
 
 “Botol itu,” katanya.
 
-Gongsun memandang jurang, lalu Dani. Ia akhirnya mengambil botol dari bajunya dan menyerahkannya. Long’er mundur setelah obat berada dalam genggaman. Dani segera menahan pinggangnya; dua pedang diturunkannya ke tanah sebelum tubuhnya kehilangan tumpuan.
+Gongsun memandang jurang, lalu Dani. Ia akhirnya mengambil botol dari bajunya dan menyerahkannya. Xiaolongnü mundur setelah obat berada dalam genggaman. Dani segera menahan pinggangnya; dua pedang diturunkannya ke tanah sebelum tubuhnya kehilangan tumpuan.
 
-Gongsun memakai kesempatan itu untuk melarikan diri. Dani tidak mengejar. Seluruh pandangannya tertahan pada darah di sudut bibir Long’er.
+Gongsun memakai kesempatan itu untuk melarikan diri. Dani tidak mengejar. Seluruh pandangannya tertahan pada darah di sudut bibir Xiaolongnü.
 
 “Engkau berjanji kembali kepadaku,” katanya.
 
@@ -354,11 +376,11 @@ Dani menyentuh bibirnya dengan ujung kain. “Aku melihatmu berdiri di tepi itu.
 
 “Minumlah. Sesudah itu engkau dapat memarahiku.”
 
-Ia menuangkan setengah pil ke telapak kiri Dani. Begitu kecil benda yang membuat Lü’e mati, membuat Qiu mengkhianati janji, membuat Long’er kembali mengangkat pedang dengan tubuh yang hampir tidak sanggup berdiri. Dani memandangnya lama.
+Ia menuangkan setengah pil ke telapak kiri Dani. Begitu kecil benda yang membuat Lü’e mati, membuat Qiu mengkhianati janji, membuat Xiaolongnü kembali mengangkat pedang dengan tubuh yang hampir tidak sanggup berdiri. Dani memandangnya lama.
 
 “Apakah obat ini dapat menyembuhkanmu?”
 
-Long’er tidak menjawab.
+Xiaolongnü tidak menjawab.
 
 “Tianzhu sudah tidak ada,” kata Dani. “Semua orang memintaku makan obat dan bersiap hidup. Tetapi siapa yang akan menyuruhmu tetap tinggal?”
 
@@ -368,19 +390,31 @@ Long’er tidak menjawab.
 
 Tangannya bergerak. Setengah pil itu melampaui tepi dan hilang ke dalam kabut.
 
-Long’er meraih pergelangannya, terlambat. Untuk beberapa saat ia memandang telapak yang kini kosong, kemudian mengangkat wajah kepada Dani. Ia telah mempertaruhkan sisa tenaganya untuk mendapatkan obat itu. Suaminya justru melepaskannya karena tidak sanggup menerima keselamatan yang hanya menjadi miliknya seorang.
+Xiaolongnü meraih pergelangannya, terlambat. Untuk beberapa saat ia memandang telapak yang kini kosong, kemudian mengangkat wajah kepada Dani. Ia telah mempertaruhkan sisa tenaganya untuk mendapatkan obat itu. Suaminya justru melepaskannya karena tidak sanggup menerima keselamatan yang hanya menjadi miliknya seorang.
 
 “Dani, aku mengambilnya supaya engkau tetap hidup.”
 
 “Dan meninggalkanmu menghadapi kematian sendirian?” Suaranya bergetar. “Long’er, ketika mereka memisahkan kita, aku mencarimu. Ketika mereka melarang kita menikah, aku tetap ingin menjadi suamimu. Sekarang engkau ada dalam pelukanku. Jangan meminta aku menganggap hidup tanpa dirimu sebagai keselamatan.”
 
-Long’er memegang wajahnya. Air mata yang sejak tadi ditahannya jatuh. Ia mengenal keteguhan itu; dahulu keteguhan yang sama membawanya kembali dari penyangkalan di lembah ini. Ia tidak perlu lagi menanyakan apakah Dani akan meninggalkannya ketika kematian mendekat.
+Xiaolongnü memegang wajahnya. Air mata yang sejak tadi ditahannya jatuh. Ia mengenal keteguhan itu; dahulu keteguhan yang sama membawanya kembali dari penyangkalan di lembah ini. Ia tidak perlu lagi menanyakan apakah Dani akan meninggalkannya ketika kematian mendekat.
 
 “Aku pun tidak sanggup berpisah denganmu,” bisiknya.
 
-Dani merengkuhnya dengan lengan kiri. Long’er membalas pelukannya, menyembunyikan wajah pada dada suaminya. Di belakang mereka, Huang Rong menunduk; pil itu tidak mungkin diambil kembali. Untuk beberapa saat hanya angin yang terdengar di tepi jurang.
+Dani merengkuhnya dengan lengan kiri. Xiaolongnü membalas pelukannya, menyembunyikan wajah pada dada suaminya. Di belakang mereka, Huang Rong menahan napas. Fu menatap telapak Dani yang kosong, lalu jurang yang menelan obat itu.
 
-Dani mencium rambut istrinya. Long’er menggenggam jubahnya semakin erat. Ia ingin terus berada di sana, ingin mempercayai bahwa selama mereka masih berpelukan, waktu belum akan memisahkan. Namun ketika batuk mengguncang dadanya dan Dani segera menunduk dengan cemas, ia kembali merasakan betapa berharganya nyawa yang tadi begitu mudah dilepaskan demi dirinya.
+“Ibumu telah menanggung tiga serangan untuk mendapatkannya. Nona Gongsun sampai kehilangan nyawa,” kata Wu Santong, suaranya berat. “Mengapa engkau membuangnya?”
+
+Dani menoleh kepada orang-orang yang telah berusaha menyelamatkannya. Ia tidak lagi menyembunyikan alasan itu dalam pelukan istrinya saja.
+
+“Aku tidak melupakan pertolongan kalian. Tetapi tabib yang kami harapkan sudah meninggal. Obat itu hanya dapat menyembuhkan racun bungaku; luka dan racun istriku tetap tidak tertolong.” Ia memandang Xiaolongnü, kemudian melanjutkan dengan suara yang lebih rendah. “Kami datang ke sini supaya dapat hidup bersama. Jika ia harus mati, bagiku tidak ada kehidupan yang dapat diselamatkan dengan meninggalkannya sendirian.”
+
+“Dani,” Huang Rong menyela, “keadaanmu masih berbeda dari keadaannya.”
+
+“Bagi Bibi mungkin berbeda. Bagiku, kami sudah menjadi suami-istri.” Dani menundukkan kepala kepada mereka. “Aku berutang kepada kalian dan kepada Nona Gongsun. Tetapi jangan meminta aku menyebut kehilangan istriku sebagai keselamatan.”
+
+Tidak seorang pun segera menemukan jawaban. Mereka mendengar pilihan seorang pemuda yang putus asa, bukan kepastian bahwa seluruh jalan penyembuhan telah habis. Xiaolongnü memeluknya semakin erat. Kesetiaan yang membuatnya bahagia itu kini juga membuatnya takut.
+
+Dani mencium rambut istrinya. Xiaolongnü menggenggam jubahnya semakin erat. Ia ingin terus berada di sana, ingin mempercayai bahwa selama mereka masih berpelukan, waktu belum akan memisahkan. Namun ketika batuk mengguncang dadanya dan Dani segera menunduk dengan cemas, ia kembali merasakan betapa berharganya nyawa yang tadi begitu mudah dilepaskan demi dirinya.
 
 ***
 
@@ -406,7 +440,7 @@ Kursi Qiu terseret.
 
 Perempuan itu tidak sempat menghentikannya. Suara kedua orang tersebut jatuh bersama ke kedalaman yang dahulu hanya menelan dirinya seorang. Sesudah benturan terakhir, lembah tidak lagi mendengar pertengkaran mereka.
 
-Dani berhenti ketika jeritan itu sampai ke jalan bawah. Ia mengenali arahnya. Long’er menggenggam tangannya; keduanya tidak berbicara. Dari seluruh keluarga yang pernah menguasai lembah, tak seorang pun tersisa untuk menyambut mereka pulang.
+Dani berhenti ketika jeritan itu sampai ke jalan bawah. Ia mengenali arahnya. Xiaolongnü menggenggam tangannya; keduanya tidak berbicara. Dari seluruh keluarga yang pernah menguasai lembah, tak seorang pun tersisa untuk menyambut mereka pulang.
 
 Di dekat ladang, Wu Santong dan Zhu Ziliu kembali berhadapan dengan Li Mochou. Kematian Tianzhu menambah tuntutan darah yang tidak dapat dijawabnya dengan senyum. Di belakang para pendekar, orang-orang mulai membakar Bunga Cinta agar durinya tidak terus mencari korban setelah tuan lembah mati.
 
@@ -416,101 +450,109 @@ Li mundur dari kepungan. Wajahnya pucat; racun bunga telah bekerja setiap kali k
 
 “Apakah Tianzhu menyerangmu bersama-sama?” tanya Zhu. “Ia bahkan sedang memungut tanaman.”
 
-Li mengalihkan pandangan. Ia melihat Dani membantu Long’er duduk di dekat batu, jauh dari lidah api. Pemuda itu membersihkan darah pada bibir istrinya, kemudian menyelimuti bahunya dengan jubah sendiri. Gerak kecil tersebut menembus pertahanan Li lebih dalam daripada senjata orang-orang di hadapannya.
+Li mengalihkan pandangan. Ia melihat Dani membantu Xiaolongnü duduk dekat batu, jauh dari lidah api. Pemuda itu membersihkan darah pada bibir istrinya, kemudian menyelimuti bahunya dengan jubah sendiri. Xiaolongnü menggenggam tangannya, menahan Dani tetap dekat.
 
-Dahulu ia juga menunggu seseorang mendekat dengan kelembutan seperti itu.
+Wajah Li berubah. Untuk sesaat api, para pengejar, bahkan nyeri di tubuhnya seperti menjauh. Yang terlihat olehnya ialah sepasang kekasih, dan lelaki itu sedang memberikan kelembutan yang dahulu disangkanya akan menjadi miliknya selamanya.
 
-“Adik,” panggilnya.
+“Lu Zhanyuan!”
 
-Long’er bangkit setengah berdiri. “Kakak, keluarlah dari bunga. Api sudah mendekat.”
+Teriakannya membuat Dani mengangkat kepala. Li melangkah ke arah mereka dengan mata basah, seakan nama tersebut benar-benar dapat memanggil kembali orang yang sudah lama mati.
 
-“Engkau menyuruhku keluar, lalu mereka membunuhku?”
+“Jadi engkau ada di sini… engkau masih dapat tersenyum kepadanya.”
 
-Long’er tidak menjanjikan sesuatu yang bukan haknya. Orang-orang itu kehilangan keluarga dan guru karena Li. Ia hanya memandang kakak seperguruannya dengan kesedihan yang tidak dapat menghapus perbuatan tersebut.
+“Kakak,” kata Xiaolongnü, bangkit dengan susah payah. “Ini Dani. Lu Zhanyuan sudah tidak ada.”
 
-Li memahami diam itu. Ia menoleh kepada nyala yang menjalar di semak. Dari bibirnya terdengar bait tentang cinta, tentang orang-orang yang mengikat hidup dan mati pada satu nama. Suaranya pecah ketika menyebut Lu Zhanyuan, lalu menjadi lembut seolah lelaki itu berdiri tepat di depannya.
+Li berhenti. Ia menatap lengan baju Dani yang kosong, lalu wajah adik seperguruannya. Kekeliruan itu berlalu, tetapi harapan yang sempat muncul membuat kenyataan sesudahnya terasa lebih kejam.
 
-“Engkau pernah berjanji kepadaku,” katanya kepada seseorang yang tidak ada di sana.
+“Tentu. Dia sudah tidak ada.” Tawa pendek keluar dari bibirnya. “Hanya aku yang terus mencarinya pada orang lain.”
+
+Api menggerogoti ranting di belakangnya. Li tidak menoleh. Ia pernah merawat lelaki yang terluka, meninggalkan tempat yang selama ini menjadi dunianya, lalu menyangka sebuah janji cukup kuat untuk menjaga cinta. Bertahun-tahun sesudahnya, ia masih dapat mengingat saat-saat bahagia itu lebih jelas daripada wajah orang-orang yang dibunuhnya demi membalas kehilangannya.
+
+Xiaolongnü mengulurkan tangan. “Keluarlah dahulu. Api sudah dekat.”
+
+Li melihat tangan itu, kemudian Dani yang menopang tubuh istrinya. Ia ingin mengucapkan ejekan seperti dahulu. Namun untuk sekali ini, melihat kedua orang tersebut tetap saling menjaga tidak membangkitkan keinginan memisahkan mereka. Yang muncul hanya keletihan karena menyadari bahwa kasih semacam itu sungguh ada—dan tidak datang kembali kepadanya.
+
+“Engkau beruntung, Adik.” Bibirnya bergetar sebelum senyum tipis terbentuk. “Jagalah orang yang masih memilih berdiri di sisimu.”
+
+Asap menyela napasnya. Li mundur ke dalam bunga yang terbakar. Tidak ada sorak kemenangan dari orang-orang yang mengepungnya; Wu Santong masih menggenggam senjata, sedangkan Wushuang menatap tanpa sanggup melupakan orang tua dan Hong Lingbo sekaligus.
+
+“Adik, aku pergi lebih dahulu.”
 
 “Kakak!”
 
-Long’er melangkah, tetapi Dani menahan pinggangnya. Api telah menutup jarak. Li tidak mencoba keluar lagi. Bayangannya hilang di balik nyala dan asap; suara yang tadi melantunkan bait terputus. Wu Santong menurunkan senjata, sementara Zhu Ziliu memejamkan mata.
+Xiaolongnü melangkah, tetapi Dani menahan pinggangnya. Nyala telah menutup jarak. Di baliknya, Li Mochou menengadahkan wajah dan mulai bersenandung, lirih seperti sedang mengulang pertanyaan yang sejak muda tak pernah selesai dijawabnya.
 
-Long’er memanggil sekali lagi. Tidak ada jawaban.
+“Tanyakan kepada dunia, apakah cinta itu… hingga hidup dan mati pun dijanjikan bersama?”
 
-Ia tidak memaafkan semua kekejaman Li. Ia tetap berduka kehilangan perempuan yang pernah berjalan di lorong perguruan yang sama, memanggil guru yang sama, dan dahulu juga mempunyai hari-hari sebelum kebencian menguasainya. Dani memeluknya sampai tubuhnya berhenti mencoba maju.
+Senandung itu terhenti oleh batuk, lalu diteruskan dengan suara yang lebih halus. Li memandang ruang kosong di hadapannya. Dalam ingatannya, Lu Zhanyuan belum berpaling. Ia masih lelaki terluka yang menunggu pertolongannya, dan dirinya masih perempuan yang percaya bahwa merawat seseorang berarti akan dicintai selama-lamanya.
+
+Bayangannya hilang di balik nyala dan asap. Suaranya bertahan sebentar lagi, kemudian putus. Xiaolongnü memanggil sekali lagi; hanya bunyi ranting terbakar yang menjawab.
+
+Dani memeluk istrinya sampai tubuhnya berhenti mencoba maju. Ia tidak dapat menyelamatkan Li Mochou, tidak pula menghapus nyawa-nyawa yang telah direnggutnya. Di sisinya, Xiaolongnü menangis untuk kakak seperguruan yang pernah mempunyai kehidupan sebelum kebencian mengambil seluruh tempat di dalamnya.
 
 ***
 
 Mereka memberi penghormatan kepada Tianzhu sebelum api mencapai tempat jenazahnya dibaringkan. Pada wajah biksu itu masih tertinggal ketenangan yang membuat Dani teringat pembaringan di ruang tahanan. Bedanya, kali ini tidak ada hitungan hari yang dapat menjanjikan ia akan membuka mata.
 
-Zhu memperlihatkan tanaman yang ditemukan dalam genggamannya. Huang Rong memeriksa daun dan akar, lalu memandang bunga-bunga yang tumbuh di tempat yang sama. Racun dan sesuatu yang dapat melawannya mungkin tidak terpisah sejauh dugaan mereka.
+Zhu memperlihatkan tanaman yang masih berada dalam genggaman Tianzhu kepada Huang Rong. Perempuan itu menerimanya dengan hati-hati, menyelipkannya ke dalam kain, lalu meminta agar semua yang ditemukan bersama tubuh tabib itu tetap disimpan. Dani sedang berlutut dekat pembaringan dan tidak memperhatikan percakapan lirih tersebut.
 
-“Rumput Patah Hati,” katanya. “Beliau tersenyum ketika menemukannya?”
+“Biksu,” katanya kepada Yideng, “periksalah istriku sekali lagi.”
 
-Zhu mengangguk. “Beliau sedang hendak mengatakan sesuatu kepadaku.”
-
-Huang Rong memandang Yideng. Petunjuk percobaan sang tabib, tanaman yang dipegangnya sampai mati, serta tempat tumbuhnya mengarah kepada jawaban yang sama. Rumput itu beracun, tetapi justru dapat melawan racun Bunga Cinta. Pengetahuan yang dicari Tianzhu tidak seluruhnya mati bersama dirinya.
-
-Long’er langsung mendekat. “Dani masih dapat ditolong?”
-
-“Kita mempunyai jalan,” jawab Huang Rong. “Tianzhu telah membayarnya dengan nyawanya. Jangan menyia-nyiakan apa yang ditemukannya.”
-
-Dani tidak mengambil tanaman tersebut. Ia memandang Yideng. “Dan Long’er?”
-
-Biksu itu memeriksa denyut Xiaolongnü sekali lagi. Obat tujuh hari telah mendekati akhir khasiatnya. Luka dalam dan racun yang menyebar ketika pengobatan terputus tidak dapat disamakan dengan racun bunga. Rumput itu tidak akan menyelesaikannya.
+Yideng memeriksa denyut Xiaolongnü. Obat tujuh hari telah mendekati akhir khasiatnya. Luka dalam dan racun yang menyebar ketika pengobatan terputus tidak dapat disamakan dengan racun bunga yang dibawa Dani.
 
 Keheningan Yideng memberi jawaban sebelum mulutnya bergerak.
 
 “Dengan pengetahuan dan keadaan yang kumiliki sekarang, aku tidak dapat menyembuhkannya.”
 
-Dani menunggu, seolah masih ada bagian kalimat yang belum selesai. Yideng tidak menambahkan janji. Long’er menyentuh tangan suaminya sebelum ia kembali memohon sesuatu yang tak sanggup diberikan siapa pun di sana.
+Dani menunggu, seolah masih ada bagian kalimat yang belum selesai. Yideng tidak menambahkan janji. Xiaolongnü menyentuh tangan suaminya sebelum ia kembali memohon sesuatu yang tak sanggup diberikan siapa pun di sana.
 
 “Kita menemui Lü’e dahulu,” katanya. “Aku ingin berterima kasih kepadanya.”
 
-Mereka menguburkan gadis itu di tempat yang tidak dijangkau api. Cheng Ying merapikan tanah bersama Wushuang. Huang Rong berdiri dengan Polu yang telah tidur; Fu tetap di belakang ibunya, tidak sanggup menatap lama wajah Dani dan Long’er.
+Mereka menguburkan gadis itu di tempat yang tidak dijangkau api. Cheng Ying merapikan tanah bersama Wushuang. Huang Rong berdiri dengan Polu yang telah tidur; Fu tetap di belakang ibunya, tidak sanggup menatap lama wajah Dani dan Xiaolongnü.
 
 Dani berlutut. Ia meletakkan tangan kirinya pada tanah baru dan mengingat jari Lü’e yang dahulu membersihkan luka duri pertamanya. Gadis itu telah menjelaskan racun kepadanya ketika ia bahkan belum memahami harga sebuah pikiran tentang orang yang dicintai.
 
 “Nona Gongsun, aku datang lagi membawa kesusahan,” katanya. “Engkau tetap menolongku. Sampai akhirnya aku tidak sempat menolongmu.”
 
-Long’er berlutut di sisinya. “Engkau ingin dia hidup. Aku mendengarmu.”
+Xiaolongnü berlutut di sisinya. “Engkau ingin dia hidup. Aku mendengarmu.”
 
 Dani menoleh, tetapi istrinya sedang menatap makam. Tidak ada sesuatu dalam wajahnya yang menjelaskan mengapa kalimat itu diucapkan begitu pelan.
 
-Ketika Dani dan Zhu membantu merapikan tempat peristirahatan, Huang Rong meminta Long’er berjalan sebentar bersamanya. Mereka berhenti di balik pepohonan, cukup jauh agar Dani tidak mendengar.
+Ketika Dani dan Zhu membantu merapikan tempat peristirahatan, Huang Rong meminta Xiaolongnü berjalan sebentar bersamanya. Mereka berhenti di balik pepohonan, cukup jauh agar Dani tidak mendengar.
 
 “Aku pernah memintamu meninggalkannya,” kata Huang Rong. “Aku mengira aku lebih mengetahui hidup yang baik baginya. Sekarang aku tidak akan mengulangi perkataan itu.”
 
-Long’er memandangnya tanpa menjawab.
+Xiaolongnü memandangnya tanpa menjawab.
 
-“Tetapi engkau telah melihat apa yang dilakukannya terhadap penawar. Jika engkau memintanya makan rumput ini, barangkali ia masih bersedia mendengar.”
+Huang Rong membuka sedikit kain yang membungkus tanaman temuan Tianzhu. Ia menjelaskan petunjuk sang tabib dan keyakinannya bahwa racun Bunga Cinta masih dapat dilawan. Tetapi setelah melihat Dani membuang penawar, ia tahu menemukan obat belum berarti membuatnya bersedia menerima pertolongan.
+
+“Jika engkau memintanya bertahan, barangkali ia masih bersedia mendengar.”
 
 “Aku sudah memintanya hidup.”
 
-“Cobalah lagi. Sekalipun keadaanmu belum tertolong sekarang, apakah engkau ingin kehilangan dia lebih dahulu? Bagaimana jika kelak ada jalan bagimu, sedangkan dia telah menolak jalan yang ada di depan matanya?”
+“Cobalah membuatnya mengerti bahwa ia belum boleh menyerah. Bagaimana jika kelak ditemukan jalan untuk mengobatimu, sedangkan ia sudah menolak setiap pertolongan karena mengira engkau pasti mati?”
 
-Long’er merapatkan kedua tangan di balik lengan baju. Ia ingin mempercayai kemungkinan yang disebut Huang Rong. Ia ingin pulang, memasak bubur yang tidak hangus, menegur Dani karena terlalu lama bermain dengan Polu. Keinginannya untuk hidup tidak menjadi lebih kecil hanya karena orang-orang mulai berbicara tentang bagaimana menyelamatkan suaminya tanpa dirinya.
+Xiaolongnü merapatkan kedua tangan di balik lengan baju. Ia ingin pulang, menegur Dani karena terlalu lama menggoda, melihat wajahnya menua tanpa harus membayangkannya lewat abu yang dioleskan pada rambut. Keinginannya untuk hidup tidak mengecil hanya karena orang-orang mulai membicarakan keselamatan suaminya tanpa dirinya.
 
 “Kalau aku mati,” katanya perlahan, “ia akan ikut mencariku.”
 
-Huang Rong tidak segera menjawab.
+Huang Rong tidak segera menjawab. Daun-daun itu tetap berada di tangannya; Xiaolongnü tidak mengambilnya.
 
-“Aku akan berbicara dengannya,” lanjut Long’er. “Tetapi jangan membuatnya meminum obat dengan paksa. Ia sudah terlalu banyak kehilangan sesuatu tanpa dapat memilih.”
+“Aku akan berbicara dengannya,” lanjut Xiaolongnü. “Tetapi jangan memaksanya. Ia sudah terlalu banyak kehilangan sesuatu tanpa dapat memilih.”
 
-Huang Rong menyerahkan tanaman yang dibungkus kain. Long’er menerimanya. Di antara jemarinya kini ada kesempatan hidup Dani, ringan sekali dibandingkan setengah pil yang tadi dilemparkan ke jurang.
+Huang Rong mengangguk dan menyimpan kembali bungkusan tersebut. Ia mengira mereka masih mempunyai malam untuk membujuk Dani. Xiaolongnü berpaling ke arah suaminya, dan kesunyian di wajahnya menyembunyikan keputusan yang belum sanggup diucapkannya.
 
 ***
 
-Malam itu mereka beristirahat di tempat yang masih selamat dari kebakaran. Dani duduk dekat lampu, sementara Long’er bersandar di sisinya. Pedang Xuantie diletakkan dalam jangkauan, seperti kebiasaan sejak mereka meninggalkan Makam Kuno. Tidak ada musuh yang datang. Untuk pertama kalinya, senjata itu tidak memberi Dani rasa aman.
+Malam itu mereka beristirahat di tempat yang masih selamat dari kebakaran. Dani duduk dekat lampu, sementara Xiaolongnü bersandar di sisinya. Pedang Xuantie diletakkan dalam jangkauan, seperti kebiasaan sejak mereka meninggalkan Makam Kuno. Tidak ada musuh yang datang. Untuk pertama kalinya, senjata itu tidak memberi Dani rasa aman.
 
-“Bibi Guo memberimu rumput itu,” katanya.
+“Apa yang dikatakan Bibi Guo kepadamu?” tanya Dani.
 
-Long’er mengangguk.
+“Ia ingin engkau tetap hidup.”
 
-“Engkau akan memintaku memakannya lagi?”
+“Semua orang sudah mengatakannya.”
 
-“Aku akan memintamu menemaniku lebih lama.”
+“Aku juga menginginkannya.” Xiaolongnü mengangkat wajah. “Malam ini, temanilah aku lebih lama.”
 
 Dani memandang wajahnya. Ia selalu berbicara terus terang kepadanya; karena itu kalimat yang begitu sederhana dapat membuatnya lebih takut daripada segala peringatan tabib.
 
@@ -520,7 +562,7 @@ Dani memandang wajahnya. Ia selalu berbicara terus terang kepadanya; karena itu 
 
 “Biasanya aku memperhatikan wajah guruku. Kesalahanku hanya memilih tempat yang lebih menarik.”
 
-Long’er tersenyum. Senyum itu datang dengan air mata yang tidak segera jatuh.
+Xiaolongnü tersenyum. Senyum itu datang dengan air mata yang tidak segera jatuh.
 
 “Lalu engkau berpura-pura tidak mengerti supaya aku berdiri lebih dekat.”
 
@@ -532,7 +574,7 @@ Dani menariknya lebih dekat. “Engkau tidak terlambat menjadi istriku.”
 
 “Aku ingin menjadi istrimu lama sekali.”
 
-Kalimat itu menghentikan semua gurauan. Dani menunduk dan mencium keningnya. Long’er memejamkan mata; ketika membukanya lagi, ia melihat suaminya juga sedang berusaha menahan tangis.
+Kalimat itu menghentikan semua gurauan. Dani menunduk dan mencium keningnya. Xiaolongnü memejamkan mata; ketika membukanya lagi, ia melihat suaminya juga sedang berusaha menahan tangis.
 
 “Aku takut,” katanya. “Bukan karena sakitnya. Aku takut suatu pagi engkau bangun dan aku tidak dapat menjawab ketika dipanggil.”
 
@@ -546,17 +588,17 @@ Dani menegang. “Mengapa engkau menanyakan itu?”
 
 “Jangan pergi lagi.” Suaranya berubah. “Di sungai, di jalan, di lembah ini—aku sudah terlalu sering datang ketika tempatmu kosong. Aku dapat menghadapi orang yang mengangkat senjata. Aku tidak mengetahui cara menghadapi pagi tanpa tahu di mana engkau berada.”
 
-Long’er memeluknya. Selama beberapa saat ia tidak mampu mengatakan apa-apa. Ia merasakan ketakutan yang sama dalam tubuh Dani, mengetahui bahwa keputusan yang mulai terbentuk dalam dirinya akan melukai orang yang hendak diselamatkannya.
+Xiaolongnü memeluknya. Selama beberapa saat ia tidak mampu mengatakan apa-apa. Ia merasakan ketakutan yang sama dalam tubuh Dani, mengetahui bahwa keputusan yang mulai terbentuk dalam dirinya akan melukai orang yang hendak diselamatkannya.
 
 “Aku tidak pernah berhenti mencintaimu ketika pergi,” bisiknya.
 
 “Aku mengetahui itu sekarang. Tetapi cinta tidak membuat pencarianmu terasa lebih singkat.”
 
-Long’er menempelkan pipi pada bahunya. “Kalau suatu hari engkau harus menunggu, tunggulah aku sambil tetap hidup.”
+Xiaolongnü menempelkan pipi pada bahunya. “Kalau suatu hari engkau harus menunggu, tunggulah aku sambil tetap hidup.”
 
 “Long’er…”
 
-Ia mengangkat wajah dan menciumnya. Ciuman itu tidak menghapus pertanyaan Dani; ia hanya membuat pemuda tersebut berhenti berbicara sesaat. Long’er menyentuh rambut di pelipisnya, tempat abu pernah membuat mereka tampak tua.
+Ia mengangkat wajah dan menciumnya. Ciuman itu tidak menghapus pertanyaan Dani; ia hanya membuat pemuda tersebut berhenti berbicara sesaat. Xiaolongnü menyentuh rambut di pelipisnya, tempat abu pernah membuat mereka tampak tua.
 
 “Aku masih ingin melihat rambutmu menjadi putih sungguhan.”
 
@@ -566,11 +608,11 @@ Ia mengangkat wajah dan menciumnya. Ciuman itu tidak menghapus pertanyaan Dani; 
 
 “Kalau begitu, aku akan kehilangan hiburan terbaikku.”
 
-Long’er tertawa di antara tangisnya. Dani mengusap pipinya dan membiarkan ia bersandar sampai napasnya lebih tenang. Mereka berbicara tentang jalan pulang ke makam, tentang lebah yang barangkali telah kembali ke sarangnya, tentang rumah yang belum sempat mereka tinggali sebagai pasangan tanpa ada orang datang mengejar.
+Xiaolongnü tertawa di antara tangisnya. Dani mengusap pipinya dan membiarkan ia bersandar sampai napasnya lebih tenang. Mereka berbicara tentang jalan pulang ke makam, tentang lebah yang barangkali telah kembali ke sarangnya, tentang rumah yang belum sempat mereka tinggali sebagai pasangan tanpa ada orang datang mengejar.
 
 Ketika keletihan akhirnya menutup mata Dani, tangan kirinya masih menggenggam jemari istrinya.
 
-Long’er menunggunya benar-benar tertidur. Ia memandang wajah itu lama—alis yang dahulu mudah berkerut saat ditegur, bibir yang selalu menemukan cara menggodanya, bekas luka yang tidak ada ketika mereka pertama bertemu. Ia merapikan jubah di bahunya dan menangis tanpa suara.
+Xiaolongnü menunggunya benar-benar tertidur. Ia memandang wajah itu lama—alis yang dahulu mudah berkerut saat ditegur, bibir yang selalu menemukan cara menggodanya, bekas luka yang tidak ada ketika mereka pertama bertemu. Ia merapikan jubah di bahunya dan menangis tanpa suara.
 
 “Aku ingin tinggal,” bisiknya kepada orang yang tidak dapat mendengar. “Dani, aku sungguh ingin tinggal.”
 
@@ -578,11 +620,11 @@ Ia melepaskan jemarinya perlahan.
 
 ***
 
-Menjelang fajar, Long’er berdiri di Tebing Patah Hati. Angin menyentuh pakaiannya yang putih. Di tangannya ada pedang pinjaman; pada dinding batu ia meninggalkan pesan dengan goresan yang harus diulang ketika kekuatannya melemah.
+Menjelang fajar, Xiaolongnü berdiri di Tebing Patah Hati. Angin menyentuh pakaiannya yang putih. Di tangannya ada pedang pinjaman; pada dinding batu ia meninggalkan pesan dengan goresan yang harus diulang ketika kekuatannya melemah.
 
-Tujuh tahun lagi, pada hari ini, kita bertemu di sini. Dani, tunggulah aku. Jagalah dirimu sampai kita berjumpa kembali.
+Tujuh tahun lagi, pada hari ini, kita bertemu kembali di tebing ini. Semoga kasih kita tetap utuh. Jangan mengingkari janji.
 
-Ia membubuhkan nama yang dahulu diberikan gurunya, nama yang kini hanya ingin didengarnya dari mulut suaminya: Long’er.
+Aku, Xiaolongnü, istrimu, memohon perkenanmu, suamiku Dani Moan, untuk bertemu kembali di tebing ini.
 
 Sesudah huruf terakhir selesai, ia menyentuh batu itu dengan telapak. Tujuh tahun dipilihnya sebagai jarak yang diharapkan dapat menahan Dani dari mengikuti kematiannya. Ia tidak mengetahui apakah waktu akan membuatnya melupakan, hanya berharap kesedihan yang hari ini terasa tak tertanggungkan kelak memberi sedikit ruang untuk hidup.
 
@@ -590,13 +632,13 @@ Harapan itu tidak membuat langkahnya ringan. Ia menangis ketika meletakkan pedan
 
 “Jangan datang mencariku sekarang.”
 
-Kabut bergerak di bawah tebing. Long’er menutup mata, membawa nama Dani pada napas terakhir sebelum tubuhnya meninggalkan pijakan. Pagi belum terang ketika pakaian putih itu lenyap dari pandangan.
+Kabut bergerak di bawah tebing. Xiaolongnü menutup mata, membawa nama Dani pada napas terakhir sebelum tubuhnya meninggalkan pijakan. Pagi belum terang ketika pakaian putih itu lenyap dari pandangan.
 
 ***
 
 Dani bangun karena tangannya dingin.
 
-Ia meraba tempat di sebelahnya. Selimut masih ada; Long’er tidak. Untuk sesaat ia mengira istrinya mengambil air, lalu melihat bungkus Rumput Patah Hati yang diletakkan rapi dekat lampu. Ia berdiri begitu cepat hingga lampu terguling.
+Ia meraba tempat di sebelahnya. Selimut masih ada; Xiaolongnü tidak. Untuk sesaat ia mengira istrinya mengambil air. Lalu ia melihat pedang pinjaman yang tadi diletakkan dekat pintu telah dibawa pergi. Ia berdiri begitu cepat hingga lampu terguling.
 
 “Long’er!”
 
@@ -610,21 +652,21 @@ Huang Rong berdiri. Melihat wajahnya, Dani segera teringat pembicaraan di balik 
 
 “Apa yang Bibi katakan kepadanya?”
 
-“Aku memintanya membujukmu menerima obat.”
+“Aku memintanya membujukmu supaya tetap mau hidup.”
 
 “Bibi pernah menyuruhnya pergi.”
 
 “Kali ini aku tidak menyuruhnya meninggalkanmu.” Huang Rong menahan suaranya agar tetap jelas. “Aku mengatakan bahwa hidupmu masih dapat diselamatkan. Itu yang kubicarakan dengannya.”
 
-Dani mundur setapak. Kalimat Long’er pada malam sebelumnya kembali satu per satu: makan, tidur, menunggu sambil tetap hidup. Ia tidak menunggu lagi. Xuantie tersandang di punggungnya ketika ia berlari menuju jalan tebing.
+Dani mundur setapak. Kalimat Xiaolongnü pada malam sebelumnya kembali satu per satu: makan, tidur, menunggu sambil tetap hidup. Ia tidak menunggu lagi. Xuantie tersandang di punggungnya ketika ia berlari menuju jalan tebing.
 
 Jejak yang ditemukannya berakhir di depan dinding batu.
 
-Dani berhenti. Goresan itu tidak indah seperti tulisan yang dibuat dengan kuas, tetapi ia mengenali keteguhan tangan Long’er di dalamnya. Ia membaca baris pertama, kemudian mengulanginya. Tujuh tahun. Hari yang sama. Tempat yang sama.
+Dani berhenti. Goresan itu tidak indah seperti tulisan yang dibuat dengan kuas, tetapi ia mengenali keteguhan tangan Xiaolongnü di dalamnya. Ia membaca baris pertama, kemudian mengulanginya. Tujuh tahun. Hari yang sama. Tempat yang sama.
 
 “Engkau baru saja berjanji ingin menjadi istriku lama sekali.”
 
-Ia menyentuh nama Long’er dengan tangan kiri. Di dekatnya terletak pedang yang dipakai menulis. Dani menoleh ke jurang; kabut menutup seluruh kedalaman.
+Ia menyentuh nama Xiaolongnü dengan tangan kiri, lalu mengulangi kata yang ditulisnya: istrimu. Di dekatnya terletak pedang yang dipakai menulis. Dani menoleh ke jurang; kabut menutup seluruh kedalaman.
 
 “Long’er!”
 
@@ -636,7 +678,7 @@ Seruannya kembali sebagai gema. Ia memanggil lagi, lebih keras, sampai napasnya 
 
 Wushuang berdiri di sisi lain. Ia tidak memanggilnya Si Bodoh. Wajah pemuda di hadapannya membuat semua teguran yang biasa mudah keluar menjadi tidak berguna.
 
-Huang Rong tiba bersama Yideng. Ia membaca tulisan itu dan melihat pedang di dekat dinding. Ketakutan menekan dadanya: ia telah meminta Long’er menyelamatkan Dani, tetapi tidak membayangkan harga yang dipilih perempuan tersebut.
+Huang Rong tiba bersama Yideng. Ia membaca tulisan itu dan melihat pedang di dekat dinding. Ketakutan menekan dadanya: ia telah meminta Xiaolongnü menyelamatkan Dani, tetapi tidak membayangkan harga yang dipilih perempuan tersebut.
 
 Dani berpaling kepadanya. “Bibi mengetahui sesuatu.”
 
@@ -646,9 +688,9 @@ Huang Rong memandang tepi jurang, lalu tulisan tujuh tahun. Jika ia hanya menguc
 
 Dani membeku. “Siapa?”
 
-“Seorang pertapa perempuan yang mempunyai pengetahuan pengobatan luar biasa. Long’er mempunyai kesempatan pergi bersamanya untuk menyembuhkan luka.”
+“Seorang pertapa perempuan yang mempunyai pengetahuan pengobatan luar biasa. Xiaolongnü mempunyai kesempatan pergi bersamanya untuk menyembuhkan luka.”
 
-Kisah itu lahir pada saat Huang Rong mengucapkannya. Ia tidak pernah menerima kabar bahwa seorang biarawati datang menjemput Long’er. Namun ia melihat cara Dani memandang jurang, dan memilih memberikan sesuatu yang dapat dipegangnya selain dugaan kematian.
+Kisah itu lahir pada saat Huang Rong mengucapkannya. Ia tidak pernah menerima kabar bahwa seorang biarawati datang menjemput Xiaolongnü. Namun ia melihat cara Dani memandang jurang, dan memilih memberikan sesuatu yang dapat dipegangnya selain dugaan kematian.
 
 “Kalau dia dapat disembuhkan, mengapa meninggalkanku?”
 
@@ -660,33 +702,39 @@ Kisah itu lahir pada saat Huang Rong mengucapkannya. Ia tidak pernah menerima ka
 
 Dani menatap Yideng, mencari sesuatu pada wajah biksu itu. Yideng tidak mengaku menyaksikan kedatangan biarawati tersebut. Ia hanya berkata, “Pesan istrimu ada di hadapanmu. Jangan mengakhiri kesempatan untuk menepatinya pada hari pertama.”
 
-Dani kembali kepada dinding. Ketidakpastian itu tidak hilang. Ia masih melihat pedang yang ditinggalkan, masih mendengar angin dari jurang. Tetapi di antara semua hal yang tidak diketahuinya, ada satu perintah yang benar-benar ditulis oleh Long’er: jagalah dirimu.
+Dani kembali kepada dinding. Ketidakpastian itu tidak hilang. Ia masih melihat pedang yang ditinggalkan, masih mendengar angin dari jurang. Tetapi di antara semua hal yang tidak diketahuinya, ada satu permintaan yang benar-benar ditulis oleh istrinya: datanglah memenuhi pertemuan ini. Ia membaca sekali lagi kata-kata yang menempatkannya sebagai suami, orang yang masih ditunggu.
 
-Huang Rong membuka bungkusan Rumput Patah Hati yang dibawanya. Dani memandang daun itu, lalu nama istrinya.
+“Ia meminta aku datang,” katanya akhirnya. “Kalau aku tidak hidup sampai hari itu, siapa yang akan menemuinya?”
 
-“Kalau aku sembuh, aku dapat datang menunggunya.”
+Huang Rong menunggu sampai Dani berpaling dari jurang dan duduk pada batu yang kokoh. Barulah ia membuka kain yang sejak tadi disimpannya.
 
-“Ya,” jawab Huang Rong. Kali ini ia tidak berdusta.
+“Sekarang dengarkanlah satu perkara lagi. Tianzhu meninggalkan petunjuk untuk mengobati racunmu.”
 
-Dani menerima obat tersebut. Yideng dan Zhu Ziliu mengawasi ketika ia memakannya, lalu menuntunnya duduk menjauh dari tepi. Nyeri datang dengan keras; ia membungkuk, darah keluar dari mulutnya, dan Cheng Ying segera menahan bahunya. Dani tidak melepaskan pandangan dari tulisan di batu.
+Dani memandang tanaman di tangannya. “Beliau sudah meninggal sebelum sempat mengatakannya.”
 
-Waktu berlalu sebelum napasnya mulai teratur. Racun yang selama ini menjadikan setiap ingatan tentang Long’er sebagai siksaan tubuh mulai dilawan obat temuan Tianzhu. Akan tetapi tak ada daun yang dapat menyelesaikan tempat kosong di sebelahnya.
+“Tetapi ia meninggal sambil tersenyum, dengan tanaman ini dalam genggamannya. Ia menemukannya setelah mencoba racun Bunga Cinta pada tubuhnya sendiri.” Huang Rong memperlihatkan daun itu. “Namanya Rumput Patah Hati. Ia pun beracun, tetapi sifat racunnya dapat melawan racun bunga. Kita akan mencobanya dengan hati-hati; Yideng dan Zhu Ziliu akan mendampingimu.”
 
-Ketika sanggup berdiri kembali, Dani mendekati dinding. Ia menempelkan telapak pada nama istrinya dan membungkukkan kepala.
+Dani tidak lagi menepis tangan yang menawarkan pertolongan. Ia menatap daun tersebut lama, lalu kembali membaca nama istrinya. Tanaman itu tidak menjanjikan bahwa Xiaolongnü akan pulang. Ia memberinya kesempatan untuk tetap berada di dunia ketika hari pertemuan tiba.
+
+“Berikan kepadaku, Bibi.”
+
+Huang Rong menyerahkan bungkusan itu. Cheng Ying berlutut di dekat Dani, sementara Wushuang menyingkirkan kerikil dari tempat ia duduk. Tidak seorang pun mendesaknya berbicara lagi.
+
+Dani menempelkan telapak pada nama istrinya dan membungkukkan kepala.
 
 “Aku akan hidup, Long’er. Pada hari yang kautulis, aku datang ke sini.”
 
 Ia berhenti, menelan tangis yang membuat kalimat berikutnya sulit diucapkan.
 
-“Jangan terlambat. Aku tidak pandai menunggu kalau yang kutunggu adalah engkau.”
+“Engkau sudah memohon kepada suamimu. Bagaimana mungkin aku tidak datang?”
 
 Angin melewati tebing. Tidak ada jawaban, tetapi Dani tidak maju ke jurang lagi. Ia duduk di bawah pesan itu sampai cahaya pagi menyentuh setiap goresannya, dengan pedang berat di sisinya dan tujuh tahun yang belum dapat dibayangkannya terbentang di depan.
 
 ---
 
-- Dani 19 tahun dan Long’er 21 tahun; tetap suami-istri. Lengan kanan Dani putus di atas siku, hanya kiri berfungsi. Xuantie tetap bersamanya; tingkat 4, belum ada Tapak Melankolis.
+- Dani 19 tahun dan Xiaolongnü 21 tahun; tetap suami-istri. Lengan kanan Dani putus di atas siku, hanya kiri berfungsi. Xuantie tetap bersamanya; tingkat 4, belum ada Tapak Melankolis.
 - Polu telah kembali kepada Huang Rong. Ci’en tidak melukai bayi; penyesalan menghentikannya dan ia meninggalkan lembah hidup-hidup. Yideng tetap memulihkan luka.
-- Lü’e menolong melalui biji kurma, memilih obat asli, kemudian tewas pada pedang ayahnya. Gongsun dan Qiu jatuh bersama; Li tewas dalam api. Tianzhu dibunuh Li sebelum itu; Rumput Patah Hati yang ditemukannya menolong Dani.
-- Long’er mengambil penawar dari Gongsun dengan dua pedang pinjaman; Dani membuang pil karena tidak mau hidup tanpa dirinya. Kesediaan Long’er atas pernikahan kedua berasal dari lore; Dani menolak tanpa memberi janji cinta palsu kepada Lü’e.
-- Long’er meninggalkan pesan dan melompat dari Tebing Patah Hati. Dani tidak menyaksikan lompatan dan belum mengetahui nasibnya. Cerita Biarawati Suci Laut Selatan dibuat Huang Rong untuk memberinya harapan; bukan tokoh penyelamat yang terbukti hadir.
-- Janji pertemuan tujuh tahun sesuai lore. Bab berakhir pada awal penantian setelah Dani menerima obat; belum ada lompatan waktu, sumpah saudara atau latihan lanjutan. Keadaan Long’er di bawah jurang tidak dibuka di wiki.
+- Lü’e menolong melalui biji kurma, memilih obat asli, kemudian tewas pada pedang ayahnya. Gongsun dan Qiu jatuh bersama; Li tewas dalam api. Tianzhu dibunuh Li sebelum itu; Huang Rong menyimpan petunjuk Rumput Patah Hati dan baru menjelaskannya kepada Dani setelah ia memilih hidup.
+- Xiaolongnü bertarung sendiri di batu rapuh; Dani dan Huang Rong mengganggu konsentrasi Gongsun. Ia merebut penawar dengan dua pedang pinjaman; Dani membuang pil karena tidak mau hidup tanpa dirinya. Kesediaan Xiaolongnü atas pernikahan kedua berasal dari lore; Dani menolak tanpa memberi janji cinta palsu kepada Lü’e.
+- Xiaolongnü meninggalkan pesan dan melompat dari Tebing Patah Hati. Dani tidak menyaksikan lompatan dan belum mengetahui nasibnya. Cerita Biarawati Suci Laut Selatan dibuat Huang Rong untuk memberinya harapan; bukan tokoh penyelamat yang terbukti hadir.
+- Janji pertemuan tujuh tahun sesuai lore. Bab berakhir setelah Dani menerima Rumput Patah Hati untuk dicoba pada pembuka Bab 23; belum ada lompatan waktu, sumpah saudara atau latihan lanjutan. Keadaan Xiaolongnü di bawah jurang tidak dibuka di wiki.

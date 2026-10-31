@@ -1,3 +1,5 @@
+> Koreksi 31 Oktober 2026: lihat `koreksi-kanon-2026-10-31.md`. Ci’en dapat melihat; istilah buta pada catatan lama adalah pembacaan yang telah dibatalkan. Urutan obat akhir Bab 22, profil wiki dan tambahan Bab 13 mengikuti catatan terbaru.
+
 # Kontinuitas Bab 21 — revisi 29 Oktober 2026
 
 Bermain salju → mendengar pengkhianatan → He ditotok → hasutan Huodu → Yideng terluka → Dani mengalahkan Ci’en. Yideng tidak memisahkan duel. Sebelum lompatan penyelamatan, Polu dititipkan kepada Yideng; bayi kemudian diambil Long’er untuk dikembalikan kepada Huang Rong. Perkenalan dan pengepungan mengikuti koreksi penulis.

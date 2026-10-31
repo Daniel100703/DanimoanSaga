@@ -1,3 +1,5 @@
+> Koreksi 31 Oktober 2026: lihat `koreksi-kanon-2026-10-31.md`. Ci’en dapat melihat; istilah buta pada catatan lama adalah pembacaan yang telah dibatalkan. Urutan obat akhir Bab 22, profil wiki dan tambahan Bab 13 mengikuti catatan terbaru.
+
 # Acuan kanon manusia salju — keputusan 28 Oktober 2026
 
 Penulis telah menetapkan **serial The Return of the Condor Heroes 2014 (Chen Xiao–Michelle Chen)** sebagai acuan, dengan lore Saga Dani Moan tetap diikuti. Klarifikasi selesai; izin publikasi tetap berlaku.

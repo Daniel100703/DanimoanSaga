@@ -1,3 +1,5 @@
+> Koreksi 31 Oktober 2026: lihat `koreksi-kanon-2026-10-31.md`. Ci’en dapat melihat; istilah buta pada catatan lama adalah pembacaan yang telah dibatalkan. Urutan obat akhir Bab 22, profil wiki dan tambahan Bab 13 mengikuti catatan terbaru.
+
 # Koreksi peta Bab 21 dan Wiki Persilatan
 
 **Pembaruan 28 Oktober 2026:** naskah Bab 18–21 telah direvisi. Koreksi terbaru dan alasan adaptasi ada di [catatan revisi](https://daniel100703.github.io/DanimoanSaga/editorial/revisi-bab-18-21-2026-10-28.md); pegangan terkini ada di `pegangan-chat-berikutnya.md`. Ketentuan lama yang bertentangan tidak berlaku.

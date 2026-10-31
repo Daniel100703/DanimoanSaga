@@ -55,7 +55,7 @@ def home(single):
     for c in CHAPTERS:
         ps,_=load_chapter(c);words=len(re.findall(r'\b\w+(?:[-’]\w+)*\b',' '.join(ps)))
         rows.append(f'''<li><a class="chapter-row" href="{link(c['slug'],single=single)}"><span class="chapter-index">{c['id']:02}</span>{image_tag(c['cover'],'',True)}<div><h3>{esc(c['title'])}</h3><p class="desc">{esc(c['description'])}</p><p class="time">± {math.ceil(words/220)} menit membaca</p><p class="row-progress" data-progress-for="{c['slug']}"></p></div><span class="arrow" aria-hidden="true">→</span></a></li>''')
-    plan_link='' if single else '<p class="edition-note"><a href="peta-bab-22.html">Peta Bab 22 — alur yang telah diadaptasi (mengandung bocoran)</a></p>'
+    plan_link='' if single else '<p class="edition-note"><a href="peta-bab-23.html">Peta Bab 23 — rencana kelanjutan (mengandung bocoran)</a></p>'
     return f'''<section class="home is-active" data-view="beranda" id="beranda"><div class="home-hero"><figure class="home-cover">{image_tag(BOOK['mainCover'],'Sampul Saga Dani Moan: Dani, Xiaolongnü, dan rajawali di antara pegunungan berkabut.',False)}</figure><div class="home-copy"><p class="eyebrow">Fanfiksi The Return of the Condor Heroes</p><h1 class="home-title">Saga<br>Dani Moan</h1><p class="home-intro">Dari rumah yang sunyi menuju dunia persilatan, Dani mencari tempat untuk pulang. Bersama Xiaolongnü, ia menemukan cinta yang harus dipertahankan di tengah dendam, kehilangan, dan tuntutan kehormatan.</p><p class="byline">Daniel Halomoan Siregar</p><p class="fanfic-note">Karya fanfiksi tidak resmi, terinspirasi dunia <em>The Return of the Condor Heroes</em> karya Jin Yong dan serial 2014, dengan tokoh Dani Moan serta lore tersendiri.</p><p class="edition-note">Edisi revisi · Diperbarui sampai Bab {len(CHAPTERS)}</p><div class="hero-meta"><span>Fanfiksi wuxia</span><span>Bab 1–{len(CHAPTERS)}</span><span>Berilustrasi</span></div><div class="hero-actions"><a class="primary" data-home-resume href="{link(CHAPTERS[0]['slug'],single=single)}">Mulai Bab 1 <span aria-hidden="true">→</span></a><a class="quiet-link" href="{link('beranda','daftar-bab',single)}">Lihat daftar bab</a></div><p class="resume-home"></p></div></div><section id="daftar-bab" aria-labelledby="list-title"><div class="section-head"><h2 id="list-title">Daftar bab</h2><span>{len(CHAPTERS)} bab tersedia</span></div><ol class="chapter-list">{''.join(rows)}</ol>{plan_link}</section></section>'''
 def chapter(c,single):
     ps,notes=load_chapter(c);parts=[];used=set();memory=False;num=0;seen={}
@@ -65,7 +65,9 @@ def chapter(c,single):
         if c['id']==1 and (p.startswith('“Selama masih bisa dipakai,') or p.startswith('“Untuk apa kau mengambil ini?”') or p.startswith('Ia berumur lima tahun')):
             memory=True;parts.append('<section class="memory" aria-label="Kenangan"><p class="eyebrow">Kenangan</p>')
         num+=1;pid=f'p-{c["id"]:02}-{num:03}'
-        parts.append(f'<p id="{pid}"'+(' data-first' if num==1 else '')+'>'+lore.annotate(p,c['id'],num,seen)+'</p>')
+        cue=next((x['mood'] for x in c.get('musicCues',[]) if x['anchor'] in p),None)
+        music_attr=f' data-music-cue="{esc(cue)}"' if cue else ''
+        parts.append(f'<p id="{pid}"'+music_attr+(' data-first' if num==1 else '')+'>'+lore.annotate(p,c['id'],num,seen)+'</p>')
         for i,plate in enumerate(c['plates']):
             if plate['anchor'] in p:
                 assert i not in used,(c['id'],i,'Ilustrasi ganda')
@@ -99,8 +101,9 @@ def document(current='beranda',single=False):
     c=next((x for x in CHAPTERS if x['slug']==current),None)
     title=f'Bab {c["id"]} · {c["title"]} — Saga Dani Moan' if c else 'Saga Dani Moan · Novel berilustrasi'
     content=(home(single)+''.join(chapter(c,single) for c in CHAPTERS)+lore.wiki_view(CHAPTERS)) if single else (chapter(c,False) if c else lore.wiki_view(CHAPTERS) if current=='wiki' else home(False))
+    music_scripts=''.join('<script>'+ (BASE/name).read_text(encoding='utf-8')+'</script>' if single else f'<script src="{name}?v=20261031"></script>' for name in ('score.js','music.js'))
     return f'''<!doctype html>
-<html lang="id"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="color-scheme" content="light dark"><meta name="description" content="{esc(c['description'] if c else BOOK['description'])}"><meta name="author" content="Daniel Halomoan Siregar"><title>{esc(title)}</title><link rel="icon" type="image/svg+xml" href="favicon.svg"><link rel="stylesheet" href="reader.css?v=20261028fanfic"></head><body data-mode="{'single' if single else 'pages'}" data-page="{current}" data-current="{current}">{header(current,single)}<main>{content}</main><footer class="footer"><p>SAGA DANI MOAN · FANFIKSI BERILUSTRASI</p><p>Daniel Halomoan Siregar</p><a href="{link('beranda',single=single)}">Kembali ke beranda</a></footer>{data_scripts(single)}<script src="reader.js?v=20261012shared"></script>{lore.shell(embed_data=single)}</body></html>'''
+<html lang="id"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="color-scheme" content="light dark"><meta name="description" content="{esc(c['description'] if c else BOOK['description'])}"><meta name="author" content="Daniel Halomoan Siregar"><title>{esc(title)}</title><link rel="icon" type="image/svg+xml" href="favicon.svg"><link rel="stylesheet" href="reader.css?v=20261031music"></head><body data-mode="{'single' if single else 'pages'}" data-page="{current}" data-current="{current}">{header(current,single)}<main>{content}</main><footer class="footer"><p>SAGA DANI MOAN · FANFIKSI BERILUSTRASI</p><p>Daniel Halomoan Siregar</p><a href="{link('beranda',single=single)}">Kembali ke beranda</a></footer>{data_scripts(single)}<script src="reader.js?v=20261012shared"></script>{lore.shell(embed_data=single)}{music_scripts}</body></html>'''
 def uri(path):
     mime={'.woff':'font/woff','.webp':'image/webp','.svg':'image/svg+xml'}[path.suffix]
     return 'data:'+mime+';base64,'+base64.b64encode(path.read_bytes()).decode()
@@ -108,7 +111,7 @@ def standalone(path):
     doc=document(single=True)
     css=(BASE/'reader.css').read_text(encoding='utf-8')
     css=re.sub(r"url\('([^']+)'\)",lambda m:"url('"+uri(BASE/m[1])+"')",css)
-    doc=doc.replace('<link rel="stylesheet" href="reader.css?v=20261028fanfic">','<style>'+css+'</style>')
+    doc=doc.replace('<link rel="stylesheet" href="reader.css?v=20261031music">','<style>'+css+'</style>')
     doc=doc.replace('<script src="reader.js?v=20261012shared"></script>','<script>'+(BASE/'reader.js').read_text(encoding='utf-8')+'</script>')
     doc=doc.replace('<script src="lore.js?v=20261018levels"></script>','<script>'+(BASE/'lore.js').read_text(encoding='utf-8')+'</script>')
     cache={}

@@ -140,6 +140,50 @@ Huang Yaoshi menatapnya tajam, kemudian tertawa. “Bocah ini! Aku baru membuka 
 
 Huang tertawa sampai Cheng Ying ikut tersenyum. Sesudah itu percakapan mereka mengalir lebih bebas; selisih usia tidak menghalangi keduanya saling menyela. Dani tetap mengakui betapa dangkal pengetahuannya di hadapan sang tetua, tetapi tak lagi duduk seperti terdakwa menunggu keputusan. Untuk pertama kali sejak aula, ia dapat menyebut cinta kepada Xiaolongnü tanpa bersiap disuruh malu.
 
+Malam itu Dani tertidur sesudah obatnya habis. Cheng Ying keluar membawa cawan kosong dan mendapati Huang Yaoshi masih duduk di bawah pohon. Arak di depannya hampir tidak tersentuh. Dari dalam rumah, napas orang yang mereka rawat terdengar teratur.
+
+“Guru senang sekali berbicara dengannya,” kata Cheng Ying.
+
+“Ia berani mengakui siapa yang dicintainya.” Huang memutar cawan. “Ada orang yang sampai tua masih harus belajar keberanian seperti itu.”
+
+Cheng Ying duduk di bangku seberang. “Guru pernah…?” Pertanyaan itu berhenti sebelum selesai.
+
+“Mei Chaofeng,” jawab Huang. Nama itu keluar perlahan, seperti benda lama yang baru diangkat dari dasar peti. “Kakak seperguruanmu. Sebelum memakai nama itu, ia bernama Mei Ruohua. Aku membawanya ke Pulau Bunga Persik dan mengajarinya banyak hal. Tetapi ketika hatiku sendiri berubah, aku justru tidak tahu harus berbuat apa.”
+
+Daun jatuh ke dekat cawannya. Huang membiarkannya di sana.
+
+“Aku mengejek orang yang tunduk kepada adat. Begitu adat itu menunjuk diriku sendiri, aku takut. Guru menyukai muridnya—bayangan perkataan orang saja cukup membuatku menghukumnya dengan sikap dingin. Seolah-olah ia bersalah karena aku tidak berani.”
+
+“Apakah Kakak Mei mengetahuinya?”
+
+Huang memandang jendela tempat Dani tidur. “Ada hal yang tidak menjadi jelas hanya karena dua orang sama-sama merasakannya. Aku tidak pernah memberinya jawaban yang patut.”
+
+Ia bercerita tentang Chen Xuanfeng yang kemudian pergi bersama Mei Chaofeng membawa Kitab Sembilan Yin. Kemarahannya menimpa murid-murid yang tertinggal. Kaki mereka dihukumnya sampai cacat; rumah yang pernah ramai menjadi tempat yang bahkan kenangannya sendiri enggan didatangi.
+
+“Mereka mencuri kitab,” katanya, “tetapi yang mematahkan kaki murid-murid lain adalah aku. Jangan kauhaluskan itu untuk menghibur gurumu.”
+
+Cheng Ying menunduk. Ia belum pernah mendengar Huang Yaoshi menyebut kesalahannya selurus itu.
+
+“Ketika bertemu lagi, Chaofeng sudah kehilangan penglihatan dan suaminya. Aku masih membawa kemarahan lama. Lalu Ouyang Feng menyerangku ketika aku menghadapi orang-orang Quanzhen. Ia maju menerima pukulan yang ditujukan kepadaku.” Jemari Huang berhenti pada bibir cawan. “Pada akhirnya, yang dimintanya hanya diakui kembali sebagai murid.”
+
+“Guru menerimanya?”
+
+“Ya.” Jawaban itu hampir tak terdengar. “Terlambat untuk memberinya hari esok.”
+
+Cheng Ying meletakkan cawan kosong di tanah. Ia ingin mengatakan bahwa kakak seperguruannya tentu telah merasa tenteram, tetapi tidak tahu apakah itu benar. Karena itu ia hanya duduk menemani. Untuk pertama kalinya, sosok yang selama ini tampak dapat menertawakan seluruh dunia terlihat seperti seorang lelaki tua yang tidak mampu memperbaiki satu malam dalam hidupnya.
+
+“Aku tidak menyesali kasihku kepada istriku,” kata Huang sesudah lama terdiam. “Namun kasih yang pernah kuberikan tidak menghapus luka yang kubuat kepada orang lain. Chaofeng sudah mati. Murid-muridku tercerai. Menang dalam seratus pertarungan pun tidak mengembalikan mereka.”
+
+Dari dalam rumah, Dani bergerak dalam tidurnya dan memanggil Bibi Long. Cheng Ying spontan menoleh.
+
+Huang melihat gerakan itu. “Ying’er, jangan mengulangi kebodohanku. Kenalilah hatimu sebelum terlambat.”
+
+“Kalau orang yang kita cintai sudah memilih orang lain, Guru?”
+
+Tetua itu lama memandangnya. “Maka engkau harus mengakui kenyataan itu juga. Keberanian bukan berarti memaksa seseorang membalas.”
+
+Cheng Ying mengangguk. Ketika kembali membetulkan selimut Dani, ia tidak membangunkannya. Tangannya berhenti sesaat di tepi pembaringan, lalu menarik diri. Di luar, Huang Yaoshi menuangkan araknya ke tanah.
+
 Dua hari kemudian, Huang mengajari Dani dan Cheng Ying dasar Jentikan Jari Sakti serta Pedang Seruling Giok. Ia memakai ranting untuk menunjukkan sudut yang dapat mengurai lilitan kebut, lalu meminta keduanya mengulang perlahan. Dani cepat mengingat perubahan, tetapi belum mempunyai kekuatan jari ataupun ketepatan sang guru.
 
 “Engkau dapat mengucapkan nama seratus titik tubuh,” kata Huang, membetulkan pergelangannya. “Itu tidak berarti jarimu dapat mencapai satu saja ketika lawan bergerak.”
@@ -352,3 +396,4 @@ Daerba kembali memunguti buah. Jinlun mengangguk, puas memperoleh langkah pertam
 - Jarum Mu Nianci dan jubah jahitan Xiaolongnü tetap dibawa Dani. Cheng Ying menambal bagian lain setelah meminta izin. Dani membawa bambu potongan Wushuang, tanpa pedang tetap atau tunggangan baru.
 - Shagu mengungkap mekanisme kematian Kang Moan secara terbatas. Pertobatan Kang dan masa kebersamaannya sampai Dani lima tahun dipertahankan; tuduhan pembunuhan sengaja tetap kesimpulan Dani yang belum terbukti.
 - Li Mochou mundur dari Feng Mofeng; Shagu masih dirawat bersama kedua sepupu. Dani mengikuti Jinlun untuk menemui rombongan dengan batas terhadap penindasan rakyat. Kublai, Zhou Botong, dan lembah belum muncul.
+

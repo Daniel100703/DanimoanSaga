@@ -1,3 +1,5 @@
+> Koreksi 31 Oktober 2026: lihat `koreksi-kanon-2026-10-31.md`. Ci’en dapat melihat; istilah buta pada catatan lama adalah pembacaan yang telah dibatalkan. Urutan obat akhir Bab 22, profil wiki dan tambahan Bab 13 mengikuti catatan terbaru.
+
 # Kontinuitas Bab 22 — revisi 29 Oktober 2026
 
 Kabar Tianzhu dibunuh Li sudah diketahui sebelum Long’er merebut pil. Sesudah Li tewas, pemeriksaan terakhir menunjukkan Long’er belum dapat disembuhkan. Kematian tabib tidak dipindah menjadi serangan oleh Li yang sudah mati. Dua pedang Long’er dipinjam dari kedua Wu. Tidak ada kepastian keadaan Long’er sesudah melompat, tidak ada lompatan tujuh tahun.

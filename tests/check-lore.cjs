@@ -34,7 +34,7 @@ assert(beforeReveal.includes('bab-13-pembuka.webp'));assert(!beforeReveal.includ
 assert(afterReveal.includes('Cheng Ying'));assert(afterReveal.includes('bab-13-ilustrasi-03.webp'));
 assert(!afterReveal.includes('bab-02-ilustrasi-01.webp'));
 assert(!api.card(byId('shagu'),130042));assert(api.card(byId('shagu'),130043).includes('Shagu'));
-assert(!api.card(byId('feng-mofeng'),130088));assert(api.card(byId('feng-mofeng'),130089).includes('Feng Mofeng'));
+const fengKey=byId('feng-mofeng').stages[0].key;assert(!api.card(byId('feng-mofeng'),fengKey-1));assert(api.card(byId('feng-mofeng'),fengKey).includes('Feng Mofeng'));
 console.log('PASS: chapter 13 reveal boundary, adult portrait, new-character introduction gates.');
 
 // Regresi: pembaruan luka/lokasi sejak Bab 17 pernah menghilangkan tingkat dan ilmu.
@@ -79,8 +79,8 @@ assert(!api.stage(byId('jarum-perak'),needle-1).fields.Sasaran);
 assert(api.stage(byId('jarum-perak'),needle).fields.Sasaran.includes('Dani tidak terkena'));
 assert(!JSON.stringify(data).includes('Kaki kanan Dani dan bahu kiri'));
 const victory=keyAt(21,'Dani berdiri tegap dengan tangan kiri');
-assert(api.stage(dani,victory).summary.includes('meyakinkan'));
-assert(!api.stage(dani,victory-1).summary.includes('Mengalahkan Ci’en'));
+assert(api.stage(dani,victory).fields.Perkembangan.includes('meyakinkan'));
+assert(!api.stage(dani,victory-1).fields.Perkembangan.includes('Mengalahkan Ci’en'));
 assert(api.stage(byId('yideng'),victory).fields.Kondisi.includes('Terluka berat'));
 assert(api.stage(byId('yideng'),victory).fields['Ilmu yang terlihat'].includes('Tidak mengalihkan'));
 assert(api.stage(byId('cien'),keyAt(21,'“Aku kalah,” katanya serak.')).fields.Kondisi.includes('berhenti menyerang'));
@@ -91,7 +91,7 @@ const heDeath=keyAt(21,'Yideng berlutut di sisi korban.');
 assert(!api.stage(byId('he-shiwo'),heDeath-1).fields.Kondisi.includes('Tewas'));
 assert(api.stage(byId('he-shiwo'),heDeath).fields.Kondisi.includes('Tewas'));
 assert(api.stage(byId('huodu'),219999).fields.Kondisi.includes('Hidup'));
-assert(api.stage(byId('cien'),219999).fields.Kondisi.includes('buta'));
+assert(api.stage(byId('cien'),219999).fields.Kondisi.includes('dapat melihat'));
 assert(!byId('tetua-peng')&&!byId('pengemis-kurus'));
 const hongDeath=keyAt(21,'Hong tidak bergerak lagi.');
 assert(api.stage(byId('hong-lingbo'),hongDeath-1).fields.Kondisi.includes('Hidup'));
@@ -117,7 +117,7 @@ assert(api.stage(long,229999).fields.Pesan.includes('tujuh tahun'));
 const lie=keyAt(22,'Kisah itu lahir pada saat Huang Rong');
 assert(!api.stage(byId('biarawati-laut-selatan'),lie-1));
 assert(api.stage(byId('biarawati-laut-selatan'),lie).fields.Kepastian.includes('Tidak ada kedatangan'));
-assert(api.stage(dani,229999).fields.Kondisi.includes('mulai dilawan'));
+assert(api.stage(dani,229999).fields.Kondisi.includes('percobaan obat dimulai pada Bab 23'));
 assert(api.stage(dani,229999).fields.Batas.includes('Belum ada lompatan'));
 for(const e of data.entries.filter(e=>e.type==='tokoh')) assert(api.stage(e,229999).fields.Tingkat,e.id);
 // Evidence links always resolve to their exact sentence.
@@ -126,10 +126,10 @@ for(const e of data.entries) for(const kind of ['stages','relationships'])for(co
  assert.strictEqual(s.paragraph,`p-${String(s.chapter).padStart(2,'0')}-${String(n).padStart(3,'0')}`);
 }
 const migration=JSON.parse(fs.readFileSync(root+'edition-migration.json','utf8'));
-assert.strictEqual(migration.edition,'2026-10-29-canon');
-assert.strictEqual(migration.previousEdition,'2026-10-28-canon');
+assert.strictEqual(migration.edition,'2026-10-31-revisi');
+assert.strictEqual(migration.previousEdition,'2026-10-29-canon');
 for(const ch of [20,21,22])assert.strictEqual(migration.lengths[`bab-${ch}`],data.chapterLengths[ch]);
-assert.strictEqual(migration.previousMap['p-21-194'],`p-21-${data.chapterLengths[21]}`);
+assert.strictEqual(migration.editionMaps['2026-10-28-canon']['p-21-194'],`p-21-${data.chapterLengths[21]}`);
 for(const mapping of [migration.map,migration.previousMap,...Object.values(migration.editionMaps)])for(const id of Object.values(mapping)){
  const match=/^p-(\d+)-(\d+)$/.exec(id);assert(match,id);assert(Number(match[2])<=data.chapterLengths[Number(match[1])],id);
 }
@@ -138,3 +138,20 @@ assert.strictEqual(book.chapters.length,22);assert.strictEqual(book.chapters[21]
 assert(book.chapters[19].plates[0].image.file.includes('-v2'));
 assert(book.chapters[20].plates[0].image.file.includes('-v2'));
 console.log('PASS: canon corrections, single needle victim, snowman cause, decisive duel, rescue, death/reveal gates, exact evidence, six chapter 22 images and all migration editions.');
+
+// Every character has a numeric tier, a biography and a separate event record.
+for(const e of data.entries.filter(e=>e.type==='tokoh')) for(const s of e.stages){
+ assert(/^\d/.test(s.fields.Tingkat),`${e.id}: missing numeric tier`);
+ assert(s.summary.length>40,`${e.id}: biography missing`);
+}
+const meiKey=keyAt(13,'“Mei Chaofeng,” jawab Huang.');
+assert(!api.stage(byId('mei-chaofeng'),meiKey-1));assert(api.stage(byId('mei-chaofeng'),meiKey));
+const herbKey=keyAt(22,'Huang Rong menyerahkan bungkusan itu.');
+assert(!api.stage(dani,herbKey-1).fields.Kondisi.includes('percobaan obat'));
+assert(api.stage(dani,herbKey).fields.Kondisi.includes('percobaan obat'));
+assert(!api.stage(byId('rumput-patah-hati'),keyAt(22,'Huang Rong membuka sedikit kain')-1));
+assert(!JSON.stringify(byId('cien').stages).includes('Hidup, buta'));
+assert(paragraphs(22).findIndex(p=>p.includes('“Ia meminta aku datang,”'))<paragraphs(22).findIndex(p=>p.includes('“Sekarang dengarkanlah satu perkara lagi.')));
+assert(paragraphs(22).some(p=>p.includes('Xiaolongnü, istrimu, memohon perkenanmu, suamiku Dani Moan')));
+assert(!api.stage(dani,229999).fields.Tingkat.startsWith('5'));
+console.log('PASS: biographies, all numerical tiers, new backstory gates and corrected herb sequence.');

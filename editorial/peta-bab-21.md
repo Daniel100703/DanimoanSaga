@@ -1,3 +1,5 @@
+> Koreksi 31 Oktober 2026: lihat `koreksi-kanon-2026-10-31.md`. Ci’en dapat melihat; istilah buta pada catatan lama adalah pembacaan yang telah dibatalkan. Urutan obat akhir Bab 22, profil wiki dan tambahan Bab 13 mengikuti catatan terbaru.
+
 # Peta Bab 21 — Tujuh Hari
 
 Diselaraskan dengan koreksi penulis 29 Oktober 2026. Naskah telah ditulis; mengandung bocoran.

@@ -19,13 +19,17 @@ for ch in book['chapters']:
  assert len(ids)==lore['chapterLengths'][str(n)],n
  assert ids[-1]==f'p-{n:02}-{len(ids):03}',n
  assert 'Fanfiksi The Return of the Condor Heroes'in html,n
+ for cue in ch.get('musicCues',[]):
+  raw=(R/ch['source']).read_text().split('\n---\n')[0];assert raw.count(cue['anchor'])==1,(n,cue)
+  assert f'data-music-cue="{cue["mood"]}"' in html,(n,cue)
  for plate in ch['plates']:
   file=plate['image']['file']; expected=sum(x['image']['file']==file for x in ch['plates'])+int(ch['cover']['file']==file)
   assert sum(x['src'].split('?')[0]==file for x in a.images)==expected,(n,file)
  if n==22:
   assert len(a.images)==6
   assert 'bab-21.html'in a.links
-  assert 'p-22-331'in a.ids
+  assert 'Aku akan hidup, Long’er.' in html
+  assert 'Xiaolongnü, istrimu, memohon perkenanmu, suamiku Dani Moan' in html
  for im in [ch['cover']]+[x['image']for x in ch['plates']]:
   if n==22 or '-v2.'in im['file']:
    data=(R/im['file']).read_bytes();assert data[:4]==b'RIFF'and data[8:12]==b'WEBP',im['file']

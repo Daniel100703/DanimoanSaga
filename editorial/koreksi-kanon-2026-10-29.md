@@ -1,3 +1,5 @@
+> Koreksi 31 Oktober 2026: lihat `koreksi-kanon-2026-10-31.md`. Ci’en dapat melihat; istilah buta pada catatan lama adalah pembacaan yang telah dibatalkan. Urutan obat akhir Bab 22, profil wiki dan tambahan Bab 13 mengikuti catatan terbaru.
+
 # Ketentuan penulis — 29 Oktober 2026
 
 Arahan penulis pada tanggal ini menggantikan asumsi dalam catatan revisi 28 Oktober. Catatan AI tidak mempunyai wewenang mengubah kanon ataupun lore.

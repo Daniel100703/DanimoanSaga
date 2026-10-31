@@ -1,3 +1,5 @@
+> Koreksi 31 Oktober 2026: lihat `koreksi-kanon-2026-10-31.md`. Ci’en dapat melihat; istilah buta pada catatan lama adalah pembacaan yang telah dibatalkan. Urutan obat akhir Bab 22, profil wiki dan tambahan Bab 13 mengikuti catatan terbaru.
+
 # Visual Bab 21 — koreksi 29 Oktober 2026
 
 Tiga ilustrasi. Pembuka penyamaran dan penyelamatan kedua sepupu tetap memakai aset sebelumnya. Duel memakai `bab-21-ilustrasi-01-v2.webp`: Dani berdiri mantap, Xuantie di tangan kiri; Ci’en di bawah ujung pedang mengakui kekalahan, Yideng duduk terluka di belakang. Tidak ada campur tangan jari Yideng atau tangan kanan Dani. Potret kedua biksu dipotong ulang dari posisi wajah pada gambar baru; potret penyelamatan baru terbuka sesudah kedua sepupu selamat. PNG dikonversi ke WebP tanpa mengubah komposisi. Arahan: pertahankan wajah/pakaian bab terbit, tunjukkan kemenangan tegas Dani dengan pedang berat pipih, sisi kanan amputasi tertutup, Ci’en buta dan kalah, Yideng terlalu lemah untuk bangkit, suasana pondok bersalju. Dibuat dengan alat imagegen bawaan.

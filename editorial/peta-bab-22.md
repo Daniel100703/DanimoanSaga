@@ -1,3 +1,5 @@
+> Koreksi 31 Oktober 2026: lihat `koreksi-kanon-2026-10-31.md`. Ci’en dapat melihat; istilah buta pada catatan lama adalah pembacaan yang telah dibatalkan. Urutan obat akhir Bab 22, profil wiki dan tambahan Bab 13 mengikuti catatan terbaru.
+
 # Peta Bab 22 — Janji di Tebing Patah Hati
 
 Status: **cakupan dan penulisan diperintahkan penulis pada 29 Oktober 2026**. Peta lama yang berhenti setelah pembebasan tabib dibatalkan. Bab ini menuntaskan kunjungan kedua ke lembah sampai perpisahan Dani–Long’er dan janji tujuh tahun. Tidak ada batas jumlah kata; enam ilustrasi mengikuti titik penting. Peta mengandung bocoran.
@@ -8,7 +10,7 @@ Status: **cakupan dan penulisan diperintahkan penulis pada 29 Oktober 2026**. Pe
 - Babak XII poin 8–10: pertemuan Qiu–Ci’en, syarat penawar, petunjuk Lü’e, Tianzhu–Zhu Ziliu, serta kesediaan Long’er menerima pernikahan kedua.
 - Babak XII poin 11–14: Lü’e terbunuh oleh ayahnya, kedua orang tua tewas bersama, Li tewas dalam api, kemudian harapan pada tabib dinyatakan hilang.
 - Babak XIII poin 1–2: pesan tebing, perpisahan tujuh tahun, kebohongan Biarawati Laut Selatan oleh Huang Rong.
-- Sistem kekuatan: Dani tingkat 4 dengan Xuantie; Tapak Melankolis belum lahir. Ci’en buta menurut Character Matrix.
+- Sistem kekuatan: Dani tingkat 4 dengan Xuantie; Tapak Melankolis belum lahir. Ci’en dapat melihat; kebutaan dalam lore adalah kiasan dendam.
 
 ## Lima rangkaian adegan
 
@@ -22,7 +24,7 @@ Status: **cakupan dan penulisan diperintahkan penulis pada 29 Oktober 2026**. Pe
 
 ## Adaptasi yang dinyatakan
 
-Nama Dani, Polu, usia, sisi amputasi, Ci’en buta dan tujuh tahun mengikuti lore. Kabar kematian Tianzhu sampai sebelum Long’er merebut penawar dan Dani membuangnya, sehingga keputusan di tebing mempunyai sebab yang jelas. Sesudah akhir Li, pemeriksaan Yideng menegaskan hilangnya harapan pengobatan Long’er. Tianzhu terbunuh ketika Li masih hidup. Peristiwa lain mengikuti sebab-akibat kanon yang sudah diperiksa. Dialog memakai kalimat baru dengan fungsi kanon, bukan kutipan panjang transkrip.
+Nama Dani, Polu, usia, sisi amputasi, Ci’en yang dikuasai dendam dan tujuh tahun mengikuti lore. Kabar kematian Tianzhu sampai sebelum Long’er merebut penawar dan Dani membuangnya, sehingga keputusan di tebing mempunyai sebab yang jelas. Sesudah akhir Li, pemeriksaan Yideng menegaskan hilangnya harapan pengobatan Long’er. Tianzhu terbunuh ketika Li masih hidup. Peristiwa lain mengikuti sebab-akibat kanon yang sudah diperiksa. Dialog memakai kalimat baru dengan fungsi kanon, bukan kutipan panjang transkrip.
 
 ## Enam ilustrasi
 

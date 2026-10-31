@@ -1,3 +1,5 @@
+> Koreksi 31 Oktober 2026: lihat `koreksi-kanon-2026-10-31.md`. Ci’en dapat melihat; istilah buta pada catatan lama adalah pembacaan yang telah dibatalkan. Urutan obat akhir Bab 22, profil wiki dan tambahan Bab 13 mengikuti catatan terbaru.
+
 # Bab 13 — Bayang Ayah, Benih Dendam
 
 Peta disetujui penulis sebelum penulisan. Sumber utama: Lorebook Jalur A, Babak VII.5 poin 8–14, Character Matrix H, dan instruksi v4; koreksi percakapan terbaru tentang emosi, sapaan, serta kartu menjadi pedoman tambahan. Prosa asli mengikuti peta yang disetujui, bukan salinan terjemahan kanon.

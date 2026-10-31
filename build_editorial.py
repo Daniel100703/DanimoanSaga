@@ -26,6 +26,7 @@ def render_one(number, status, published=False):
  doc='<!doctype html><html lang="id"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Peta Bab '+str(number)+' — Saga Dani Moan</title><link rel="icon" href="favicon.svg"><link rel="stylesheet" href="reader.css?v=20261028fanfic"><style>'+css+'</style></head><body><main><a href="index.html">← Kembali ke novel</a><p class="status">'+status+'</p>'+chapter_link+''+''.join(parts)+'</main></body></html>'
  (B/f'peta-bab-{number}.html').write_text(doc)
 def render():
+ render_one(23, 'PETA KERJA · BAB 23 BELUM DITULIS · MENGANDUNG BOCORAN')
  render_one(11, 'PETA DISETUJUI · BAB 11 TELAH TERBIT', True)
  render_one(12, 'PETA DISETUJUI · BAB 12 TELAH TERBIT · MENGANDUNG BOCORAN', True)
  render_one(13, 'PETA DISETUJUI · BAB 13 TELAH TERBIT · MENGANDUNG BOCORAN', True)
